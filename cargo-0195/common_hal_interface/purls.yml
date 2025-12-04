@@ -1,7 +1,13 @@
 - pkg:cargo/common_hal_interface@1.0.0-alpha
 - pkg:cargo/common_hal_interface@1.0.1-alpha
+- pkg:cargo/common_hal_interface@1.0.10-alpha
+- pkg:cargo/common_hal_interface@1.0.11-alpha
+- pkg:cargo/common_hal_interface@1.0.12-alpha
 - pkg:cargo/common_hal_interface@1.0.2-alpha
 - pkg:cargo/common_hal_interface@1.0.3-alpha
 - pkg:cargo/common_hal_interface@1.0.4-alpha
 - pkg:cargo/common_hal_interface@1.0.5-alpha
 - pkg:cargo/common_hal_interface@1.0.6-alpha
+- pkg:cargo/common_hal_interface@1.0.7-alpha
+- pkg:cargo/common_hal_interface@1.0.8-alpha
+- pkg:cargo/common_hal_interface@1.0.9-alpha
