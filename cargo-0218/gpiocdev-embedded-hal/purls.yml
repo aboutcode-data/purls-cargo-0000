@@ -1,0 +1,4 @@
+- pkg:cargo/gpiocdev-embedded-hal@0.1.0
+- pkg:cargo/gpiocdev-embedded-hal@0.1.1
+- pkg:cargo/gpiocdev-embedded-hal@0.1.2
+- pkg:cargo/gpiocdev-embedded-hal@0.1.3

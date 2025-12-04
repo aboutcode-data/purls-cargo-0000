@@ -1,0 +1,2 @@
+- pkg:cargo/revm-rwasm-primitives@20.0.0
+- pkg:cargo/revm-rwasm-primitives@20.0.1
