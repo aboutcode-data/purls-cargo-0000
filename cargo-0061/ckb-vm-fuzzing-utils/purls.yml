@@ -1,0 +1,5 @@
+- pkg:cargo/ckb-vm-fuzzing-utils@0.202.0
+- pkg:cargo/ckb-vm-fuzzing-utils@0.202.1
+- pkg:cargo/ckb-vm-fuzzing-utils@0.203.0
+- pkg:cargo/ckb-vm-fuzzing-utils@0.203.0-rc3
+- pkg:cargo/ckb-vm-fuzzing-utils@1.0.0

@@ -1,0 +1,5 @@
+- pkg:cargo/v-storage@0.1.0
+- pkg:cargo/v-storage@0.1.1
+- pkg:cargo/v-storage@0.1.2
+- pkg:cargo/v-storage@0.2.0-heed
+- pkg:cargo/v-storage@0.3.0-heed%2Bmdbx
