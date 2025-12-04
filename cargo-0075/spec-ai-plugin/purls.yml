@@ -1,0 +1,5 @@
+- pkg:cargo/spec-ai-plugin@0.4.15
+- pkg:cargo/spec-ai-plugin@0.4.16
+- pkg:cargo/spec-ai-plugin@0.5.1-rc
+- pkg:cargo/spec-ai-plugin@0.6.0-prerelease
+- pkg:cargo/spec-ai-plugin@0.6.0-prerelease.1
