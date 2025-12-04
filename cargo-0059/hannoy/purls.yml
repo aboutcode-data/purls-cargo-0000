@@ -9,3 +9,4 @@
 - pkg:cargo/hannoy@0.0.9-nested-rtxns
 - pkg:cargo/hannoy@0.0.9-nested-rtxns-2
 - pkg:cargo/hannoy@0.1.0
+- pkg:cargo/hannoy@0.1.0-nested-rtxns
