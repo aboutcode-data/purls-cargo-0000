@@ -10,4 +10,6 @@
 - pkg:cargo/agentfs-sdk@0.2.0-pre.3
 - pkg:cargo/agentfs-sdk@0.2.0-pre.5
 - pkg:cargo/agentfs-sdk@0.2.0-pre.6
+- pkg:cargo/agentfs-sdk@0.2.1
 - pkg:cargo/agentfs-sdk@0.2.1-pre.1
+- pkg:cargo/agentfs-sdk@0.2.1-pre.2
