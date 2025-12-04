@@ -1,0 +1,4 @@
+- pkg:cargo/wasm_split_cli_support@0.2.0
+- pkg:cargo/wasm_split_cli_support@0.2.0-rc.0
+- pkg:cargo/wasm_split_cli_support@0.2.0-rc.1
+- pkg:cargo/wasm_split_cli_support@0.2.0-rc.2

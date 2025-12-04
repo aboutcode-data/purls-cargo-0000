@@ -1,0 +1,6 @@
+- pkg:cargo/derive_aliases_proc_macro@0.3.0
+- pkg:cargo/derive_aliases_proc_macro@0.3.1
+- pkg:cargo/derive_aliases_proc_macro@0.4.0
+- pkg:cargo/derive_aliases_proc_macro@0.4.1
+- pkg:cargo/derive_aliases_proc_macro@0.4.2
+- pkg:cargo/derive_aliases_proc_macro@0.4.7
