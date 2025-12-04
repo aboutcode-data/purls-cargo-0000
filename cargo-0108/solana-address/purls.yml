@@ -1,0 +1,4 @@
+- pkg:cargo/solana-address@0.0.0
+- pkg:cargo/solana-address@1.0.0
+- pkg:cargo/solana-address@1.1.0
+- pkg:cargo/solana-address@2.0.0

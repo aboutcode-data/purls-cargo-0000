@@ -1,0 +1,3 @@
+- pkg:cargo/solana-program-log@0.0.0
+- pkg:cargo/solana-program-log@1.0.0
+- pkg:cargo/solana-program-log@1.0.1
