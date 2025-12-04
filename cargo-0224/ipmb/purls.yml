@@ -11,3 +11,4 @@
 - pkg:cargo/ipmb@0.8.2
 - pkg:cargo/ipmb@0.8.3
 - pkg:cargo/ipmb@0.8.4
+- pkg:cargo/ipmb@0.8.5-20251204
