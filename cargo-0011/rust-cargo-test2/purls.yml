@@ -1,0 +1,5 @@
+- pkg:cargo/rust-cargo-test2@0.0.1
+- pkg:cargo/rust-cargo-test2@0.0.2%2B20240102
+- pkg:cargo/rust-cargo-test2@0.1.0
+- pkg:cargo/rust-cargo-test2@0.1.0-beta
+- pkg:cargo/rust-cargo-test2@0.1.1
