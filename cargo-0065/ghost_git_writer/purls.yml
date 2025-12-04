@@ -6,6 +6,7 @@
 - pkg:cargo/ghost_git_writer@0.15.1
 - pkg:cargo/ghost_git_writer@0.17.0
 - pkg:cargo/ghost_git_writer@0.18.0
+- pkg:cargo/ghost_git_writer@0.18.1
 - pkg:cargo/ghost_git_writer@0.8.2
 - pkg:cargo/ghost_git_writer@0.8.3
 - pkg:cargo/ghost_git_writer@0.9.1

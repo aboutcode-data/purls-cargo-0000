@@ -9,3 +9,4 @@
 - pkg:cargo/excelstream@0.4.3
 - pkg:cargo/excelstream@0.4.4
 - pkg:cargo/excelstream@0.4.5
+- pkg:cargo/excelstream@0.5.0
