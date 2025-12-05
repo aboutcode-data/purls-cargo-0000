@@ -9,6 +9,7 @@
 - pkg:cargo/graphrs@0.11.12
 - pkg:cargo/graphrs@0.11.13
 - pkg:cargo/graphrs@0.11.14
+- pkg:cargo/graphrs@0.11.15
 - pkg:cargo/graphrs@0.11.2
 - pkg:cargo/graphrs@0.11.3
 - pkg:cargo/graphrs@0.11.4
