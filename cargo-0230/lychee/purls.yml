@@ -24,6 +24,7 @@
 - pkg:cargo/lychee@0.20.0
 - pkg:cargo/lychee@0.20.1
 - pkg:cargo/lychee@0.21.0
+- pkg:cargo/lychee@0.22.0
 - pkg:cargo/lychee@0.3.0
 - pkg:cargo/lychee@0.4.0
 - pkg:cargo/lychee@0.4.1
