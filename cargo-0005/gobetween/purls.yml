@@ -25,6 +25,7 @@
 - pkg:cargo/gobetween@0.5.30
 - pkg:cargo/gobetween@0.5.31
 - pkg:cargo/gobetween@0.5.32
+- pkg:cargo/gobetween@0.5.33
 - pkg:cargo/gobetween@0.5.4
 - pkg:cargo/gobetween@0.5.5
 - pkg:cargo/gobetween@0.5.6
