@@ -1,1 +1,2 @@
 - pkg:cargo/librust-winrm@0.1.0
+- pkg:cargo/librust-winrm@0.1.1

@@ -20,3 +20,4 @@
 - pkg:cargo/neon-macros@1.1.0-alpha.1
 - pkg:cargo/neon-macros@1.1.0-alpha.2
 - pkg:cargo/neon-macros@1.1.1
+- pkg:cargo/neon-macros@1.2.0-alpha.0
