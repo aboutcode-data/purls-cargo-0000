@@ -1,3 +1,5 @@
 - pkg:cargo/kodegen_bash_shell@0.5.0
 - pkg:cargo/kodegen_bash_shell@0.5.1
 - pkg:cargo/kodegen_bash_shell@0.6.0
+- pkg:cargo/kodegen_bash_shell@0.7.0
+- pkg:cargo/kodegen_bash_shell@0.8.0

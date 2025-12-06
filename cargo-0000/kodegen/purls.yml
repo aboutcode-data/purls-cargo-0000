@@ -27,3 +27,6 @@
 - pkg:cargo/kodegen@0.5.8
 - pkg:cargo/kodegen@0.6.0
 - pkg:cargo/kodegen@0.6.1
+- pkg:cargo/kodegen@0.8.0
+- pkg:cargo/kodegen@0.8.1
+- pkg:cargo/kodegen@0.8.2
