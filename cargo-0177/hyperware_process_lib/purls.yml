@@ -10,3 +10,5 @@
 - pkg:cargo/hyperware_process_lib@2.1.0
 - pkg:cargo/hyperware_process_lib@2.2.0
 - pkg:cargo/hyperware_process_lib@2.3.0
+- pkg:cargo/hyperware_process_lib@2.3.1
+- pkg:cargo/hyperware_process_lib@3.0.0
