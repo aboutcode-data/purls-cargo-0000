@@ -74,6 +74,7 @@
 - pkg:cargo/mzdata@0.63.0
 - pkg:cargo/mzdata@0.63.1
 - pkg:cargo/mzdata@0.63.2
+- pkg:cargo/mzdata@0.63.3
 - pkg:cargo/mzdata@0.7.0
 - pkg:cargo/mzdata@0.8.0
 - pkg:cargo/mzdata@0.9.0
