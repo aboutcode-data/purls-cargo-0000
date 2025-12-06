@@ -47,6 +47,7 @@
 - pkg:cargo/s2json@1.42.0
 - pkg:cargo/s2json@1.43.0
 - pkg:cargo/s2json@1.44.0
+- pkg:cargo/s2json@1.45.0
 - pkg:cargo/s2json@1.5.0
 - pkg:cargo/s2json@1.5.1
 - pkg:cargo/s2json@1.5.2
