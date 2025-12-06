@@ -181,3 +181,4 @@
 - pkg:cargo/vsdb@6.0.0
 - pkg:cargo/vsdb@6.1.0
 - pkg:cargo/vsdb@7.0.0
+- pkg:cargo/vsdb@7.1.0
