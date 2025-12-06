@@ -1,1 +1,2 @@
 - pkg:cargo/axum_responses_macros@0.1.0
+- pkg:cargo/axum_responses_macros@0.1.1
