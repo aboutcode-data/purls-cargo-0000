@@ -10,3 +10,4 @@
 - pkg:cargo/polymesh-api-client-extras@3.4.2
 - pkg:cargo/polymesh-api-client-extras@3.5.0
 - pkg:cargo/polymesh-api-client-extras@3.6.0
+- pkg:cargo/polymesh-api-client-extras@3.6.1
