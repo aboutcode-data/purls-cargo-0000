@@ -18,3 +18,4 @@
 - pkg:cargo/pyinrs@1.8.1
 - pkg:cargo/pyinrs@1.9.0
 - pkg:cargo/pyinrs@1.9.2
+- pkg:cargo/pyinrs@1.9.3
