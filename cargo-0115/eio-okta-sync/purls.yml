@@ -12,3 +12,4 @@
 - pkg:cargo/eio-okta-sync@0.5.3
 - pkg:cargo/eio-okta-sync@0.6.0
 - pkg:cargo/eio-okta-sync@0.7.0
+- pkg:cargo/eio-okta-sync@0.7.1
