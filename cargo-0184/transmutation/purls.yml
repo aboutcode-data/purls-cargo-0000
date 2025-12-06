@@ -1,2 +1,4 @@
 - pkg:cargo/transmutation@0.1.2
 - pkg:cargo/transmutation@0.2.0
+- pkg:cargo/transmutation@0.3.0
+- pkg:cargo/transmutation@0.3.1
