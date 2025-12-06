@@ -39,6 +39,7 @@
 - pkg:cargo/emit_batcher@1.12.0
 - pkg:cargo/emit_batcher@1.13.0
 - pkg:cargo/emit_batcher@1.13.1
+- pkg:cargo/emit_batcher@1.14.0
 - pkg:cargo/emit_batcher@1.2.0
 - pkg:cargo/emit_batcher@1.3.0
 - pkg:cargo/emit_batcher@1.3.1
