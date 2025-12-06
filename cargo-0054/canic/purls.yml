@@ -68,3 +68,4 @@
 - pkg:cargo/canic@0.5.1
 - pkg:cargo/canic@0.5.2
 - pkg:cargo/canic@0.5.3
+- pkg:cargo/canic@0.5.4
