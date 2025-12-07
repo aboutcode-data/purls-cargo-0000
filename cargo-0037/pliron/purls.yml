@@ -8,6 +8,7 @@
 - pkg:cargo/pliron@0.1.7
 - pkg:cargo/pliron@0.10.0
 - pkg:cargo/pliron@0.11.0
+- pkg:cargo/pliron@0.12.0
 - pkg:cargo/pliron@0.2.0
 - pkg:cargo/pliron@0.3.0
 - pkg:cargo/pliron@0.3.1
