@@ -17,3 +17,4 @@
 - pkg:cargo/betfair-rpc-server-mock@0.6.5
 - pkg:cargo/betfair-rpc-server-mock@0.6.6
 - pkg:cargo/betfair-rpc-server-mock@0.6.7
+- pkg:cargo/betfair-rpc-server-mock@0.6.8
