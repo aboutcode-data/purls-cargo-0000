@@ -26,3 +26,4 @@
 - pkg:cargo/transforms@0.5.1
 - pkg:cargo/transforms@1.0.0
 - pkg:cargo/transforms@1.0.1
+- pkg:cargo/transforms@1.0.3
