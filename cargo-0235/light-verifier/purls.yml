@@ -15,3 +15,4 @@
 - pkg:cargo/light-verifier@3.0.0
 - pkg:cargo/light-verifier@4.0.0
 - pkg:cargo/light-verifier@5.0.0
+- pkg:cargo/light-verifier@6.0.0
