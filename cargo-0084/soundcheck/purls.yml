@@ -25,3 +25,4 @@
 - pkg:cargo/soundcheck@0.0.7
 - pkg:cargo/soundcheck@0.0.8
 - pkg:cargo/soundcheck@0.0.9
+- pkg:cargo/soundcheck@1.0.0
