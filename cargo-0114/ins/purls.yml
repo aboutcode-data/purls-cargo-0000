@@ -14,6 +14,8 @@
 - pkg:cargo/ins@0.10.0
 - pkg:cargo/ins@0.10.1
 - pkg:cargo/ins@0.10.2
+- pkg:cargo/ins@0.10.3
+- pkg:cargo/ins@0.10.4
 - pkg:cargo/ins@0.2.0
 - pkg:cargo/ins@0.2.1
 - pkg:cargo/ins@0.2.10
