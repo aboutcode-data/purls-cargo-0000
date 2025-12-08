@@ -15,6 +15,7 @@
 - pkg:cargo/phper@0.16.1
 - pkg:cargo/phper@0.17.0
 - pkg:cargo/phper@0.17.1
+- pkg:cargo/phper@0.17.2
 - pkg:cargo/phper@0.2.0
 - pkg:cargo/phper@0.2.0-alpha.1
 - pkg:cargo/phper@0.2.0-alpha.2
