@@ -19,6 +19,7 @@
 - pkg:cargo/xcm-simulator-example@22.0.0
 - pkg:cargo/xcm-simulator-example@23.0.0
 - pkg:cargo/xcm-simulator-example@24.0.0
+- pkg:cargo/xcm-simulator-example@25.0.0
 - pkg:cargo/xcm-simulator-example@3.0.0
 - pkg:cargo/xcm-simulator-example@3.0.0-dev.1
 - pkg:cargo/xcm-simulator-example@4.0.0
