@@ -43,6 +43,7 @@
 - pkg:cargo/debian-analyzer@0.159.4
 - pkg:cargo/debian-analyzer@0.160.0
 - pkg:cargo/debian-analyzer@0.160.1
+- pkg:cargo/debian-analyzer@0.160.10
 - pkg:cargo/debian-analyzer@0.160.2
 - pkg:cargo/debian-analyzer@0.160.3
 - pkg:cargo/debian-analyzer@0.160.4
