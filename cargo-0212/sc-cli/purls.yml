@@ -51,6 +51,7 @@
 - pkg:cargo/sc-cli@0.53.1
 - pkg:cargo/sc-cli@0.54.0
 - pkg:cargo/sc-cli@0.55.0
+- pkg:cargo/sc-cli@0.56.0
 - pkg:cargo/sc-cli@0.8.0
 - pkg:cargo/sc-cli@0.8.0-alpha.3
 - pkg:cargo/sc-cli@0.8.0-alpha.5
