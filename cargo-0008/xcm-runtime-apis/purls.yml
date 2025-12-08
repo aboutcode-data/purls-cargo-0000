@@ -1,5 +1,6 @@
 - pkg:cargo/xcm-runtime-apis@0.0.0
 - pkg:cargo/xcm-runtime-apis@0.10.0
+- pkg:cargo/xcm-runtime-apis@0.11.0
 - pkg:cargo/xcm-runtime-apis@0.2.0
 - pkg:cargo/xcm-runtime-apis@0.3.0
 - pkg:cargo/xcm-runtime-apis@0.3.1
