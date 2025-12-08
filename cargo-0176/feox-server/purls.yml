@@ -8,3 +8,4 @@
 - pkg:cargo/feox-server@0.5.2
 - pkg:cargo/feox-server@0.6.0
 - pkg:cargo/feox-server@0.6.1
+- pkg:cargo/feox-server@0.7.0
