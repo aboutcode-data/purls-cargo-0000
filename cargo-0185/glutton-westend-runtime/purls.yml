@@ -13,6 +13,7 @@
 - pkg:cargo/glutton-westend-runtime@2.0.0
 - pkg:cargo/glutton-westend-runtime@20.0.0
 - pkg:cargo/glutton-westend-runtime@21.0.0
+- pkg:cargo/glutton-westend-runtime@22.0.0
 - pkg:cargo/glutton-westend-runtime@3.0.0
 - pkg:cargo/glutton-westend-runtime@4.0.0
 - pkg:cargo/glutton-westend-runtime@5.0.0
