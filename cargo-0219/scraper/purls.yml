@@ -21,6 +21,7 @@
 - pkg:cargo/scraper@0.23.0
 - pkg:cargo/scraper@0.23.1
 - pkg:cargo/scraper@0.24.0
+- pkg:cargo/scraper@0.25.0
 - pkg:cargo/scraper@0.3.0
 - pkg:cargo/scraper@0.3.1
 - pkg:cargo/scraper@0.4.0
