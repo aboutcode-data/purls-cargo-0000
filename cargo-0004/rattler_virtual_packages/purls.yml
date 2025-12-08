@@ -106,3 +106,4 @@
 - pkg:cargo/rattler_virtual_packages@2.3.0
 - pkg:cargo/rattler_virtual_packages@2.3.1
 - pkg:cargo/rattler_virtual_packages@2.3.2
+- pkg:cargo/rattler_virtual_packages@2.3.3

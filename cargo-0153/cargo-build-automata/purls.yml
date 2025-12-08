@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-build-automata@1.0.0
+- pkg:cargo/cargo-build-automata@1.0.1
