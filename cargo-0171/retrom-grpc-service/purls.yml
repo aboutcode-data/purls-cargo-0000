@@ -1,1 +1,2 @@
 - pkg:cargo/retrom-grpc-service@0.7.45
+- pkg:cargo/retrom-grpc-service@0.7.46
