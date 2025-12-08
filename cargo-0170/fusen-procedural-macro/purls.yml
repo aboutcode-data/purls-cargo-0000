@@ -12,6 +12,7 @@
 - pkg:cargo/fusen-procedural-macro@0.8.0
 - pkg:cargo/fusen-procedural-macro@0.8.1
 - pkg:cargo/fusen-procedural-macro@0.8.10
+- pkg:cargo/fusen-procedural-macro@0.8.11
 - pkg:cargo/fusen-procedural-macro@0.8.5
 - pkg:cargo/fusen-procedural-macro@0.8.6
 - pkg:cargo/fusen-procedural-macro@0.8.8
