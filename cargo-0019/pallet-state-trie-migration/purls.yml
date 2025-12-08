@@ -43,6 +43,7 @@
 - pkg:cargo/pallet-state-trie-migration@46.0.0
 - pkg:cargo/pallet-state-trie-migration@47.0.0
 - pkg:cargo/pallet-state-trie-migration@48.0.0
+- pkg:cargo/pallet-state-trie-migration@49.0.0
 - pkg:cargo/pallet-state-trie-migration@5.0.0
 - pkg:cargo/pallet-state-trie-migration@6.0.0
 - pkg:cargo/pallet-state-trie-migration@7.0.0
