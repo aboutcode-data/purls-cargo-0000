@@ -25,6 +25,7 @@
 - pkg:cargo/cumulus-pallet-parachain-system@0.22.1
 - pkg:cargo/cumulus-pallet-parachain-system@0.23.0
 - pkg:cargo/cumulus-pallet-parachain-system@0.23.1
+- pkg:cargo/cumulus-pallet-parachain-system@0.24.0
 - pkg:cargo/cumulus-pallet-parachain-system@0.3.0
 - pkg:cargo/cumulus-pallet-parachain-system@0.3.0-dev.1
 - pkg:cargo/cumulus-pallet-parachain-system@0.3.1
