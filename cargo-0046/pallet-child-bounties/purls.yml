@@ -39,6 +39,7 @@
 - pkg:cargo/pallet-child-bounties@40.0.0
 - pkg:cargo/pallet-child-bounties@41.0.0
 - pkg:cargo/pallet-child-bounties@42.0.0
+- pkg:cargo/pallet-child-bounties@43.0.0
 - pkg:cargo/pallet-child-bounties@5.0.0
 - pkg:cargo/pallet-child-bounties@6.0.0
 - pkg:cargo/pallet-child-bounties@7.0.0
