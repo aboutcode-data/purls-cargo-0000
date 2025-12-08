@@ -42,6 +42,7 @@
 - pkg:cargo/pallet-beefy@42.0.0
 - pkg:cargo/pallet-beefy@43.0.0
 - pkg:cargo/pallet-beefy@44.0.0
+- pkg:cargo/pallet-beefy@45.0.0
 - pkg:cargo/pallet-beefy@5.0.0
 - pkg:cargo/pallet-beefy@6.0.0
 - pkg:cargo/pallet-beefy@7.0.0

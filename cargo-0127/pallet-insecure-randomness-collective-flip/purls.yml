@@ -22,6 +22,7 @@
 - pkg:cargo/pallet-insecure-randomness-collective-flip@29.0.0
 - pkg:cargo/pallet-insecure-randomness-collective-flip@30.0.0
 - pkg:cargo/pallet-insecure-randomness-collective-flip@31.0.0
+- pkg:cargo/pallet-insecure-randomness-collective-flip@32.0.0
 - pkg:cargo/pallet-insecure-randomness-collective-flip@4.0.0
 - pkg:cargo/pallet-insecure-randomness-collective-flip@5.0.0
 - pkg:cargo/pallet-insecure-randomness-collective-flip@6.0.0

@@ -54,6 +54,7 @@
 - pkg:cargo/pallet-session@41.0.0
 - pkg:cargo/pallet-session@42.0.0
 - pkg:cargo/pallet-session@43.0.0
+- pkg:cargo/pallet-session@44.0.0
 - pkg:cargo/pallet-session@5.0.0
 - pkg:cargo/pallet-session@6.0.0
 - pkg:cargo/pallet-session@7.0.0

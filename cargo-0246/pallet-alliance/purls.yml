@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-alliance@40.0.0
 - pkg:cargo/pallet-alliance@41.0.0
 - pkg:cargo/pallet-alliance@42.0.0
+- pkg:cargo/pallet-alliance@43.0.0
 - pkg:cargo/pallet-alliance@5.0.0
 - pkg:cargo/pallet-alliance@6.0.0
 - pkg:cargo/pallet-alliance@7.0.0

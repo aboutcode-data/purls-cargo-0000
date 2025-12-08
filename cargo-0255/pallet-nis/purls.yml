@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-nis@41.0.0
 - pkg:cargo/pallet-nis@42.0.0
 - pkg:cargo/pallet-nis@43.0.0
+- pkg:cargo/pallet-nis@44.0.0
 - pkg:cargo/pallet-nis@5.0.0
 - pkg:cargo/pallet-nis@6.0.0
 - pkg:cargo/pallet-nis@7.0.0

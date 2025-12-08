@@ -45,6 +45,7 @@
 - pkg:cargo/pallet-atomic-swap@41.0.0
 - pkg:cargo/pallet-atomic-swap@42.0.0
 - pkg:cargo/pallet-atomic-swap@43.0.0
+- pkg:cargo/pallet-atomic-swap@44.0.0
 - pkg:cargo/pallet-atomic-swap@5.0.0
 - pkg:cargo/pallet-atomic-swap@6.0.0
 - pkg:cargo/pallet-atomic-swap@7.0.0
