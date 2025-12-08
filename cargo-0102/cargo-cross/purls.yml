@@ -29,3 +29,6 @@
 - pkg:cargo/cargo-cross@1.2.0
 - pkg:cargo/cargo-cross@1.2.1
 - pkg:cargo/cargo-cross@1.2.2
+- pkg:cargo/cargo-cross@1.2.3
+- pkg:cargo/cargo-cross@1.2.4
+- pkg:cargo/cargo-cross@1.2.5
