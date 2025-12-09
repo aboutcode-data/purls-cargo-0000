@@ -36,6 +36,7 @@
 - pkg:cargo/spacetimedb-bindings-macro@1.1.1
 - pkg:cargo/spacetimedb-bindings-macro@1.1.2
 - pkg:cargo/spacetimedb-bindings-macro@1.10.0
+- pkg:cargo/spacetimedb-bindings-macro@1.11.0
 - pkg:cargo/spacetimedb-bindings-macro@1.2.0
 - pkg:cargo/spacetimedb-bindings-macro@1.3.0
 - pkg:cargo/spacetimedb-bindings-macro@1.3.2
