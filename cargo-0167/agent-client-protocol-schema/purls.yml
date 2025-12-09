@@ -1,4 +1,5 @@
 - pkg:cargo/agent-client-protocol-schema@0.10.0
+- pkg:cargo/agent-client-protocol-schema@0.10.1
 - pkg:cargo/agent-client-protocol-schema@0.4.10
 - pkg:cargo/agent-client-protocol-schema@0.4.11
 - pkg:cargo/agent-client-protocol-schema@0.4.6
