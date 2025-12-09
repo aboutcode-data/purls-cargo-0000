@@ -21,6 +21,9 @@
 - pkg:cargo/hyperlane@10.13.3
 - pkg:cargo/hyperlane@10.13.4
 - pkg:cargo/hyperlane@10.14.0
+- pkg:cargo/hyperlane@10.14.1
+- pkg:cargo/hyperlane@10.14.2
+- pkg:cargo/hyperlane@10.14.3
 - pkg:cargo/hyperlane@10.2.0
 - pkg:cargo/hyperlane@10.2.1
 - pkg:cargo/hyperlane@10.2.2

@@ -68,3 +68,4 @@
 - pkg:cargo/cedar-policy@4.7.1
 - pkg:cargo/cedar-policy@4.8.0
 - pkg:cargo/cedar-policy@4.8.1
+- pkg:cargo/cedar-policy@4.8.2

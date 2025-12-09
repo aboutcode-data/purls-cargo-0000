@@ -59,3 +59,4 @@
 - pkg:cargo/color-output@7.2.9
 - pkg:cargo/color-output@8.0.0
 - pkg:cargo/color-output@8.1.0
+- pkg:cargo/color-output@8.1.1
