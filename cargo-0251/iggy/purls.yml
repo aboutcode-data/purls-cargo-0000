@@ -146,6 +146,7 @@
 - pkg:cargo/iggy@0.7.0
 - pkg:cargo/iggy@0.7.0-edge.1
 - pkg:cargo/iggy@0.7.0-edge.2
+- pkg:cargo/iggy@0.8.0
 - pkg:cargo/iggy@0.8.0-edge.1
 - pkg:cargo/iggy@0.8.0-edge.2
 - pkg:cargo/iggy@0.8.0-edge.3
