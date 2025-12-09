@@ -1,3 +1,4 @@
 - pkg:cargo/compact-encoding@1.0.0
 - pkg:cargo/compact-encoding@1.1.0
 - pkg:cargo/compact-encoding@2.0.0
+- pkg:cargo/compact-encoding@2.1.0

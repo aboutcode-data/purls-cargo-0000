@@ -74,6 +74,7 @@
 - pkg:cargo/aegis-cli@1.3.60
 - pkg:cargo/aegis-cli@1.3.61
 - pkg:cargo/aegis-cli@1.3.62
+- pkg:cargo/aegis-cli@1.3.63
 - pkg:cargo/aegis-cli@1.3.7
 - pkg:cargo/aegis-cli@1.3.8
 - pkg:cargo/aegis-cli@1.3.9
