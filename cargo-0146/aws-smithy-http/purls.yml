@@ -66,3 +66,4 @@
 - pkg:cargo/aws-smithy-http@0.62.3
 - pkg:cargo/aws-smithy-http@0.62.4
 - pkg:cargo/aws-smithy-http@0.62.5
+- pkg:cargo/aws-smithy-http@0.62.6
