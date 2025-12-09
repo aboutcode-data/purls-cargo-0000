@@ -2,3 +2,4 @@
 - pkg:cargo/pgschema@0.1.139
 - pkg:cargo/pgschema@0.1.142
 - pkg:cargo/pgschema@0.1.143
+- pkg:cargo/pgschema@0.1.145
