@@ -13,3 +13,4 @@
 - pkg:cargo/singlestage@0.3.7
 - pkg:cargo/singlestage@0.3.8
 - pkg:cargo/singlestage@0.3.9
+- pkg:cargo/singlestage@0.4.0
