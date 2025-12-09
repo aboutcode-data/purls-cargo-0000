@@ -18,3 +18,4 @@
 - pkg:cargo/ddapi-rs@0.8.1
 - pkg:cargo/ddapi-rs@0.9.0
 - pkg:cargo/ddapi-rs@0.9.1
+- pkg:cargo/ddapi-rs@0.9.3
