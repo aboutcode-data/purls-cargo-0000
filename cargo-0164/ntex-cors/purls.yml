@@ -6,4 +6,5 @@
 - pkg:cargo/ntex-cors@1.0.0
 - pkg:cargo/ntex-cors@2.0.0
 - pkg:cargo/ntex-cors@2.1.0
+- pkg:cargo/ntex-cors@3.0.0
 - pkg:cargo/ntex-cors@3.0.0-pre.1

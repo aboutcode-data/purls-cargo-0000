@@ -70,3 +70,4 @@
 - pkg:cargo/cef@142.4.0%2B142.0.15
 - pkg:cargo/cef@142.4.1%2B142.0.15
 - pkg:cargo/cef@142.5.0%2B142.0.17
+- pkg:cargo/cef@142.5.1%2B142.0.17
