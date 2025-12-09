@@ -24,6 +24,9 @@
 - pkg:cargo/parserc-derive@0.11.7
 - pkg:cargo/parserc-derive@0.11.8
 - pkg:cargo/parserc-derive@0.11.9
+- pkg:cargo/parserc-derive@0.12.0
+- pkg:cargo/parserc-derive@0.12.1
+- pkg:cargo/parserc-derive@0.12.2
 - pkg:cargo/parserc-derive@0.8.0
 - pkg:cargo/parserc-derive@0.8.1
 - pkg:cargo/parserc-derive@0.8.2
