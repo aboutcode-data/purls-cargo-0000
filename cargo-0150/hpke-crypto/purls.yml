@@ -1,1 +1,2 @@
 - pkg:cargo/hpke-crypto@0.0.0
+- pkg:cargo/hpke-crypto@0.0.1
