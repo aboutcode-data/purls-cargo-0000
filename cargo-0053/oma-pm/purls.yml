@@ -114,6 +114,7 @@
 - pkg:cargo/oma-pm@0.57.1
 - pkg:cargo/oma-pm@0.59.0
 - pkg:cargo/oma-pm@0.59.1
+- pkg:cargo/oma-pm@0.59.2
 - pkg:cargo/oma-pm@0.6.0
 - pkg:cargo/oma-pm@0.7.0
 - pkg:cargo/oma-pm@0.7.1
