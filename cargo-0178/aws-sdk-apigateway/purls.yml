@@ -144,3 +144,4 @@
 - pkg:cargo/aws-sdk-apigateway@1.93.0
 - pkg:cargo/aws-sdk-apigateway@1.94.0
 - pkg:cargo/aws-sdk-apigateway@1.95.0
+- pkg:cargo/aws-sdk-apigateway@1.96.0

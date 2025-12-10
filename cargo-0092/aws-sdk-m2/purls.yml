@@ -120,3 +120,4 @@
 - pkg:cargo/aws-sdk-m2@1.92.0
 - pkg:cargo/aws-sdk-m2@1.93.0
 - pkg:cargo/aws-sdk-m2@1.94.0
+- pkg:cargo/aws-sdk-m2@1.95.0

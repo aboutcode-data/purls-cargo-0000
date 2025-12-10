@@ -38,6 +38,7 @@
 - pkg:cargo/aws-sdk-georoutes@1.42.0
 - pkg:cargo/aws-sdk-georoutes@1.43.0
 - pkg:cargo/aws-sdk-georoutes@1.44.0
+- pkg:cargo/aws-sdk-georoutes@1.45.0
 - pkg:cargo/aws-sdk-georoutes@1.5.0
 - pkg:cargo/aws-sdk-georoutes@1.6.0
 - pkg:cargo/aws-sdk-georoutes@1.7.0

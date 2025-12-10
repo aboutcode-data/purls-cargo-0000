@@ -133,3 +133,4 @@
 - pkg:cargo/aws-sdk-proton@1.88.0
 - pkg:cargo/aws-sdk-proton@1.89.0
 - pkg:cargo/aws-sdk-proton@1.9.0
+- pkg:cargo/aws-sdk-proton@1.90.0

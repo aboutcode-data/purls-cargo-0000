@@ -146,3 +146,4 @@
 - pkg:cargo/aws-sdk-mediatailor@1.96.0
 - pkg:cargo/aws-sdk-mediatailor@1.97.0
 - pkg:cargo/aws-sdk-mediatailor@1.98.0
+- pkg:cargo/aws-sdk-mediatailor@1.99.0
