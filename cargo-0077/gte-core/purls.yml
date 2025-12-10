@@ -10,3 +10,4 @@
 - pkg:cargo/gte-core@0.14.1
 - pkg:cargo/gte-core@0.14.2
 - pkg:cargo/gte-core@0.15.0
+- pkg:cargo/gte-core@0.17.0
