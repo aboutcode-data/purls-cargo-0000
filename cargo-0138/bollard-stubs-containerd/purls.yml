@@ -1,1 +1,2 @@
 - pkg:cargo/bollard-stubs-containerd@1.42.1
+- pkg:cargo/bollard-stubs-containerd@1.42.2
