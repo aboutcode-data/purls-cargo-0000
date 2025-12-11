@@ -20,3 +20,4 @@
 - pkg:cargo/optionable_derive@0.5.1
 - pkg:cargo/optionable_derive@0.6.0
 - pkg:cargo/optionable_derive@0.6.1
+- pkg:cargo/optionable_derive@0.6.2

@@ -8,6 +8,7 @@
 - pkg:cargo/optify@0.20.2
 - pkg:cargo/optify@0.20.3
 - pkg:cargo/optify@0.20.4
+- pkg:cargo/optify@0.20.5
 - pkg:cargo/optify@0.4.0
 - pkg:cargo/optify@0.6.0
 - pkg:cargo/optify@0.6.1
