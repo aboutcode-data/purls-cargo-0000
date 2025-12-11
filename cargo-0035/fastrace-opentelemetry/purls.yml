@@ -3,6 +3,7 @@
 - pkg:cargo/fastrace-opentelemetry@0.12.0
 - pkg:cargo/fastrace-opentelemetry@0.13.0
 - pkg:cargo/fastrace-opentelemetry@0.14.0
+- pkg:cargo/fastrace-opentelemetry@0.15.0
 - pkg:cargo/fastrace-opentelemetry@0.6.8
 - pkg:cargo/fastrace-opentelemetry@0.7.0
 - pkg:cargo/fastrace-opentelemetry@0.7.1
