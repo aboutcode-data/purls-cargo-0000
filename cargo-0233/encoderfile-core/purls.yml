@@ -31,3 +31,5 @@
 - pkg:cargo/encoderfile-core@0.1.2
 - pkg:cargo/encoderfile-core@0.1.2-rc.0
 - pkg:cargo/encoderfile-core@0.1.2-rc.1
+- pkg:cargo/encoderfile-core@0.2.0
+- pkg:cargo/encoderfile-core@0.2.1

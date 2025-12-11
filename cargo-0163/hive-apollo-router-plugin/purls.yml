@@ -29,6 +29,10 @@
 - pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251205154607-607c0d801d8d38328629d1e3cca855e0f41dd586
 - pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251205155522-22fef720d6d0ba76d22ea553acf219a499202de3
 - pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251205155813-22182f8b3e54ab5846702ec5e35e229ce790abd2
+- pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251211103603-8852efdfb52b3b8f7886f7e228585a29e10f1ff6
+- pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251211104355-858af6dac5d56064b35a4e8bfbff7f35ecf32ebc
+- pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251211112640-dafcbff4c34d957f36a33f89bc8315b4c4abf336
+- pkg:cargo/hive-apollo-router-plugin@2.3.5-alpha-20251211113436-6779bde8abc5a5ffb05f11496e546ba85f83eef2
 - pkg:cargo/hive-apollo-router-plugin@3.0.0-alpha-20251205180456-8c953398540905c363e6564aa8eb58e986872a2b
 - pkg:cargo/hive-apollo-router-plugin@3.0.0-alpha-20251205181216-ed4fb4013db7f7f618d74326087bfdeac49cfd55
 - pkg:cargo/hive-apollo-router-plugin@3.0.0-alpha-20251205234341-d8543cd35a8a564ece1863b51e3284b145759be3
