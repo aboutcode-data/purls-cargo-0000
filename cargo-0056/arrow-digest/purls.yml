@@ -35,3 +35,4 @@
 - pkg:cargo/arrow-digest@54.1.0
 - pkg:cargo/arrow-digest@55.0.0
 - pkg:cargo/arrow-digest@56.0.0
+- pkg:cargo/arrow-digest@57.0.0
