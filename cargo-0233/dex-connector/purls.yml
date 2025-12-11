@@ -209,3 +209,4 @@
 - pkg:cargo/dex-connector@3.2.3
 - pkg:cargo/dex-connector@3.2.4
 - pkg:cargo/dex-connector@3.2.5
+- pkg:cargo/dex-connector@3.2.6
