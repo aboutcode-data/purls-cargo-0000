@@ -64,3 +64,4 @@
 - pkg:cargo/mlc@0.9.3
 - pkg:cargo/mlc@0.9.4
 - pkg:cargo/mlc@1.0.0
+- pkg:cargo/mlc@1.1.0

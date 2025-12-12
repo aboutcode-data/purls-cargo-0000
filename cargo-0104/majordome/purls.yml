@@ -16,6 +16,7 @@
 - pkg:cargo/majordome@1.0.23
 - pkg:cargo/majordome@1.0.24
 - pkg:cargo/majordome@1.0.25
+- pkg:cargo/majordome@1.0.26
 - pkg:cargo/majordome@1.0.3
 - pkg:cargo/majordome@1.0.5
 - pkg:cargo/majordome@1.0.6
