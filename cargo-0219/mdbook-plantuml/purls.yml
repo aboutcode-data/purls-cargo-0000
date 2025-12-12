@@ -7,4 +7,5 @@
 - pkg:cargo/mdbook-plantuml@0.7.0
 - pkg:cargo/mdbook-plantuml@0.8.0
 - pkg:cargo/mdbook-plantuml@1.0.0-rc.1
+- pkg:cargo/mdbook-plantuml@2.0.0
 - pkg:cargo/mdbook-plantuml@2.0.0-rc.1
