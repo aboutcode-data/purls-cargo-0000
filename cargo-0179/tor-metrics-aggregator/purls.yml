@@ -8,6 +8,8 @@
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc21
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc22
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc23
+- pkg:cargo/tor-metrics-aggregator@1.0.0-rc24
+- pkg:cargo/tor-metrics-aggregator@1.0.0-rc25
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc5
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc6
 - pkg:cargo/tor-metrics-aggregator@1.0.0-rc7
