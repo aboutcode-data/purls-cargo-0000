@@ -18,3 +18,5 @@
 - pkg:cargo/facet-xdr@0.1.8
 - pkg:cargo/facet-xdr@0.1.9
 - pkg:cargo/facet-xdr@0.28.0
+- pkg:cargo/facet-xdr@0.32.1
+- pkg:cargo/facet-xdr@0.32.2

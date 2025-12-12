@@ -1,1 +1,4 @@
 - pkg:cargo/facet-solver@0.31.7
+- pkg:cargo/facet-solver@0.32.0
+- pkg:cargo/facet-solver@0.32.1
+- pkg:cargo/facet-solver@0.32.2
