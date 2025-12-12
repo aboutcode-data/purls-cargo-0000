@@ -88,3 +88,4 @@
 - pkg:cargo/tfhe@1.4.0-alpha.4
 - pkg:cargo/tfhe@1.4.1
 - pkg:cargo/tfhe@1.4.2
+- pkg:cargo/tfhe@1.4.3
