@@ -45,6 +45,7 @@
 - pkg:cargo/cudarc@0.17.8
 - pkg:cargo/cudarc@0.18.0
 - pkg:cargo/cudarc@0.18.1
+- pkg:cargo/cudarc@0.18.2
 - pkg:cargo/cudarc@0.2.0
 - pkg:cargo/cudarc@0.3.0
 - pkg:cargo/cudarc@0.4.0
