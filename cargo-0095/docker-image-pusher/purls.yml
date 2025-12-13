@@ -9,3 +9,4 @@
 - pkg:cargo/docker-image-pusher@0.5.1
 - pkg:cargo/docker-image-pusher@0.5.2
 - pkg:cargo/docker-image-pusher@0.5.4
+- pkg:cargo/docker-image-pusher@0.5.5
