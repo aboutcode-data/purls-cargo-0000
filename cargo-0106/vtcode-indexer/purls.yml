@@ -108,3 +108,4 @@
 - pkg:cargo/vtcode-indexer@0.48.0
 - pkg:cargo/vtcode-indexer@0.48.1
 - pkg:cargo/vtcode-indexer@0.48.2
+- pkg:cargo/vtcode-indexer@0.48.3
