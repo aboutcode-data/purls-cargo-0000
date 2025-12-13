@@ -12,3 +12,4 @@
 - pkg:cargo/anda_cloud_cdk@0.3.4
 - pkg:cargo/anda_cloud_cdk@0.3.7
 - pkg:cargo/anda_cloud_cdk@0.4.0
+- pkg:cargo/anda_cloud_cdk@0.4.1
