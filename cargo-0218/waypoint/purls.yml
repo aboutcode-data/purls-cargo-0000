@@ -6,4 +6,5 @@
 - pkg:cargo/waypoint@0.6.0
 - pkg:cargo/waypoint@0.6.1
 - pkg:cargo/waypoint@0.6.3
+- pkg:cargo/waypoint@2025.12.1
 - pkg:cargo/waypoint@2025.6.6
