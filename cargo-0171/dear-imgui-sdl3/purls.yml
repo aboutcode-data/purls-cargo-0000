@@ -1,1 +1,2 @@
 - pkg:cargo/dear-imgui-sdl3@0.6.0
+- pkg:cargo/dear-imgui-sdl3@0.7.0
