@@ -15,3 +15,4 @@
 - pkg:cargo/graphile_worker@0.8.6
 - pkg:cargo/graphile_worker@0.8.7
 - pkg:cargo/graphile_worker@0.9.0
+- pkg:cargo/graphile_worker@0.9.1
