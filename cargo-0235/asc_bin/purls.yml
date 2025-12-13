@@ -28,6 +28,7 @@
 - pkg:cargo/asc_bin@2025.11.27
 - pkg:cargo/asc_bin@2025.12.1
 - pkg:cargo/asc_bin@2025.12.10
+- pkg:cargo/asc_bin@2025.12.13
 - pkg:cargo/asc_bin@2025.12.2
 - pkg:cargo/asc_bin@2025.12.6
 - pkg:cargo/asc_bin@2025.12.8
