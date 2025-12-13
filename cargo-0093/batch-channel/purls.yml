@@ -17,3 +17,4 @@
 - pkg:cargo/batch-channel@0.4.4
 - pkg:cargo/batch-channel@0.4.6
 - pkg:cargo/batch-channel@0.4.7
+- pkg:cargo/batch-channel@0.4.8
