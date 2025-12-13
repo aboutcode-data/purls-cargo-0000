@@ -1,4 +1,7 @@
 - pkg:cargo/socket_port@0.1.10
+- pkg:cargo/socket_port@0.1.11
+- pkg:cargo/socket_port@0.1.13
+- pkg:cargo/socket_port@0.1.14
 - pkg:cargo/socket_port@0.1.4
 - pkg:cargo/socket_port@0.1.5
 - pkg:cargo/socket_port@0.1.6
