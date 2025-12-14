@@ -34,3 +34,4 @@
 - pkg:cargo/uucore@0.2.2
 - pkg:cargo/uucore@0.3.0
 - pkg:cargo/uucore@0.4.0
+- pkg:cargo/uucore@0.5.0
