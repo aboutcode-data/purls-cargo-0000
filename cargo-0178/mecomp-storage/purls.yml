@@ -23,3 +23,4 @@
 - pkg:cargo/mecomp-storage@0.5.9
 - pkg:cargo/mecomp-storage@0.6.0
 - pkg:cargo/mecomp-storage@0.6.1
+- pkg:cargo/mecomp-storage@0.6.3
