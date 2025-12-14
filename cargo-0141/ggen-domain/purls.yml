@@ -3,3 +3,4 @@
 - pkg:cargo/ggen-domain@3.1.0
 - pkg:cargo/ggen-domain@3.2.0
 - pkg:cargo/ggen-domain@3.4.1
+- pkg:cargo/ggen-domain@4.0.0
