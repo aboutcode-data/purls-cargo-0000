@@ -3,6 +3,7 @@
 - pkg:cargo/cuengine@0.12.2
 - pkg:cargo/cuengine@0.13.2
 - pkg:cargo/cuengine@0.13.3
+- pkg:cargo/cuengine@0.14.0
 - pkg:cargo/cuengine@0.4.0
 - pkg:cargo/cuengine@0.4.1
 - pkg:cargo/cuengine@0.8.6

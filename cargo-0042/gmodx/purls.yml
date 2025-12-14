@@ -16,6 +16,14 @@
 - pkg:cargo/gmodx@0.16.2
 - pkg:cargo/gmodx@0.16.3
 - pkg:cargo/gmodx@0.16.4
+- pkg:cargo/gmodx@0.16.5
+- pkg:cargo/gmodx@0.16.6
+- pkg:cargo/gmodx@0.16.7
+- pkg:cargo/gmodx@0.17.0
+- pkg:cargo/gmodx@0.17.1
+- pkg:cargo/gmodx@0.17.2
+- pkg:cargo/gmodx@0.17.3
+- pkg:cargo/gmodx@0.17.4
 - pkg:cargo/gmodx@0.3.0
 - pkg:cargo/gmodx@0.4.0
 - pkg:cargo/gmodx@0.4.1
