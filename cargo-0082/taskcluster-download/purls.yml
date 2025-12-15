@@ -287,3 +287,4 @@
 - pkg:cargo/taskcluster-download@94.2.0
 - pkg:cargo/taskcluster-download@94.3.0
 - pkg:cargo/taskcluster-download@95.0.0
+- pkg:cargo/taskcluster-download@95.0.1
