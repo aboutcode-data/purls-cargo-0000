@@ -140,6 +140,7 @@
 - pkg:cargo/ast-grep-core@0.4.1
 - pkg:cargo/ast-grep-core@0.40.0
 - pkg:cargo/ast-grep-core@0.40.1
+- pkg:cargo/ast-grep-core@0.40.2
 - pkg:cargo/ast-grep-core@0.5.0
 - pkg:cargo/ast-grep-core@0.5.1
 - pkg:cargo/ast-grep-core@0.5.2
