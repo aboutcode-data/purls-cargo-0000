@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-vimdoc@4.0.2
+- pkg:cargo/tree-sitter-vimdoc@4.1.0
