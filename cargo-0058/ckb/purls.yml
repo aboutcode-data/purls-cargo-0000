@@ -95,6 +95,7 @@
 - pkg:cargo/ckb@0.203.0-rc1
 - pkg:cargo/ckb@0.203.0-rc2
 - pkg:cargo/ckb@0.203.0-rc3
+- pkg:cargo/ckb@0.204.0
 - pkg:cargo/ckb@0.204.0-rc1
 - pkg:cargo/ckb@0.37.0
 - pkg:cargo/ckb@0.38.0
