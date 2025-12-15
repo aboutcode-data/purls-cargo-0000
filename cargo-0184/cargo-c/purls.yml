@@ -11,6 +11,7 @@
 - pkg:cargo/cargo-c@0.10.16%2Bcargo-0.91.0
 - pkg:cargo/cargo-c@0.10.17%2Bcargo-0.92.0
 - pkg:cargo/cargo-c@0.10.18%2Bcargo-0.92.0
+- pkg:cargo/cargo-c@0.10.19%2Bcargo-0.93.0
 - pkg:cargo/cargo-c@0.10.2%2Bcargo-0.80.0
 - pkg:cargo/cargo-c@0.10.3%2Bcargo-0.81.0
 - pkg:cargo/cargo-c@0.10.4%2Bcargo-0.82.0
