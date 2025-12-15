@@ -12,3 +12,4 @@
 - pkg:cargo/payload_dumper@0.7.8
 - pkg:cargo/payload_dumper@0.7.9
 - pkg:cargo/payload_dumper@0.8.0
+- pkg:cargo/payload_dumper@0.8.1
