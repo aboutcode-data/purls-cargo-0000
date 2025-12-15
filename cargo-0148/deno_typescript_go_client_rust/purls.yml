@@ -2,3 +2,4 @@
 - pkg:cargo/deno_typescript_go_client_rust@0.2.0
 - pkg:cargo/deno_typescript_go_client_rust@0.3.0
 - pkg:cargo/deno_typescript_go_client_rust@0.4.0
+- pkg:cargo/deno_typescript_go_client_rust@0.5.0

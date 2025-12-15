@@ -1,3 +1,4 @@
+- pkg:cargo/denkproto-rs@1.0.105
 - pkg:cargo/denkproto-rs@1.0.13
 - pkg:cargo/denkproto-rs@1.0.19
 - pkg:cargo/denkproto-rs@1.0.20
