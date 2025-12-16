@@ -50,6 +50,7 @@
 - pkg:cargo/aws-sdk-mediatailor@0.9.0
 - pkg:cargo/aws-sdk-mediatailor@1.1.0
 - pkg:cargo/aws-sdk-mediatailor@1.10.0
+- pkg:cargo/aws-sdk-mediatailor@1.100.0
 - pkg:cargo/aws-sdk-mediatailor@1.11.0
 - pkg:cargo/aws-sdk-mediatailor@1.12.0
 - pkg:cargo/aws-sdk-mediatailor@1.13.0
