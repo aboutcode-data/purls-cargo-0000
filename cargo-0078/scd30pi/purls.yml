@@ -2,3 +2,4 @@
 - pkg:cargo/scd30pi@0.4.0
 - pkg:cargo/scd30pi@0.4.1
 - pkg:cargo/scd30pi@0.4.2
+- pkg:cargo/scd30pi@1.0.0
