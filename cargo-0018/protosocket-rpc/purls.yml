@@ -10,3 +10,4 @@
 - pkg:cargo/protosocket-rpc@0.7.4
 - pkg:cargo/protosocket-rpc@0.8.0
 - pkg:cargo/protosocket-rpc@0.9.0
+- pkg:cargo/protosocket-rpc@1.0.0-pre.0
