@@ -1,3 +1,4 @@
 - pkg:cargo/fuel-core-protobuf@0.2.0
 - pkg:cargo/fuel-core-protobuf@0.3.0
 - pkg:cargo/fuel-core-protobuf@0.4.0
+- pkg:cargo/fuel-core-protobuf@0.5.0
