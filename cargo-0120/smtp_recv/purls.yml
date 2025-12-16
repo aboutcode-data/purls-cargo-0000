@@ -31,3 +31,4 @@
 - pkg:cargo/smtp_recv@0.1.42
 - pkg:cargo/smtp_recv@0.1.43
 - pkg:cargo/smtp_recv@0.1.44
+- pkg:cargo/smtp_recv@0.1.45
