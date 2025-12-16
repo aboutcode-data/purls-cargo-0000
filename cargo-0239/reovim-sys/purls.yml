@@ -1,1 +1,3 @@
 - pkg:cargo/reovim-sys@0.1.2
+- pkg:cargo/reovim-sys@0.1.9
+- pkg:cargo/reovim-sys@0.2.0
