@@ -61,3 +61,4 @@
 - pkg:cargo/alloy-sol-type-parser@1.3.1
 - pkg:cargo/alloy-sol-type-parser@1.4.0
 - pkg:cargo/alloy-sol-type-parser@1.4.1
+- pkg:cargo/alloy-sol-type-parser@1.5.0
