@@ -23,6 +23,7 @@
 - pkg:cargo/brc20-prog@0.15.6
 - pkg:cargo/brc20-prog@0.15.7
 - pkg:cargo/brc20-prog@0.15.8
+- pkg:cargo/brc20-prog@0.15.9
 - pkg:cargo/brc20-prog@0.4.1
 - pkg:cargo/brc20-prog@0.5.1
 - pkg:cargo/brc20-prog@0.6.1
