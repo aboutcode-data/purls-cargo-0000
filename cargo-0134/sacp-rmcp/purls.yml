@@ -1,4 +1,5 @@
 - pkg:cargo/sacp-rmcp@0.1.0
+- pkg:cargo/sacp-rmcp@0.10.0
 - pkg:cargo/sacp-rmcp@0.8.0
 - pkg:cargo/sacp-rmcp@0.8.1
 - pkg:cargo/sacp-rmcp@0.8.2
@@ -6,3 +7,4 @@
 - pkg:cargo/sacp-rmcp@0.8.4
 - pkg:cargo/sacp-rmcp@0.8.5
 - pkg:cargo/sacp-rmcp@0.9.0
+- pkg:cargo/sacp-rmcp@6.0.0
