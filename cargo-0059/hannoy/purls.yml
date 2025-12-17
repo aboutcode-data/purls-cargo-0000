@@ -13,3 +13,4 @@
 - pkg:cargo/hannoy@0.1.1
 - pkg:cargo/hannoy@0.1.1-nested-rtxns
 - pkg:cargo/hannoy@0.1.2
+- pkg:cargo/hannoy@0.1.2-nested-rtxns
