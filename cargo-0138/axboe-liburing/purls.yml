@@ -2,3 +2,4 @@
 - pkg:cargo/axboe-liburing@2.10.0-alpha
 - pkg:cargo/axboe-liburing@2.11.0
 - pkg:cargo/axboe-liburing@2.12.0
+- pkg:cargo/axboe-liburing@2.13.0
