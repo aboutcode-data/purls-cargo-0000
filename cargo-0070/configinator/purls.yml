@@ -33,6 +33,7 @@
 - pkg:cargo/configinator@0.5.32
 - pkg:cargo/configinator@0.5.33
 - pkg:cargo/configinator@0.5.34
+- pkg:cargo/configinator@0.5.35
 - pkg:cargo/configinator@0.5.4
 - pkg:cargo/configinator@0.5.5
 - pkg:cargo/configinator@0.5.6
