@@ -37,3 +37,11 @@
 - pkg:cargo/smtp_recv@0.1.48
 - pkg:cargo/smtp_recv@0.1.49
 - pkg:cargo/smtp_recv@0.1.50
+- pkg:cargo/smtp_recv@0.1.51
+- pkg:cargo/smtp_recv@0.1.52
+- pkg:cargo/smtp_recv@0.1.53
+- pkg:cargo/smtp_recv@0.1.55
+- pkg:cargo/smtp_recv@0.1.56
+- pkg:cargo/smtp_recv@0.1.58
+- pkg:cargo/smtp_recv@0.1.59
+- pkg:cargo/smtp_recv@0.1.60

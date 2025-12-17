@@ -15,6 +15,7 @@
 - pkg:cargo/smtp_srv@0.2.2
 - pkg:cargo/smtp_srv@0.2.20
 - pkg:cargo/smtp_srv@0.2.21
+- pkg:cargo/smtp_srv@0.2.22
 - pkg:cargo/smtp_srv@0.2.3
 - pkg:cargo/smtp_srv@0.2.4
 - pkg:cargo/smtp_srv@0.2.5
