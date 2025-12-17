@@ -3,6 +3,7 @@
 - pkg:cargo/agent-client-protocol-schema@0.10.2
 - pkg:cargo/agent-client-protocol-schema@0.10.3
 - pkg:cargo/agent-client-protocol-schema@0.10.4
+- pkg:cargo/agent-client-protocol-schema@0.10.5
 - pkg:cargo/agent-client-protocol-schema@0.4.10
 - pkg:cargo/agent-client-protocol-schema@0.4.11
 - pkg:cargo/agent-client-protocol-schema@0.4.6
