@@ -4,3 +4,5 @@
 - pkg:cargo/reovim-sys@0.3.0
 - pkg:cargo/reovim-sys@0.4.0
 - pkg:cargo/reovim-sys@0.4.2
+- pkg:cargo/reovim-sys@0.4.3
+- pkg:cargo/reovim-sys@0.4.4
