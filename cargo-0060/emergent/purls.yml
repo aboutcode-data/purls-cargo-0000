@@ -22,3 +22,5 @@
 - pkg:cargo/emergent@1.6.0
 - pkg:cargo/emergent@1.7.0
 - pkg:cargo/emergent@1.8.0
+- pkg:cargo/emergent@1.8.1
+- pkg:cargo/emergent@1.8.2
