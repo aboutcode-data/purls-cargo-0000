@@ -1,2 +1,4 @@
 - pkg:cargo/mono@0.0.0
 - pkg:cargo/mono@0.0.1
+- pkg:cargo/mono@0.0.2
+- pkg:cargo/mono@0.0.3
