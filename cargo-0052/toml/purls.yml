@@ -99,3 +99,4 @@
 - pkg:cargo/toml@0.9.6
 - pkg:cargo/toml@0.9.7
 - pkg:cargo/toml@0.9.8
+- pkg:cargo/toml@0.9.9%2Bspec-1.0.0

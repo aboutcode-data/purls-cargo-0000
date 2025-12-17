@@ -1,5 +1,9 @@
 - pkg:cargo/byteable@0.1.0
 - pkg:cargo/byteable@0.10.0
+- pkg:cargo/byteable@0.11.0
+- pkg:cargo/byteable@0.11.1
+- pkg:cargo/byteable@0.11.2
+- pkg:cargo/byteable@0.11.3
 - pkg:cargo/byteable@0.2.0
 - pkg:cargo/byteable@0.3.0
 - pkg:cargo/byteable@0.4.0
