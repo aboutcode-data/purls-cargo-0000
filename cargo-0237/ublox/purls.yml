@@ -13,3 +13,4 @@
 - pkg:cargo/ublox@0.6.0
 - pkg:cargo/ublox@0.7.0
 - pkg:cargo/ublox@0.8.0
+- pkg:cargo/ublox@0.9.0
