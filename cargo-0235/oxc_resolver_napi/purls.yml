@@ -12,6 +12,7 @@
 - pkg:cargo/oxc_resolver_napi@11.14.1
 - pkg:cargo/oxc_resolver_napi@11.14.2
 - pkg:cargo/oxc_resolver_napi@11.15.0
+- pkg:cargo/oxc_resolver_napi@11.16.0
 - pkg:cargo/oxc_resolver_napi@11.2.0
 - pkg:cargo/oxc_resolver_napi@11.2.1
 - pkg:cargo/oxc_resolver_napi@11.3.0
