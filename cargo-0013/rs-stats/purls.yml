@@ -6,3 +6,4 @@
 - pkg:cargo/rs-stats@1.1.0
 - pkg:cargo/rs-stats@1.2.0
 - pkg:cargo/rs-stats@1.2.1
+- pkg:cargo/rs-stats@2.0.0
