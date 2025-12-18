@@ -102,3 +102,4 @@
 - pkg:cargo/mycelium-memory-db@8.2.0
 - pkg:cargo/mycelium-memory-db@8.2.1-rc.1
 - pkg:cargo/mycelium-memory-db@8.2.1-rc.2
+- pkg:cargo/mycelium-memory-db@8.2.1-rc.3

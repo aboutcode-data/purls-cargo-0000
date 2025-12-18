@@ -48,6 +48,7 @@
 - pkg:cargo/sp-authority-discovery@38.0.0
 - pkg:cargo/sp-authority-discovery@39.0.0
 - pkg:cargo/sp-authority-discovery@4.0.0
+- pkg:cargo/sp-authority-discovery@40.0.0
 - pkg:cargo/sp-authority-discovery@5.0.0
 - pkg:cargo/sp-authority-discovery@6.0.0
 - pkg:cargo/sp-authority-discovery@7.0.0

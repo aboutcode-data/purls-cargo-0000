@@ -44,6 +44,7 @@
 - pkg:cargo/sp-npos-elections@38.0.0
 - pkg:cargo/sp-npos-elections@39.0.0
 - pkg:cargo/sp-npos-elections@4.0.0
+- pkg:cargo/sp-npos-elections@40.0.0
 - pkg:cargo/sp-npos-elections@5.0.0
 - pkg:cargo/sp-npos-elections@6.0.0
 - pkg:cargo/sp-npos-elections@7.0.0

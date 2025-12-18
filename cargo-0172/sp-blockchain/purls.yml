@@ -54,6 +54,7 @@
 - pkg:cargo/sp-blockchain@40.0.0
 - pkg:cargo/sp-blockchain@41.0.0
 - pkg:cargo/sp-blockchain@42.0.0
+- pkg:cargo/sp-blockchain@43.0.0
 - pkg:cargo/sp-blockchain@5.0.0
 - pkg:cargo/sp-blockchain@6.0.0
 - pkg:cargo/sp-blockchain@7.0.0

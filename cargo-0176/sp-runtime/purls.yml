@@ -64,6 +64,7 @@
 - pkg:cargo/sp-runtime@42.0.0
 - pkg:cargo/sp-runtime@43.0.0
 - pkg:cargo/sp-runtime@44.0.0
+- pkg:cargo/sp-runtime@45.0.0
 - pkg:cargo/sp-runtime@5.0.0
 - pkg:cargo/sp-runtime@6.0.0
 - pkg:cargo/sp-runtime@7.0.0
