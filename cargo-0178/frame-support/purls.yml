@@ -61,6 +61,7 @@
 - pkg:cargo/frame-support@42.0.0
 - pkg:cargo/frame-support@43.0.0
 - pkg:cargo/frame-support@44.0.0
+- pkg:cargo/frame-support@45.0.0
 - pkg:cargo/frame-support@5.0.0
 - pkg:cargo/frame-support@6.0.0
 - pkg:cargo/frame-support@7.0.0
