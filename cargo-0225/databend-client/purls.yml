@@ -97,6 +97,7 @@
 - pkg:cargo/databend-client@0.30.3
 - pkg:cargo/databend-client@0.31.0
 - pkg:cargo/databend-client@0.32.0
+- pkg:cargo/databend-client@0.33.0
 - pkg:cargo/databend-client@0.4.3
 - pkg:cargo/databend-client@0.4.4
 - pkg:cargo/databend-client@0.4.5

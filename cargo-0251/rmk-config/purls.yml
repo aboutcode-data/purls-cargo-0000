@@ -18,3 +18,4 @@
 - pkg:cargo/rmk-config@0.5.5
 - pkg:cargo/rmk-config@0.5.6
 - pkg:cargo/rmk-config@0.6.0
+- pkg:cargo/rmk-config@0.6.1

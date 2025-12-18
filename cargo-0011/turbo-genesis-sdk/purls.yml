@@ -126,3 +126,4 @@
 - pkg:cargo/turbo-genesis-sdk@5.0.0-alpha.0
 - pkg:cargo/turbo-genesis-sdk@5.1.0
 - pkg:cargo/turbo-genesis-sdk@5.2.0
+- pkg:cargo/turbo-genesis-sdk@5.2.1
