@@ -17,3 +17,4 @@
 - pkg:cargo/mdbook-epub@0.4.44
 - pkg:cargo/mdbook-epub@0.4.48
 - pkg:cargo/mdbook-epub@0.4.51
+- pkg:cargo/mdbook-epub@0.5.2
