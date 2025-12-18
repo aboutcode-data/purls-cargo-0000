@@ -41,6 +41,7 @@
 - pkg:cargo/piston-dyon_interactive@0.46.0
 - pkg:cargo/piston-dyon_interactive@0.47.0
 - pkg:cargo/piston-dyon_interactive@0.47.1
+- pkg:cargo/piston-dyon_interactive@0.48.0
 - pkg:cargo/piston-dyon_interactive@0.5.0
 - pkg:cargo/piston-dyon_interactive@0.6.0
 - pkg:cargo/piston-dyon_interactive@0.7.0
