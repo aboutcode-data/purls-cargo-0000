@@ -951,6 +951,7 @@
 - pkg:cargo/binding_macros@46.0.0
 - pkg:cargo/binding_macros@47.0.0
 - pkg:cargo/binding_macros@48.0.0
+- pkg:cargo/binding_macros@49.0.0
 - pkg:cargo/binding_macros@5.0.0
 - pkg:cargo/binding_macros@6.0.0
 - pkg:cargo/binding_macros@7.0.0
