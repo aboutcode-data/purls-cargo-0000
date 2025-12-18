@@ -1,6 +1,7 @@
 - pkg:cargo/molar_bin@0.1.0
 - pkg:cargo/molar_bin@0.1.1
 - pkg:cargo/molar_bin@0.10.0
+- pkg:cargo/molar_bin@0.10.1
 - pkg:cargo/molar_bin@0.7.0
 - pkg:cargo/molar_bin@0.7.1
 - pkg:cargo/molar_bin@0.8.0
