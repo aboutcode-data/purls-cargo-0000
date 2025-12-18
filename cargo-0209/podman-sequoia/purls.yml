@@ -2,3 +2,4 @@
 - pkg:cargo/podman-sequoia@0.2.0
 - pkg:cargo/podman-sequoia@0.3.1
 - pkg:cargo/podman-sequoia@0.4.0-pqc.1
+- pkg:cargo/podman-sequoia@0.4.0-pqc.2
