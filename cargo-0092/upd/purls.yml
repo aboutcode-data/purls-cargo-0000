@@ -3,6 +3,10 @@
 - pkg:cargo/upd@0.0.11
 - pkg:cargo/upd@0.0.12
 - pkg:cargo/upd@0.0.13
+- pkg:cargo/upd@0.0.14
+- pkg:cargo/upd@0.0.15
+- pkg:cargo/upd@0.0.16
+- pkg:cargo/upd@0.0.17
 - pkg:cargo/upd@0.0.2
 - pkg:cargo/upd@0.0.3
 - pkg:cargo/upd@0.0.4
