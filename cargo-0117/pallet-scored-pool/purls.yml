@@ -54,6 +54,7 @@
 - pkg:cargo/pallet-scored-pool@42.0.0
 - pkg:cargo/pallet-scored-pool@43.0.0
 - pkg:cargo/pallet-scored-pool@44.0.0
+- pkg:cargo/pallet-scored-pool@45.0.0
 - pkg:cargo/pallet-scored-pool@5.0.0
 - pkg:cargo/pallet-scored-pool@6.0.0
 - pkg:cargo/pallet-scored-pool@7.0.0

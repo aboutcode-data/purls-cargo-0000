@@ -12,6 +12,7 @@
 - pkg:cargo/pallet-skip-feeless-payment@18.0.0
 - pkg:cargo/pallet-skip-feeless-payment@19.0.0
 - pkg:cargo/pallet-skip-feeless-payment@2.0.0
+- pkg:cargo/pallet-skip-feeless-payment@20.0.0
 - pkg:cargo/pallet-skip-feeless-payment@3.0.0
 - pkg:cargo/pallet-skip-feeless-payment@4.0.0
 - pkg:cargo/pallet-skip-feeless-payment@5.0.0

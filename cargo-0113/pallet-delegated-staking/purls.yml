@@ -2,6 +2,7 @@
 - pkg:cargo/pallet-delegated-staking@1.0.0
 - pkg:cargo/pallet-delegated-staking@10.0.0
 - pkg:cargo/pallet-delegated-staking@11.0.0
+- pkg:cargo/pallet-delegated-staking@12.0.0
 - pkg:cargo/pallet-delegated-staking@2.0.0
 - pkg:cargo/pallet-delegated-staking@3.0.0
 - pkg:cargo/pallet-delegated-staking@4.0.0
