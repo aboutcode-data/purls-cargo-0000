@@ -46,3 +46,4 @@
 - pkg:cargo/substrate-rpc-client@0.51.0
 - pkg:cargo/substrate-rpc-client@0.52.0
 - pkg:cargo/substrate-rpc-client@0.53.0
+- pkg:cargo/substrate-rpc-client@0.54.0

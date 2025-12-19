@@ -58,6 +58,7 @@
 - pkg:cargo/substrate-frame-rpc-support@48.0.0
 - pkg:cargo/substrate-frame-rpc-support@49.0.0
 - pkg:cargo/substrate-frame-rpc-support@5.0.0
+- pkg:cargo/substrate-frame-rpc-support@50.0.0
 - pkg:cargo/substrate-frame-rpc-support@6.0.0
 - pkg:cargo/substrate-frame-rpc-support@7.0.0
 - pkg:cargo/substrate-frame-rpc-support@8.0.0
