@@ -8,6 +8,7 @@
 - pkg:cargo/sansio@0.0.7
 - pkg:cargo/sansio@0.0.8
 - pkg:cargo/sansio@0.1.0
+- pkg:cargo/sansio@0.10.0
 - pkg:cargo/sansio@0.2.0
 - pkg:cargo/sansio@0.3.0
 - pkg:cargo/sansio@0.5.0
