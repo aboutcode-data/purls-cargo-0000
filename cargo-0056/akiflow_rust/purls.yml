@@ -8,5 +8,6 @@
 - pkg:cargo/akiflow_rust@0.3.7
 - pkg:cargo/akiflow_rust@0.3.8
 - pkg:cargo/akiflow_rust@0.3.9
+- pkg:cargo/akiflow_rust@0.4.11
 - pkg:cargo/akiflow_rust@0.4.2
 - pkg:cargo/akiflow_rust@0.4.3
