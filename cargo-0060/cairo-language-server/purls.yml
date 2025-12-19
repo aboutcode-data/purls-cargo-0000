@@ -33,6 +33,7 @@
 - pkg:cargo/cairo-language-server@2.13.1
 - pkg:cargo/cairo-language-server@2.14.0
 - pkg:cargo/cairo-language-server@2.14.0-rc.0
+- pkg:cargo/cairo-language-server@2.15.0
 - pkg:cargo/cairo-language-server@2.15.0-rc.0
 - pkg:cargo/cairo-language-server@2.15.0-rc.1
 - pkg:cargo/cairo-language-server@2.15.0-rc.2
