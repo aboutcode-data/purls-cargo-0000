@@ -1,3 +1,4 @@
 - pkg:cargo/audiobook-forge@2.3.0
 - pkg:cargo/audiobook-forge@2.4.2
 - pkg:cargo/audiobook-forge@2.5.0
+- pkg:cargo/audiobook-forge@2.5.1
