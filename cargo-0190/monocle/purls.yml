@@ -28,3 +28,4 @@
 - pkg:cargo/monocle@0.9.1
 - pkg:cargo/monocle@1.0.0
 - pkg:cargo/monocle@1.0.1
+- pkg:cargo/monocle@1.0.2
