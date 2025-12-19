@@ -63,6 +63,7 @@
 - pkg:cargo/pallet-balances@43.0.1
 - pkg:cargo/pallet-balances@44.0.0
 - pkg:cargo/pallet-balances@45.0.0
+- pkg:cargo/pallet-balances@46.0.0
 - pkg:cargo/pallet-balances@5.0.0
 - pkg:cargo/pallet-balances@6.0.0
 - pkg:cargo/pallet-balances@7.0.0

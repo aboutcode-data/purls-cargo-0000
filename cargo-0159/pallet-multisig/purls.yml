@@ -48,6 +48,7 @@
 - pkg:cargo/pallet-multisig@42.0.0
 - pkg:cargo/pallet-multisig@43.0.0
 - pkg:cargo/pallet-multisig@44.0.0
+- pkg:cargo/pallet-multisig@45.0.0
 - pkg:cargo/pallet-multisig@5.0.0
 - pkg:cargo/pallet-multisig@6.0.0
 - pkg:cargo/pallet-multisig@7.0.0

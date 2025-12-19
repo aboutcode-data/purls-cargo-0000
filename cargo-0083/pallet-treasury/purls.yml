@@ -55,6 +55,7 @@
 - pkg:cargo/pallet-treasury@41.0.0
 - pkg:cargo/pallet-treasury@42.0.0
 - pkg:cargo/pallet-treasury@43.0.0
+- pkg:cargo/pallet-treasury@44.0.0
 - pkg:cargo/pallet-treasury@5.0.0
 - pkg:cargo/pallet-treasury@6.0.0
 - pkg:cargo/pallet-treasury@7.0.0

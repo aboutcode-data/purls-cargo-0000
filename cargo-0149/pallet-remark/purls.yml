@@ -40,6 +40,7 @@
 - pkg:cargo/pallet-remark@42.0.0
 - pkg:cargo/pallet-remark@43.0.0
 - pkg:cargo/pallet-remark@44.0.0
+- pkg:cargo/pallet-remark@45.0.0
 - pkg:cargo/pallet-remark@5.0.0
 - pkg:cargo/pallet-remark@6.0.0
 - pkg:cargo/pallet-remark@7.0.0
