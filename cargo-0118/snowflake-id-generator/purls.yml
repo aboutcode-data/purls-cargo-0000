@@ -2,3 +2,4 @@
 - pkg:cargo/snowflake-id-generator@0.2.0
 - pkg:cargo/snowflake-id-generator@0.2.1
 - pkg:cargo/snowflake-id-generator@0.3.0
+- pkg:cargo/snowflake-id-generator@0.4.0
