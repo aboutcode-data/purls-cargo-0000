@@ -26,3 +26,4 @@
 - pkg:cargo/gcsf@0.2.8
 - pkg:cargo/gcsf@0.3.0
 - pkg:cargo/gcsf@0.3.1
+- pkg:cargo/gcsf@0.3.2
