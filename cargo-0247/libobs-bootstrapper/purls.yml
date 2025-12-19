@@ -8,3 +8,4 @@
 - pkg:cargo/libobs-bootstrapper@0.2.3
 - pkg:cargo/libobs-bootstrapper@0.2.4
 - pkg:cargo/libobs-bootstrapper@0.2.5
+- pkg:cargo/libobs-bootstrapper@0.2.6
