@@ -12,3 +12,4 @@
 - pkg:cargo/askama_web@0.14.4
 - pkg:cargo/askama_web@0.14.5
 - pkg:cargo/askama_web@0.14.6
+- pkg:cargo/askama_web@0.14.7
