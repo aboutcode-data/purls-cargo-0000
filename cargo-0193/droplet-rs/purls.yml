@@ -1,4 +1,5 @@
 - pkg:cargo/droplet-rs@0.12.1
+- pkg:cargo/droplet-rs@0.12.3
 - pkg:cargo/droplet-rs@0.7.0
 - pkg:cargo/droplet-rs@0.7.1
 - pkg:cargo/droplet-rs@0.7.2
