@@ -3,3 +3,4 @@
 - pkg:cargo/oss-api@0.2.2
 - pkg:cargo/oss-api@0.3.0
 - pkg:cargo/oss-api@0.3.1
+- pkg:cargo/oss-api@1.0.0
