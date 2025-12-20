@@ -3,3 +3,4 @@
 - pkg:cargo/ellip-dev-utils@0.5.7
 - pkg:cargo/ellip-dev-utils@0.5.9
 - pkg:cargo/ellip-dev-utils@1.0.0
+- pkg:cargo/ellip-dev-utils@1.0.1
