@@ -20,3 +20,4 @@
 - pkg:cargo/rust-query@0.6.3
 - pkg:cargo/rust-query@0.6.4
 - pkg:cargo/rust-query@0.6.5
+- pkg:cargo/rust-query@0.6.6
