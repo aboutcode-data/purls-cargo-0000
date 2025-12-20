@@ -2,3 +2,4 @@
 - pkg:cargo/sacp-trace-viewer@6.0.0
 - pkg:cargo/sacp-trace-viewer@7.0.0
 - pkg:cargo/sacp-trace-viewer@8.0.0
+- pkg:cargo/sacp-trace-viewer@9.0.0

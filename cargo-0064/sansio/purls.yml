@@ -15,3 +15,5 @@
 - pkg:cargo/sansio@0.5.1
 - pkg:cargo/sansio@0.6.0
 - pkg:cargo/sansio@0.7.0
+- pkg:cargo/sansio@1.0.0
+- pkg:cargo/sansio@1.0.1
