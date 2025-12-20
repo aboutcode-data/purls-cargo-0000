@@ -11,5 +11,6 @@
 - pkg:cargo/reovim-sys@0.4.8
 - pkg:cargo/reovim-sys@0.4.9
 - pkg:cargo/reovim-sys@0.6.2
+- pkg:cargo/reovim-sys@0.6.22
 - pkg:cargo/reovim-sys@0.6.4
 - pkg:cargo/reovim-sys@0.6.5
