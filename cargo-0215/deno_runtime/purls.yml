@@ -151,6 +151,7 @@
 - pkg:cargo/deno_runtime@0.230.0
 - pkg:cargo/deno_runtime@0.231.0
 - pkg:cargo/deno_runtime@0.232.0
+- pkg:cargo/deno_runtime@0.233.0
 - pkg:cargo/deno_runtime@0.24.0
 - pkg:cargo/deno_runtime@0.25.0
 - pkg:cargo/deno_runtime@0.26.0
