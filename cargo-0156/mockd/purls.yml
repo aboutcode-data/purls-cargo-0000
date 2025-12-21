@@ -52,5 +52,6 @@
 - pkg:cargo/mockd@0.4.53
 - pkg:cargo/mockd@0.4.54
 - pkg:cargo/mockd@0.4.55
+- pkg:cargo/mockd@0.4.56
 - pkg:cargo/mockd@0.4.6
 - pkg:cargo/mockd@0.4.7
