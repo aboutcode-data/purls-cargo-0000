@@ -18,3 +18,4 @@
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.18.0
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.19.0
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.19.1
+- pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.19.2
