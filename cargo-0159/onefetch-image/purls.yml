@@ -15,3 +15,5 @@
 - pkg:cargo/onefetch-image@2.23.1
 - pkg:cargo/onefetch-image@2.24.0
 - pkg:cargo/onefetch-image@2.25.0
+- pkg:cargo/onefetch-image@2.26.0
+- pkg:cargo/onefetch-image@2.26.1
