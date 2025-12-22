@@ -1,3 +1,4 @@
 - pkg:cargo/slipstream-feeds@0.2.5
 - pkg:cargo/slipstream-feeds@0.5.0
 - pkg:cargo/slipstream-feeds@0.5.2
+- pkg:cargo/slipstream-feeds@0.5.3
