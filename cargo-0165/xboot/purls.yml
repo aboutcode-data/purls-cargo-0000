@@ -15,5 +15,11 @@
 - pkg:cargo/xboot@0.1.27
 - pkg:cargo/xboot@0.1.28
 - pkg:cargo/xboot@0.1.29
+- pkg:cargo/xboot@0.1.30
+- pkg:cargo/xboot@0.1.31
+- pkg:cargo/xboot@0.1.32
+- pkg:cargo/xboot@0.1.33
+- pkg:cargo/xboot@0.1.34
+- pkg:cargo/xboot@0.1.35
 - pkg:cargo/xboot@0.1.8
 - pkg:cargo/xboot@0.1.9
