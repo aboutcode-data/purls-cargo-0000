@@ -144,6 +144,7 @@
 - pkg:cargo/wasmtime@39.0.1
 - pkg:cargo/wasmtime@4.0.0
 - pkg:cargo/wasmtime@4.0.1
+- pkg:cargo/wasmtime@40.0.0
 - pkg:cargo/wasmtime@5.0.0
 - pkg:cargo/wasmtime@5.0.1
 - pkg:cargo/wasmtime@6.0.0

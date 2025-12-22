@@ -14,3 +14,4 @@
 - pkg:cargo/wasmtime-internal-cranelift@38.0.4
 - pkg:cargo/wasmtime-internal-cranelift@39.0.0
 - pkg:cargo/wasmtime-internal-cranelift@39.0.1
+- pkg:cargo/wasmtime-internal-cranelift@40.0.0
