@@ -4,6 +4,7 @@
 - pkg:cargo/flipperzero-rt@0.13.0
 - pkg:cargo/flipperzero-rt@0.14.0
 - pkg:cargo/flipperzero-rt@0.15.0
+- pkg:cargo/flipperzero-rt@0.16.0
 - pkg:cargo/flipperzero-rt@0.3.0
 - pkg:cargo/flipperzero-rt@0.3.0-alpha
 - pkg:cargo/flipperzero-rt@0.3.1
