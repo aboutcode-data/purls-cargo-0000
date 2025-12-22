@@ -8,3 +8,4 @@
 - pkg:cargo/qail@0.5.1-alpha
 - pkg:cargo/qail@0.6.1
 - pkg:cargo/qail@0.7.0
+- pkg:cargo/qail@0.8.1

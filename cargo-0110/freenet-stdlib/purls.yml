@@ -24,6 +24,7 @@
 - pkg:cargo/freenet-stdlib@0.1.26
 - pkg:cargo/freenet-stdlib@0.1.27
 - pkg:cargo/freenet-stdlib@0.1.28
+- pkg:cargo/freenet-stdlib@0.1.29
 - pkg:cargo/freenet-stdlib@0.1.4
 - pkg:cargo/freenet-stdlib@0.1.5
 - pkg:cargo/freenet-stdlib@0.1.6
