@@ -26,3 +26,4 @@
 - pkg:cargo/cranelift-assembler-x64-meta@0.125.4
 - pkg:cargo/cranelift-assembler-x64-meta@0.126.0
 - pkg:cargo/cranelift-assembler-x64-meta@0.126.1
+- pkg:cargo/cranelift-assembler-x64-meta@0.127.0
