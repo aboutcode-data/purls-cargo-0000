@@ -44,3 +44,4 @@
 - pkg:cargo/ntex-grpc@1.0.0
 - pkg:cargo/ntex-grpc@1.0.0-pre.0
 - pkg:cargo/ntex-grpc@1.1.0
+- pkg:cargo/ntex-grpc@1.2.0
