@@ -1,5 +1,8 @@
+- pkg:cargo/gitcraft@0.0.1
 - pkg:cargo/gitcraft@0.0.132
 - pkg:cargo/gitcraft@0.0.133
+- pkg:cargo/gitcraft@0.1.0
+- pkg:cargo/gitcraft@0.1.1
 - pkg:cargo/gitcraft@0.1.10
 - pkg:cargo/gitcraft@0.1.12
 - pkg:cargo/gitcraft@0.1.123

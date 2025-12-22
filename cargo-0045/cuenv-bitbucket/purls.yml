@@ -1,1 +1,2 @@
 - pkg:cargo/cuenv-bitbucket@0.15.7
+- pkg:cargo/cuenv-bitbucket@0.16.0
