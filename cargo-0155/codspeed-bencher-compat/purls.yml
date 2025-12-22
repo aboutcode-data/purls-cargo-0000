@@ -41,3 +41,4 @@
 - pkg:cargo/codspeed-bencher-compat@4.0.4
 - pkg:cargo/codspeed-bencher-compat@4.0.5
 - pkg:cargo/codspeed-bencher-compat@4.1.0
+- pkg:cargo/codspeed-bencher-compat@4.2.0
