@@ -165,3 +165,4 @@
 - pkg:cargo/rustix@1.1.0
 - pkg:cargo/rustix@1.1.1
 - pkg:cargo/rustix@1.1.2
+- pkg:cargo/rustix@1.1.3
