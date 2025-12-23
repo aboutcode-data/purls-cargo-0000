@@ -66,5 +66,7 @@
 - pkg:cargo/mech@0.2.69
 - pkg:cargo/mech@0.2.7
 - pkg:cargo/mech@0.2.70
+- pkg:cargo/mech@0.2.71
+- pkg:cargo/mech@0.2.72
 - pkg:cargo/mech@0.2.8
 - pkg:cargo/mech@0.2.9
