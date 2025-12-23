@@ -102,3 +102,4 @@
 - pkg:cargo/russh@0.54.5
 - pkg:cargo/russh@0.54.6
 - pkg:cargo/russh@0.55.0
+- pkg:cargo/russh@0.56.0
