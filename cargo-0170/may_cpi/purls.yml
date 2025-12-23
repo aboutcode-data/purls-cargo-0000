@@ -14,6 +14,7 @@
 - pkg:cargo/may_cpi@1.0.0
 - pkg:cargo/may_cpi@11.0.0
 - pkg:cargo/may_cpi@12.0.0
+- pkg:cargo/may_cpi@13.0.0
 - pkg:cargo/may_cpi@2.0.0
 - pkg:cargo/may_cpi@3.0.0
 - pkg:cargo/may_cpi@8.0.0
