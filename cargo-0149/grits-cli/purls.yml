@@ -2,3 +2,4 @@
 - pkg:cargo/grits-cli@0.1.4
 - pkg:cargo/grits-cli@0.1.5
 - pkg:cargo/grits-cli@0.1.6
+- pkg:cargo/grits-cli@1.0.0
