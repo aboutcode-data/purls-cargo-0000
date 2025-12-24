@@ -33,6 +33,7 @@
 - pkg:cargo/novel-cli@0.16.1
 - pkg:cargo/novel-cli@0.16.2
 - pkg:cargo/novel-cli@0.16.3
+- pkg:cargo/novel-cli@0.16.4
 - pkg:cargo/novel-cli@0.2.0
 - pkg:cargo/novel-cli@0.2.1
 - pkg:cargo/novel-cli@0.3.0
