@@ -3,3 +3,4 @@
 - pkg:cargo/snap-coin-miner@2.0.0
 - pkg:cargo/snap-coin-miner@3.0.0
 - pkg:cargo/snap-coin-miner@3.1.0
+- pkg:cargo/snap-coin-miner@4.0.0
