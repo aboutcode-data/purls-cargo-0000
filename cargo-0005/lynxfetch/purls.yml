@@ -1,3 +1,4 @@
 - pkg:cargo/lynxfetch@1.0.7
 - pkg:cargo/lynxfetch@1.0.8
 - pkg:cargo/lynxfetch@1.0.9
+- pkg:cargo/lynxfetch@1.1.0

@@ -5,3 +5,4 @@
 - pkg:cargo/mcpkit-axum@0.2.3
 - pkg:cargo/mcpkit-axum@0.2.4
 - pkg:cargo/mcpkit-axum@0.2.5
+- pkg:cargo/mcpkit-axum@0.3.0
