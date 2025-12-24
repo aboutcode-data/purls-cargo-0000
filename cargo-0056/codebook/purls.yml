@@ -8,6 +8,7 @@
 - pkg:cargo/codebook@0.3.17
 - pkg:cargo/codebook@0.3.19
 - pkg:cargo/codebook@0.3.20
+- pkg:cargo/codebook@0.3.22
 - pkg:cargo/codebook@0.3.3
 - pkg:cargo/codebook@0.3.5
 - pkg:cargo/codebook@0.3.7
