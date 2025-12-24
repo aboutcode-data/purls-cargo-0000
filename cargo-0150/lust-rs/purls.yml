@@ -19,3 +19,4 @@
 - pkg:cargo/lust-rs@2.2.8
 - pkg:cargo/lust-rs@2.3.8
 - pkg:cargo/lust-rs@2.3.9
+- pkg:cargo/lust-rs@3.3.9
