@@ -37,6 +37,7 @@
 - pkg:cargo/miniserde@0.1.41
 - pkg:cargo/miniserde@0.1.42
 - pkg:cargo/miniserde@0.1.43
+- pkg:cargo/miniserde@0.1.44
 - pkg:cargo/miniserde@0.1.5
 - pkg:cargo/miniserde@0.1.6
 - pkg:cargo/miniserde@0.1.7
