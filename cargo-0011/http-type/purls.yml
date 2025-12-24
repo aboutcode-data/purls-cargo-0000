@@ -311,6 +311,7 @@
 - pkg:cargo/http-type@5.2.1
 - pkg:cargo/http-type@5.2.2
 - pkg:cargo/http-type@5.2.3
+- pkg:cargo/http-type@5.20.0
 - pkg:cargo/http-type@5.3.0
 - pkg:cargo/http-type@5.3.1
 - pkg:cargo/http-type@5.4.0

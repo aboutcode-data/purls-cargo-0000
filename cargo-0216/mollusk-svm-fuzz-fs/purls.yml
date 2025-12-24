@@ -34,3 +34,4 @@
 - pkg:cargo/mollusk-svm-fuzz-fs@0.7.2
 - pkg:cargo/mollusk-svm-fuzz-fs@0.8.0
 - pkg:cargo/mollusk-svm-fuzz-fs@0.8.1
+- pkg:cargo/mollusk-svm-fuzz-fs@0.9.0
