@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_elasticsearch_k8s_elastic_co@2.20250924.222725
 - pkg:cargo/kcr_elasticsearch_k8s_elastic_co@2.20251001.222748
 - pkg:cargo/kcr_elasticsearch_k8s_elastic_co@2.20251119.223015
+- pkg:cargo/kcr_elasticsearch_k8s_elastic_co@2.20251224.223155
