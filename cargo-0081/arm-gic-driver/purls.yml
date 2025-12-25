@@ -17,6 +17,7 @@
 - pkg:cargo/arm-gic-driver@0.14.9
 - pkg:cargo/arm-gic-driver@0.15.0
 - pkg:cargo/arm-gic-driver@0.15.1
+- pkg:cargo/arm-gic-driver@0.15.10
 - pkg:cargo/arm-gic-driver@0.15.2
 - pkg:cargo/arm-gic-driver@0.15.3
 - pkg:cargo/arm-gic-driver@0.15.4
