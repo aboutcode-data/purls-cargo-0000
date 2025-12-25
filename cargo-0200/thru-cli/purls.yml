@@ -16,6 +16,7 @@
 - pkg:cargo/thru-cli@0.1.29
 - pkg:cargo/thru-cli@0.1.30
 - pkg:cargo/thru-cli@0.1.31
+- pkg:cargo/thru-cli@0.1.32
 - pkg:cargo/thru-cli@0.1.5
 - pkg:cargo/thru-cli@0.1.7
 - pkg:cargo/thru-cli@0.1.8
