@@ -10,6 +10,7 @@
 - pkg:cargo/bl4-idb@0.5.14
 - pkg:cargo/bl4-idb@0.5.15
 - pkg:cargo/bl4-idb@0.5.16
+- pkg:cargo/bl4-idb@0.5.19
 - pkg:cargo/bl4-idb@0.5.2
 - pkg:cargo/bl4-idb@0.5.3
 - pkg:cargo/bl4-idb@0.5.4
