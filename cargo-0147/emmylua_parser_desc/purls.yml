@@ -6,3 +6,4 @@
 - pkg:cargo/emmylua_parser_desc@0.18.0
 - pkg:cargo/emmylua_parser_desc@0.19.0
 - pkg:cargo/emmylua_parser_desc@0.20.0
+- pkg:cargo/emmylua_parser_desc@0.21.0
