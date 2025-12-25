@@ -21,3 +21,4 @@
 - pkg:cargo/rmqtt-raft@0.5.1
 - pkg:cargo/rmqtt-raft@0.5.2
 - pkg:cargo/rmqtt-raft@0.5.3
+- pkg:cargo/rmqtt-raft@0.6.0
