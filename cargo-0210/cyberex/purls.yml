@@ -59,7 +59,12 @@
 - pkg:cargo/cyberex@0.3.34
 - pkg:cargo/cyberex@0.3.35
 - pkg:cargo/cyberex@0.3.36
+- pkg:cargo/cyberex@0.3.37
+- pkg:cargo/cyberex@0.3.38
+- pkg:cargo/cyberex@0.3.39
 - pkg:cargo/cyberex@0.3.4
+- pkg:cargo/cyberex@0.3.40
+- pkg:cargo/cyberex@0.3.41
 - pkg:cargo/cyberex@0.3.5
 - pkg:cargo/cyberex@0.3.6
 - pkg:cargo/cyberex@0.3.7
