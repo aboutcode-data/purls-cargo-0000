@@ -11,3 +11,4 @@
 - pkg:cargo/reactive-cache@0.3.5
 - pkg:cargo/reactive-cache@0.4.0
 - pkg:cargo/reactive-cache@0.4.0-alpha.0
+- pkg:cargo/reactive-cache@0.4.1
