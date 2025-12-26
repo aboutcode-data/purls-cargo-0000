@@ -8,6 +8,7 @@
 - pkg:cargo/pnp@0.12.4
 - pkg:cargo/pnp@0.12.5
 - pkg:cargo/pnp@0.12.6
+- pkg:cargo/pnp@0.12.7
 - pkg:cargo/pnp@0.2.0
 - pkg:cargo/pnp@0.3.0
 - pkg:cargo/pnp@0.4.0
