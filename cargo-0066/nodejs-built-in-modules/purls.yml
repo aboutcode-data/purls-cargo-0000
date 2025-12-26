@@ -1,1 +1,2 @@
 - pkg:cargo/nodejs-built-in-modules@0.0.1
+- pkg:cargo/nodejs-built-in-modules@1.0.0
