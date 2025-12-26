@@ -2,3 +2,4 @@
 - pkg:cargo/mobc-sqlx@1.1.0
 - pkg:cargo/mobc-sqlx@1.2.0
 - pkg:cargo/mobc-sqlx@1.3.0
+- pkg:cargo/mobc-sqlx@2.0.0
