@@ -18,3 +18,4 @@
 - pkg:cargo/qail-core@0.9.1
 - pkg:cargo/qail-core@0.9.2
 - pkg:cargo/qail-core@0.9.4
+- pkg:cargo/qail-core@0.9.6
