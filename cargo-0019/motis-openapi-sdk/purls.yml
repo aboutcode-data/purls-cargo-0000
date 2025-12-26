@@ -1,1 +1,2 @@
 - pkg:cargo/motis-openapi-sdk@1.0.0
+- pkg:cargo/motis-openapi-sdk@5.0.0
