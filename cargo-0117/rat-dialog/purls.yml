@@ -12,3 +12,6 @@
 - pkg:cargo/rat-dialog@0.8.0
 - pkg:cargo/rat-dialog@0.8.1
 - pkg:cargo/rat-dialog@1.0.0
+- pkg:cargo/rat-dialog@1.1.0
+- pkg:cargo/rat-dialog@2.0.0
+- pkg:cargo/rat-dialog@2.0.1
