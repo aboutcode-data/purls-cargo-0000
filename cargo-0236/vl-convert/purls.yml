@@ -49,3 +49,4 @@
 - pkg:cargo/vl-convert@1.6.2-a1
 - pkg:cargo/vl-convert@1.7.0
 - pkg:cargo/vl-convert@1.8.0
+- pkg:cargo/vl-convert@1.9.0
