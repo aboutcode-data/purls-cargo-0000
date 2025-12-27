@@ -24,6 +24,7 @@
 - pkg:cargo/wgsl_bindgen@0.21.0
 - pkg:cargo/wgsl_bindgen@0.21.1
 - pkg:cargo/wgsl_bindgen@0.21.2
+- pkg:cargo/wgsl_bindgen@0.21.3
 - pkg:cargo/wgsl_bindgen@0.5.0
 - pkg:cargo/wgsl_bindgen@0.5.1
 - pkg:cargo/wgsl_bindgen@0.5.2
