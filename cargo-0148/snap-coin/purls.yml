@@ -37,3 +37,5 @@
 - pkg:cargo/snap-coin@8.5.1
 - pkg:cargo/snap-coin@8.6.0
 - pkg:cargo/snap-coin@8.6.1
+- pkg:cargo/snap-coin@8.6.2
+- pkg:cargo/snap-coin@8.7.0
