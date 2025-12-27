@@ -6,6 +6,7 @@
 - pkg:cargo/kodegen_native_notify@0.10.5
 - pkg:cargo/kodegen_native_notify@0.10.6
 - pkg:cargo/kodegen_native_notify@0.10.7
+- pkg:cargo/kodegen_native_notify@0.10.8
 - pkg:cargo/kodegen_native_notify@0.5.1
 - pkg:cargo/kodegen_native_notify@0.5.2
 - pkg:cargo/kodegen_native_notify@0.5.3
