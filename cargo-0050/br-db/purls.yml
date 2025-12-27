@@ -243,6 +243,7 @@
 - pkg:cargo/br-db@1.8.33
 - pkg:cargo/br-db@1.8.34
 - pkg:cargo/br-db@1.8.35
+- pkg:cargo/br-db@1.8.36
 - pkg:cargo/br-db@1.8.6
 - pkg:cargo/br-db@1.8.7
 - pkg:cargo/br-db@1.8.8
