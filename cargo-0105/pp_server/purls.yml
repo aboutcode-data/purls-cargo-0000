@@ -12,3 +12,4 @@
 - pkg:cargo/pp_server@2.0.0
 - pkg:cargo/pp_server@3.0.0
 - pkg:cargo/pp_server@3.0.1
+- pkg:cargo/pp_server@3.0.2
