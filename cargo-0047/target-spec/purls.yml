@@ -41,3 +41,4 @@
 - pkg:cargo/target-spec@3.5.2
 - pkg:cargo/target-spec@3.5.3
 - pkg:cargo/target-spec@3.5.4
+- pkg:cargo/target-spec@3.5.5
