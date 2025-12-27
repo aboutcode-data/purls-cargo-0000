@@ -18,3 +18,4 @@
 - pkg:cargo/snowflake-connector-rs@0.6.5
 - pkg:cargo/snowflake-connector-rs@0.7.0
 - pkg:cargo/snowflake-connector-rs@0.7.1
+- pkg:cargo/snowflake-connector-rs@0.7.2
