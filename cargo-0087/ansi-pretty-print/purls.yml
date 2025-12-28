@@ -1,1 +1,2 @@
 - pkg:cargo/ansi-pretty-print@0.0.1
+- pkg:cargo/ansi-pretty-print@0.0.2
