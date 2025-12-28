@@ -2,6 +2,7 @@
 - pkg:cargo/lbc@0.1.10
 - pkg:cargo/lbc@0.1.11
 - pkg:cargo/lbc@0.1.12
+- pkg:cargo/lbc@0.1.13
 - pkg:cargo/lbc@0.1.2
 - pkg:cargo/lbc@0.1.3
 - pkg:cargo/lbc@0.1.4
