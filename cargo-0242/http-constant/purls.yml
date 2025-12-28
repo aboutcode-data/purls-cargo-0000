@@ -113,4 +113,5 @@
 - pkg:cargo/http-constant@1.81.3
 - pkg:cargo/http-constant@1.82.0
 - pkg:cargo/http-constant@1.82.1
+- pkg:cargo/http-constant@1.83.0
 - pkg:cargo/http-constant@1.9.0
