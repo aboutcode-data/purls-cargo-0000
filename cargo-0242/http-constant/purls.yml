@@ -102,5 +102,13 @@
 - pkg:cargo/http-constant@1.76.0
 - pkg:cargo/http-constant@1.77.0
 - pkg:cargo/http-constant@1.78.0
+- pkg:cargo/http-constant@1.78.1
+- pkg:cargo/http-constant@1.79.0
+- pkg:cargo/http-constant@1.79.1
 - pkg:cargo/http-constant@1.8.0
+- pkg:cargo/http-constant@1.80.0
+- pkg:cargo/http-constant@1.81.0
+- pkg:cargo/http-constant@1.81.1
+- pkg:cargo/http-constant@1.81.2
+- pkg:cargo/http-constant@1.81.3
 - pkg:cargo/http-constant@1.9.0
