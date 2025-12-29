@@ -6,3 +6,5 @@
 - pkg:cargo/mcsr-ranked-api@0.5.1
 - pkg:cargo/mcsr-ranked-api@0.5.2
 - pkg:cargo/mcsr-ranked-api@0.5.4
+- pkg:cargo/mcsr-ranked-api@0.6.0
+- pkg:cargo/mcsr-ranked-api@0.6.1
