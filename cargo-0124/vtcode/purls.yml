@@ -170,6 +170,7 @@
 - pkg:cargo/vtcode@0.54.1
 - pkg:cargo/vtcode@0.54.2
 - pkg:cargo/vtcode@0.54.3
+- pkg:cargo/vtcode@0.55.1
 - pkg:cargo/vtcode@0.8.1
 - pkg:cargo/vtcode@0.8.11
 - pkg:cargo/vtcode@0.8.12
