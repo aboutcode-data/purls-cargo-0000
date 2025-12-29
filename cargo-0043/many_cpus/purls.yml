@@ -40,3 +40,4 @@
 - pkg:cargo/many_cpus@1.0.4
 - pkg:cargo/many_cpus@1.1.0
 - pkg:cargo/many_cpus@1.1.1
+- pkg:cargo/many_cpus@1.1.2
