@@ -4,3 +4,4 @@
 - pkg:cargo/git-internal@0.2.2
 - pkg:cargo/git-internal@0.2.3
 - pkg:cargo/git-internal@0.3.0
+- pkg:cargo/git-internal@0.4.0
