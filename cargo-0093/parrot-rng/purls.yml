@@ -13,3 +13,4 @@
 - pkg:cargo/parrot-rng@0.6.0
 - pkg:cargo/parrot-rng@0.7.0
 - pkg:cargo/parrot-rng@0.7.1
+- pkg:cargo/parrot-rng@0.7.2
