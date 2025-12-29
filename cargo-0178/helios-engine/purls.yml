@@ -35,3 +35,4 @@
 - pkg:cargo/helios-engine@0.4.4
 - pkg:cargo/helios-engine@0.4.5
 - pkg:cargo/helios-engine@0.5.0
+- pkg:cargo/helios-engine@0.5.5
