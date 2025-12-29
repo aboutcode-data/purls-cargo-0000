@@ -307,3 +307,4 @@
 - pkg:cargo/holochain_wasm_test_utils@0.7.0-dev.2
 - pkg:cargo/holochain_wasm_test_utils@0.7.0-dev.3
 - pkg:cargo/holochain_wasm_test_utils@0.7.0-dev.4
+- pkg:cargo/holochain_wasm_test_utils@0.7.0-dev.5
