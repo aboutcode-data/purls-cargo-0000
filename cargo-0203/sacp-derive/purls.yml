@@ -1,3 +1,5 @@
+- pkg:cargo/sacp-derive@10.0.0-alpha.1
+- pkg:cargo/sacp-derive@10.0.0-alpha.2
 - pkg:cargo/sacp-derive@2.0.0
 - pkg:cargo/sacp-derive@2.0.1
 - pkg:cargo/sacp-derive@6.0.0
