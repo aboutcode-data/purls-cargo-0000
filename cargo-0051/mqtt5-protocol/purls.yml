@@ -7,3 +7,4 @@
 - pkg:cargo/mqtt5-protocol@0.6.0
 - pkg:cargo/mqtt5-protocol@0.6.1
 - pkg:cargo/mqtt5-protocol@0.7.0
+- pkg:cargo/mqtt5-protocol@0.8.0
