@@ -11,3 +11,5 @@
 - pkg:cargo/expect-json-macros@1.6.0
 - pkg:cargo/expect-json-macros@1.7.0
 - pkg:cargo/expect-json-macros@1.7.1
+- pkg:cargo/expect-json-macros@1.8.0
+- pkg:cargo/expect-json-macros@1.8.1
