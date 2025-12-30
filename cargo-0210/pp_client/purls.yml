@@ -13,3 +13,4 @@
 - pkg:cargo/pp_client@3.0.0
 - pkg:cargo/pp_client@3.0.1
 - pkg:cargo/pp_client@3.0.2
+- pkg:cargo/pp_client@4.0.0
