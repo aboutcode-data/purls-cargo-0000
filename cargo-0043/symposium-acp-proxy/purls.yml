@@ -1,5 +1,6 @@
 - pkg:cargo/symposium-acp-proxy@0.1.0
 - pkg:cargo/symposium-acp-proxy@0.2.0
 - pkg:cargo/symposium-acp-proxy@0.2.1
+- pkg:cargo/symposium-acp-proxy@1.0.0
 - pkg:cargo/symposium-acp-proxy@1.0.0-alpha.1
 - pkg:cargo/symposium-acp-proxy@1.0.0-alpha.2
