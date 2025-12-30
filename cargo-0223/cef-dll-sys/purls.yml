@@ -71,3 +71,4 @@
 - pkg:cargo/cef-dll-sys@143.1.0%2B143.0.10
 - pkg:cargo/cef-dll-sys@143.2.0%2B143.0.10
 - pkg:cargo/cef-dll-sys@143.3.0%2B143.0.13
+- pkg:cargo/cef-dll-sys@143.4.0%2B143.0.13
