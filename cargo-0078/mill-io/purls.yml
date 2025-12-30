@@ -1,3 +1,4 @@
 - pkg:cargo/mill-io@1.0.0
 - pkg:cargo/mill-io@1.0.1
 - pkg:cargo/mill-io@1.0.2
+- pkg:cargo/mill-io@2.0.0
