@@ -2,3 +2,4 @@
 - pkg:cargo/tracey@0.2.0
 - pkg:cargo/tracey@0.3.0
 - pkg:cargo/tracey@0.5.0
+- pkg:cargo/tracey@1.0.0
