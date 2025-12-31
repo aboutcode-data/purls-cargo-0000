@@ -1,3 +1,4 @@
+- pkg:cargo/rust_unique_pass@0.10.0
 - pkg:cargo/rust_unique_pass@0.6.0
 - pkg:cargo/rust_unique_pass@0.7.0
 - pkg:cargo/rust_unique_pass@0.7.1
