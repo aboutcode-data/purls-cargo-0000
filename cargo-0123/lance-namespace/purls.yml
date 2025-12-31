@@ -9,3 +9,4 @@
 - pkg:cargo/lance-namespace@0.38.3
 - pkg:cargo/lance-namespace@0.39.0
 - pkg:cargo/lance-namespace@1.0.0
+- pkg:cargo/lance-namespace@1.0.1
