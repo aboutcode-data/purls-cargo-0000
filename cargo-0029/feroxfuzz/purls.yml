@@ -2,6 +2,7 @@
 - pkg:cargo/feroxfuzz@1.0.0-rc.1
 - pkg:cargo/feroxfuzz@1.0.0-rc.10
 - pkg:cargo/feroxfuzz@1.0.0-rc.12
+- pkg:cargo/feroxfuzz@1.0.0-rc.13
 - pkg:cargo/feroxfuzz@1.0.0-rc.2
 - pkg:cargo/feroxfuzz@1.0.0-rc.3
 - pkg:cargo/feroxfuzz@1.0.0-rc.4
