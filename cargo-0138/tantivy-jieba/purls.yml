@@ -8,6 +8,7 @@
 - pkg:cargo/tantivy-jieba@0.15.0
 - pkg:cargo/tantivy-jieba@0.16.0
 - pkg:cargo/tantivy-jieba@0.17.0
+- pkg:cargo/tantivy-jieba@0.18.0
 - pkg:cargo/tantivy-jieba@0.2.0
 - pkg:cargo/tantivy-jieba@0.4.0
 - pkg:cargo/tantivy-jieba@0.5.0
