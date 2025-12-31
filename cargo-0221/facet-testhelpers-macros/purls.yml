@@ -13,3 +13,4 @@
 - pkg:cargo/facet-testhelpers-macros@0.35.0
 - pkg:cargo/facet-testhelpers-macros@0.36.0
 - pkg:cargo/facet-testhelpers-macros@0.40.0
+- pkg:cargo/facet-testhelpers-macros@0.41.0
