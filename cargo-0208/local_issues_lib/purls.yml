@@ -12,6 +12,7 @@
 - pkg:cargo/local_issues_lib@0.16.5
 - pkg:cargo/local_issues_lib@0.16.6
 - pkg:cargo/local_issues_lib@0.16.7
+- pkg:cargo/local_issues_lib@0.17.0
 - pkg:cargo/local_issues_lib@0.3.0
 - pkg:cargo/local_issues_lib@0.3.1
 - pkg:cargo/local_issues_lib@0.3.2
