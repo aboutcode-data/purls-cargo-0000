@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_elasticache_services_k8s_aws@2.20250917.153716
 - pkg:cargo/kcr_elasticache_services_k8s_aws@2.20250924.153805
 - pkg:cargo/kcr_elasticache_services_k8s_aws@2.20251001.153702
+- pkg:cargo/kcr_elasticache_services_k8s_aws@2.20251231.153940
