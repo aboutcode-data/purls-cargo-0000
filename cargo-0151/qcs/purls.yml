@@ -171,6 +171,7 @@
 - pkg:cargo/qcs@0.25.17
 - pkg:cargo/qcs@0.25.17-rc.0
 - pkg:cargo/qcs@0.25.17-rc.1
+- pkg:cargo/qcs@0.25.18-rc.0
 - pkg:cargo/qcs@0.25.2
 - pkg:cargo/qcs@0.25.2-rc.0
 - pkg:cargo/qcs@0.25.3
