@@ -8,3 +8,4 @@
 - pkg:cargo/facet-solver@0.35.0
 - pkg:cargo/facet-solver@0.36.0
 - pkg:cargo/facet-solver@0.40.0
+- pkg:cargo/facet-solver@0.41.0
