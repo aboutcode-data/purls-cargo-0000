@@ -30,3 +30,4 @@
 - pkg:cargo/rust-mcp-schema@0.9.1
 - pkg:cargo/rust-mcp-schema@0.9.2
 - pkg:cargo/rust-mcp-schema@0.9.3
+- pkg:cargo/rust-mcp-schema@0.9.4
