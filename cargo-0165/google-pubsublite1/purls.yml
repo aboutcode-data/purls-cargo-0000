@@ -11,3 +11,4 @@
 - pkg:cargo/google-pubsublite1@5.0.4%2B20240224
 - pkg:cargo/google-pubsublite1@5.0.5%2B20240614
 - pkg:cargo/google-pubsublite1@6.0.0%2B20240614
+- pkg:cargo/google-pubsublite1@7.0.0%2B20251212

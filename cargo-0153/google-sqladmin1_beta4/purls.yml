@@ -44,3 +44,4 @@
 - pkg:cargo/google-sqladmin1_beta4@5.0.4%2B20240219
 - pkg:cargo/google-sqladmin1_beta4@5.0.5%2B20240618
 - pkg:cargo/google-sqladmin1_beta4@6.0.0%2B20240618
+- pkg:cargo/google-sqladmin1_beta4@7.0.0%2B20251201

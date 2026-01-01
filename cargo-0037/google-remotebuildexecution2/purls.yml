@@ -15,3 +15,4 @@
 - pkg:cargo/google-remotebuildexecution2@5.0.4%2B20210329
 - pkg:cargo/google-remotebuildexecution2@5.0.5%2B20210329
 - pkg:cargo/google-remotebuildexecution2@6.0.0%2B20210329
+- pkg:cargo/google-remotebuildexecution2@7.0.0%2B20210329
