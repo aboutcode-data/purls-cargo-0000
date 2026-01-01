@@ -8,6 +8,7 @@
 - pkg:cargo/gix-date@0.10.7
 - pkg:cargo/gix-date@0.11.0
 - pkg:cargo/gix-date@0.11.1
+- pkg:cargo/gix-date@0.12.0
 - pkg:cargo/gix-date@0.4.2
 - pkg:cargo/gix-date@0.4.3
 - pkg:cargo/gix-date@0.5.0
