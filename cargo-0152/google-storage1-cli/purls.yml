@@ -18,3 +18,4 @@
 - pkg:cargo/google-storage1-cli@2.0.4%2B20210330
 - pkg:cargo/google-storage1-cli@3.0.0%2B20220228
 - pkg:cargo/google-storage1-cli@3.1.0%2B20220228
+- pkg:cargo/google-storage1-cli@7.0.0%2B20251218

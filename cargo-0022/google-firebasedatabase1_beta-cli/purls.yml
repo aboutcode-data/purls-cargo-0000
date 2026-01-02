@@ -5,3 +5,4 @@
 - pkg:cargo/google-firebasedatabase1_beta-cli@3.1.0%2B20220304
 - pkg:cargo/google-firebasedatabase1_beta-cli@5.0.4%2B20240303
 - pkg:cargo/google-firebasedatabase1_beta-cli@6.0.0%2B20240626
+- pkg:cargo/google-firebasedatabase1_beta-cli@7.0.0%2B20251223

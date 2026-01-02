@@ -6,3 +6,4 @@
 - pkg:cargo/google-translate3-cli@3.1.0%2B20220121
 - pkg:cargo/google-translate3-cli@5.0.4%2B20240131
 - pkg:cargo/google-translate3-cli@6.0.0%2B20240301
+- pkg:cargo/google-translate3-cli@7.0.0%2B20250424

@@ -10,3 +10,4 @@
 - pkg:cargo/tower-resilience-circuitbreaker@0.4.6
 - pkg:cargo/tower-resilience-circuitbreaker@0.4.7
 - pkg:cargo/tower-resilience-circuitbreaker@0.5.0
+- pkg:cargo/tower-resilience-circuitbreaker@0.5.1
