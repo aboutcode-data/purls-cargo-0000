@@ -1,1 +1,5 @@
 - pkg:cargo/royalbit-asimov@10.0.0
+- pkg:cargo/royalbit-asimov@10.2.4
+- pkg:cargo/royalbit-asimov@10.2.5
+- pkg:cargo/royalbit-asimov@10.3.1
+- pkg:cargo/royalbit-asimov@10.4.0
