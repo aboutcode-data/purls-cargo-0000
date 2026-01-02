@@ -15,6 +15,7 @@
 - pkg:cargo/gst-plugin-togglerecord@0.13.4
 - pkg:cargo/gst-plugin-togglerecord@0.13.5
 - pkg:cargo/gst-plugin-togglerecord@0.14.0
+- pkg:cargo/gst-plugin-togglerecord@0.15.0-alpha.1
 - pkg:cargo/gst-plugin-togglerecord@0.6.0
 - pkg:cargo/gst-plugin-togglerecord@0.7.0
 - pkg:cargo/gst-plugin-togglerecord@0.7.2
