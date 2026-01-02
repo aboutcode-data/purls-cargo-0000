@@ -35,3 +35,4 @@
 - pkg:cargo/dfe@0.4.6
 - pkg:cargo/dfe@0.4.7
 - pkg:cargo/dfe@0.4.9
+- pkg:cargo/dfe@0.5.0
