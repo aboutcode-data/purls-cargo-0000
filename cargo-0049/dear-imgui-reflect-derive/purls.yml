@@ -1,1 +1,2 @@
 - pkg:cargo/dear-imgui-reflect-derive@0.7.0
+- pkg:cargo/dear-imgui-reflect-derive@0.8.0
