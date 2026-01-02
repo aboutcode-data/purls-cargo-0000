@@ -12,3 +12,4 @@
 - pkg:cargo/sqlx-paginated@0.2.31
 - pkg:cargo/sqlx-paginated@0.2.32
 - pkg:cargo/sqlx-paginated@0.2.33
+- pkg:cargo/sqlx-paginated@0.3.0-alpha.1
