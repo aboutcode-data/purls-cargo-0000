@@ -190,6 +190,7 @@
 - pkg:cargo/hyperlane-plugin-websocket@3.1.39
 - pkg:cargo/hyperlane-plugin-websocket@3.1.4
 - pkg:cargo/hyperlane-plugin-websocket@3.1.40
+- pkg:cargo/hyperlane-plugin-websocket@3.1.42
 - pkg:cargo/hyperlane-plugin-websocket@3.1.5
 - pkg:cargo/hyperlane-plugin-websocket@3.1.6
 - pkg:cargo/hyperlane-plugin-websocket@3.1.7
