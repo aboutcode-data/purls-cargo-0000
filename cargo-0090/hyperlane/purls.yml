@@ -63,8 +63,17 @@
 - pkg:cargo/hyperlane@10.25.3
 - pkg:cargo/hyperlane@10.25.4
 - pkg:cargo/hyperlane@10.25.5
+- pkg:cargo/hyperlane@10.26.0
+- pkg:cargo/hyperlane@10.26.1
+- pkg:cargo/hyperlane@10.26.2
+- pkg:cargo/hyperlane@10.27.0
+- pkg:cargo/hyperlane@10.28.0
+- pkg:cargo/hyperlane@10.29.0
 - pkg:cargo/hyperlane@10.3.0
 - pkg:cargo/hyperlane@10.3.1
+- pkg:cargo/hyperlane@10.30.0
+- pkg:cargo/hyperlane@10.31.0
+- pkg:cargo/hyperlane@10.32.0
 - pkg:cargo/hyperlane@10.4.0
 - pkg:cargo/hyperlane@10.4.2
 - pkg:cargo/hyperlane@10.4.3
