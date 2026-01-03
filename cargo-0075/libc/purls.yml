@@ -100,6 +100,7 @@
 - pkg:cargo/libc@0.2.176
 - pkg:cargo/libc@0.2.177
 - pkg:cargo/libc@0.2.178
+- pkg:cargo/libc@0.2.179
 - pkg:cargo/libc@0.2.18
 - pkg:cargo/libc@0.2.19
 - pkg:cargo/libc@0.2.2
