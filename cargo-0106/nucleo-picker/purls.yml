@@ -7,6 +7,7 @@
 - pkg:cargo/nucleo-picker@0.11.0-rc.2
 - pkg:cargo/nucleo-picker@0.11.0-rc.3
 - pkg:cargo/nucleo-picker@0.11.0-rc.4
+- pkg:cargo/nucleo-picker@0.11.1
 - pkg:cargo/nucleo-picker@0.2.0
 - pkg:cargo/nucleo-picker@0.2.1
 - pkg:cargo/nucleo-picker@0.3.0
