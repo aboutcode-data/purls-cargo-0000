@@ -21,6 +21,7 @@
 - pkg:cargo/rapira@0.12.0
 - pkg:cargo/rapira@0.12.1
 - pkg:cargo/rapira@0.12.2
+- pkg:cargo/rapira@0.12.3
 - pkg:cargo/rapira@0.2.0
 - pkg:cargo/rapira@0.2.1
 - pkg:cargo/rapira@0.2.2
