@@ -23,3 +23,4 @@
 - pkg:cargo/network-interface@2.0.2
 - pkg:cargo/network-interface@2.0.3
 - pkg:cargo/network-interface@2.0.4
+- pkg:cargo/network-interface@2.0.5
