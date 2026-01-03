@@ -1,1 +1,3 @@
 - pkg:cargo/confguard@3.2.0
+- pkg:cargo/confguard@4.0.0
+- pkg:cargo/confguard@4.0.1
