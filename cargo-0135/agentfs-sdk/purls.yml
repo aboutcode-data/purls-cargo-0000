@@ -41,3 +41,4 @@
 - pkg:cargo/agentfs-sdk@0.4.0-pre.7
 - pkg:cargo/agentfs-sdk@0.4.0-pre.8
 - pkg:cargo/agentfs-sdk@0.4.0-pre.9
+- pkg:cargo/agentfs-sdk@0.4.1
