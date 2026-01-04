@@ -5,6 +5,7 @@
 - pkg:cargo/rand@0.10.0-rc.0
 - pkg:cargo/rand@0.10.0-rc.1
 - pkg:cargo/rand@0.10.0-rc.5
+- pkg:cargo/rand@0.10.0-rc.6
 - pkg:cargo/rand@0.2.0
 - pkg:cargo/rand@0.2.1
 - pkg:cargo/rand@0.3.0
