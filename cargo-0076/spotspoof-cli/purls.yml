@@ -1,1 +1,5 @@
 - pkg:cargo/spotspoof-cli@0.2.0-beta
+- pkg:cargo/spotspoof-cli@1.0.0
+- pkg:cargo/spotspoof-cli@1.0.1
+- pkg:cargo/spotspoof-cli@1.0.2
+- pkg:cargo/spotspoof-cli@1.0.3
