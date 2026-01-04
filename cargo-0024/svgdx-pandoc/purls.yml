@@ -1,5 +1,6 @@
 - pkg:cargo/svgdx-pandoc@0.1.0
 - pkg:cargo/svgdx-pandoc@0.10.0
+- pkg:cargo/svgdx-pandoc@0.11.0
 - pkg:cargo/svgdx-pandoc@0.2.0
 - pkg:cargo/svgdx-pandoc@0.3.0
 - pkg:cargo/svgdx-pandoc@0.4.0
