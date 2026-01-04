@@ -19,3 +19,4 @@
 - pkg:cargo/yazi-scheduler@25.4.8
 - pkg:cargo/yazi-scheduler@25.5.28
 - pkg:cargo/yazi-scheduler@25.5.31
+- pkg:cargo/yazi-scheduler@26.1.4
