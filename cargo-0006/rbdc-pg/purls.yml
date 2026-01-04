@@ -64,3 +64,4 @@
 - pkg:cargo/rbdc-pg@4.6.1
 - pkg:cargo/rbdc-pg@4.6.2
 - pkg:cargo/rbdc-pg@4.6.3
+- pkg:cargo/rbdc-pg@4.6.4
