@@ -7,6 +7,7 @@
 - pkg:cargo/card-cli@1.13.0
 - pkg:cargo/card-cli@1.13.1
 - pkg:cargo/card-cli@1.13.18
+- pkg:cargo/card-cli@1.13.21
 - pkg:cargo/card-cli@1.13.4
 - pkg:cargo/card-cli@1.13.5
 - pkg:cargo/card-cli@1.13.6
