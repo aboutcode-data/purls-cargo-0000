@@ -1,5 +1,6 @@
 - pkg:cargo/velesdb-mobile@0.8.0
 - pkg:cargo/velesdb-mobile@0.8.1
+- pkg:cargo/velesdb-mobile@0.8.10
 - pkg:cargo/velesdb-mobile@0.8.2
 - pkg:cargo/velesdb-mobile@0.8.3
 - pkg:cargo/velesdb-mobile@0.8.4
@@ -7,3 +8,4 @@
 - pkg:cargo/velesdb-mobile@0.8.6
 - pkg:cargo/velesdb-mobile@0.8.7
 - pkg:cargo/velesdb-mobile@0.8.8
+- pkg:cargo/velesdb-mobile@0.8.9
