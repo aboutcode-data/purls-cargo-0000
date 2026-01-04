@@ -1,6 +1,7 @@
 - pkg:cargo/cli_utils_hoijui@0.10.0
 - pkg:cargo/cli_utils_hoijui@0.10.1
 - pkg:cargo/cli_utils_hoijui@0.11.0
+- pkg:cargo/cli_utils_hoijui@0.12.0
 - pkg:cargo/cli_utils_hoijui@0.6.0
 - pkg:cargo/cli_utils_hoijui@0.6.1
 - pkg:cargo/cli_utils_hoijui@0.6.2
