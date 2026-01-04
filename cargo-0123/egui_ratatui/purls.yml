@@ -29,3 +29,4 @@
 - pkg:cargo/egui_ratatui@1.32.0
 - pkg:cargo/egui_ratatui@2.0.0
 - pkg:cargo/egui_ratatui@2.0.1
+- pkg:cargo/egui_ratatui@2.1.0
