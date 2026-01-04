@@ -6,3 +6,4 @@
 - pkg:cargo/hnswlib-rs@0.5.0
 - pkg:cargo/hnswlib-rs@0.7.0
 - pkg:cargo/hnswlib-rs@0.7.1
+- pkg:cargo/hnswlib-rs@0.8.0
