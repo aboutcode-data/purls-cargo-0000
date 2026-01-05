@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-commitlint@1.0.0
+- pkg:cargo/cargo-commitlint@2.0.0

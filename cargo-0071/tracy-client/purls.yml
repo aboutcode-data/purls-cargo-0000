@@ -35,6 +35,7 @@
 - pkg:cargo/tracy-client@0.18.1
 - pkg:cargo/tracy-client@0.18.2
 - pkg:cargo/tracy-client@0.18.3
+- pkg:cargo/tracy-client@0.18.4
 - pkg:cargo/tracy-client@0.7.0
 - pkg:cargo/tracy-client@0.7.1
 - pkg:cargo/tracy-client@0.7.2
