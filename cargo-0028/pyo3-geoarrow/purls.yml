@@ -4,3 +4,4 @@
 - pkg:cargo/pyo3-geoarrow@0.6.0-beta.2
 - pkg:cargo/pyo3-geoarrow@0.6.1
 - pkg:cargo/pyo3-geoarrow@0.6.2
+- pkg:cargo/pyo3-geoarrow@0.7.0
