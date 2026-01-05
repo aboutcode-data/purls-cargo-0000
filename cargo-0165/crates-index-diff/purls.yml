@@ -38,6 +38,7 @@
 - pkg:cargo/crates-index-diff@26.0.0
 - pkg:cargo/crates-index-diff@27.0.0
 - pkg:cargo/crates-index-diff@28.0.0
+- pkg:cargo/crates-index-diff@29.0.0
 - pkg:cargo/crates-index-diff@3.0.0
 - pkg:cargo/crates-index-diff@4.0.0
 - pkg:cargo/crates-index-diff@4.0.1
