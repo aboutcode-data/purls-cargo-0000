@@ -21,6 +21,7 @@
 - pkg:cargo/customasm@0.13.10
 - pkg:cargo/customasm@0.13.11
 - pkg:cargo/customasm@0.13.12
+- pkg:cargo/customasm@0.13.13
 - pkg:cargo/customasm@0.13.2
 - pkg:cargo/customasm@0.13.3
 - pkg:cargo/customasm@0.13.4
