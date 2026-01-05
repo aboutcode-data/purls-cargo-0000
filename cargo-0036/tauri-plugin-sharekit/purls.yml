@@ -10,3 +10,4 @@
 - pkg:cargo/tauri-plugin-sharekit@0.2.3
 - pkg:cargo/tauri-plugin-sharekit@0.2.4
 - pkg:cargo/tauri-plugin-sharekit@0.2.5
+- pkg:cargo/tauri-plugin-sharekit@0.3.0
