@@ -2,3 +2,4 @@
 - pkg:cargo/rsvp-term@0.3.0
 - pkg:cargo/rsvp-term@0.4.0
 - pkg:cargo/rsvp-term@0.5.0
+- pkg:cargo/rsvp-term@0.6.0
