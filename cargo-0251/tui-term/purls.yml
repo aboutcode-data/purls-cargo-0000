@@ -14,3 +14,4 @@
 - pkg:cargo/tui-term@0.1.8
 - pkg:cargo/tui-term@0.1.9
 - pkg:cargo/tui-term@0.2.0
+- pkg:cargo/tui-term@0.3.0

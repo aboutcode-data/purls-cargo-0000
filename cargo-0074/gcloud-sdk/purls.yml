@@ -85,6 +85,7 @@
 - pkg:cargo/gcloud-sdk@0.28.1
 - pkg:cargo/gcloud-sdk@0.28.2
 - pkg:cargo/gcloud-sdk@0.28.3
+- pkg:cargo/gcloud-sdk@0.28.4
 - pkg:cargo/gcloud-sdk@0.7.0
 - pkg:cargo/gcloud-sdk@0.7.1
 - pkg:cargo/gcloud-sdk@0.7.2

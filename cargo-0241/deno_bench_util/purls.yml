@@ -133,6 +133,7 @@
 - pkg:cargo/deno_bench_util@0.218.0
 - pkg:cargo/deno_bench_util@0.219.0
 - pkg:cargo/deno_bench_util@0.22.0
+- pkg:cargo/deno_bench_util@0.220.0
 - pkg:cargo/deno_bench_util@0.23.0
 - pkg:cargo/deno_bench_util@0.24.0
 - pkg:cargo/deno_bench_util@0.25.0
