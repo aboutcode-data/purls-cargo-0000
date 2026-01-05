@@ -5,3 +5,4 @@
 - pkg:cargo/koto_test_utils@0.15.2
 - pkg:cargo/koto_test_utils@0.15.3
 - pkg:cargo/koto_test_utils@0.16.0
+- pkg:cargo/koto_test_utils@0.16.1
