@@ -2,6 +2,7 @@
 - pkg:cargo/raffi@0.0.5
 - pkg:cargo/raffi@0.0.6
 - pkg:cargo/raffi@0.1.0
+- pkg:cargo/raffi@0.10.0
 - pkg:cargo/raffi@0.2.0
 - pkg:cargo/raffi@0.3.0
 - pkg:cargo/raffi@0.4.0
