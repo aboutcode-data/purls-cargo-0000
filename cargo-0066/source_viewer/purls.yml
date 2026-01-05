@@ -8,3 +8,4 @@
 - pkg:cargo/source_viewer@0.2.6
 - pkg:cargo/source_viewer@0.4.0
 - pkg:cargo/source_viewer@0.4.2
+- pkg:cargo/source_viewer@0.4.3
