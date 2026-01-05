@@ -90,6 +90,7 @@
 - pkg:cargo/firestore@0.45.1
 - pkg:cargo/firestore@0.46.0
 - pkg:cargo/firestore@0.47.0
+- pkg:cargo/firestore@0.47.1
 - pkg:cargo/firestore@0.5.0
 - pkg:cargo/firestore@0.5.1
 - pkg:cargo/firestore@0.6.0
