@@ -8,3 +8,5 @@
 - pkg:cargo/cheetah-string@0.1.7
 - pkg:cargo/cheetah-string@0.1.8
 - pkg:cargo/cheetah-string@0.1.9
+- pkg:cargo/cheetah-string@1.0.0
+- pkg:cargo/cheetah-string@1.0.1

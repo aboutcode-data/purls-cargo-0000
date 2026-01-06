@@ -191,3 +191,4 @@
 - pkg:cargo/libc@0.2.98
 - pkg:cargo/libc@0.2.99
 - pkg:cargo/libc@1.0.0-alpha.1
+- pkg:cargo/libc@1.0.0-alpha.2
