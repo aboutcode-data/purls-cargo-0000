@@ -15,3 +15,4 @@
 - pkg:cargo/async-openai-compat@0.30.2
 - pkg:cargo/async-openai-compat@0.30.3
 - pkg:cargo/async-openai-compat@0.30.4
+- pkg:cargo/async-openai-compat@0.30.5
