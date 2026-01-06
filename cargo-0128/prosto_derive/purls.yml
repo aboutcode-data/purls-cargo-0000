@@ -16,6 +16,8 @@
 - pkg:cargo/prosto_derive@0.6.19
 - pkg:cargo/prosto_derive@0.6.2
 - pkg:cargo/prosto_derive@0.6.20
+- pkg:cargo/prosto_derive@0.6.21
+- pkg:cargo/prosto_derive@0.6.22
 - pkg:cargo/prosto_derive@0.6.3
 - pkg:cargo/prosto_derive@0.6.4
 - pkg:cargo/prosto_derive@0.6.5
