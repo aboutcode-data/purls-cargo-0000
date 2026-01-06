@@ -8,3 +8,4 @@
 - pkg:cargo/stac-duckdb@0.2.2
 - pkg:cargo/stac-duckdb@0.3.0
 - pkg:cargo/stac-duckdb@0.3.1
+- pkg:cargo/stac-duckdb@0.3.2

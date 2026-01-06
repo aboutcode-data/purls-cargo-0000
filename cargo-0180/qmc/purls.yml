@@ -46,3 +46,4 @@
 - pkg:cargo/qmc@2.9.0
 - pkg:cargo/qmc@2.9.1
 - pkg:cargo/qmc@3.0.0-rc2
+- pkg:cargo/qmc@3.0.0-rc3
