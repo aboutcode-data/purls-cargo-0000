@@ -7,3 +7,4 @@
 - pkg:cargo/grovedb-version@2.2.1
 - pkg:cargo/grovedb-version@3.0.0
 - pkg:cargo/grovedb-version@3.1.0
+- pkg:cargo/grovedb-version@4.0.0
