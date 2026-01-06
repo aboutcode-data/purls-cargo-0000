@@ -1,2 +1,4 @@
 - pkg:cargo/nginx-src@1.28.0%2B1.28.0
 - pkg:cargo/nginx-src@1.28.1%2B1.28.0
+- pkg:cargo/nginx-src@1.28.2%2B1.28.1
+- pkg:cargo/nginx-src@1.28.3%2B1.28.1

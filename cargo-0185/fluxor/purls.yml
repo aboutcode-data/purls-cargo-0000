@@ -16,3 +16,4 @@
 - pkg:cargo/fluxor@0.9.3
 - pkg:cargo/fluxor@0.9.4
 - pkg:cargo/fluxor@0.9.5
+- pkg:cargo/fluxor@1.0.0
