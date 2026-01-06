@@ -2,6 +2,8 @@
 - pkg:cargo/crit@0.0.10
 - pkg:cargo/crit@0.0.11
 - pkg:cargo/crit@0.0.12
+- pkg:cargo/crit@0.0.13
+- pkg:cargo/crit@0.0.14
 - pkg:cargo/crit@0.0.2
 - pkg:cargo/crit@0.0.3
 - pkg:cargo/crit@0.0.4
