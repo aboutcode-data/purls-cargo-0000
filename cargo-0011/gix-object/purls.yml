@@ -44,3 +44,4 @@
 - pkg:cargo/gix-object@0.52.0
 - pkg:cargo/gix-object@0.53.0
 - pkg:cargo/gix-object@0.54.0
+- pkg:cargo/gix-object@0.54.1
