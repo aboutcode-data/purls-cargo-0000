@@ -15,3 +15,4 @@
 - pkg:cargo/java_asm_macro@0.0.9
 - pkg:cargo/java_asm_macro@0.1.0
 - pkg:cargo/java_asm_macro@0.1.1
+- pkg:cargo/java_asm_macro@0.1.3
