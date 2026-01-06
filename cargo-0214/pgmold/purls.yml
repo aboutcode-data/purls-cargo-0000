@@ -2,6 +2,10 @@
 - pkg:cargo/pgmold@0.1.1
 - pkg:cargo/pgmold@0.10.0
 - pkg:cargo/pgmold@0.14.0
+- pkg:cargo/pgmold@0.14.2
+- pkg:cargo/pgmold@0.14.3
+- pkg:cargo/pgmold@0.14.4
+- pkg:cargo/pgmold@0.14.5
 - pkg:cargo/pgmold@0.2.0
 - pkg:cargo/pgmold@0.3.0
 - pkg:cargo/pgmold@0.3.1
