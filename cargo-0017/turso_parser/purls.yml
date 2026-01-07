@@ -15,3 +15,4 @@
 - pkg:cargo/turso_parser@0.4.0-pre.17
 - pkg:cargo/turso_parser@0.4.0-pre.19
 - pkg:cargo/turso_parser@0.4.1
+- pkg:cargo/turso_parser@0.4.2
