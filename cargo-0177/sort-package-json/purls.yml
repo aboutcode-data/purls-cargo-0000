@@ -5,3 +5,4 @@
 - pkg:cargo/sort-package-json@0.0.5
 - pkg:cargo/sort-package-json@0.0.6
 - pkg:cargo/sort-package-json@0.0.7
+- pkg:cargo/sort-package-json@0.0.8

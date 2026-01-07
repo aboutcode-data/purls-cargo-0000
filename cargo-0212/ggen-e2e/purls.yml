@@ -1,1 +1,4 @@
 - pkg:cargo/ggen-e2e@0.1.0
+- pkg:cargo/ggen-e2e@5.1.0
+- pkg:cargo/ggen-e2e@5.1.2
+- pkg:cargo/ggen-e2e@5.1.3
