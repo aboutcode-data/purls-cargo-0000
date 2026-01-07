@@ -41,3 +41,4 @@
 - pkg:cargo/vortex-sparse@0.56.0
 - pkg:cargo/vortex-sparse@0.57.0-rc.0
 - pkg:cargo/vortex-sparse@0.57.2
+- pkg:cargo/vortex-sparse@0.58.0
