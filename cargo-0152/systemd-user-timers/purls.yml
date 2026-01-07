@@ -1,6 +1,10 @@
 - pkg:cargo/systemd-user-timers@1.0.0
 - pkg:cargo/systemd-user-timers@1.0.1
 - pkg:cargo/systemd-user-timers@1.0.10
+- pkg:cargo/systemd-user-timers@1.0.11
+- pkg:cargo/systemd-user-timers@1.0.12
+- pkg:cargo/systemd-user-timers@1.0.13
+- pkg:cargo/systemd-user-timers@1.0.14
 - pkg:cargo/systemd-user-timers@1.0.2
 - pkg:cargo/systemd-user-timers@1.0.3
 - pkg:cargo/systemd-user-timers@1.0.4
@@ -8,4 +12,5 @@
 - pkg:cargo/systemd-user-timers@1.0.6
 - pkg:cargo/systemd-user-timers@1.0.7
 - pkg:cargo/systemd-user-timers@1.0.9
+- pkg:cargo/systemd-user-timers@1.1.1
 - pkg:cargo/systemd-user-timers@2026.1.5
