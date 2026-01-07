@@ -24,3 +24,4 @@
 - pkg:cargo/patina_ffs_extractors@18.0.0
 - pkg:cargo/patina_ffs_extractors@18.1.0
 - pkg:cargo/patina_ffs_extractors@19.0.0
+- pkg:cargo/patina_ffs_extractors@19.0.1
