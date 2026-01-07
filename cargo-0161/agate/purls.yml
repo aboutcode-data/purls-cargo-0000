@@ -46,6 +46,7 @@
 - pkg:cargo/agate@3.3.18
 - pkg:cargo/agate@3.3.19
 - pkg:cargo/agate@3.3.2
+- pkg:cargo/agate@3.3.20
 - pkg:cargo/agate@3.3.3
 - pkg:cargo/agate@3.3.4
 - pkg:cargo/agate@3.3.5
