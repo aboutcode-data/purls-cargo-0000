@@ -35,3 +35,4 @@
 - pkg:cargo/rust-rocksdb@0.44.0
 - pkg:cargo/rust-rocksdb@0.44.1
 - pkg:cargo/rust-rocksdb@0.44.2
+- pkg:cargo/rust-rocksdb@0.45.0

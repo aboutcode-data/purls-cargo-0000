@@ -13,3 +13,5 @@
 - pkg:cargo/orderbook-rs@0.4.4
 - pkg:cargo/orderbook-rs@0.4.5
 - pkg:cargo/orderbook-rs@0.4.6
+- pkg:cargo/orderbook-rs@0.4.7
+- pkg:cargo/orderbook-rs@0.4.8
