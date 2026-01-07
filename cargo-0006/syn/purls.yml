@@ -248,6 +248,7 @@
 - pkg:cargo/syn@2.0.111
 - pkg:cargo/syn@2.0.112
 - pkg:cargo/syn@2.0.113
+- pkg:cargo/syn@2.0.114
 - pkg:cargo/syn@2.0.12
 - pkg:cargo/syn@2.0.13
 - pkg:cargo/syn@2.0.14
