@@ -18,3 +18,4 @@
 - pkg:cargo/turso@0.4.0
 - pkg:cargo/turso@0.4.0-pre.17
 - pkg:cargo/turso@0.4.0-pre.19
+- pkg:cargo/turso@0.4.1
