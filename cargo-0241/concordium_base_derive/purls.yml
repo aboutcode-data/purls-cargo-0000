@@ -4,3 +4,4 @@
 - pkg:cargo/concordium_base_derive@1.1.0-alpha.1
 - pkg:cargo/concordium_base_derive@1.1.0-alpha.2
 - pkg:cargo/concordium_base_derive@1.1.0-alpha.3
+- pkg:cargo/concordium_base_derive@1.2.0
