@@ -1,5 +1,6 @@
 - pkg:cargo/stylo_malloc_size_of@0.1.0
 - pkg:cargo/stylo_malloc_size_of@0.1.1
+- pkg:cargo/stylo_malloc_size_of@0.10.0
 - pkg:cargo/stylo_malloc_size_of@0.2.0
 - pkg:cargo/stylo_malloc_size_of@0.3.0
 - pkg:cargo/stylo_malloc_size_of@0.4.0
