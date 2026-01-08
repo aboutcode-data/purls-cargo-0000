@@ -5,3 +5,4 @@
 - pkg:cargo/blockifier_test_utils@0.16.0-rc.0
 - pkg:cargo/blockifier_test_utils@0.16.0-rc.1
 - pkg:cargo/blockifier_test_utils@0.16.0-rc.2
+- pkg:cargo/blockifier_test_utils@0.16.0-rc.3

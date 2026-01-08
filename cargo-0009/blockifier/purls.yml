@@ -10,6 +10,7 @@
 - pkg:cargo/blockifier@0.16.0-rc.0
 - pkg:cargo/blockifier@0.16.0-rc.1
 - pkg:cargo/blockifier@0.16.0-rc.2
+- pkg:cargo/blockifier@0.16.0-rc.3
 - pkg:cargo/blockifier@0.2.0-rc0
 - pkg:cargo/blockifier@0.2.0-rc1
 - pkg:cargo/blockifier@0.3.0-rc0
