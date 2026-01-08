@@ -166,4 +166,5 @@
 - pkg:cargo/salvo_macros@0.87.0
 - pkg:cargo/salvo_macros@0.87.1
 - pkg:cargo/salvo_macros@0.88.0
+- pkg:cargo/salvo_macros@0.88.1
 - pkg:cargo/salvo_macros@0.9.0
