@@ -15,3 +15,5 @@
 - pkg:cargo/opfs-project@0.1.7
 - pkg:cargo/opfs-project@0.1.8
 - pkg:cargo/opfs-project@0.1.9
+- pkg:cargo/opfs-project@0.2.0
+- pkg:cargo/opfs-project@0.2.1

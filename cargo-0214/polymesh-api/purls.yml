@@ -30,6 +30,7 @@
 - pkg:cargo/polymesh-api@3.12.0
 - pkg:cargo/polymesh-api@3.12.1
 - pkg:cargo/polymesh-api@3.13.0
+- pkg:cargo/polymesh-api@3.13.1
 - pkg:cargo/polymesh-api@3.2.0
 - pkg:cargo/polymesh-api@3.2.1
 - pkg:cargo/polymesh-api@3.3.0
