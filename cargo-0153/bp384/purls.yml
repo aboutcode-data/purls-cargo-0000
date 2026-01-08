@@ -7,6 +7,7 @@
 - pkg:cargo/bp384@0.14.0-rc.1
 - pkg:cargo/bp384@0.14.0-rc.2
 - pkg:cargo/bp384@0.14.0-rc.3
+- pkg:cargo/bp384@0.14.0-rc.4
 - pkg:cargo/bp384@0.2.0
 - pkg:cargo/bp384@0.3.0
 - pkg:cargo/bp384@0.4.0
