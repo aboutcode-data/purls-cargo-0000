@@ -32,3 +32,4 @@
 - pkg:cargo/subxt-metadata@0.42.1
 - pkg:cargo/subxt-metadata@0.43.0
 - pkg:cargo/subxt-metadata@0.44.0
+- pkg:cargo/subxt-metadata@0.44.1
