@@ -44,3 +44,4 @@
 - pkg:cargo/many_cpus@1.1.3
 - pkg:cargo/many_cpus@1.1.4
 - pkg:cargo/many_cpus@1.1.5
+- pkg:cargo/many_cpus@2.0.0
