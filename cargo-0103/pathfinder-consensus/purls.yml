@@ -9,3 +9,4 @@
 - pkg:cargo/pathfinder-consensus@0.21.1
 - pkg:cargo/pathfinder-consensus@0.21.2
 - pkg:cargo/pathfinder-consensus@0.21.3
+- pkg:cargo/pathfinder-consensus@0.21.4
