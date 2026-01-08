@@ -61,3 +61,4 @@
 - pkg:cargo/communication-layer-request-reply@0.3.9
 - pkg:cargo/communication-layer-request-reply@0.3.9-rc1
 - pkg:cargo/communication-layer-request-reply@0.3.9-rc2
+- pkg:cargo/communication-layer-request-reply@0.4.0-rc0
