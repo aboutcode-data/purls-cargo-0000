@@ -26,3 +26,4 @@
 - pkg:cargo/ada-url@3.2.4
 - pkg:cargo/ada-url@3.2.6
 - pkg:cargo/ada-url@3.3.0
+- pkg:cargo/ada-url@3.4.1
