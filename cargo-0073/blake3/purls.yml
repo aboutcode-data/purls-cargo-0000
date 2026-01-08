@@ -39,3 +39,4 @@
 - pkg:cargo/blake3@1.8.0
 - pkg:cargo/blake3@1.8.1
 - pkg:cargo/blake3@1.8.2
+- pkg:cargo/blake3@1.8.3
