@@ -5,3 +5,4 @@
 - pkg:cargo/rtimelogger@0.6.5
 - pkg:cargo/rtimelogger@0.8.0
 - pkg:cargo/rtimelogger@0.8.1
+- pkg:cargo/rtimelogger@0.8.3
