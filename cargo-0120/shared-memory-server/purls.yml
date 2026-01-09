@@ -59,4 +59,5 @@
 - pkg:cargo/shared-memory-server@0.3.9
 - pkg:cargo/shared-memory-server@0.3.9-rc1
 - pkg:cargo/shared-memory-server@0.3.9-rc2
+- pkg:cargo/shared-memory-server@0.4.0
 - pkg:cargo/shared-memory-server@0.4.0-rc0
