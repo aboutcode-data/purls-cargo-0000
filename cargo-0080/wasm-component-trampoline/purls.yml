@@ -9,4 +9,5 @@
 - pkg:cargo/wasm-component-trampoline@35.0.0
 - pkg:cargo/wasm-component-trampoline@36.0.0
 - pkg:cargo/wasm-component-trampoline@37.0.0
+- pkg:cargo/wasm-component-trampoline@40.0.0
 - pkg:cargo/wasm-component-trampoline@40.0.0-pre
