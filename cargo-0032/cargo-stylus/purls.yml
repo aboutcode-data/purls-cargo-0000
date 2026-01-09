@@ -6,6 +6,7 @@
 - pkg:cargo/cargo-stylus@0.1.6
 - pkg:cargo/cargo-stylus@0.1.7
 - pkg:cargo/cargo-stylus@0.1.8
+- pkg:cargo/cargo-stylus@0.10.0
 - pkg:cargo/cargo-stylus@0.2.0
 - pkg:cargo/cargo-stylus@0.2.1
 - pkg:cargo/cargo-stylus@0.3.0
