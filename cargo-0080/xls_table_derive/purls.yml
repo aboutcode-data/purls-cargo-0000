@@ -76,6 +76,7 @@
 - pkg:cargo/xls_table_derive@0.8.11
 - pkg:cargo/xls_table_derive@0.8.12
 - pkg:cargo/xls_table_derive@0.8.13
+- pkg:cargo/xls_table_derive@0.8.14
 - pkg:cargo/xls_table_derive@0.8.2
 - pkg:cargo/xls_table_derive@0.8.3
 - pkg:cargo/xls_table_derive@0.8.4
