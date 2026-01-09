@@ -5,3 +5,5 @@
 - pkg:cargo/teamtalk@0.2.3
 - pkg:cargo/teamtalk@0.2.7
 - pkg:cargo/teamtalk@0.3.0
+- pkg:cargo/teamtalk@1.0.0
+- pkg:cargo/teamtalk@1.0.1
