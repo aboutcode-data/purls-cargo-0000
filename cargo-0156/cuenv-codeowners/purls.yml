@@ -3,3 +3,4 @@
 - pkg:cargo/cuenv-codeowners@0.15.6
 - pkg:cargo/cuenv-codeowners@0.15.7
 - pkg:cargo/cuenv-codeowners@0.16.0
+- pkg:cargo/cuenv-codeowners@0.26.2
