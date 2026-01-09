@@ -2,3 +2,4 @@
 - pkg:cargo/zbus_xml@5.0.0
 - pkg:cargo/zbus_xml@5.0.1
 - pkg:cargo/zbus_xml@5.0.2
+- pkg:cargo/zbus_xml@5.1.0
