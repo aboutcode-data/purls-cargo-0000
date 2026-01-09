@@ -1,1 +1,2 @@
 - pkg:cargo/jni-sys-macros@0.1.0
+- pkg:cargo/jni-sys-macros@0.4.1
