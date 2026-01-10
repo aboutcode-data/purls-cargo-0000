@@ -15,3 +15,4 @@
 - pkg:cargo/kcr_operator_tigera_io@2.20251206.153806
 - pkg:cargo/kcr_operator_tigera_io@2.20251213.153849
 - pkg:cargo/kcr_operator_tigera_io@2.20251227.153949
+- pkg:cargo/kcr_operator_tigera_io@2.20260110.154010
