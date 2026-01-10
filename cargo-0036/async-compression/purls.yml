@@ -55,6 +55,7 @@
 - pkg:cargo/async-compression@0.4.34
 - pkg:cargo/async-compression@0.4.35
 - pkg:cargo/async-compression@0.4.36
+- pkg:cargo/async-compression@0.4.37
 - pkg:cargo/async-compression@0.4.4
 - pkg:cargo/async-compression@0.4.5
 - pkg:cargo/async-compression@0.4.6
