@@ -2,3 +2,5 @@
 - pkg:cargo/oboron@0.1.1
 - pkg:cargo/oboron@0.2.0
 - pkg:cargo/oboron@0.3.0
+- pkg:cargo/oboron@0.4.0
+- pkg:cargo/oboron@1.0.0-rc.1
