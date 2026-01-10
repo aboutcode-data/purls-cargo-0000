@@ -5,3 +5,4 @@
 - pkg:cargo/sms-client@1.5.4
 - pkg:cargo/sms-client@1.6.2
 - pkg:cargo/sms-client@1.7.1
+- pkg:cargo/sms-client@2.0.0
