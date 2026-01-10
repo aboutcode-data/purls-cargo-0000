@@ -350,6 +350,7 @@
 - pkg:cargo/http-type@5.33.0
 - pkg:cargo/http-type@5.33.1
 - pkg:cargo/http-type@5.33.2
+- pkg:cargo/http-type@5.33.3
 - pkg:cargo/http-type@5.4.0
 - pkg:cargo/http-type@5.4.1
 - pkg:cargo/http-type@5.4.2
