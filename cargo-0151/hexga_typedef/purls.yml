@@ -20,6 +20,7 @@
 - pkg:cargo/hexga_typedef@0.0.11-beta.4
 - pkg:cargo/hexga_typedef@0.0.11-beta.42
 - pkg:cargo/hexga_typedef@0.0.11-beta.43
+- pkg:cargo/hexga_typedef@0.0.11-beta.47
 - pkg:cargo/hexga_typedef@0.0.2
 - pkg:cargo/hexga_typedef@0.0.3
 - pkg:cargo/hexga_typedef@0.0.4
