@@ -57,6 +57,7 @@
 - pkg:cargo/gio@0.21.4
 - pkg:cargo/gio@0.21.5
 - pkg:cargo/gio@0.22.0-alpha.1
+- pkg:cargo/gio@0.22.0-alpha.2
 - pkg:cargo/gio@0.3.0
 - pkg:cargo/gio@0.4.0
 - pkg:cargo/gio@0.4.1
