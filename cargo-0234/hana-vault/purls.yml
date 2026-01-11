@@ -3,3 +3,4 @@
 - pkg:cargo/hana-vault@1.0.2
 - pkg:cargo/hana-vault@1.0.3
 - pkg:cargo/hana-vault@1.1.0
+- pkg:cargo/hana-vault@2.0.0
