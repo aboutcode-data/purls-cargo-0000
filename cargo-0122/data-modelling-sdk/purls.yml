@@ -10,6 +10,9 @@
 - pkg:cargo/data-modelling-sdk@1.13.4
 - pkg:cargo/data-modelling-sdk@1.13.5
 - pkg:cargo/data-modelling-sdk@1.13.6
+- pkg:cargo/data-modelling-sdk@1.14.0
+- pkg:cargo/data-modelling-sdk@1.14.1
+- pkg:cargo/data-modelling-sdk@1.14.2
 - pkg:cargo/data-modelling-sdk@1.2.0
 - pkg:cargo/data-modelling-sdk@1.5.0
 - pkg:cargo/data-modelling-sdk@1.6.0
