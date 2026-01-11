@@ -23,6 +23,7 @@
 - pkg:cargo/xt@0.19.3
 - pkg:cargo/xt@0.19.4
 - pkg:cargo/xt@0.19.5
+- pkg:cargo/xt@0.20.0
 - pkg:cargo/xt@0.8.0
 - pkg:cargo/xt@0.8.1
 - pkg:cargo/xt@0.9.0

@@ -13,3 +13,5 @@
 - pkg:cargo/bitpiece@0.2.11
 - pkg:cargo/bitpiece@0.2.12
 - pkg:cargo/bitpiece@0.4.0
+- pkg:cargo/bitpiece@1.0.0
+- pkg:cargo/bitpiece@2.2.0
