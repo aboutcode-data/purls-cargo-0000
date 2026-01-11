@@ -52,3 +52,4 @@
 - pkg:cargo/rpfm_lib@4.5.3
 - pkg:cargo/rpfm_lib@4.5.4
 - pkg:cargo/rpfm_lib@4.7.0
+- pkg:cargo/rpfm_lib@4.7.4
