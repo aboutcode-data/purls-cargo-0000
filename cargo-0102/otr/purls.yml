@@ -4,6 +4,7 @@
 - pkg:cargo/otr@0.11.5
 - pkg:cargo/otr@0.11.6
 - pkg:cargo/otr@0.11.7
+- pkg:cargo/otr@0.11.8
 - pkg:cargo/otr@0.6.1
 - pkg:cargo/otr@0.6.2
 - pkg:cargo/otr@0.7.0

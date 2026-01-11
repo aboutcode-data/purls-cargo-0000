@@ -36,6 +36,7 @@
 - pkg:cargo/rustyroad@1.0.22
 - pkg:cargo/rustyroad@1.0.23
 - pkg:cargo/rustyroad@1.0.24
+- pkg:cargo/rustyroad@1.0.25
 - pkg:cargo/rustyroad@1.0.3
 - pkg:cargo/rustyroad@1.0.4
 - pkg:cargo/rustyroad@1.0.5
