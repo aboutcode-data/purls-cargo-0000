@@ -45,3 +45,5 @@
 - pkg:cargo/cas-lib@0.2.69
 - pkg:cargo/cas-lib@0.2.7
 - pkg:cargo/cas-lib@0.2.70
+- pkg:cargo/cas-lib@0.2.71
+- pkg:cargo/cas-lib@0.2.72
