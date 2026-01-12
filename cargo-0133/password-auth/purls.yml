@@ -8,3 +8,4 @@
 - pkg:cargo/password-auth@1.1.0-pre.1
 - pkg:cargo/password-auth@1.1.0-pre.2
 - pkg:cargo/password-auth@1.1.0-pre.3
+- pkg:cargo/password-auth@1.1.0-rc.1

@@ -9,3 +9,4 @@
 - pkg:cargo/cdk-ffi@0.14.2
 - pkg:cargo/cdk-ffi@0.14.2-rc.3
 - pkg:cargo/cdk-ffi@0.14.2-rc.5
+- pkg:cargo/cdk-ffi@0.14.3
