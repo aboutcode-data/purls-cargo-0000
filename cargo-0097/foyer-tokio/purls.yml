@@ -1,3 +1,4 @@
 - pkg:cargo/foyer-tokio@0.22.0
 - pkg:cargo/foyer-tokio@0.22.1
 - pkg:cargo/foyer-tokio@0.22.1-rc1
+- pkg:cargo/foyer-tokio@0.22.2
