@@ -12,3 +12,4 @@
 - pkg:cargo/tinycbor@0.5.3
 - pkg:cargo/tinycbor@0.5.4
 - pkg:cargo/tinycbor@0.6.0
+- pkg:cargo/tinycbor@0.7.0
