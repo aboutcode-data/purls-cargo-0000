@@ -81,3 +81,4 @@
 - pkg:cargo/fastembed@5.6.0
 - pkg:cargo/fastembed@5.7.0
 - pkg:cargo/fastembed@5.8.0
+- pkg:cargo/fastembed@5.8.1
