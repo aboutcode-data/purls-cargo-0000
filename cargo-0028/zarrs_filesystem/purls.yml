@@ -12,3 +12,4 @@
 - pkg:cargo/zarrs_filesystem@0.3.6
 - pkg:cargo/zarrs_filesystem@0.3.7
 - pkg:cargo/zarrs_filesystem@0.3.8
+- pkg:cargo/zarrs_filesystem@0.3.9
