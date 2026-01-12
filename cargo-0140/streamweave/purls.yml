@@ -6,3 +6,4 @@
 - pkg:cargo/streamweave@0.6.0
 - pkg:cargo/streamweave@0.7.0
 - pkg:cargo/streamweave@0.8.2
+- pkg:cargo/streamweave@0.8.3
