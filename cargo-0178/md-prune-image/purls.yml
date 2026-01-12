@@ -1,2 +1,3 @@
 - pkg:cargo/md-prune-image@0.1.0
 - pkg:cargo/md-prune-image@0.2.0
+- pkg:cargo/md-prune-image@1.0.0
