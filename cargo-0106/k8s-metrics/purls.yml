@@ -18,6 +18,7 @@
 - pkg:cargo/k8s-metrics@0.21.1
 - pkg:cargo/k8s-metrics@0.26.0
 - pkg:cargo/k8s-metrics@0.26.1
+- pkg:cargo/k8s-metrics@0.27.0
 - pkg:cargo/k8s-metrics@0.3.0
 - pkg:cargo/k8s-metrics@0.4.0
 - pkg:cargo/k8s-metrics@0.5.0
