@@ -1,3 +1,4 @@
 - pkg:cargo/rstm-state@0.0.8
 - pkg:cargo/rstm-state@0.0.9
 - pkg:cargo/rstm-state@0.1.0
+- pkg:cargo/rstm-state@0.1.1
