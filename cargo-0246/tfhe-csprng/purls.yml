@@ -2,3 +2,4 @@
 - pkg:cargo/tfhe-csprng@0.5.0
 - pkg:cargo/tfhe-csprng@0.6.0
 - pkg:cargo/tfhe-csprng@0.7.0
+- pkg:cargo/tfhe-csprng@0.8.0

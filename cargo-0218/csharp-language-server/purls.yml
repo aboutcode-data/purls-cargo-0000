@@ -1,1 +1,2 @@
 - pkg:cargo/csharp-language-server@0.7.0
+- pkg:cargo/csharp-language-server@0.7.1

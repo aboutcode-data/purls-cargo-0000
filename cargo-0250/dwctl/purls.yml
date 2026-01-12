@@ -22,6 +22,7 @@
 - pkg:cargo/dwctl@0.28.1
 - pkg:cargo/dwctl@0.28.2
 - pkg:cargo/dwctl@0.28.3
+- pkg:cargo/dwctl@0.29.0
 - pkg:cargo/dwctl@0.4.1
 - pkg:cargo/dwctl@0.4.2
 - pkg:cargo/dwctl@0.5.0
