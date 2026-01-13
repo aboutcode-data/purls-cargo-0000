@@ -23,3 +23,4 @@
 - pkg:cargo/kreuzberg-cli@4.0.0-rc.8
 - pkg:cargo/kreuzberg-cli@4.0.0-rc.9
 - pkg:cargo/kreuzberg-cli@4.0.1
+- pkg:cargo/kreuzberg-cli@4.0.2

@@ -20,3 +20,5 @@
 - pkg:cargo/rsenv@2.4.0
 - pkg:cargo/rsenv@2.4.0-alpha.0
 - pkg:cargo/rsenv@2.4.1
+- pkg:cargo/rsenv@3.0.0
+- pkg:cargo/rsenv@3.1.0
