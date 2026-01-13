@@ -63,3 +63,5 @@
 - pkg:cargo/graphannis-core@3.8.3
 - pkg:cargo/graphannis-core@4.0.0
 - pkg:cargo/graphannis-core@4.0.1
+- pkg:cargo/graphannis-core@4.1.0
+- pkg:cargo/graphannis-core@4.1.1

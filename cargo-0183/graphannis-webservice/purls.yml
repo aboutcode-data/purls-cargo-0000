@@ -59,3 +59,5 @@
 - pkg:cargo/graphannis-webservice@3.8.3
 - pkg:cargo/graphannis-webservice@4.0.0
 - pkg:cargo/graphannis-webservice@4.0.1
+- pkg:cargo/graphannis-webservice@4.1.0
+- pkg:cargo/graphannis-webservice@4.1.1
