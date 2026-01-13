@@ -9,6 +9,7 @@
 - pkg:cargo/suricata@7.0.10
 - pkg:cargo/suricata@7.0.12
 - pkg:cargo/suricata@7.0.13
+- pkg:cargo/suricata@7.0.14
 - pkg:cargo/suricata@7.0.5
 - pkg:cargo/suricata@7.0.8
 - pkg:cargo/suricata@8.0.0
@@ -19,3 +20,4 @@
 - pkg:cargo/suricata@8.0.0-rc1.1
 - pkg:cargo/suricata@8.0.1
 - pkg:cargo/suricata@8.0.2
+- pkg:cargo/suricata@8.0.3
