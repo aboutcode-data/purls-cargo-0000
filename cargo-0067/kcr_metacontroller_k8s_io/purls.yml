@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_metacontroller_k8s_io@2.20250915.184901
 - pkg:cargo/kcr_metacontroller_k8s_io@2.20250922.184827
 - pkg:cargo/kcr_metacontroller_k8s_io@2.20250929.184922
+- pkg:cargo/kcr_metacontroller_k8s_io@3.20260112.185743
