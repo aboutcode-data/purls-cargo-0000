@@ -22,6 +22,7 @@
 - pkg:cargo/glass-easel-stylesheet-compiler@0.17.0
 - pkg:cargo/glass-easel-stylesheet-compiler@0.17.1
 - pkg:cargo/glass-easel-stylesheet-compiler@0.17.2
+- pkg:cargo/glass-easel-stylesheet-compiler@0.18.0
 - pkg:cargo/glass-easel-stylesheet-compiler@0.2.0
 - pkg:cargo/glass-easel-stylesheet-compiler@0.2.1
 - pkg:cargo/glass-easel-stylesheet-compiler@0.3.0
