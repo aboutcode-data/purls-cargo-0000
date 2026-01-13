@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_infra_contrib_fluxcd_io@2.20250923.112935
 - pkg:cargo/kcr_infra_contrib_fluxcd_io@2.20250930.113057
 - pkg:cargo/kcr_infra_contrib_fluxcd_io@2.20251118.113319
+- pkg:cargo/kcr_infra_contrib_fluxcd_io@3.20260113.113753
