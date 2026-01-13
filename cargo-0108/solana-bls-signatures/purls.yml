@@ -3,3 +3,4 @@
 - pkg:cargo/solana-bls-signatures@0.3.0
 - pkg:cargo/solana-bls-signatures@1.0.0
 - pkg:cargo/solana-bls-signatures@2.0.0-alpha.1
+- pkg:cargo/solana-bls-signatures@3.0.0
