@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_cloudwatch_aws_amazon_com@2.20250917.152831
 - pkg:cargo/kcr_cloudwatch_aws_amazon_com@2.20250924.152831
 - pkg:cargo/kcr_cloudwatch_aws_amazon_com@2.20251001.152802
+- pkg:cargo/kcr_cloudwatch_aws_amazon_com@3.20260114.153537

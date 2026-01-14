@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_sqs_services_k8s_aws@2.20250924.130736
 - pkg:cargo/kcr_sqs_services_k8s_aws@2.20251001.130854
 - pkg:cargo/kcr_sqs_services_k8s_aws@2.20260107.132423
+- pkg:cargo/kcr_sqs_services_k8s_aws@3.20260114.132556
