@@ -5,3 +5,4 @@
 - pkg:cargo/bevy_serde_lens_core@0.16.0
 - pkg:cargo/bevy_serde_lens_core@0.16.0-rc.3
 - pkg:cargo/bevy_serde_lens_core@0.17.0
+- pkg:cargo/bevy_serde_lens_core@0.18.0
