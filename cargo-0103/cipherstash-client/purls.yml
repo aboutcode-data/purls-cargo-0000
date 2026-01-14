@@ -33,7 +33,9 @@
 - pkg:cargo/cipherstash-client@0.30.0
 - pkg:cargo/cipherstash-client@0.31.0
 - pkg:cargo/cipherstash-client@0.31.1
+- pkg:cargo/cipherstash-client@0.31.2
 - pkg:cargo/cipherstash-client@0.32.0
+- pkg:cargo/cipherstash-client@0.32.1
 - pkg:cargo/cipherstash-client@0.4.0
 - pkg:cargo/cipherstash-client@0.4.0-beta.0
 - pkg:cargo/cipherstash-client@0.4.0-beta.1

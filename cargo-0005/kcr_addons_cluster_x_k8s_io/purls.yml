@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_addons_cluster_x_k8s_io@2.20250916.185116
 - pkg:cargo/kcr_addons_cluster_x_k8s_io@2.20250923.185219
 - pkg:cargo/kcr_addons_cluster_x_k8s_io@2.20250930.185118
+- pkg:cargo/kcr_addons_cluster_x_k8s_io@3.20260113.185912
