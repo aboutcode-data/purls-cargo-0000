@@ -55,3 +55,4 @@
 - pkg:cargo/soroban-env-common@24.0.0
 - pkg:cargo/soroban-env-common@25.0.0
 - pkg:cargo/soroban-env-common@25.0.0-rc.1
+- pkg:cargo/soroban-env-common@25.0.1
