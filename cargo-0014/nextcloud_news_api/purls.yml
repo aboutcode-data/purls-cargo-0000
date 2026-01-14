@@ -4,3 +4,4 @@
 - pkg:cargo/nextcloud_news_api@0.3.0
 - pkg:cargo/nextcloud_news_api@0.4.0
 - pkg:cargo/nextcloud_news_api@0.4.1
+- pkg:cargo/nextcloud_news_api@0.5.0
