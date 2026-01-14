@@ -25,6 +25,7 @@
 - pkg:cargo/potato-macro@0.2.11
 - pkg:cargo/potato-macro@0.2.13
 - pkg:cargo/potato-macro@0.2.18
+- pkg:cargo/potato-macro@0.2.19
 - pkg:cargo/potato-macro@0.2.6
 - pkg:cargo/potato-macro@0.2.8
 - pkg:cargo/potato-macro@0.2.9
