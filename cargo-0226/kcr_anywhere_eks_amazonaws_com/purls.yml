@@ -19,3 +19,4 @@
 - pkg:cargo/kcr_anywhere_eks_amazonaws_com@2.20251105.111634
 - pkg:cargo/kcr_anywhere_eks_amazonaws_com@2.20251112.111656
 - pkg:cargo/kcr_anywhere_eks_amazonaws_com@2.20251126.111629
+- pkg:cargo/kcr_anywhere_eks_amazonaws_com@3.20260114.112023

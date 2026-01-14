@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20250917.94901
 - pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20250924.94849
 - pkg:cargo/kcr_secrets_store_csi_x_k8s_io@2.20251001.94916
+- pkg:cargo/kcr_secrets_store_csi_x_k8s_io@3.20260114.95544
