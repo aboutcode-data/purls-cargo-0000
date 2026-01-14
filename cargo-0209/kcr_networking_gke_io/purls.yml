@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_networking_gke_io@2.20250917.24655
 - pkg:cargo/kcr_networking_gke_io@2.20250924.25247
 - pkg:cargo/kcr_networking_gke_io@2.20251001.30403
+- pkg:cargo/kcr_networking_gke_io@3.20260114.32700
