@@ -23,3 +23,4 @@
 - pkg:cargo/s2n-tls-hyper@0.0.7
 - pkg:cargo/s2n-tls-hyper@0.0.8
 - pkg:cargo/s2n-tls-hyper@0.0.9
+- pkg:cargo/s2n-tls-hyper@0.1.0
