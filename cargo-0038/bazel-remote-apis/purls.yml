@@ -12,6 +12,7 @@
 - pkg:cargo/bazel-remote-apis@0.19.0
 - pkg:cargo/bazel-remote-apis@0.20.0
 - pkg:cargo/bazel-remote-apis@0.21.0
+- pkg:cargo/bazel-remote-apis@0.22.0
 - pkg:cargo/bazel-remote-apis@0.3.0
 - pkg:cargo/bazel-remote-apis@0.4.0
 - pkg:cargo/bazel-remote-apis@0.5.0
