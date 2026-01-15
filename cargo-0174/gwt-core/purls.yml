@@ -1,3 +1,6 @@
 - pkg:cargo/gwt-core@5.0.0
+- pkg:cargo/gwt-core@5.5.0
 - pkg:cargo/gwt-core@6.0.0
+- pkg:cargo/gwt-core@6.0.1
 - pkg:cargo/gwt-core@6.0.2
+- pkg:cargo/gwt-core@6.0.3
