@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_beegfs_csi_netapp_com@2.20250925.70024
 - pkg:cargo/kcr_beegfs_csi_netapp_com@2.20251002.70023
 - pkg:cargo/kcr_beegfs_csi_netapp_com@2.20251016.70019
+- pkg:cargo/kcr_beegfs_csi_netapp_com@3.20260115.71431

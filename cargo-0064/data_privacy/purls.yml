@@ -1,4 +1,5 @@
 - pkg:cargo/data_privacy@0.10.0
+- pkg:cargo/data_privacy@0.10.1
 - pkg:cargo/data_privacy@0.2.1
 - pkg:cargo/data_privacy@0.2.10
 - pkg:cargo/data_privacy@0.2.11

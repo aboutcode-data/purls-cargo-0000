@@ -18,3 +18,4 @@
 - pkg:cargo/kcr_k8s_mariadb_com@2.20251211.64734
 - pkg:cargo/kcr_k8s_mariadb_com@2.20251225.64615
 - pkg:cargo/kcr_k8s_mariadb_com@2.20260101.64737
+- pkg:cargo/kcr_k8s_mariadb_com@3.20260115.64831
