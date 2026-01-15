@@ -1,4 +1,8 @@
 - pkg:cargo/cctr@0.1.0
+- pkg:cargo/cctr@0.10.0
+- pkg:cargo/cctr@0.11.1
+- pkg:cargo/cctr@0.11.2
+- pkg:cargo/cctr@0.12.0
 - pkg:cargo/cctr@0.2.0
 - pkg:cargo/cctr@0.4.0
 - pkg:cargo/cctr@0.5.0
