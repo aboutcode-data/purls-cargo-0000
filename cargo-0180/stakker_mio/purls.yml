@@ -10,3 +10,4 @@
 - pkg:cargo/stakker_mio@0.2.3
 - pkg:cargo/stakker_mio@0.2.4
 - pkg:cargo/stakker_mio@0.2.5
+- pkg:cargo/stakker_mio@0.3.0
