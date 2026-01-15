@@ -92,6 +92,7 @@
 - pkg:cargo/revm@33.0.0
 - pkg:cargo/revm@33.0.1
 - pkg:cargo/revm@33.1.0
+- pkg:cargo/revm@34.0.0
 - pkg:cargo/revm@4.0.0
 - pkg:cargo/revm@5.0.0
 - pkg:cargo/revm@6.0.0
