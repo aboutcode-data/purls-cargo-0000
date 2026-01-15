@@ -85,6 +85,7 @@
 - pkg:cargo/chrono@0.4.40
 - pkg:cargo/chrono@0.4.41
 - pkg:cargo/chrono@0.4.42
+- pkg:cargo/chrono@0.4.43
 - pkg:cargo/chrono@0.4.5
 - pkg:cargo/chrono@0.4.6
 - pkg:cargo/chrono@0.4.7
