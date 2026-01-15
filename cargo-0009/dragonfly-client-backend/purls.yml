@@ -208,3 +208,4 @@
 - pkg:cargo/dragonfly-client-backend@1.1.8
 - pkg:cargo/dragonfly-client-backend@1.1.9
 - pkg:cargo/dragonfly-client-backend@1.2.0
+- pkg:cargo/dragonfly-client-backend@1.2.1
