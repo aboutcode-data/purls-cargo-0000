@@ -9,6 +9,7 @@
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.17
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.2
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.33
+- pkg:cargo/calimero-node-primitives@0.10.0-rc.34
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.4
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.5
 - pkg:cargo/calimero-node-primitives@0.10.0-rc.6
