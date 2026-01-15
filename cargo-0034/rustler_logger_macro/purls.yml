@@ -1,1 +1,2 @@
 - pkg:cargo/rustler_logger_macro@0.4.2
+- pkg:cargo/rustler_logger_macro@0.4.3
