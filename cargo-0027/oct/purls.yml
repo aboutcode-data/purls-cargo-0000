@@ -32,3 +32,4 @@
 - pkg:cargo/oct@0.28.0
 - pkg:cargo/oct@0.28.1
 - pkg:cargo/oct@0.28.2
+- pkg:cargo/oct@0.29.0
