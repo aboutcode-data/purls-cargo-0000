@@ -58,6 +58,7 @@
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.6.0
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.60.0
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.61.0
+- pkg:cargo/aws-sdk-pcaconnectorscep@1.62.0
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.7.0
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.8.0
 - pkg:cargo/aws-sdk-pcaconnectorscep@1.9.0

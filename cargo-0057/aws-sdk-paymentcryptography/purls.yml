@@ -12,6 +12,7 @@
 - pkg:cargo/aws-sdk-paymentcryptography@0.9.0
 - pkg:cargo/aws-sdk-paymentcryptography@1.1.0
 - pkg:cargo/aws-sdk-paymentcryptography@1.10.0
+- pkg:cargo/aws-sdk-paymentcryptography@1.100.0
 - pkg:cargo/aws-sdk-paymentcryptography@1.11.0
 - pkg:cargo/aws-sdk-paymentcryptography@1.12.0
 - pkg:cargo/aws-sdk-paymentcryptography@1.13.0

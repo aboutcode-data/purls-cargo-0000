@@ -124,3 +124,4 @@
 - pkg:cargo/aws-sdk-billingconductor@1.92.0
 - pkg:cargo/aws-sdk-billingconductor@1.93.0
 - pkg:cargo/aws-sdk-billingconductor@1.94.0
+- pkg:cargo/aws-sdk-billingconductor@1.95.0

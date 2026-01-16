@@ -6,3 +6,4 @@
 - pkg:cargo/aws-sdk-rtbfabric@1.4.0
 - pkg:cargo/aws-sdk-rtbfabric@1.5.0
 - pkg:cargo/aws-sdk-rtbfabric@1.6.0
+- pkg:cargo/aws-sdk-rtbfabric@1.7.0
