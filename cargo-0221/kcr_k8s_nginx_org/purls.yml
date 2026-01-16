@@ -17,3 +17,4 @@
 - pkg:cargo/kcr_k8s_nginx_org@2.20251010.85110
 - pkg:cargo/kcr_k8s_nginx_org@2.20251121.85342
 - pkg:cargo/kcr_k8s_nginx_org@2.20251212.85743
+- pkg:cargo/kcr_k8s_nginx_org@3.20260116.85745
