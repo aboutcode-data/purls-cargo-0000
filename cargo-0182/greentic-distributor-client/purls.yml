@@ -8,6 +8,8 @@
 - pkg:cargo/greentic-distributor-client@0.4.19
 - pkg:cargo/greentic-distributor-client@0.4.2
 - pkg:cargo/greentic-distributor-client@0.4.20
+- pkg:cargo/greentic-distributor-client@0.4.21
+- pkg:cargo/greentic-distributor-client@0.4.22
 - pkg:cargo/greentic-distributor-client@0.4.4
 - pkg:cargo/greentic-distributor-client@0.4.8
 - pkg:cargo/greentic-distributor-client@0.4.9
