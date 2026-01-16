@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_wildfly_org@2.20250918.224838
 - pkg:cargo/kcr_wildfly_org@2.20250925.224835
 - pkg:cargo/kcr_wildfly_org@2.20251002.224844
+- pkg:cargo/kcr_wildfly_org@3.20260115.225348

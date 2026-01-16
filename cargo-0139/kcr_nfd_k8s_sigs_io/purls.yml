@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_nfd_k8s_sigs_io@2.20250918.191713
 - pkg:cargo/kcr_nfd_k8s_sigs_io@2.20250925.191655
 - pkg:cargo/kcr_nfd_k8s_sigs_io@2.20251002.191544
+- pkg:cargo/kcr_nfd_k8s_sigs_io@3.20260115.192657
