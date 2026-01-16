@@ -1,1 +1,2 @@
 - pkg:cargo/ytls-rustcrypto@0.0.1
+- pkg:cargo/ytls-rustcrypto@0.0.2
