@@ -1,1 +1,2 @@
 - pkg:cargo/dynamo-memory@0.0.0-prerelease.0
+- pkg:cargo/dynamo-memory@0.8.0
