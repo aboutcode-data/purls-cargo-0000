@@ -10,7 +10,9 @@
 - pkg:cargo/bevy_ecs_tilemap@0.16.0-rc.2
 - pkg:cargo/bevy_ecs_tilemap@0.17.0
 - pkg:cargo/bevy_ecs_tilemap@0.17.0-rc.1
+- pkg:cargo/bevy_ecs_tilemap@0.18.0
 - pkg:cargo/bevy_ecs_tilemap@0.18.0-rc.1
+- pkg:cargo/bevy_ecs_tilemap@0.18.1
 - pkg:cargo/bevy_ecs_tilemap@0.2.0
 - pkg:cargo/bevy_ecs_tilemap@0.3.0
 - pkg:cargo/bevy_ecs_tilemap@0.4.0
