@@ -6,3 +6,4 @@
 - pkg:cargo/nova-sdk-rs@0.4.0
 - pkg:cargo/nova-sdk-rs@0.4.1
 - pkg:cargo/nova-sdk-rs@1.0.0
+- pkg:cargo/nova-sdk-rs@1.0.1
