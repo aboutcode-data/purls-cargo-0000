@@ -1,2 +1,6 @@
 - pkg:cargo/liblmdb@0.0.0
 - pkg:cargo/liblmdb@0.9.70
+- pkg:cargo/liblmdb@0.9.70-40d3741
+- pkg:cargo/liblmdb@0.9.70-commit.40d3741
+- pkg:cargo/liblmdb@0.9.70-pre.1
+- pkg:cargo/liblmdb@0.9.71-pre.1
