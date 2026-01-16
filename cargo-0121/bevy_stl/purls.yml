@@ -6,6 +6,7 @@
 - pkg:cargo/bevy_stl@0.15.0
 - pkg:cargo/bevy_stl@0.16.0
 - pkg:cargo/bevy_stl@0.17.0
+- pkg:cargo/bevy_stl@0.18.0
 - pkg:cargo/bevy_stl@0.2.0
 - pkg:cargo/bevy_stl@0.3.0
 - pkg:cargo/bevy_stl@0.4.0
