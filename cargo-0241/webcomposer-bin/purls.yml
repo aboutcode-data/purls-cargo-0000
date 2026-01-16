@@ -9,3 +9,6 @@
 - pkg:cargo/webcomposer-bin@0.2.3
 - pkg:cargo/webcomposer-bin@0.2.4
 - pkg:cargo/webcomposer-bin@0.2.5
+- pkg:cargo/webcomposer-bin@0.2.6
+- pkg:cargo/webcomposer-bin@0.2.7
+- pkg:cargo/webcomposer-bin@0.2.8
