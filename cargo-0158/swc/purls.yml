@@ -1408,6 +1408,7 @@
 - pkg:cargo/swc@50.0.0
 - pkg:cargo/swc@51.0.0
 - pkg:cargo/swc@52.0.0
+- pkg:cargo/swc@53.0.0
 - pkg:cargo/swc@6.0.0
 - pkg:cargo/swc@7.0.0
 - pkg:cargo/swc@8.0.0
