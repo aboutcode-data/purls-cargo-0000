@@ -16,3 +16,4 @@
 - pkg:cargo/duat-term@0.7.5
 - pkg:cargo/duat-term@0.8.0
 - pkg:cargo/duat-term@0.8.1
+- pkg:cargo/duat-term@0.8.2
