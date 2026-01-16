@@ -1,3 +1,5 @@
 - pkg:cargo/smmalloc@7.4.7
 - pkg:cargo/smmalloc@7.4.8
 - pkg:cargo/smmalloc@7.5.0
+- pkg:cargo/smmalloc@7.5.6
+- pkg:cargo/smmalloc@7.5.7
