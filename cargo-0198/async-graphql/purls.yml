@@ -432,3 +432,4 @@
 - pkg:cargo/async-graphql@7.0.8
 - pkg:cargo/async-graphql@7.0.9
 - pkg:cargo/async-graphql@7.1.0
+- pkg:cargo/async-graphql@7.2.0
