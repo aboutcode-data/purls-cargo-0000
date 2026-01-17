@@ -29,3 +29,4 @@
 - pkg:cargo/kcr_monitoring_coreos_com@2.20251220.145336
 - pkg:cargo/kcr_monitoring_coreos_com@2.20251227.145324
 - pkg:cargo/kcr_monitoring_coreos_com@2.20260110.145348
+- pkg:cargo/kcr_monitoring_coreos_com@3.20260117.145325
