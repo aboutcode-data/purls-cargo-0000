@@ -18,3 +18,4 @@
 - pkg:cargo/datafusion-ethers@49.1.0
 - pkg:cargo/datafusion-ethers@50.0.0
 - pkg:cargo/datafusion-ethers@51.0.0
+- pkg:cargo/datafusion-ethers@52.0.0
