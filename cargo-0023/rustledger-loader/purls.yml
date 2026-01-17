@@ -1,1 +1,2 @@
 - pkg:cargo/rustledger-loader@0.1.0
+- pkg:cargo/rustledger-loader@0.3.0
