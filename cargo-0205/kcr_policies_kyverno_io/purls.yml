@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_policies_kyverno_io@2.20251025.33834
 - pkg:cargo/kcr_policies_kyverno_io@2.20251101.34642
 - pkg:cargo/kcr_policies_kyverno_io@2.20251220.35215
+- pkg:cargo/kcr_policies_kyverno_io@3.20260117.35905
