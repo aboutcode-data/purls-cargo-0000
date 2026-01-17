@@ -12,3 +12,4 @@
 - pkg:cargo/sqlitegraph@0.2.7
 - pkg:cargo/sqlitegraph@0.2.8
 - pkg:cargo/sqlitegraph@0.2.9
+- pkg:cargo/sqlitegraph@1.0.0
