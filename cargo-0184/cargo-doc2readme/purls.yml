@@ -32,3 +32,4 @@
 - pkg:cargo/cargo-doc2readme@0.6.1
 - pkg:cargo/cargo-doc2readme@0.6.2
 - pkg:cargo/cargo-doc2readme@0.6.3
+- pkg:cargo/cargo-doc2readme@0.6.4
