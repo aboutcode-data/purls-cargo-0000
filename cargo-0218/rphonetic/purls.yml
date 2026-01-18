@@ -17,3 +17,5 @@
 - pkg:cargo/rphonetic@3.0.2
 - pkg:cargo/rphonetic@3.0.3
 - pkg:cargo/rphonetic@3.0.4
+- pkg:cargo/rphonetic@3.0.5
+- pkg:cargo/rphonetic@3.0.6
