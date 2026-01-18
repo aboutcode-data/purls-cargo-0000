@@ -6,3 +6,4 @@
 - pkg:cargo/kcr_monitoring_giantswarm_io@1.20250823.222853
 - pkg:cargo/kcr_monitoring_giantswarm_io@2.20250913.222601
 - pkg:cargo/kcr_monitoring_giantswarm_io@2.20250927.222707
+- pkg:cargo/kcr_monitoring_giantswarm_io@3.20260117.223221
