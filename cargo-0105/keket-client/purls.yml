@@ -39,3 +39,4 @@
 - pkg:cargo/keket-client@0.19.3
 - pkg:cargo/keket-client@0.19.4
 - pkg:cargo/keket-client@0.20.1
+- pkg:cargo/keket-client@0.20.2
