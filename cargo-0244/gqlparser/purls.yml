@@ -1,1 +1,2 @@
 - pkg:cargo/gqlparser@0.1.0
+- pkg:cargo/gqlparser@0.8.0
