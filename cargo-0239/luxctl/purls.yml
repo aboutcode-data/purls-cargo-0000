@@ -5,3 +5,4 @@
 - pkg:cargo/luxctl@0.5.5
 - pkg:cargo/luxctl@0.5.7
 - pkg:cargo/luxctl@0.5.8
+- pkg:cargo/luxctl@0.6.2
