@@ -7,3 +7,4 @@
 - pkg:cargo/kcr_multicluster_crd_antrea_io@1.20250824.75216
 - pkg:cargo/kcr_multicluster_crd_antrea_io@2.20250914.75202
 - pkg:cargo/kcr_multicluster_crd_antrea_io@2.20250928.75219
+- pkg:cargo/kcr_multicluster_crd_antrea_io@3.20260118.75216

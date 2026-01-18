@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_policy_networking_k8s_io@2.20250914.103813
 - pkg:cargo/kcr_policy_networking_k8s_io@2.20250928.103945
 - pkg:cargo/kcr_policy_networking_k8s_io@2.20251116.104151
+- pkg:cargo/kcr_policy_networking_k8s_io@3.20260118.104523
