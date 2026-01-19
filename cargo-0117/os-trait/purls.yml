@@ -2,6 +2,7 @@
 - pkg:cargo/os-trait@0.1.1
 - pkg:cargo/os-trait@0.10.0
 - pkg:cargo/os-trait@0.10.1
+- pkg:cargo/os-trait@0.10.2
 - pkg:cargo/os-trait@0.2.0
 - pkg:cargo/os-trait@0.3.0
 - pkg:cargo/os-trait@0.3.1
