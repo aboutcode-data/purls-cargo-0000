@@ -14,6 +14,7 @@
 - pkg:cargo/ravif@0.11.8
 - pkg:cargo/ravif@0.11.9
 - pkg:cargo/ravif@0.12.0
+- pkg:cargo/ravif@0.13.0
 - pkg:cargo/ravif@0.6.1
 - pkg:cargo/ravif@0.6.2
 - pkg:cargo/ravif@0.6.3
