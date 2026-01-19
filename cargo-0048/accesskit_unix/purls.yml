@@ -18,6 +18,7 @@
 - pkg:cargo/accesskit_unix@0.17.2
 - pkg:cargo/accesskit_unix@0.18.0
 - pkg:cargo/accesskit_unix@0.19.0
+- pkg:cargo/accesskit_unix@0.19.1
 - pkg:cargo/accesskit_unix@0.2.0
 - pkg:cargo/accesskit_unix@0.3.0
 - pkg:cargo/accesskit_unix@0.3.1
