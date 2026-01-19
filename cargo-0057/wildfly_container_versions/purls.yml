@@ -21,3 +21,4 @@
 - pkg:cargo/wildfly_container_versions@0.2.4
 - pkg:cargo/wildfly_container_versions@0.2.5
 - pkg:cargo/wildfly_container_versions@0.2.6
+- pkg:cargo/wildfly_container_versions@39.0.0
