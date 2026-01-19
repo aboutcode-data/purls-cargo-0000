@@ -15,3 +15,5 @@
 - pkg:cargo/runa-tui@0.5.1
 - pkg:cargo/runa-tui@0.5.2
 - pkg:cargo/runa-tui@0.5.3
+- pkg:cargo/runa-tui@0.5.4
+- pkg:cargo/runa-tui@0.5.5

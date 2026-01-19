@@ -69,6 +69,7 @@
 - pkg:cargo/trane@0.23.5
 - pkg:cargo/trane@0.24.0
 - pkg:cargo/trane@0.24.1
+- pkg:cargo/trane@0.25.0
 - pkg:cargo/trane@0.3.0
 - pkg:cargo/trane@0.3.1
 - pkg:cargo/trane@0.3.2
