@@ -34,3 +34,4 @@
 - pkg:cargo/oct-macros@0.28.2
 - pkg:cargo/oct-macros@0.29.0
 - pkg:cargo/oct-macros@0.29.2
+- pkg:cargo/oct-macros@0.30.0
