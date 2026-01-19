@@ -1,6 +1,7 @@
 - pkg:cargo/opentalk-types-signaling-e2ee@0.1.0
 - pkg:cargo/opentalk-types-signaling-e2ee@0.10.0
 - pkg:cargo/opentalk-types-signaling-e2ee@0.11.0
+- pkg:cargo/opentalk-types-signaling-e2ee@0.12.0
 - pkg:cargo/opentalk-types-signaling-e2ee@0.2.0
 - pkg:cargo/opentalk-types-signaling-e2ee@0.3.0
 - pkg:cargo/opentalk-types-signaling-e2ee@0.4.0
