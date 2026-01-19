@@ -3,3 +3,4 @@
 - pkg:cargo/tauri-plugin-config-manager@2.0.2
 - pkg:cargo/tauri-plugin-config-manager@2.0.3
 - pkg:cargo/tauri-plugin-config-manager@2.0.4
+- pkg:cargo/tauri-plugin-config-manager@2.1.0
