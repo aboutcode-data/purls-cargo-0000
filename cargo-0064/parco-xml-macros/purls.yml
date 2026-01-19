@@ -5,3 +5,4 @@
 - pkg:cargo/parco-xml-macros@0.1.5
 - pkg:cargo/parco-xml-macros@0.1.6
 - pkg:cargo/parco-xml-macros@0.1.8
+- pkg:cargo/parco-xml-macros@0.2.1
