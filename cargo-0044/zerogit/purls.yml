@@ -1,1 +1,5 @@
 - pkg:cargo/zerogit@0.2.0
+- pkg:cargo/zerogit@0.3.0
+- pkg:cargo/zerogit@0.3.5
+- pkg:cargo/zerogit@0.3.6
+- pkg:cargo/zerogit@0.3.7
