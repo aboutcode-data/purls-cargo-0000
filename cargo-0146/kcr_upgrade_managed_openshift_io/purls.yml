@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250915.112354
 - pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250922.112513
 - pkg:cargo/kcr_upgrade_managed_openshift_io@2.20250929.112455
+- pkg:cargo/kcr_upgrade_managed_openshift_io@3.20260119.113326
