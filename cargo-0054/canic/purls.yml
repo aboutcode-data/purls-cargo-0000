@@ -140,3 +140,5 @@
 - pkg:cargo/canic@0.8.4
 - pkg:cargo/canic@0.8.5
 - pkg:cargo/canic@0.8.6
+- pkg:cargo/canic@0.8.7
+- pkg:cargo/canic@0.9.1
