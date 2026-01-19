@@ -17,5 +17,7 @@
 - pkg:cargo/ttl@0.12.4
 - pkg:cargo/ttl@0.12.5
 - pkg:cargo/ttl@0.12.6
+- pkg:cargo/ttl@0.12.7
+- pkg:cargo/ttl@0.12.8
 - pkg:cargo/ttl@0.2.0
 - pkg:cargo/ttl@0.5.0
