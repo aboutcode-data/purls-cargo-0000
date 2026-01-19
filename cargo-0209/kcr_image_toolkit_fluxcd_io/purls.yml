@@ -13,3 +13,4 @@
 - pkg:cargo/kcr_image_toolkit_fluxcd_io@1.20250825.24310
 - pkg:cargo/kcr_image_toolkit_fluxcd_io@2.20250915.22729
 - pkg:cargo/kcr_image_toolkit_fluxcd_io@2.20250929.22405
+- pkg:cargo/kcr_image_toolkit_fluxcd_io@3.20260119.30430

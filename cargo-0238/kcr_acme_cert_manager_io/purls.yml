@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_acme_cert_manager_io@1.20250825.31931
 - pkg:cargo/kcr_acme_cert_manager_io@2.20250915.31207
 - pkg:cargo/kcr_acme_cert_manager_io@2.20250929.30929
+- pkg:cargo/kcr_acme_cert_manager_io@3.20260119.35549
