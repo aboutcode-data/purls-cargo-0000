@@ -82,6 +82,7 @@
 - pkg:cargo/cranelift-codegen-meta@0.127.0
 - pkg:cargo/cranelift-codegen-meta@0.127.1
 - pkg:cargo/cranelift-codegen-meta@0.127.2
+- pkg:cargo/cranelift-codegen-meta@0.128.0
 - pkg:cargo/cranelift-codegen-meta@0.18.0
 - pkg:cargo/cranelift-codegen-meta@0.18.1
 - pkg:cargo/cranelift-codegen-meta@0.19.0

@@ -82,6 +82,7 @@
 - pkg:cargo/cranelift-interpreter@0.127.0
 - pkg:cargo/cranelift-interpreter@0.127.1
 - pkg:cargo/cranelift-interpreter@0.127.2
+- pkg:cargo/cranelift-interpreter@0.128.0
 - pkg:cargo/cranelift-interpreter@0.66.0
 - pkg:cargo/cranelift-interpreter@0.67.0
 - pkg:cargo/cranelift-interpreter@0.68.0
