@@ -2,6 +2,7 @@
 - pkg:cargo/sacp-trace-viewer@10.0.0
 - pkg:cargo/sacp-trace-viewer@10.0.0-alpha.1
 - pkg:cargo/sacp-trace-viewer@10.0.0-alpha.2
+- pkg:cargo/sacp-trace-viewer@11.0.0-alpha.1
 - pkg:cargo/sacp-trace-viewer@6.0.0
 - pkg:cargo/sacp-trace-viewer@7.0.0
 - pkg:cargo/sacp-trace-viewer@8.0.0

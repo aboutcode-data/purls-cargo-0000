@@ -13,6 +13,7 @@
 - pkg:cargo/sacp-rmcp@10.0.0-alpha.3
 - pkg:cargo/sacp-rmcp@10.0.0-alpha.4
 - pkg:cargo/sacp-rmcp@10.0.1
+- pkg:cargo/sacp-rmcp@11.0.0-alpha.1
 - pkg:cargo/sacp-rmcp@6.0.0
 - pkg:cargo/sacp-rmcp@7.0.0
 - pkg:cargo/sacp-rmcp@8.0.0
