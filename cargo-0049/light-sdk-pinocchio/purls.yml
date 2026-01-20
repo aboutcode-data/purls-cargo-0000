@@ -1,3 +1,4 @@
 - pkg:cargo/light-sdk-pinocchio@0.13.0
 - pkg:cargo/light-sdk-pinocchio@0.16.0
 - pkg:cargo/light-sdk-pinocchio@0.17.1
+- pkg:cargo/light-sdk-pinocchio@0.18.0
