@@ -1,1 +1,2 @@
 - pkg:cargo/gravitydb_derive@0.2.0
+- pkg:cargo/gravitydb_derive@0.3.0
