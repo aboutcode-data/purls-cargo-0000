@@ -83,6 +83,7 @@
 - pkg:cargo/tpm2-protocol@0.16.3
 - pkg:cargo/tpm2-protocol@0.16.4
 - pkg:cargo/tpm2-protocol@0.16.5
+- pkg:cargo/tpm2-protocol@0.16.6
 - pkg:cargo/tpm2-protocol@0.5.0
 - pkg:cargo/tpm2-protocol@0.5.1
 - pkg:cargo/tpm2-protocol@0.5.2
