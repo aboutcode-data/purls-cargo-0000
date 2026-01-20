@@ -377,3 +377,4 @@
 - pkg:cargo/http-type@6.0.3
 - pkg:cargo/http-type@6.0.4
 - pkg:cargo/http-type@6.0.5
+- pkg:cargo/http-type@6.0.6
