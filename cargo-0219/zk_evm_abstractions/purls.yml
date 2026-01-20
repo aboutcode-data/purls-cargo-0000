@@ -41,3 +41,4 @@
 - pkg:cargo/zk_evm_abstractions@0.153.3
 - pkg:cargo/zk_evm_abstractions@0.153.4
 - pkg:cargo/zk_evm_abstractions@0.153.5
+- pkg:cargo/zk_evm_abstractions@0.153.6
