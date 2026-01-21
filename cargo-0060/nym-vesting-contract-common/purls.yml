@@ -6,3 +6,4 @@
 - pkg:cargo/nym-vesting-contract-common@0.6.0
 - pkg:cargo/nym-vesting-contract-common@0.7.0
 - pkg:cargo/nym-vesting-contract-common@0.8.0
+- pkg:cargo/nym-vesting-contract-common@1.20.4
