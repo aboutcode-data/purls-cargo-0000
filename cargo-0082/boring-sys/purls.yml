@@ -33,6 +33,7 @@
 - pkg:cargo/boring-sys@4.19.0
 - pkg:cargo/boring-sys@4.2.0
 - pkg:cargo/boring-sys@4.20.0
+- pkg:cargo/boring-sys@4.21.0
 - pkg:cargo/boring-sys@4.3.0
 - pkg:cargo/boring-sys@4.4.0
 - pkg:cargo/boring-sys@4.4.1
@@ -42,3 +43,4 @@
 - pkg:cargo/boring-sys@4.8.0
 - pkg:cargo/boring-sys@4.9.0
 - pkg:cargo/boring-sys@4.9.1
+- pkg:cargo/boring-sys@5.0.0-alpha.1
