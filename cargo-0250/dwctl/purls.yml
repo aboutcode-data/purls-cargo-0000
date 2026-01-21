@@ -43,3 +43,5 @@
 - pkg:cargo/dwctl@2.4.1
 - pkg:cargo/dwctl@2.4.2
 - pkg:cargo/dwctl@2.5.0
+- pkg:cargo/dwctl@2.5.1
+- pkg:cargo/dwctl@2.5.2
