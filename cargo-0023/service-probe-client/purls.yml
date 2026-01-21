@@ -1,1 +1,2 @@
 - pkg:cargo/service-probe-client@0.3.0
+- pkg:cargo/service-probe-client@0.4.0
