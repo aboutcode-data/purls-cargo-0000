@@ -1,2 +1,4 @@
 - pkg:cargo/syster-lsp@0.1.10-alpha
+- pkg:cargo/syster-lsp@0.1.12-alpha
+- pkg:cargo/syster-lsp@0.1.13-alpha
 - pkg:cargo/syster-lsp@0.1.8-alpha
