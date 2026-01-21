@@ -9,3 +9,4 @@
 - pkg:cargo/ach-pubsub@0.1.8
 - pkg:cargo/ach-pubsub@0.1.9
 - pkg:cargo/ach-pubsub@0.2.0
+- pkg:cargo/ach-pubsub@0.2.1
