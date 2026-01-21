@@ -3,3 +3,4 @@
 - pkg:cargo/tank-mysql@0.13.0
 - pkg:cargo/tank-mysql@0.14.2
 - pkg:cargo/tank-mysql@0.15.0
+- pkg:cargo/tank-mysql@0.16.0
