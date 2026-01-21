@@ -20,3 +20,4 @@
 - pkg:cargo/molar@0.9.3
 - pkg:cargo/molar@1.0.0
 - pkg:cargo/molar@1.0.1
+- pkg:cargo/molar@1.1.0
