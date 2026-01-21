@@ -1,0 +1,2 @@
+- pkg:cargo/git-commit-helper-cli@0.8.0
+- pkg:cargo/git-commit-helper-cli@0.9.2

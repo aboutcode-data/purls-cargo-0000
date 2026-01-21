@@ -53,6 +53,7 @@
 - pkg:cargo/glam@0.30.7
 - pkg:cargo/glam@0.30.8
 - pkg:cargo/glam@0.30.9
+- pkg:cargo/glam@0.31.0
 - pkg:cargo/glam@0.4.0
 - pkg:cargo/glam@0.4.1
 - pkg:cargo/glam@0.4.2
