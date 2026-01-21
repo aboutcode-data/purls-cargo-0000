@@ -73,6 +73,7 @@
 - pkg:cargo/deep_space@2.3.3
 - pkg:cargo/deep_space@2.3.4
 - pkg:cargo/deep_space@2.30.0
+- pkg:cargo/deep_space@2.31.0
 - pkg:cargo/deep_space@2.4.0
 - pkg:cargo/deep_space@2.4.1
 - pkg:cargo/deep_space@2.4.2
