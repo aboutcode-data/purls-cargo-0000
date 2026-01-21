@@ -14,6 +14,7 @@
 - pkg:cargo/jetstream@1.1.1
 - pkg:cargo/jetstream@11.0.0
 - pkg:cargo/jetstream@11.0.2
+- pkg:cargo/jetstream@11.1.0
 - pkg:cargo/jetstream@2.0.0
 - pkg:cargo/jetstream@2.0.1
 - pkg:cargo/jetstream@2.0.2
