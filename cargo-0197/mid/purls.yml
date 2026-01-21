@@ -18,3 +18,5 @@
 - pkg:cargo/mid@3.0.6
 - pkg:cargo/mid@3.0.7
 - pkg:cargo/mid@4.0.0
+- pkg:cargo/mid@5.0.0
+- pkg:cargo/mid@5.0.1
