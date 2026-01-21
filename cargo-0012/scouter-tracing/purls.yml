@@ -1,1 +1,2 @@
 - pkg:cargo/scouter-tracing@0.13.0
+- pkg:cargo/scouter-tracing@0.15.0
