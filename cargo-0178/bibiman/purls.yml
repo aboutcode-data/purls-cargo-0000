@@ -12,6 +12,7 @@
 - pkg:cargo/bibiman@0.16.1
 - pkg:cargo/bibiman@0.17.0
 - pkg:cargo/bibiman@0.17.1
+- pkg:cargo/bibiman@0.19.3
 - pkg:cargo/bibiman@0.7.0
 - pkg:cargo/bibiman@0.8.0
 - pkg:cargo/bibiman@0.8.2
