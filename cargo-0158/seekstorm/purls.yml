@@ -72,3 +72,4 @@
 - pkg:cargo/seekstorm@1.2.3
 - pkg:cargo/seekstorm@1.2.4
 - pkg:cargo/seekstorm@1.2.5
+- pkg:cargo/seekstorm@2.0.0
