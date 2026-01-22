@@ -5,3 +5,4 @@
 - pkg:cargo/winget-types@0.3.2
 - pkg:cargo/winget-types@0.4.0
 - pkg:cargo/winget-types@0.4.1
+- pkg:cargo/winget-types@0.4.2
