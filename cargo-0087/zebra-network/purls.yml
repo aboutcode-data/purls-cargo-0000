@@ -22,3 +22,4 @@
 - pkg:cargo/zebra-network@2.0.0
 - pkg:cargo/zebra-network@2.0.1
 - pkg:cargo/zebra-network@2.0.2
+- pkg:cargo/zebra-network@3.0.0
