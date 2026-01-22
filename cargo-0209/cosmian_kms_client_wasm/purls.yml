@@ -8,6 +8,7 @@
 - pkg:cargo/cosmian_kms_client_wasm@5.13.0
 - pkg:cargo/cosmian_kms_client_wasm@5.14.0
 - pkg:cargo/cosmian_kms_client_wasm@5.14.1
+- pkg:cargo/cosmian_kms_client_wasm@5.15.0
 - pkg:cargo/cosmian_kms_client_wasm@5.6.1
 - pkg:cargo/cosmian_kms_client_wasm@5.7.0
 - pkg:cargo/cosmian_kms_client_wasm@5.7.1
