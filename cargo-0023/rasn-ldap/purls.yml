@@ -61,6 +61,7 @@
 - pkg:cargo/rasn-ldap@0.28.3
 - pkg:cargo/rasn-ldap@0.28.4
 - pkg:cargo/rasn-ldap@0.28.5
+- pkg:cargo/rasn-ldap@0.28.6
 - pkg:cargo/rasn-ldap@0.4.0
 - pkg:cargo/rasn-ldap@0.4.2
 - pkg:cargo/rasn-ldap@0.5.0
