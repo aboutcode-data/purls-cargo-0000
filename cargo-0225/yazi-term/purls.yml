@@ -1,4 +1,5 @@
 - pkg:cargo/yazi-term@25.12.29
 - pkg:cargo/yazi-term@25.5.28
 - pkg:cargo/yazi-term@25.5.31
+- pkg:cargo/yazi-term@26.1.22
 - pkg:cargo/yazi-term@26.1.4
