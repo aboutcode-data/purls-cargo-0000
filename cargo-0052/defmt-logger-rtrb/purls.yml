@@ -1,3 +1,4 @@
 - pkg:cargo/defmt-logger-rtrb@0.1.0
 - pkg:cargo/defmt-logger-rtrb@1.0.0
 - pkg:cargo/defmt-logger-rtrb@1.0.1
+- pkg:cargo/defmt-logger-rtrb@1.0.2
