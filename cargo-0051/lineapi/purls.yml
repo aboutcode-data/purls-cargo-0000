@@ -21,3 +21,4 @@
 - pkg:cargo/lineapi@0.6.3
 - pkg:cargo/lineapi@0.6.4
 - pkg:cargo/lineapi@0.7.0
+- pkg:cargo/lineapi@0.8.0
