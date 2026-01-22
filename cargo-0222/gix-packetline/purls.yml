@@ -28,3 +28,4 @@
 - pkg:cargo/gix-packetline@0.19.2
 - pkg:cargo/gix-packetline@0.19.3
 - pkg:cargo/gix-packetline@0.20.0
+- pkg:cargo/gix-packetline@0.21.0
