@@ -11,6 +11,7 @@
 - pkg:cargo/pyth-lazer-client@16.0.0
 - pkg:cargo/pyth-lazer-client@17.0.0
 - pkg:cargo/pyth-lazer-client@18.0.0
+- pkg:cargo/pyth-lazer-client@19.0.0
 - pkg:cargo/pyth-lazer-client@2.0.0
 - pkg:cargo/pyth-lazer-client@2.0.1
 - pkg:cargo/pyth-lazer-client@3.0.0

@@ -8,3 +8,4 @@
 - pkg:cargo/bevy_state_ui@0.5.2
 - pkg:cargo/bevy_state_ui@0.6.0
 - pkg:cargo/bevy_state_ui@0.6.0-rc1
+- pkg:cargo/bevy_state_ui@0.7.0
