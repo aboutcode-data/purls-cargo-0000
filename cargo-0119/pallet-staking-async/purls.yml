@@ -13,3 +13,4 @@
 - pkg:cargo/pallet-staking-async@0.7.0
 - pkg:cargo/pallet-staking-async@0.7.1
 - pkg:cargo/pallet-staking-async@0.8.0
+- pkg:cargo/pallet-staking-async@0.9.0
