@@ -16,3 +16,4 @@
 - pkg:cargo/can-dbc@6.0.0
 - pkg:cargo/can-dbc@7.0.0
 - pkg:cargo/can-dbc@8.0.0
+- pkg:cargo/can-dbc@8.0.1
