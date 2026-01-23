@@ -9,3 +9,4 @@
 - pkg:cargo/cargo-recursive-clean@0.2.211
 - pkg:cargo/cargo-recursive-clean@0.2.300
 - pkg:cargo/cargo-recursive-clean@0.2.310
+- pkg:cargo/cargo-recursive-clean@0.2.4
