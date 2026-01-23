@@ -10,3 +10,4 @@
 - pkg:cargo/facet-solver@0.40.0
 - pkg:cargo/facet-solver@0.41.0
 - pkg:cargo/facet-solver@0.42.0
+- pkg:cargo/facet-solver@0.43.0
