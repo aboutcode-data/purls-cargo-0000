@@ -16,3 +16,4 @@
 - pkg:cargo/ismp-parachain-inherent@2503.2.0
 - pkg:cargo/ismp-parachain-inherent@2506.0.0
 - pkg:cargo/ismp-parachain-inherent@2506.1.0
+- pkg:cargo/ismp-parachain-inherent@2506.1.1
