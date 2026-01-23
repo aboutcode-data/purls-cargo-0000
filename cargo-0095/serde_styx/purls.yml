@@ -1,1 +1,2 @@
 - pkg:cargo/serde_styx@0.0.1
+- pkg:cargo/serde_styx@1.0.0
