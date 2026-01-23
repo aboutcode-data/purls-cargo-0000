@@ -41,6 +41,7 @@
 - pkg:cargo/starbase_macros@0.7.9
 - pkg:cargo/starbase_macros@0.8.0
 - pkg:cargo/starbase_macros@0.8.1
+- pkg:cargo/starbase_macros@0.8.10
 - pkg:cargo/starbase_macros@0.8.2
 - pkg:cargo/starbase_macros@0.8.3
 - pkg:cargo/starbase_macros@0.8.4

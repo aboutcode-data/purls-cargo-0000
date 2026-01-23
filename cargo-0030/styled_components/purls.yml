@@ -47,6 +47,7 @@
 - pkg:cargo/styled_components@0.134.0
 - pkg:cargo/styled_components@0.135.0
 - pkg:cargo/styled_components@0.136.0
+- pkg:cargo/styled_components@0.137.0
 - pkg:cargo/styled_components@0.14.0
 - pkg:cargo/styled_components@0.15.0
 - pkg:cargo/styled_components@0.16.0
