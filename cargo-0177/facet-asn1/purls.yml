@@ -11,3 +11,4 @@
 - pkg:cargo/facet-asn1@0.41.0
 - pkg:cargo/facet-asn1@0.42.0
 - pkg:cargo/facet-asn1@0.43.0
+- pkg:cargo/facet-asn1@0.43.1
