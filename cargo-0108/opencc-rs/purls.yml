@@ -19,3 +19,4 @@
 - pkg:cargo/opencc-rs@0.4.7
 - pkg:cargo/opencc-rs@0.4.8
 - pkg:cargo/opencc-rs@0.4.9
+- pkg:cargo/opencc-rs@0.5.0
