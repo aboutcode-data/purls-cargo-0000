@@ -7,3 +7,4 @@
 - pkg:cargo/freertos-build@0.4.4
 - pkg:cargo/freertos-build@0.4.5
 - pkg:cargo/freertos-build@0.5.0
+- pkg:cargo/freertos-build@0.6.0

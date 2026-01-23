@@ -32,3 +32,4 @@
 - pkg:cargo/kreuzberg-tesseract@4.0.6
 - pkg:cargo/kreuzberg-tesseract@4.0.7
 - pkg:cargo/kreuzberg-tesseract@4.0.8
+- pkg:cargo/kreuzberg-tesseract@4.1.0
