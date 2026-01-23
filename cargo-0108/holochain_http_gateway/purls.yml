@@ -3,3 +3,4 @@
 - pkg:cargo/holochain_http_gateway@0.2.0
 - pkg:cargo/holochain_http_gateway@0.3.0
 - pkg:cargo/holochain_http_gateway@0.3.1
+- pkg:cargo/holochain_http_gateway@0.3.2-rc.0

@@ -26,6 +26,7 @@
 - pkg:cargo/gsm-bus@0.4.37
 - pkg:cargo/gsm-bus@0.4.40
 - pkg:cargo/gsm-bus@0.4.42
+- pkg:cargo/gsm-bus@0.4.43
 - pkg:cargo/gsm-bus@0.4.7
 - pkg:cargo/gsm-bus@0.4.8
 - pkg:cargo/gsm-bus@0.4.9
