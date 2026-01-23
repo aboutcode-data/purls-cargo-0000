@@ -3,3 +3,4 @@
 - pkg:cargo/filter-expr-evaler@0.1.12
 - pkg:cargo/filter-expr-evaler@0.1.13
 - pkg:cargo/filter-expr-evaler@0.1.14
+- pkg:cargo/filter-expr-evaler@0.1.15
