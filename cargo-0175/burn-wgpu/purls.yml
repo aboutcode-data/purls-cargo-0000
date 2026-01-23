@@ -22,5 +22,6 @@
 - pkg:cargo/burn-wgpu@0.20.0-pre.4
 - pkg:cargo/burn-wgpu@0.20.0-pre.5
 - pkg:cargo/burn-wgpu@0.20.0-pre.6
+- pkg:cargo/burn-wgpu@0.20.1
 - pkg:cargo/burn-wgpu@0.8.0
 - pkg:cargo/burn-wgpu@0.9.0
