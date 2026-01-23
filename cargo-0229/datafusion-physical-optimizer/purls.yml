@@ -19,3 +19,4 @@
 - pkg:cargo/datafusion-physical-optimizer@50.3.0
 - pkg:cargo/datafusion-physical-optimizer@51.0.0
 - pkg:cargo/datafusion-physical-optimizer@52.0.0
+- pkg:cargo/datafusion-physical-optimizer@52.1.0

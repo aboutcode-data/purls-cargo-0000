@@ -1,5 +1,6 @@
 - pkg:cargo/mdriver@0.10.0
 - pkg:cargo/mdriver@0.10.1
+- pkg:cargo/mdriver@0.11.0
 - pkg:cargo/mdriver@0.2.0
 - pkg:cargo/mdriver@0.4.3
 - pkg:cargo/mdriver@0.4.4
