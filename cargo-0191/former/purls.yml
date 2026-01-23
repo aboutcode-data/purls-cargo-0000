@@ -61,6 +61,7 @@
 - pkg:cargo/former@2.39.0
 - pkg:cargo/former@2.4.0
 - pkg:cargo/former@2.40.0
+- pkg:cargo/former@2.41.0
 - pkg:cargo/former@2.5.0
 - pkg:cargo/former@2.6.0
 - pkg:cargo/former@2.7.0
