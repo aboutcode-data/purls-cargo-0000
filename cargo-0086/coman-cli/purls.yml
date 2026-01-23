@@ -1,3 +1,4 @@
 - pkg:cargo/coman-cli@1.1.5
 - pkg:cargo/coman-cli@1.2.0
 - pkg:cargo/coman-cli@1.2.1
+- pkg:cargo/coman-cli@1.2.2
