@@ -18,5 +18,6 @@
 - pkg:cargo/hannibal-derive@0.15.1
 - pkg:cargo/hannibal-derive@0.16.0
 - pkg:cargo/hannibal-derive@0.16.1
+- pkg:cargo/hannibal-derive@0.16.2
 - pkg:cargo/hannibal-derive@0.8.0
 - pkg:cargo/hannibal-derive@0.9.0
