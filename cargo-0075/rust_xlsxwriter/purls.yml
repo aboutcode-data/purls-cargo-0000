@@ -112,3 +112,4 @@
 - pkg:cargo/rust_xlsxwriter@0.92.1
 - pkg:cargo/rust_xlsxwriter@0.92.2
 - pkg:cargo/rust_xlsxwriter@0.92.3
+- pkg:cargo/rust_xlsxwriter@0.92.4

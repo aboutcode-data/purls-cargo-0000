@@ -1,2 +1,4 @@
 - pkg:cargo/rusty-page-indexer@0.2.0
 - pkg:cargo/rusty-page-indexer@0.3.0
+- pkg:cargo/rusty-page-indexer@0.5.0
+- pkg:cargo/rusty-page-indexer@0.5.5
