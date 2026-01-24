@@ -19,3 +19,4 @@
 - pkg:cargo/web-transport-wasm@0.5.2
 - pkg:cargo/web-transport-wasm@0.5.3
 - pkg:cargo/web-transport-wasm@0.5.4
+- pkg:cargo/web-transport-wasm@0.5.5
