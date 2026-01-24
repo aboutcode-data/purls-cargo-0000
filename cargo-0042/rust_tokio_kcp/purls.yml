@@ -1,1 +1,2 @@
 - pkg:cargo/rust_tokio_kcp@0.1.0
+- pkg:cargo/rust_tokio_kcp@0.2.0
