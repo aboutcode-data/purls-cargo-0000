@@ -20,3 +20,4 @@
 - pkg:cargo/rhai-dylib@0.7.0
 - pkg:cargo/rhai-dylib@0.7.1
 - pkg:cargo/rhai-dylib@0.8.0
+- pkg:cargo/rhai-dylib@0.9.0
