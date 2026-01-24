@@ -22,3 +22,5 @@
 - pkg:cargo/redisctl@0.7.3
 - pkg:cargo/redisctl@0.7.4
 - pkg:cargo/redisctl@0.7.5
+- pkg:cargo/redisctl@0.7.6
+- pkg:cargo/redisctl@0.7.7
