@@ -52,6 +52,8 @@
 - pkg:cargo/korium@0.6.13
 - pkg:cargo/korium@0.6.15
 - pkg:cargo/korium@0.6.17
+- pkg:cargo/korium@0.6.18
+- pkg:cargo/korium@0.6.19
 - pkg:cargo/korium@0.6.2
 - pkg:cargo/korium@0.6.4
 - pkg:cargo/korium@0.6.5
