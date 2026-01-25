@@ -9,3 +9,4 @@
 - pkg:cargo/binconf@0.2.700
 - pkg:cargo/binconf@0.2.750
 - pkg:cargo/binconf@0.2.751
+- pkg:cargo/binconf@0.3.0
