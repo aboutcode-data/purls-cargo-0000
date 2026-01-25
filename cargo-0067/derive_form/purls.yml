@@ -1,3 +1,5 @@
 - pkg:cargo/derive_form@1.0.0
 - pkg:cargo/derive_form@1.0.1
 - pkg:cargo/derive_form@1.0.2
+- pkg:cargo/derive_form@1.1.0
+- pkg:cargo/derive_form@1.1.11

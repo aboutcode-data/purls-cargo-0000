@@ -14,3 +14,4 @@
 - pkg:cargo/kcr_fluentd_fluent_io@2.20251129.214858
 - pkg:cargo/kcr_fluentd_fluent_io@2.20260110.214854
 - pkg:cargo/kcr_fluentd_fluent_io@3.20260117.214847
+- pkg:cargo/kcr_fluentd_fluent_io@3.20260124.214859
