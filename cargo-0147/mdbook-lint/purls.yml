@@ -16,6 +16,7 @@
 - pkg:cargo/mdbook-lint@0.13.4
 - pkg:cargo/mdbook-lint@0.13.5
 - pkg:cargo/mdbook-lint@0.13.6
+- pkg:cargo/mdbook-lint@0.13.7
 - pkg:cargo/mdbook-lint@0.2.0
 - pkg:cargo/mdbook-lint@0.3.0
 - pkg:cargo/mdbook-lint@0.6.0
