@@ -11,3 +11,4 @@
 - pkg:cargo/fcm-push-listener@4.0.0
 - pkg:cargo/fcm-push-listener@4.0.1
 - pkg:cargo/fcm-push-listener@4.0.2
+- pkg:cargo/fcm-push-listener@4.1.0
