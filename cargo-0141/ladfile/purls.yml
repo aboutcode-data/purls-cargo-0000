@@ -1,6 +1,7 @@
 - pkg:cargo/ladfile@0.1.0
 - pkg:cargo/ladfile@0.1.1
 - pkg:cargo/ladfile@0.17.0
+- pkg:cargo/ladfile@0.18.0
 - pkg:cargo/ladfile@0.2.0
 - pkg:cargo/ladfile@0.3.0
 - pkg:cargo/ladfile@0.3.1
