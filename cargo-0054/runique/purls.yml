@@ -9,3 +9,6 @@
 - pkg:cargo/runique@1.0.8
 - pkg:cargo/runique@1.0.85
 - pkg:cargo/runique@1.0.86
+- pkg:cargo/runique@1.1.0
+- pkg:cargo/runique@1.1.1
+- pkg:cargo/runique@1.1.11
