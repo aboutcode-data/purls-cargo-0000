@@ -2,3 +2,4 @@
 - pkg:cargo/ppx-impl@0.2.0
 - pkg:cargo/ppx-impl@0.2.1
 - pkg:cargo/ppx-impl@0.3.0
+- pkg:cargo/ppx-impl@0.4.0
