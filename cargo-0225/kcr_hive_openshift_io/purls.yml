@@ -12,3 +12,4 @@
 - pkg:cargo/kcr_hive_openshift_io@2.20251012.171105
 - pkg:cargo/kcr_hive_openshift_io@2.20251109.171123
 - pkg:cargo/kcr_hive_openshift_io@3.20260118.171327
+- pkg:cargo/kcr_hive_openshift_io@3.20260125.171336
