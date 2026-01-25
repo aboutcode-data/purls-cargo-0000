@@ -1,2 +1,5 @@
 - pkg:cargo/integer_to_bytes@0.1.0
 - pkg:cargo/integer_to_bytes@0.1.1
+- pkg:cargo/integer_to_bytes@0.1.2
+- pkg:cargo/integer_to_bytes@0.1.3
+- pkg:cargo/integer_to_bytes@0.1.4-Beta.1
