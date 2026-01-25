@@ -49,3 +49,4 @@
 - pkg:cargo/oxrocksdb-sys@0.5.1
 - pkg:cargo/oxrocksdb-sys@0.5.2
 - pkg:cargo/oxrocksdb-sys@0.5.3
+- pkg:cargo/oxrocksdb-sys@0.5.4
