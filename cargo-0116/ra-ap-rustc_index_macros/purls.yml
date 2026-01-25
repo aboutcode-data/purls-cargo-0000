@@ -46,6 +46,7 @@
 - pkg:cargo/ra-ap-rustc_index_macros@0.146.0
 - pkg:cargo/ra-ap-rustc_index_macros@0.147.0
 - pkg:cargo/ra-ap-rustc_index_macros@0.148.0
+- pkg:cargo/ra-ap-rustc_index_macros@0.149.0
 - pkg:cargo/ra-ap-rustc_index_macros@0.20.0
 - pkg:cargo/ra-ap-rustc_index_macros@0.21.0
 - pkg:cargo/ra-ap-rustc_index_macros@0.22.0
