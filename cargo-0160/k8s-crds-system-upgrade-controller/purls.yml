@@ -3,6 +3,7 @@
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.16.0
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.16.3
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.17.0
+- pkg:cargo/k8s-crds-system-upgrade-controller@0.18.0
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.2.0
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.3.0
 - pkg:cargo/k8s-crds-system-upgrade-controller@0.4.0

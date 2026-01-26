@@ -4,3 +4,5 @@
 - pkg:cargo/nostr-double-ratchet@0.0.41
 - pkg:cargo/nostr-double-ratchet@0.0.42
 - pkg:cargo/nostr-double-ratchet@0.0.43
+- pkg:cargo/nostr-double-ratchet@0.0.44
+- pkg:cargo/nostr-double-ratchet@0.0.45
