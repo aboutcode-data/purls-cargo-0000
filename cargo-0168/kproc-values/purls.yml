@@ -7,3 +7,4 @@
 - pkg:cargo/kproc-values@0.5.2
 - pkg:cargo/kproc-values@0.6.0
 - pkg:cargo/kproc-values@0.6.1
+- pkg:cargo/kproc-values@0.7.0
