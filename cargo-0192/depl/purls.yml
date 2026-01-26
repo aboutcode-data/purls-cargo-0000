@@ -2,3 +2,4 @@
 - pkg:cargo/depl@2.3.6
 - pkg:cargo/depl@2.4.0
 - pkg:cargo/depl@2.4.1
+- pkg:cargo/depl@2.4.2
