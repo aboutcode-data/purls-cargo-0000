@@ -3,3 +3,4 @@
 - pkg:cargo/kcr_stackconfigpolicy_k8s_elastic_co@2.20251215.30210
 - pkg:cargo/kcr_stackconfigpolicy_k8s_elastic_co@2.20260112.30950
 - pkg:cargo/kcr_stackconfigpolicy_k8s_elastic_co@3.20260119.31008
+- pkg:cargo/kcr_stackconfigpolicy_k8s_elastic_co@3.20260126.32009
