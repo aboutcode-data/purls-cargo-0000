@@ -34,3 +34,4 @@
 - pkg:cargo/grits-cli@2.7.1
 - pkg:cargo/grits-cli@2.8.0
 - pkg:cargo/grits-cli@2.8.1
+- pkg:cargo/grits-cli@2.9.0
