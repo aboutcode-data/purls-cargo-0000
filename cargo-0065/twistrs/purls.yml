@@ -43,3 +43,4 @@
 - pkg:cargo/twistrs@0.9.4
 - pkg:cargo/twistrs@1.0.0
 - pkg:cargo/twistrs@1.1.0
+- pkg:cargo/twistrs@1.1.1
