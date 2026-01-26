@@ -1,1 +1,2 @@
 - pkg:cargo/tui-dispatch-debug@0.5.3
+- pkg:cargo/tui-dispatch-debug@0.5.4
