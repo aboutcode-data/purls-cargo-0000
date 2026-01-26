@@ -3,5 +3,7 @@
 - pkg:cargo/metricus_macros@0.0.12
 - pkg:cargo/metricus_macros@0.0.13
 - pkg:cargo/metricus_macros@0.0.14
+- pkg:cargo/metricus_macros@0.0.15
+- pkg:cargo/metricus_macros@0.0.16
 - pkg:cargo/metricus_macros@0.0.5
 - pkg:cargo/metricus_macros@0.0.9
