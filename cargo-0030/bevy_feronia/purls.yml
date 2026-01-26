@@ -34,3 +34,5 @@
 - pkg:cargo/bevy_feronia@0.5.6
 - pkg:cargo/bevy_feronia@0.5.7
 - pkg:cargo/bevy_feronia@0.5.9
+- pkg:cargo/bevy_feronia@0.7.0-rc.1
+- pkg:cargo/bevy_feronia@0.7.0-rc.2
