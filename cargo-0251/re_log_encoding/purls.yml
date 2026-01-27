@@ -206,6 +206,7 @@
 - pkg:cargo/re_log_encoding@0.29.0-alpha.5
 - pkg:cargo/re_log_encoding@0.29.0-alpha.6
 - pkg:cargo/re_log_encoding@0.29.0-alpha.7
+- pkg:cargo/re_log_encoding@0.29.0-rc.1
 - pkg:cargo/re_log_encoding@0.5.0
 - pkg:cargo/re_log_encoding@0.5.0-alpha.0
 - pkg:cargo/re_log_encoding@0.5.1
