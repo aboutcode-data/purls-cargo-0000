@@ -17,3 +17,4 @@
 - pkg:cargo/page_table_multiarch@0.5.5
 - pkg:cargo/page_table_multiarch@0.5.6
 - pkg:cargo/page_table_multiarch@0.5.7
+- pkg:cargo/page_table_multiarch@0.6.0
