@@ -14,6 +14,7 @@
 - pkg:cargo/ext-php-rs-derive@0.11.4
 - pkg:cargo/ext-php-rs-derive@0.11.5
 - pkg:cargo/ext-php-rs-derive@0.11.6
+- pkg:cargo/ext-php-rs-derive@0.11.7
 - pkg:cargo/ext-php-rs-derive@0.2.0
 - pkg:cargo/ext-php-rs-derive@0.3.0
 - pkg:cargo/ext-php-rs-derive@0.4.0
