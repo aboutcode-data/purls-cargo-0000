@@ -6,3 +6,4 @@
 - pkg:cargo/darkbio-crypto-cbor-derive@0.11.5
 - pkg:cargo/darkbio-crypto-cbor-derive@0.11.6
 - pkg:cargo/darkbio-crypto-cbor-derive@0.11.7
+- pkg:cargo/darkbio-crypto-cbor-derive@0.11.8
