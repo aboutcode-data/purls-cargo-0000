@@ -12,3 +12,4 @@
 - pkg:cargo/mqtt5-protocol@0.9.1
 - pkg:cargo/mqtt5-protocol@0.9.2
 - pkg:cargo/mqtt5-protocol@0.9.3
+- pkg:cargo/mqtt5-protocol@0.9.4
