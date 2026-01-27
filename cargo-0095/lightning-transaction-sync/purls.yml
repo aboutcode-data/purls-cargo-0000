@@ -22,6 +22,7 @@
 - pkg:cargo/lightning-transaction-sync@0.0.125
 - pkg:cargo/lightning-transaction-sync@0.1.0
 - pkg:cargo/lightning-transaction-sync@0.1.0-beta1
+- pkg:cargo/lightning-transaction-sync@0.1.9
 - pkg:cargo/lightning-transaction-sync@0.2.0
 - pkg:cargo/lightning-transaction-sync@0.2.0-beta1
 - pkg:cargo/lightning-transaction-sync@0.2.0-rc1
