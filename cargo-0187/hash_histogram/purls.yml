@@ -1,3 +1,5 @@
+- pkg:cargo/hash_histogram@0.10.0
+- pkg:cargo/hash_histogram@0.10.1
 - pkg:cargo/hash_histogram@0.5.0
 - pkg:cargo/hash_histogram@0.5.1
 - pkg:cargo/hash_histogram@0.5.2
