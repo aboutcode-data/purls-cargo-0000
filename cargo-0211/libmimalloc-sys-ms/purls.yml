@@ -1,1 +1,2 @@
 - pkg:cargo/libmimalloc-sys-ms@0.1.0
+- pkg:cargo/libmimalloc-sys-ms@0.2.0
