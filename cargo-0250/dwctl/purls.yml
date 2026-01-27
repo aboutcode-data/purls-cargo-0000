@@ -58,3 +58,4 @@
 - pkg:cargo/dwctl@3.1.0
 - pkg:cargo/dwctl@3.1.1
 - pkg:cargo/dwctl@3.1.2
+- pkg:cargo/dwctl@3.2.0
