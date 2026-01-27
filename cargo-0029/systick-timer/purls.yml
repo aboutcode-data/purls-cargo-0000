@@ -4,3 +4,4 @@
 - pkg:cargo/systick-timer@0.1.4
 - pkg:cargo/systick-timer@0.1.5
 - pkg:cargo/systick-timer@0.2.1
+- pkg:cargo/systick-timer@0.2.2
