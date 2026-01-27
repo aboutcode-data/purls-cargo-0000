@@ -137,6 +137,7 @@
 - pkg:cargo/wasi-common@36.0.2
 - pkg:cargo/wasi-common@36.0.3
 - pkg:cargo/wasi-common@36.0.4
+- pkg:cargo/wasi-common@36.0.5
 - pkg:cargo/wasi-common@37.0.0
 - pkg:cargo/wasi-common@37.0.1
 - pkg:cargo/wasi-common@37.0.2
@@ -154,7 +155,9 @@
 - pkg:cargo/wasi-common@40.0.0
 - pkg:cargo/wasi-common@40.0.1
 - pkg:cargo/wasi-common@40.0.2
+- pkg:cargo/wasi-common@40.0.3
 - pkg:cargo/wasi-common@41.0.0
+- pkg:cargo/wasi-common@41.0.1
 - pkg:cargo/wasi-common@5.0.0
 - pkg:cargo/wasi-common@5.0.1
 - pkg:cargo/wasi-common@6.0.0

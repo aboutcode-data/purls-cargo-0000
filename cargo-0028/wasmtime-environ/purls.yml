@@ -133,6 +133,7 @@
 - pkg:cargo/wasmtime-environ@36.0.2
 - pkg:cargo/wasmtime-environ@36.0.3
 - pkg:cargo/wasmtime-environ@36.0.4
+- pkg:cargo/wasmtime-environ@36.0.5
 - pkg:cargo/wasmtime-environ@37.0.0
 - pkg:cargo/wasmtime-environ@37.0.1
 - pkg:cargo/wasmtime-environ@37.0.2
@@ -150,7 +151,9 @@
 - pkg:cargo/wasmtime-environ@40.0.0
 - pkg:cargo/wasmtime-environ@40.0.1
 - pkg:cargo/wasmtime-environ@40.0.2
+- pkg:cargo/wasmtime-environ@40.0.3
 - pkg:cargo/wasmtime-environ@41.0.0
+- pkg:cargo/wasmtime-environ@41.0.1
 - pkg:cargo/wasmtime-environ@5.0.0
 - pkg:cargo/wasmtime-environ@5.0.1
 - pkg:cargo/wasmtime-environ@6.0.0
