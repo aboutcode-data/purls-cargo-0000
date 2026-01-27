@@ -52,3 +52,4 @@
 - pkg:cargo/zombienet-prom-metrics-parser@0.4.2
 - pkg:cargo/zombienet-prom-metrics-parser@0.4.3
 - pkg:cargo/zombienet-prom-metrics-parser@0.4.4
+- pkg:cargo/zombienet-prom-metrics-parser@0.4.5
