@@ -1,2 +1,3 @@
 - pkg:cargo/confidence_resolver@0.10.0
+- pkg:cargo/confidence_resolver@0.11.0
 - pkg:cargo/confidence_resolver@0.9.0

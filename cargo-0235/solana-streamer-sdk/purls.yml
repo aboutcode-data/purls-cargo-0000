@@ -49,3 +49,4 @@
 - pkg:cargo/solana-streamer-sdk@1.1.4
 - pkg:cargo/solana-streamer-sdk@1.1.5
 - pkg:cargo/solana-streamer-sdk@1.1.6
+- pkg:cargo/solana-streamer-sdk@1.2.0
