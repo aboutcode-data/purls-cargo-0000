@@ -17,3 +17,4 @@
 - pkg:cargo/ksql@0.9.0
 - pkg:cargo/ksql@0.9.1
 - pkg:cargo/ksql@1.0.0
+- pkg:cargo/ksql@2.0.0
