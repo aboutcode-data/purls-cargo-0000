@@ -1,2 +1,3 @@
 - pkg:cargo/roam-task-local@0.0.0
 - pkg:cargo/roam-task-local@0.6.0
+- pkg:cargo/roam-task-local@3.0.0
