@@ -10,3 +10,5 @@
 - pkg:cargo/jarq@0.5.1
 - pkg:cargo/jarq@0.6.0
 - pkg:cargo/jarq@0.7.0
+- pkg:cargo/jarq@0.7.1
+- pkg:cargo/jarq@0.7.2
