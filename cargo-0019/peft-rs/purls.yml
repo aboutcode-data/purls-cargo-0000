@@ -2,3 +2,4 @@
 - pkg:cargo/peft-rs@0.4.1
 - pkg:cargo/peft-rs@1.0.0
 - pkg:cargo/peft-rs@1.0.1
+- pkg:cargo/peft-rs@1.0.3

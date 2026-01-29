@@ -1,5 +1,6 @@
 - pkg:cargo/ladfile_builder@0.17.0
 - pkg:cargo/ladfile_builder@0.18.0
+- pkg:cargo/ladfile_builder@0.19.0
 - pkg:cargo/ladfile_builder@0.2.0
 - pkg:cargo/ladfile_builder@0.2.1
 - pkg:cargo/ladfile_builder@0.2.2
