@@ -168,6 +168,7 @@
 - pkg:cargo/rerun-cli@0.29.0-alpha.7
 - pkg:cargo/rerun-cli@0.29.0-rc.1
 - pkg:cargo/rerun-cli@0.29.0-rc.2
+- pkg:cargo/rerun-cli@0.29.0-rc.3
 - pkg:cargo/rerun-cli@0.6.0
 - pkg:cargo/rerun-cli@0.6.0-alpha.2
 - pkg:cargo/rerun-cli@0.7.0
