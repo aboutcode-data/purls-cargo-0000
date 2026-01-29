@@ -4,3 +4,4 @@
 - pkg:cargo/bevy_rerecast@0.2.0
 - pkg:cargo/bevy_rerecast@0.3.0
 - pkg:cargo/bevy_rerecast@0.3.0-rc.0
+- pkg:cargo/bevy_rerecast@0.4.0
