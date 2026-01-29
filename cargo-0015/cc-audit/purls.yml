@@ -13,3 +13,4 @@
 - pkg:cargo/cc-audit@3.1.7
 - pkg:cargo/cc-audit@3.2.0
 - pkg:cargo/cc-audit@3.2.1
+- pkg:cargo/cc-audit@3.2.2
