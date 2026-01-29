@@ -3,3 +3,4 @@
 - pkg:cargo/velox_graph@1.0.1
 - pkg:cargo/velox_graph@2.0.0
 - pkg:cargo/velox_graph@3.0.0
+- pkg:cargo/velox_graph@5.0.0
