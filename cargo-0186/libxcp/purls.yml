@@ -11,3 +11,4 @@
 - pkg:cargo/libxcp@0.24.0
 - pkg:cargo/libxcp@0.24.1
 - pkg:cargo/libxcp@0.24.2
+- pkg:cargo/libxcp@0.24.3
