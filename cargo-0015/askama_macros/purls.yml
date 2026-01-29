@@ -2,3 +2,4 @@
 - pkg:cargo/askama_macros@0.15.1
 - pkg:cargo/askama_macros@0.15.2
 - pkg:cargo/askama_macros@0.15.3
+- pkg:cargo/askama_macros@0.15.4

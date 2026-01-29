@@ -1,1 +1,2 @@
 - pkg:cargo/async-join@0.1.0
+- pkg:cargo/async-join@0.2.0
