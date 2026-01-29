@@ -25,3 +25,4 @@
 - pkg:cargo/metis-docs-cli@1.0.11
 - pkg:cargo/metis-docs-cli@1.0.8
 - pkg:cargo/metis-docs-cli@1.0.9
+- pkg:cargo/metis-docs-cli@1.1.0
