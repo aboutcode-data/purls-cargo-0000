@@ -1,1 +1,2 @@
 - pkg:cargo/lsm6dsv80x-rs@1.0.0
+- pkg:cargo/lsm6dsv80x-rs@2.0.0
