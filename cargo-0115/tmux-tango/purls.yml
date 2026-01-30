@@ -1,3 +1,4 @@
 - pkg:cargo/tmux-tango@1.0.0
 - pkg:cargo/tmux-tango@2.0.0
 - pkg:cargo/tmux-tango@2.0.1
+- pkg:cargo/tmux-tango@2.1.0
