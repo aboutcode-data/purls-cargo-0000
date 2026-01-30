@@ -11,6 +11,7 @@
 - pkg:cargo/reqwest-streams@0.11.2
 - pkg:cargo/reqwest-streams@0.12.0
 - pkg:cargo/reqwest-streams@0.14.0
+- pkg:cargo/reqwest-streams@0.15.0
 - pkg:cargo/reqwest-streams@0.2.0
 - pkg:cargo/reqwest-streams@0.2.2
 - pkg:cargo/reqwest-streams@0.2.3

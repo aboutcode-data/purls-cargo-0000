@@ -64,3 +64,4 @@
 - pkg:cargo/aws-smithy-json@0.61.8
 - pkg:cargo/aws-smithy-json@0.61.9
 - pkg:cargo/aws-smithy-json@0.62.0
+- pkg:cargo/aws-smithy-json@0.62.1
