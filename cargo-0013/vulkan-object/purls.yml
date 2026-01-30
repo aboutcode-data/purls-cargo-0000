@@ -3,3 +3,5 @@
 - pkg:cargo/vulkan-object@0.1.2%2B1.4.341
 - pkg:cargo/vulkan-object@0.2.0%2B1.4.341
 - pkg:cargo/vulkan-object@0.4.0%2B1.4.341
+- pkg:cargo/vulkan-object@0.5.0%2B1.4.341
+- pkg:cargo/vulkan-object@0.5.1%2B1.4.341
