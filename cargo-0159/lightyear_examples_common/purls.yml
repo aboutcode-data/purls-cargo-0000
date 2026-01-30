@@ -15,3 +15,5 @@
 - pkg:cargo/lightyear_examples_common@0.23.0
 - pkg:cargo/lightyear_examples_common@0.25.5
 - pkg:cargo/lightyear_examples_common@0.26.1
+- pkg:cargo/lightyear_examples_common@0.26.3
+- pkg:cargo/lightyear_examples_common@0.26.4
