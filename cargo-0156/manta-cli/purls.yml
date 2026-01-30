@@ -31,3 +31,5 @@
 - pkg:cargo/manta-cli@1.59.8
 - pkg:cargo/manta-cli@1.59.9-beta.1
 - pkg:cargo/manta-cli@1.59.9-beta.2
+- pkg:cargo/manta-cli@1.59.9-beta.3
+- pkg:cargo/manta-cli@1.59.9-beta.4
