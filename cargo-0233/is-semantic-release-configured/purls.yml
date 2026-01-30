@@ -80,6 +80,7 @@
 - pkg:cargo/is-semantic-release-configured@1.2.14
 - pkg:cargo/is-semantic-release-configured@1.2.140
 - pkg:cargo/is-semantic-release-configured@1.2.141
+- pkg:cargo/is-semantic-release-configured@1.2.142
 - pkg:cargo/is-semantic-release-configured@1.2.15
 - pkg:cargo/is-semantic-release-configured@1.2.16
 - pkg:cargo/is-semantic-release-configured@1.2.17
