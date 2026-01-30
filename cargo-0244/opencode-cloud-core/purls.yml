@@ -54,3 +54,4 @@
 - pkg:cargo/opencode-cloud-core@3.3.0
 - pkg:cargo/opencode-cloud-core@4.0.0
 - pkg:cargo/opencode-cloud-core@4.0.1
+- pkg:cargo/opencode-cloud-core@4.0.2

@@ -11,3 +11,4 @@
 - pkg:cargo/snowid@0.3.0
 - pkg:cargo/snowid@1.0.0
 - pkg:cargo/snowid@1.0.1
+- pkg:cargo/snowid@2.0.0
