@@ -13,6 +13,7 @@
 - pkg:cargo/tentacli@14.1.0
 - pkg:cargo/tentacli@14.2.0
 - pkg:cargo/tentacli@14.2.1
+- pkg:cargo/tentacli@15.0.0
 - pkg:cargo/tentacli@4.0.0
 - pkg:cargo/tentacli@4.0.1
 - pkg:cargo/tentacli@4.1.0
