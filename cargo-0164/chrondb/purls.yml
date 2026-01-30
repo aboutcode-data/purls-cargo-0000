@@ -3,6 +3,7 @@
 - pkg:cargo/chrondb@0.0.0-dev.12
 - pkg:cargo/chrondb@0.0.0-dev.13
 - pkg:cargo/chrondb@0.0.0-dev.14
+- pkg:cargo/chrondb@0.0.0-dev.15
 - pkg:cargo/chrondb@0.0.0-dev.2
 - pkg:cargo/chrondb@0.0.0-dev.3
 - pkg:cargo/chrondb@0.0.0-dev.4
