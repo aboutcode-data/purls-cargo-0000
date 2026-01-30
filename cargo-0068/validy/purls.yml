@@ -19,3 +19,5 @@
 - pkg:cargo/validy@1.2.0
 - pkg:cargo/validy@1.2.1
 - pkg:cargo/validy@1.2.2
+- pkg:cargo/validy@1.2.3
+- pkg:cargo/validy@1.2.4

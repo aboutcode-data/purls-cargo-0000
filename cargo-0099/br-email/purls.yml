@@ -80,6 +80,7 @@
 - pkg:cargo/br-email@1.2.1
 - pkg:cargo/br-email@1.2.10
 - pkg:cargo/br-email@1.2.11
+- pkg:cargo/br-email@1.2.12
 - pkg:cargo/br-email@1.2.2
 - pkg:cargo/br-email@1.2.3
 - pkg:cargo/br-email@1.2.4
