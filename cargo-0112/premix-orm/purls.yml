@@ -4,3 +4,4 @@
 - pkg:cargo/premix-orm@1.0.4
 - pkg:cargo/premix-orm@1.0.5-alpha
 - pkg:cargo/premix-orm@1.0.6-alpha
+- pkg:cargo/premix-orm@1.0.7-alpha
