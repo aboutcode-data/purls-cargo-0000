@@ -1,3 +1,4 @@
 - pkg:cargo/dbt-antlr4@0.50.2
 - pkg:cargo/dbt-antlr4@0.51.0
 - pkg:cargo/dbt-antlr4@0.51.1
+- pkg:cargo/dbt-antlr4@1.0.1
