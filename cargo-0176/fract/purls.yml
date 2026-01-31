@@ -1,3 +1,6 @@
 - pkg:cargo/fract@0.1.0
 - pkg:cargo/fract@0.1.1
 - pkg:cargo/fract@0.1.2
+- pkg:cargo/fract@0.1.3
+- pkg:cargo/fract@1.2.3
+- pkg:cargo/fract@3.2.3
