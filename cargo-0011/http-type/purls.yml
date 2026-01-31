@@ -22,6 +22,11 @@
 - pkg:cargo/http-type@13.0.1
 - pkg:cargo/http-type@14.0.0
 - pkg:cargo/http-type@14.1.0
+- pkg:cargo/http-type@14.1.1
+- pkg:cargo/http-type@14.1.3
+- pkg:cargo/http-type@14.1.4
+- pkg:cargo/http-type@14.2.0
+- pkg:cargo/http-type@14.2.1
 - pkg:cargo/http-type@2.0.0
 - pkg:cargo/http-type@2.0.1
 - pkg:cargo/http-type@2.0.10
