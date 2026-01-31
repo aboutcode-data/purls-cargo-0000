@@ -125,3 +125,10 @@
 - pkg:cargo/http-constant@1.9.0
 - pkg:cargo/http-constant@2.0.0
 - pkg:cargo/http-constant@2.1.0
+- pkg:cargo/http-constant@2.1.1
+- pkg:cargo/http-constant@3.0.0
+- pkg:cargo/http-constant@3.1.0
+- pkg:cargo/http-constant@3.2.0
+- pkg:cargo/http-constant@3.3.0
+- pkg:cargo/http-constant@3.3.1
+- pkg:cargo/http-constant@3.3.2
