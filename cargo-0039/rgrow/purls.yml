@@ -11,5 +11,6 @@
 - pkg:cargo/rgrow@0.19.4
 - pkg:cargo/rgrow@0.20.0
 - pkg:cargo/rgrow@0.21.0
+- pkg:cargo/rgrow@0.21.1
 - pkg:cargo/rgrow@0.6.0
 - pkg:cargo/rgrow@0.7.1
