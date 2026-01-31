@@ -225,3 +225,5 @@
 - pkg:cargo/hyperlane-plugin-websocket@4.0.6
 - pkg:cargo/hyperlane-plugin-websocket@4.0.7
 - pkg:cargo/hyperlane-plugin-websocket@4.0.8
+- pkg:cargo/hyperlane-plugin-websocket@5.0.0
+- pkg:cargo/hyperlane-plugin-websocket@5.0.1
