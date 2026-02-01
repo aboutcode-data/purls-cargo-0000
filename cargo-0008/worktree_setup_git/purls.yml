@@ -1,0 +1,2 @@
+- pkg:cargo/worktree_setup_git@0.1.0
+- pkg:cargo/worktree_setup_git@0.2.0

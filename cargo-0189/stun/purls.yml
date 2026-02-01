@@ -5,6 +5,7 @@
 - pkg:cargo/stun@0.1.15
 - pkg:cargo/stun@0.1.16
 - pkg:cargo/stun@0.1.17
+- pkg:cargo/stun@0.17.0
 - pkg:cargo/stun@0.2.0
 - pkg:cargo/stun@0.2.1
 - pkg:cargo/stun@0.2.2
