@@ -1,4 +1,5 @@
 - pkg:cargo/pactus-jsonrpc@1.10.0
 - pkg:cargo/pactus-jsonrpc@1.10.1
+- pkg:cargo/pactus-jsonrpc@1.11.1
 - pkg:cargo/pactus-jsonrpc@1.9.3
 - pkg:cargo/pactus-jsonrpc@1.9.4
