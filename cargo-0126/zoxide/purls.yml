@@ -34,3 +34,4 @@
 - pkg:cargo/zoxide@0.9.6
 - pkg:cargo/zoxide@0.9.7
 - pkg:cargo/zoxide@0.9.8
+- pkg:cargo/zoxide@0.9.9
