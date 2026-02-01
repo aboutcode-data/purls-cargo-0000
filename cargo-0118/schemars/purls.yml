@@ -93,3 +93,4 @@
 - pkg:cargo/schemars@1.0.5
 - pkg:cargo/schemars@1.1.0
 - pkg:cargo/schemars@1.2.0
+- pkg:cargo/schemars@1.2.1
