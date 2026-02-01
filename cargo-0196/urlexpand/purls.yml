@@ -24,3 +24,4 @@
 - pkg:cargo/urlexpand@0.2.7
 - pkg:cargo/urlexpand@0.2.8
 - pkg:cargo/urlexpand@0.2.9
+- pkg:cargo/urlexpand@0.3.0
