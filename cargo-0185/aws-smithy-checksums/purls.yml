@@ -56,3 +56,4 @@
 - pkg:cargo/aws-smithy-checksums@0.64.0
 - pkg:cargo/aws-smithy-checksums@0.64.1
 - pkg:cargo/aws-smithy-checksums@0.64.2
+- pkg:cargo/aws-smithy-checksums@0.64.3
