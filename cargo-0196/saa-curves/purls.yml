@@ -66,3 +66,4 @@
 - pkg:cargo/saa-curves@0.26.5
 - pkg:cargo/saa-curves@0.26.9
 - pkg:cargo/saa-curves@0.27.0
+- pkg:cargo/saa-curves@0.27.1
