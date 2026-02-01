@@ -21,6 +21,8 @@
 - pkg:cargo/plumbrs@0.15.0
 - pkg:cargo/plumbrs@0.15.1
 - pkg:cargo/plumbrs@0.15.2
+- pkg:cargo/plumbrs@0.15.3
+- pkg:cargo/plumbrs@0.16.0
 - pkg:cargo/plumbrs@0.5.4
 - pkg:cargo/plumbrs@0.5.5
 - pkg:cargo/plumbrs@0.5.6
