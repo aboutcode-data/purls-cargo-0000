@@ -55,6 +55,7 @@
 - pkg:cargo/cobalt-bin@0.20.0
 - pkg:cargo/cobalt-bin@0.20.1
 - pkg:cargo/cobalt-bin@0.20.2
+- pkg:cargo/cobalt-bin@0.20.3
 - pkg:cargo/cobalt-bin@0.3.0
 - pkg:cargo/cobalt-bin@0.4.0
 - pkg:cargo/cobalt-bin@0.4.0-beta

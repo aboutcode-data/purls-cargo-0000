@@ -18,3 +18,4 @@
 - pkg:cargo/nulid@0.5.9
 - pkg:cargo/nulid@0.6.0
 - pkg:cargo/nulid@0.7.0
+- pkg:cargo/nulid@0.8.0
