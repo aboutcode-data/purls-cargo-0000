@@ -214,6 +214,7 @@
 - pkg:cargo/sn-testnet-deploy@0.6.31
 - pkg:cargo/sn-testnet-deploy@0.6.32
 - pkg:cargo/sn-testnet-deploy@0.6.33
+- pkg:cargo/sn-testnet-deploy@0.6.34
 - pkg:cargo/sn-testnet-deploy@0.6.4
 - pkg:cargo/sn-testnet-deploy@0.6.5
 - pkg:cargo/sn-testnet-deploy@0.6.6
