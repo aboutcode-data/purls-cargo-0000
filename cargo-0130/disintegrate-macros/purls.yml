@@ -13,3 +13,4 @@
 - pkg:cargo/disintegrate-macros@2.0.0
 - pkg:cargo/disintegrate-macros@2.1.0
 - pkg:cargo/disintegrate-macros@3.0.0
+- pkg:cargo/disintegrate-macros@4.0.0
