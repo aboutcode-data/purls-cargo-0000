@@ -21,3 +21,4 @@
 - pkg:cargo/beancount-language-server@1.7.0
 - pkg:cargo/beancount-language-server@1.8.0
 - pkg:cargo/beancount-language-server@1.8.1
+- pkg:cargo/beancount-language-server@1.9.0
