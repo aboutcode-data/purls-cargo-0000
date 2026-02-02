@@ -1,4 +1,5 @@
 - pkg:cargo/captcha-engine@0.1.0
+- pkg:cargo/captcha-engine@0.4.10
 - pkg:cargo/captcha-engine@0.4.5
 - pkg:cargo/captcha-engine@0.4.6
 - pkg:cargo/captcha-engine@0.4.7
