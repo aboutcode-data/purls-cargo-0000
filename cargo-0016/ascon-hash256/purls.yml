@@ -1,3 +1,4 @@
 - pkg:cargo/ascon-hash256@0.0.0
 - pkg:cargo/ascon-hash256@0.5.0-rc.0
 - pkg:cargo/ascon-hash256@0.5.0-rc.1
+- pkg:cargo/ascon-hash256@0.5.0-rc.2
