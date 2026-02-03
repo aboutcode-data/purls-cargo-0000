@@ -74,3 +74,4 @@
 - pkg:cargo/flate2@1.1.6
 - pkg:cargo/flate2@1.1.7
 - pkg:cargo/flate2@1.1.8
+- pkg:cargo/flate2@1.1.9

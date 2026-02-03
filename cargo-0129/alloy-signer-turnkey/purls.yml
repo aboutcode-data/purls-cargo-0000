@@ -15,3 +15,4 @@
 - pkg:cargo/alloy-signer-turnkey@1.5.0
 - pkg:cargo/alloy-signer-turnkey@1.5.1
 - pkg:cargo/alloy-signer-turnkey@1.5.2
+- pkg:cargo/alloy-signer-turnkey@1.6.0
