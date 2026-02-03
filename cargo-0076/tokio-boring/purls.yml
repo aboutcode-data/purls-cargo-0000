@@ -43,3 +43,4 @@
 - pkg:cargo/tokio-boring@4.9.0
 - pkg:cargo/tokio-boring@4.9.1
 - pkg:cargo/tokio-boring@5.0.0-alpha.1
+- pkg:cargo/tokio-boring@5.0.0-alpha.3
