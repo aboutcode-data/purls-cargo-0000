@@ -5,4 +5,6 @@
 - pkg:cargo/junobuild-cdn@0.3.0
 - pkg:cargo/junobuild-cdn@0.4.0
 - pkg:cargo/junobuild-cdn@0.4.1
+- pkg:cargo/junobuild-cdn@0.4.1-patch.1
+- pkg:cargo/junobuild-cdn@0.4.1-patch.2
 - pkg:cargo/junobuild-cdn@0.5.0
