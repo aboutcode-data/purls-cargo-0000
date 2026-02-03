@@ -2,3 +2,4 @@
 - pkg:cargo/redis-objects@1.0.0
 - pkg:cargo/redis-objects@1.1.1
 - pkg:cargo/redis-objects@1.1.2
+- pkg:cargo/redis-objects@1.2.0
