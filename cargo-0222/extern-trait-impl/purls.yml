@@ -1,1 +1,2 @@
 - pkg:cargo/extern-trait-impl@0.4.0
+- pkg:cargo/extern-trait-impl@0.4.1
