@@ -43,3 +43,4 @@
 - pkg:cargo/getrandom@0.4.0
 - pkg:cargo/getrandom@0.4.0-rc.0
 - pkg:cargo/getrandom@0.4.0-rc.1
+- pkg:cargo/getrandom@0.4.1
