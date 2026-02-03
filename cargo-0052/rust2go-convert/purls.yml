@@ -1,1 +1,2 @@
 - pkg:cargo/rust2go-convert@0.1.0
+- pkg:cargo/rust2go-convert@0.1.1
