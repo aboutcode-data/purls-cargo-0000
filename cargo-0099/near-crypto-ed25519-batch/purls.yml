@@ -9,3 +9,4 @@
 - pkg:cargo/near-crypto-ed25519-batch@0.34.3
 - pkg:cargo/near-crypto-ed25519-batch@0.34.4
 - pkg:cargo/near-crypto-ed25519-batch@0.34.5
+- pkg:cargo/near-crypto-ed25519-batch@0.34.6
