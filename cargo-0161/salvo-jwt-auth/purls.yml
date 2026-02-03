@@ -88,3 +88,4 @@
 - pkg:cargo/salvo-jwt-auth@0.88.0
 - pkg:cargo/salvo-jwt-auth@0.88.1
 - pkg:cargo/salvo-jwt-auth@0.89.0
+- pkg:cargo/salvo-jwt-auth@0.89.1

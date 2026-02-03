@@ -24,4 +24,5 @@
 - pkg:cargo/risc0-circuit-keccak@4.0.1
 - pkg:cargo/risc0-circuit-keccak@4.0.2
 - pkg:cargo/risc0-circuit-keccak@4.0.3
+- pkg:cargo/risc0-circuit-keccak@4.0.5
 - pkg:cargo/risc0-circuit-keccak@5.0.0-rc.1
