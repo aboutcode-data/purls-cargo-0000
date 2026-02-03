@@ -7,3 +7,4 @@
 - pkg:cargo/tket-qsystem@0.20.1
 - pkg:cargo/tket-qsystem@0.21.0
 - pkg:cargo/tket-qsystem@0.22.0
+- pkg:cargo/tket-qsystem@0.23.0
