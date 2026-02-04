@@ -6,3 +6,4 @@
 - pkg:cargo/prometheus_push@0.4.3
 - pkg:cargo/prometheus_push@0.4.4
 - pkg:cargo/prometheus_push@0.4.5
+- pkg:cargo/prometheus_push@0.4.6
