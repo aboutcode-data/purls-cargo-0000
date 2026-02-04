@@ -21,6 +21,7 @@
 - pkg:cargo/pallet-asset-conversion-tx-payment@24.0.0
 - pkg:cargo/pallet-asset-conversion-tx-payment@25.0.0
 - pkg:cargo/pallet-asset-conversion-tx-payment@26.0.0
+- pkg:cargo/pallet-asset-conversion-tx-payment@26.0.1
 - pkg:cargo/pallet-asset-conversion-tx-payment@27.0.0
 - pkg:cargo/pallet-asset-conversion-tx-payment@27.0.1
 - pkg:cargo/pallet-asset-conversion-tx-payment@4.0.0

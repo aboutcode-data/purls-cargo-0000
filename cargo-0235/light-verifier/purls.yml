@@ -18,3 +18,4 @@
 - pkg:cargo/light-verifier@6.0.0
 - pkg:cargo/light-verifier@7.0.0
 - pkg:cargo/light-verifier@8.0.0
+- pkg:cargo/light-verifier@9.0.0
