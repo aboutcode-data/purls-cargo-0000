@@ -29,3 +29,4 @@
 - pkg:cargo/x25519-dalek@3.0.0-pre.3
 - pkg:cargo/x25519-dalek@3.0.0-pre.4
 - pkg:cargo/x25519-dalek@3.0.0-pre.5
+- pkg:cargo/x25519-dalek@3.0.0-pre.6
