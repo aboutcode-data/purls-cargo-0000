@@ -9,3 +9,4 @@
 - pkg:cargo/mpvss-rs@0.2.6
 - pkg:cargo/mpvss-rs@0.2.7
 - pkg:cargo/mpvss-rs@0.2.8
+- pkg:cargo/mpvss-rs@1.0.0

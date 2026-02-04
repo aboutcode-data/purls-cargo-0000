@@ -1,1 +1,6 @@
 - pkg:cargo/machi-cli@0.1.1
+- pkg:cargo/machi-cli@0.4.5
+- pkg:cargo/machi-cli@0.4.6
+- pkg:cargo/machi-cli@0.4.7
+- pkg:cargo/machi-cli@0.5.0
+- pkg:cargo/machi-cli@0.5.1
