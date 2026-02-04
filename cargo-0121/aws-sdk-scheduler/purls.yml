@@ -109,3 +109,4 @@
 - pkg:cargo/aws-sdk-scheduler@1.90.0
 - pkg:cargo/aws-sdk-scheduler@1.91.0
 - pkg:cargo/aws-sdk-scheduler@1.92.0
+- pkg:cargo/aws-sdk-scheduler@1.93.0

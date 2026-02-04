@@ -109,3 +109,4 @@
 - pkg:cargo/aws-sdk-simspaceweaver@1.90.0
 - pkg:cargo/aws-sdk-simspaceweaver@1.91.0
 - pkg:cargo/aws-sdk-simspaceweaver@1.92.0
+- pkg:cargo/aws-sdk-simspaceweaver@1.93.0

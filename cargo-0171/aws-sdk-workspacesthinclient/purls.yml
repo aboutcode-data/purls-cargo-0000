@@ -99,3 +99,4 @@
 - pkg:cargo/aws-sdk-workspacesthinclient@1.96.0
 - pkg:cargo/aws-sdk-workspacesthinclient@1.97.0
 - pkg:cargo/aws-sdk-workspacesthinclient@1.98.0
+- pkg:cargo/aws-sdk-workspacesthinclient@1.99.0

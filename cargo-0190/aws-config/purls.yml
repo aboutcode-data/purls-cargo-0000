@@ -84,6 +84,7 @@
 - pkg:cargo/aws-config@1.8.10
 - pkg:cargo/aws-config@1.8.11
 - pkg:cargo/aws-config@1.8.12
+- pkg:cargo/aws-config@1.8.13
 - pkg:cargo/aws-config@1.8.2
 - pkg:cargo/aws-config@1.8.3
 - pkg:cargo/aws-config@1.8.4
