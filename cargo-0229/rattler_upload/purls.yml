@@ -20,6 +20,7 @@
 - pkg:cargo/rattler_upload@0.4.0
 - pkg:cargo/rattler_upload@0.4.1
 - pkg:cargo/rattler_upload@0.4.10
+- pkg:cargo/rattler_upload@0.4.11
 - pkg:cargo/rattler_upload@0.4.2
 - pkg:cargo/rattler_upload@0.4.3
 - pkg:cargo/rattler_upload@0.4.4
