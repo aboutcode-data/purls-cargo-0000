@@ -39,3 +39,4 @@
 - pkg:cargo/data-modelling-sdk@2.0.8
 - pkg:cargo/data-modelling-sdk@2.0.9
 - pkg:cargo/data-modelling-sdk@2.1.0
+- pkg:cargo/data-modelling-sdk@2.3.0
