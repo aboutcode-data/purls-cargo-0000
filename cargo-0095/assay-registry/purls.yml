@@ -2,3 +2,4 @@
 - pkg:cargo/assay-registry@2.12.0
 - pkg:cargo/assay-registry@2.13.0
 - pkg:cargo/assay-registry@2.14.0
+- pkg:cargo/assay-registry@2.15.0
