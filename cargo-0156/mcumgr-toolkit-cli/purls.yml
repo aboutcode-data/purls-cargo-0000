@@ -1,1 +1,2 @@
 - pkg:cargo/mcumgr-toolkit-cli@0.8.0
+- pkg:cargo/mcumgr-toolkit-cli@0.8.1
