@@ -111,3 +111,4 @@
 - pkg:cargo/mycelium-memory-db@8.3.0%2Bbeta
 - pkg:cargo/mycelium-memory-db@8.3.1-beta.1
 - pkg:cargo/mycelium-memory-db@8.3.1-beta.2
+- pkg:cargo/mycelium-memory-db@8.3.1-beta.3
