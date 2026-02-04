@@ -10,6 +10,7 @@
 - pkg:cargo/aviutl2-macros@0.13.0
 - pkg:cargo/aviutl2-macros@0.14.0
 - pkg:cargo/aviutl2-macros@0.15.0
+- pkg:cargo/aviutl2-macros@0.15.1
 - pkg:cargo/aviutl2-macros@0.9.2
 - pkg:cargo/aviutl2-macros@0.9.3
 - pkg:cargo/aviutl2-macros@0.9.4
