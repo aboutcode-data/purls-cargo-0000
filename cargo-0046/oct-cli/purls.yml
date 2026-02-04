@@ -1,3 +1,4 @@
 - pkg:cargo/oct-cli@0.4.1
 - pkg:cargo/oct-cli@0.6.1
 - pkg:cargo/oct-cli@0.7.0
+- pkg:cargo/oct-cli@0.8.0

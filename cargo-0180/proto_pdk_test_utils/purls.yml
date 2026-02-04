@@ -109,6 +109,7 @@
 - pkg:cargo/proto_pdk_test_utils@0.43.2
 - pkg:cargo/proto_pdk_test_utils@0.43.3
 - pkg:cargo/proto_pdk_test_utils@0.43.4
+- pkg:cargo/proto_pdk_test_utils@0.43.5
 - pkg:cargo/proto_pdk_test_utils@0.5.0
 - pkg:cargo/proto_pdk_test_utils@0.5.1
 - pkg:cargo/proto_pdk_test_utils@0.5.2
