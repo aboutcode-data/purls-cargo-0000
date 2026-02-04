@@ -1,3 +1,4 @@
 - pkg:cargo/syster-cli@0.2.2-alpha
 - pkg:cargo/syster-cli@0.2.3-alpha
 - pkg:cargo/syster-cli@0.3.0-alpha
+- pkg:cargo/syster-cli@0.3.1-alpha
