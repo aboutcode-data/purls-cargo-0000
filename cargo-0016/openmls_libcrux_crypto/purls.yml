@@ -7,3 +7,4 @@
 - pkg:cargo/openmls_libcrux_crypto@0.2.1
 - pkg:cargo/openmls_libcrux_crypto@0.2.1-rc.1
 - pkg:cargo/openmls_libcrux_crypto@0.2.2
+- pkg:cargo/openmls_libcrux_crypto@0.3.0
