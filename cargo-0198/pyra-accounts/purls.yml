@@ -1,4 +1,5 @@
 - pkg:cargo/pyra-accounts@0.2.10
+- pkg:cargo/pyra-accounts@0.2.11
 - pkg:cargo/pyra-accounts@0.2.5
 - pkg:cargo/pyra-accounts@0.2.6
 - pkg:cargo/pyra-accounts@0.2.7
