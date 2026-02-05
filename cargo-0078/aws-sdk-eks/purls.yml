@@ -71,6 +71,7 @@
 - pkg:cargo/aws-sdk-eks@1.119.0
 - pkg:cargo/aws-sdk-eks@1.12.0
 - pkg:cargo/aws-sdk-eks@1.120.0
+- pkg:cargo/aws-sdk-eks@1.120.1
 - pkg:cargo/aws-sdk-eks@1.13.0
 - pkg:cargo/aws-sdk-eks@1.14.0
 - pkg:cargo/aws-sdk-eks@1.15.0
