@@ -16,3 +16,5 @@
 - pkg:cargo/stigmerge_peer@0.5.7
 - pkg:cargo/stigmerge_peer@0.5.8
 - pkg:cargo/stigmerge_peer@0.5.9
+- pkg:cargo/stigmerge_peer@0.6.0
+- pkg:cargo/stigmerge_peer@0.6.1

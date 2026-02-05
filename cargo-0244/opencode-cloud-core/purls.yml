@@ -29,6 +29,7 @@
 - pkg:cargo/opencode-cloud-core@14.0.0
 - pkg:cargo/opencode-cloud-core@15.0.0
 - pkg:cargo/opencode-cloud-core@15.1.0
+- pkg:cargo/opencode-cloud-core@15.2.0
 - pkg:cargo/opencode-cloud-core@2.0.0
 - pkg:cargo/opencode-cloud-core@2.1.0
 - pkg:cargo/opencode-cloud-core@2.1.1
