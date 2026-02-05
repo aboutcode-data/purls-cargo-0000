@@ -62,6 +62,7 @@
 - pkg:cargo/piecrust@0.29.0-rc.3
 - pkg:cargo/piecrust@0.29.0-rc.4
 - pkg:cargo/piecrust@0.3.0
+- pkg:cargo/piecrust@0.30.0-rc.0
 - pkg:cargo/piecrust@0.4.0
 - pkg:cargo/piecrust@0.5.0
 - pkg:cargo/piecrust@0.5.1
