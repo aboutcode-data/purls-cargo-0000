@@ -27,3 +27,4 @@
 - pkg:cargo/reqwest-tracing@0.5.7
 - pkg:cargo/reqwest-tracing@0.5.8
 - pkg:cargo/reqwest-tracing@0.6.0
+- pkg:cargo/reqwest-tracing@0.7.0
