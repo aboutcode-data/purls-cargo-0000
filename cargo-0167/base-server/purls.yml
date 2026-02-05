@@ -7,3 +7,4 @@
 - pkg:cargo/base-server@0.0.7
 - pkg:cargo/base-server@0.0.8
 - pkg:cargo/base-server@0.0.9
+- pkg:cargo/base-server@0.1.0
