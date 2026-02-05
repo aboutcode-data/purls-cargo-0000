@@ -27,3 +27,4 @@
 - pkg:cargo/bevy_eidolon@0.2.0-rc.5
 - pkg:cargo/bevy_eidolon@0.2.0-rc.6
 - pkg:cargo/bevy_eidolon@0.2.0-rc.7
+- pkg:cargo/bevy_eidolon@0.3.0

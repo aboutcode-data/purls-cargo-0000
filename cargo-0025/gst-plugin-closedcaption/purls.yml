@@ -26,6 +26,7 @@
 - pkg:cargo/gst-plugin-closedcaption@0.14.2
 - pkg:cargo/gst-plugin-closedcaption@0.14.4
 - pkg:cargo/gst-plugin-closedcaption@0.15.0-alpha.1
+- pkg:cargo/gst-plugin-closedcaption@0.15.0-alpha.2
 - pkg:cargo/gst-plugin-closedcaption@0.6.0
 - pkg:cargo/gst-plugin-closedcaption@0.7.0
 - pkg:cargo/gst-plugin-closedcaption@0.7.1

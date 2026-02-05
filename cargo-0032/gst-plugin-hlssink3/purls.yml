@@ -15,6 +15,7 @@
 - pkg:cargo/gst-plugin-hlssink3@0.13.7
 - pkg:cargo/gst-plugin-hlssink3@0.14.0
 - pkg:cargo/gst-plugin-hlssink3@0.15.0-alpha.1
+- pkg:cargo/gst-plugin-hlssink3@0.15.0-alpha.2
 - pkg:cargo/gst-plugin-hlssink3@0.8.0
 - pkg:cargo/gst-plugin-hlssink3@0.8.1
 - pkg:cargo/gst-plugin-hlssink3@0.8.4
