@@ -1,4 +1,5 @@
 - pkg:cargo/es-fluent-lang-macro@0.10.0
+- pkg:cargo/es-fluent-lang-macro@0.10.1
 - pkg:cargo/es-fluent-lang-macro@0.2.10
 - pkg:cargo/es-fluent-lang-macro@0.2.11
 - pkg:cargo/es-fluent-lang-macro@0.2.12
