@@ -11,6 +11,8 @@
 - pkg:cargo/cargo-rustapi@0.1.233
 - pkg:cargo/cargo-rustapi@0.1.265
 - pkg:cargo/cargo-rustapi@0.1.275
+- pkg:cargo/cargo-rustapi@0.1.292
+- pkg:cargo/cargo-rustapi@0.1.300
 - pkg:cargo/cargo-rustapi@0.1.4
 - pkg:cargo/cargo-rustapi@0.1.5
 - pkg:cargo/cargo-rustapi@0.1.6
