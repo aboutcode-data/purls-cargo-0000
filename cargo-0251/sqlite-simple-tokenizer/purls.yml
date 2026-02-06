@@ -7,3 +7,4 @@
 - pkg:cargo/sqlite-simple-tokenizer@0.3.3
 - pkg:cargo/sqlite-simple-tokenizer@0.3.4
 - pkg:cargo/sqlite-simple-tokenizer@0.4.0
+- pkg:cargo/sqlite-simple-tokenizer@0.5.0
