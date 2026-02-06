@@ -28,3 +28,4 @@
 - pkg:cargo/injective-std@1.16.3
 - pkg:cargo/injective-std@1.16.3-1
 - pkg:cargo/injective-std@1.16.4-1
+- pkg:cargo/injective-std@1.18.0-beta.2
