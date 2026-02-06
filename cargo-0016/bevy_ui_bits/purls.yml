@@ -3,6 +3,7 @@
 - pkg:cargo/bevy_ui_bits@0.11.0
 - pkg:cargo/bevy_ui_bits@0.12.0
 - pkg:cargo/bevy_ui_bits@0.13.0
+- pkg:cargo/bevy_ui_bits@0.14.0
 - pkg:cargo/bevy_ui_bits@0.2.0
 - pkg:cargo/bevy_ui_bits@0.3.0
 - pkg:cargo/bevy_ui_bits@0.3.1

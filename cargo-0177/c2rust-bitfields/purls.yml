@@ -6,4 +6,5 @@
 - pkg:cargo/c2rust-bitfields@0.2.0
 - pkg:cargo/c2rust-bitfields@0.20.0
 - pkg:cargo/c2rust-bitfields@0.21.0
+- pkg:cargo/c2rust-bitfields@0.22.0
 - pkg:cargo/c2rust-bitfields@0.3.0
