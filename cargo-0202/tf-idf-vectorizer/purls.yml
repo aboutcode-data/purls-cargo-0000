@@ -6,6 +6,7 @@
 - pkg:cargo/tf-idf-vectorizer@0.1.4
 - pkg:cargo/tf-idf-vectorizer@0.10.0
 - pkg:cargo/tf-idf-vectorizer@0.10.1
+- pkg:cargo/tf-idf-vectorizer@0.10.2
 - pkg:cargo/tf-idf-vectorizer@0.3.0
 - pkg:cargo/tf-idf-vectorizer@0.3.1
 - pkg:cargo/tf-idf-vectorizer@0.4.0
