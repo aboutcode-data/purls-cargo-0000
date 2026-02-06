@@ -45,6 +45,7 @@
 - pkg:cargo/vpin@0.20.10
 - pkg:cargo/vpin@0.20.11
 - pkg:cargo/vpin@0.20.12
+- pkg:cargo/vpin@0.20.13
 - pkg:cargo/vpin@0.20.2
 - pkg:cargo/vpin@0.20.3
 - pkg:cargo/vpin@0.20.4
