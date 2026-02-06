@@ -27,6 +27,7 @@
 - pkg:cargo/shex_ast@0.1.142
 - pkg:cargo/shex_ast@0.1.143
 - pkg:cargo/shex_ast@0.1.145
+- pkg:cargo/shex_ast@0.1.147
 - pkg:cargo/shex_ast@0.1.15
 - pkg:cargo/shex_ast@0.1.19
 - pkg:cargo/shex_ast@0.1.2
