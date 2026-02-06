@@ -1,1 +1,2 @@
 - pkg:cargo/buddy-slab-allocator@0.1.0
+- pkg:cargo/buddy-slab-allocator@0.1.1

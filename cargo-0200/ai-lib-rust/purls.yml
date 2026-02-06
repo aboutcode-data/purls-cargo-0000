@@ -2,3 +2,4 @@
 - pkg:cargo/ai-lib-rust@0.5.1
 - pkg:cargo/ai-lib-rust@0.6.0
 - pkg:cargo/ai-lib-rust@0.6.5
+- pkg:cargo/ai-lib-rust@0.6.6
