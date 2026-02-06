@@ -50,3 +50,4 @@
 - pkg:cargo/arrow-select@57.0.0
 - pkg:cargo/arrow-select@57.1.0
 - pkg:cargo/arrow-select@57.2.0
+- pkg:cargo/arrow-select@57.3.0

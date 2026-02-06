@@ -49,3 +49,4 @@
 - pkg:cargo/arrow-ipc@57.0.0
 - pkg:cargo/arrow-ipc@57.1.0
 - pkg:cargo/arrow-ipc@57.2.0
+- pkg:cargo/arrow-ipc@57.3.0

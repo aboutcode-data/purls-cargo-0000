@@ -21,3 +21,4 @@
 - pkg:cargo/arrow-avro@57.0.0
 - pkg:cargo/arrow-avro@57.1.0
 - pkg:cargo/arrow-avro@57.2.0
+- pkg:cargo/arrow-avro@57.3.0
