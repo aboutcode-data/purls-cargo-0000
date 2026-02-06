@@ -5,3 +5,4 @@
 - pkg:cargo/pyth-lazer-solana-contract@0.4.1
 - pkg:cargo/pyth-lazer-solana-contract@0.4.2
 - pkg:cargo/pyth-lazer-solana-contract@0.5.0
+- pkg:cargo/pyth-lazer-solana-contract@0.7.1
