@@ -20,6 +20,10 @@
 - pkg:cargo/jetstream@13.0.0
 - pkg:cargo/jetstream@14.0.0
 - pkg:cargo/jetstream@14.1.0
+- pkg:cargo/jetstream@15.0.0
+- pkg:cargo/jetstream@15.1.0
+- pkg:cargo/jetstream@15.2.0
+- pkg:cargo/jetstream@16.0.0
 - pkg:cargo/jetstream@2.0.0
 - pkg:cargo/jetstream@2.0.1
 - pkg:cargo/jetstream@2.0.2

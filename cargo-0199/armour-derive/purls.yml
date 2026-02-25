@@ -8,6 +8,7 @@
 - pkg:cargo/armour-derive@0.24.5
 - pkg:cargo/armour-derive@0.27.0
 - pkg:cargo/armour-derive@0.27.1
+- pkg:cargo/armour-derive@0.27.2
 - pkg:cargo/armour-derive@0.6.0
 - pkg:cargo/armour-derive@0.7.0
 - pkg:cargo/armour-derive@0.8.0

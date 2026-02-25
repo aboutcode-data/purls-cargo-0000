@@ -14,3 +14,4 @@
 - pkg:cargo/git-fixture@0.3.4
 - pkg:cargo/git-fixture@0.3.5
 - pkg:cargo/git-fixture@0.3.6
+- pkg:cargo/git-fixture@1.0.0

@@ -96,6 +96,7 @@
 - pkg:cargo/arrow@57.1.0
 - pkg:cargo/arrow@57.2.0
 - pkg:cargo/arrow@57.3.0
+- pkg:cargo/arrow@58.0.0
 - pkg:cargo/arrow@6.0.0
 - pkg:cargo/arrow@6.1.0
 - pkg:cargo/arrow@6.2.0

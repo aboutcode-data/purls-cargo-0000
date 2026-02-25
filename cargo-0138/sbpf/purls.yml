@@ -2,3 +2,4 @@
 - pkg:cargo/sbpf@0.1.2
 - pkg:cargo/sbpf@0.1.5
 - pkg:cargo/sbpf@0.1.6
+- pkg:cargo/sbpf@0.1.8

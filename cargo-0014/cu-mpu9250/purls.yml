@@ -1,1 +1,2 @@
 - pkg:cargo/cu-mpu9250@0.12.0
+- pkg:cargo/cu-mpu9250@0.13.0
