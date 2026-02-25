@@ -3,3 +3,4 @@
 - pkg:cargo/scx_bpf_compat@1.0.17
 - pkg:cargo/scx_bpf_compat@1.0.18
 - pkg:cargo/scx_bpf_compat@1.0.19
+- pkg:cargo/scx_bpf_compat@1.0.20

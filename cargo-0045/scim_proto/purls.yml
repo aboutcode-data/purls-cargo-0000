@@ -27,3 +27,7 @@
 - pkg:cargo/scim_proto@1.8.2
 - pkg:cargo/scim_proto@1.8.3
 - pkg:cargo/scim_proto@1.8.5
+- pkg:cargo/scim_proto@1.8.6
+- pkg:cargo/scim_proto@1.9.0
+- pkg:cargo/scim_proto@1.9.0-pre
+- pkg:cargo/scim_proto@1.9.1

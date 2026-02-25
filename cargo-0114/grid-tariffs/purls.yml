@@ -13,6 +13,8 @@
 - pkg:cargo/grid-tariffs@0.16.0
 - pkg:cargo/grid-tariffs@0.17.0
 - pkg:cargo/grid-tariffs@0.17.1
+- pkg:cargo/grid-tariffs@0.17.10
+- pkg:cargo/grid-tariffs@0.17.11
 - pkg:cargo/grid-tariffs@0.17.2
 - pkg:cargo/grid-tariffs@0.17.3
 - pkg:cargo/grid-tariffs@0.17.4

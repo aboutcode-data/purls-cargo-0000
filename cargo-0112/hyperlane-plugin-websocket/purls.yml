@@ -72,6 +72,11 @@
 - pkg:cargo/hyperlane-plugin-websocket@1.2.1
 - pkg:cargo/hyperlane-plugin-websocket@1.2.2
 - pkg:cargo/hyperlane-plugin-websocket@1.2.3
+- pkg:cargo/hyperlane-plugin-websocket@10.0.0
+- pkg:cargo/hyperlane-plugin-websocket@10.0.1
+- pkg:cargo/hyperlane-plugin-websocket@10.0.2
+- pkg:cargo/hyperlane-plugin-websocket@10.0.3
+- pkg:cargo/hyperlane-plugin-websocket@10.0.4
 - pkg:cargo/hyperlane-plugin-websocket@2.0.0
 - pkg:cargo/hyperlane-plugin-websocket@2.0.1
 - pkg:cargo/hyperlane-plugin-websocket@2.0.2
@@ -243,3 +248,7 @@
 - pkg:cargo/hyperlane-plugin-websocket@7.1.1
 - pkg:cargo/hyperlane-plugin-websocket@7.1.2
 - pkg:cargo/hyperlane-plugin-websocket@8.0.0
+- pkg:cargo/hyperlane-plugin-websocket@8.0.1
+- pkg:cargo/hyperlane-plugin-websocket@8.0.2
+- pkg:cargo/hyperlane-plugin-websocket@9.0.0
+- pkg:cargo/hyperlane-plugin-websocket@9.0.1

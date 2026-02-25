@@ -17,6 +17,7 @@
 - pkg:cargo/oxker@0.10.5
 - pkg:cargo/oxker@0.11.1
 - pkg:cargo/oxker@0.12.0
+- pkg:cargo/oxker@0.13.0
 - pkg:cargo/oxker@0.2.0
 - pkg:cargo/oxker@0.2.1
 - pkg:cargo/oxker@0.2.2

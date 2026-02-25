@@ -67,3 +67,12 @@
 - pkg:cargo/dwctl@5.0.2
 - pkg:cargo/dwctl@5.0.3
 - pkg:cargo/dwctl@6.0.0
+- pkg:cargo/dwctl@6.1.0
+- pkg:cargo/dwctl@8.10.0
+- pkg:cargo/dwctl@8.4.1
+- pkg:cargo/dwctl@8.5.0
+- pkg:cargo/dwctl@8.6.0
+- pkg:cargo/dwctl@8.7.1
+- pkg:cargo/dwctl@8.8.0
+- pkg:cargo/dwctl@8.8.1
+- pkg:cargo/dwctl@8.9.0

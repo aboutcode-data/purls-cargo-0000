@@ -1,3 +1,5 @@
+- pkg:cargo/greentic-types-macros@0.1.0-dev.110
+- pkg:cargo/greentic-types-macros@0.1.0-dev.111
 - pkg:cargo/greentic-types-macros@0.2.1
 - pkg:cargo/greentic-types-macros@0.2.2
 - pkg:cargo/greentic-types-macros@0.2.3
@@ -41,7 +43,13 @@
 - pkg:cargo/greentic-types-macros@0.4.45
 - pkg:cargo/greentic-types-macros@0.4.46
 - pkg:cargo/greentic-types-macros@0.4.48
+- pkg:cargo/greentic-types-macros@0.4.49
 - pkg:cargo/greentic-types-macros@0.4.5
+- pkg:cargo/greentic-types-macros@0.4.51
+- pkg:cargo/greentic-types-macros@0.4.52
+- pkg:cargo/greentic-types-macros@0.4.53
+- pkg:cargo/greentic-types-macros@0.4.54
+- pkg:cargo/greentic-types-macros@0.4.55
 - pkg:cargo/greentic-types-macros@0.4.6
 - pkg:cargo/greentic-types-macros@0.4.7
 - pkg:cargo/greentic-types-macros@0.4.9

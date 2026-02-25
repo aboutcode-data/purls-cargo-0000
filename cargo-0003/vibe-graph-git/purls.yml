@@ -1,3 +1,4 @@
 - pkg:cargo/vibe-graph-git@0.1.0
 - pkg:cargo/vibe-graph-git@0.2.0
 - pkg:cargo/vibe-graph-git@0.3.0
+- pkg:cargo/vibe-graph-git@0.3.1

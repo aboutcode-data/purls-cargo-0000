@@ -1,4 +1,5 @@
 - pkg:cargo/grafton-ndi@0.10.0
+- pkg:cargo/grafton-ndi@0.11.0
 - pkg:cargo/grafton-ndi@0.2.4
 - pkg:cargo/grafton-ndi@0.3.0
 - pkg:cargo/grafton-ndi@0.4.0
