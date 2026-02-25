@@ -9,3 +9,4 @@
 - pkg:cargo/acton_test_macro@6.0.0
 - pkg:cargo/acton_test_macro@7.0.0
 - pkg:cargo/acton_test_macro@7.1.0
+- pkg:cargo/acton_test_macro@8.0.0

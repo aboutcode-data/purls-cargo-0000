@@ -1,2 +1,5 @@
 - pkg:cargo/squawk-fmt@2.38.0
 - pkg:cargo/squawk-fmt@2.39.0
+- pkg:cargo/squawk-fmt@2.40.0
+- pkg:cargo/squawk-fmt@2.40.1
+- pkg:cargo/squawk-fmt@2.41.0

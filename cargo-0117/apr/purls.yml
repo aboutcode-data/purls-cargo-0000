@@ -22,3 +22,4 @@
 - pkg:cargo/apr@0.3.4
 - pkg:cargo/apr@0.3.5
 - pkg:cargo/apr@0.4.0
+- pkg:cargo/apr@0.4.2

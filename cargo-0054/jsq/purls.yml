@@ -9,3 +9,5 @@
 - pkg:cargo/jsq@4.1.2
 - pkg:cargo/jsq@4.2.0
 - pkg:cargo/jsq@4.3.0
+- pkg:cargo/jsq@4.3.1
+- pkg:cargo/jsq@4.4.0

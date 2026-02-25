@@ -16,3 +16,5 @@
 - pkg:cargo/acorns@0.33.0
 - pkg:cargo/acorns@0.33.1
 - pkg:cargo/acorns@1.0.0
+- pkg:cargo/acorns@1.2.2
+- pkg:cargo/acorns@1.2.3

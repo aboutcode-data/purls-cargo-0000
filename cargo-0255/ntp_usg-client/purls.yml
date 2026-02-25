@@ -1,0 +1,8 @@
+- pkg:cargo/ntp_usg-client@3.0.1
+- pkg:cargo/ntp_usg-client@3.1.0
+- pkg:cargo/ntp_usg-client@3.2.0
+- pkg:cargo/ntp_usg-client@3.3.2
+- pkg:cargo/ntp_usg-client@3.3.3
+- pkg:cargo/ntp_usg-client@4.0.1
+- pkg:cargo/ntp_usg-client@4.1.0
+- pkg:cargo/ntp_usg-client@4.10.1

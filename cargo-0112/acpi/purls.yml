@@ -27,3 +27,4 @@
 - pkg:cargo/acpi@6.0.0
 - pkg:cargo/acpi@6.0.0-pre.0
 - pkg:cargo/acpi@6.0.1
+- pkg:cargo/acpi@6.1.0

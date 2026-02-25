@@ -1,0 +1,4 @@
+- pkg:cargo/xlsynth-autocov@0.30.0
+- pkg:cargo/xlsynth-autocov@0.31.0
+- pkg:cargo/xlsynth-autocov@0.32.0
+- pkg:cargo/xlsynth-autocov@0.33.0

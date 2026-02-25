@@ -1,0 +1,7 @@
+- pkg:cargo/ntp_usg-server@3.0.1
+- pkg:cargo/ntp_usg-server@3.1.0
+- pkg:cargo/ntp_usg-server@3.2.0
+- pkg:cargo/ntp_usg-server@3.3.3
+- pkg:cargo/ntp_usg-server@4.0.1
+- pkg:cargo/ntp_usg-server@4.1.0
+- pkg:cargo/ntp_usg-server@4.10.1

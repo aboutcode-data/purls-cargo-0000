@@ -9,3 +9,4 @@
 - pkg:cargo/universal-sierra-compiler@2.6.0
 - pkg:cargo/universal-sierra-compiler@2.6.0-rc.0
 - pkg:cargo/universal-sierra-compiler@2.7.0
+- pkg:cargo/universal-sierra-compiler@2.8.0-rc.0

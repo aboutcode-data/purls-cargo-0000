@@ -16,3 +16,5 @@
 - pkg:cargo/nbformat@0.8.0
 - pkg:cargo/nbformat@0.9.0
 - pkg:cargo/nbformat@1.0.0
+- pkg:cargo/nbformat@1.1.0
+- pkg:cargo/nbformat@1.2.0
