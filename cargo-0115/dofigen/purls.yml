@@ -56,3 +56,7 @@
 - pkg:cargo/dofigen@2.6.0-beta.2
 - pkg:cargo/dofigen@2.6.1
 - pkg:cargo/dofigen@2.7.0
+- pkg:cargo/dofigen@2.8.0
+- pkg:cargo/dofigen@2.8.0-beta.1
+- pkg:cargo/dofigen@2.8.0-beta.2
+- pkg:cargo/dofigen@2.8.0-beta.3
