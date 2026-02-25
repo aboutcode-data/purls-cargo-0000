@@ -14,3 +14,4 @@
 - pkg:cargo/glslang-sys@0.6.1%2B46ef757
 - pkg:cargo/glslang-sys@0.6.2%2B3454c36
 - pkg:cargo/glslang-sys@0.7.0%2B1062752
+- pkg:cargo/glslang-sys@0.8.0%2Bf0bd025

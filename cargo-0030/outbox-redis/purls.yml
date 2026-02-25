@@ -1,0 +1,2 @@
+- pkg:cargo/outbox-redis@0.1.0
+- pkg:cargo/outbox-redis@0.1.1

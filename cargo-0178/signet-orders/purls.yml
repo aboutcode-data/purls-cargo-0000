@@ -1,1 +1,4 @@
 - pkg:cargo/signet-orders@0.0.1-alpha
+- pkg:cargo/signet-orders@0.16.0-rc.10
+- pkg:cargo/signet-orders@0.16.0-rc.11
+- pkg:cargo/signet-orders@0.16.0-rc.9

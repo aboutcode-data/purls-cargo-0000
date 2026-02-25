@@ -104,6 +104,7 @@
 - pkg:cargo/leptos_router@0.8.1
 - pkg:cargo/leptos_router@0.8.10
 - pkg:cargo/leptos_router@0.8.11
+- pkg:cargo/leptos_router@0.8.12
 - pkg:cargo/leptos_router@0.8.2
 - pkg:cargo/leptos_router@0.8.3
 - pkg:cargo/leptos_router@0.8.4

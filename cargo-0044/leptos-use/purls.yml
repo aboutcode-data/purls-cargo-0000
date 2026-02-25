@@ -72,6 +72,7 @@
 - pkg:cargo/leptos-use@0.16.3
 - pkg:cargo/leptos-use@0.17.0
 - pkg:cargo/leptos-use@0.18.0
+- pkg:cargo/leptos-use@0.18.1
 - pkg:cargo/leptos-use@0.2.0
 - pkg:cargo/leptos-use@0.2.1
 - pkg:cargo/leptos-use@0.3.0

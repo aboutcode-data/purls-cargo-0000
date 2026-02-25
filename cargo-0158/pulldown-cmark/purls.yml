@@ -28,6 +28,7 @@
 - pkg:cargo/pulldown-cmark@0.12.1
 - pkg:cargo/pulldown-cmark@0.12.2
 - pkg:cargo/pulldown-cmark@0.13.0
+- pkg:cargo/pulldown-cmark@0.13.1
 - pkg:cargo/pulldown-cmark@0.2.0
 - pkg:cargo/pulldown-cmark@0.3.0
 - pkg:cargo/pulldown-cmark@0.4.0

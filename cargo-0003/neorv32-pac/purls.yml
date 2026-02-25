@@ -1,1 +1,2 @@
 - pkg:cargo/neorv32-pac@0.1.0
+- pkg:cargo/neorv32-pac@0.2.0

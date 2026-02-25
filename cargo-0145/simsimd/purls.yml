@@ -90,6 +90,7 @@
 - pkg:cargo/simsimd@6.5.1
 - pkg:cargo/simsimd@6.5.10
 - pkg:cargo/simsimd@6.5.12
+- pkg:cargo/simsimd@6.5.13
 - pkg:cargo/simsimd@6.5.2
 - pkg:cargo/simsimd@6.5.3
 - pkg:cargo/simsimd@6.5.4

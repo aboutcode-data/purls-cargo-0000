@@ -40,6 +40,7 @@
 - pkg:cargo/quiche@0.24.7
 - pkg:cargo/quiche@0.24.8
 - pkg:cargo/quiche@0.24.9
+- pkg:cargo/quiche@0.25.0
 - pkg:cargo/quiche@0.3.0
 - pkg:cargo/quiche@0.4.0
 - pkg:cargo/quiche@0.5.0

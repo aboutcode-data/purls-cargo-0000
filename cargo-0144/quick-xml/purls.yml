@@ -76,6 +76,8 @@
 - pkg:cargo/quick-xml@0.38.3
 - pkg:cargo/quick-xml@0.38.4
 - pkg:cargo/quick-xml@0.39.0
+- pkg:cargo/quick-xml@0.39.1
+- pkg:cargo/quick-xml@0.39.2
 - pkg:cargo/quick-xml@0.4.0
 - pkg:cargo/quick-xml@0.4.1
 - pkg:cargo/quick-xml@0.4.2

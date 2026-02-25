@@ -1,1 +1,2 @@
 - pkg:cargo/iroh-h3-axum@0.1.0
+- pkg:cargo/iroh-h3-axum@0.2.1

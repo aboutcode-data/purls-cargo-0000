@@ -25,3 +25,8 @@
 - pkg:cargo/cfg-rs@0.6.6
 - pkg:cargo/cfg-rs@0.7.0
 - pkg:cargo/cfg-rs@0.7.1
+- pkg:cargo/cfg-rs@1.0.0
+- pkg:cargo/cfg-rs@1.0.1
+- pkg:cargo/cfg-rs@1.0.2
+- pkg:cargo/cfg-rs@1.0.3
+- pkg:cargo/cfg-rs@1.0.4
