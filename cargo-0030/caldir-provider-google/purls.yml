@@ -1,1 +1,2 @@
 - pkg:cargo/caldir-provider-google@0.1.0
+- pkg:cargo/caldir-provider-google@0.2.0

@@ -288,3 +288,4 @@
 - pkg:cargo/vtcode-indexer@0.82.4
 - pkg:cargo/vtcode-indexer@0.82.5
 - pkg:cargo/vtcode-indexer@0.82.6
+- pkg:cargo/vtcode-indexer@0.83.0
