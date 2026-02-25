@@ -17,3 +17,4 @@
 - pkg:cargo/betfair-stream-types@0.6.6
 - pkg:cargo/betfair-stream-types@0.6.7
 - pkg:cargo/betfair-stream-types@0.6.8
+- pkg:cargo/betfair-stream-types@0.7.0

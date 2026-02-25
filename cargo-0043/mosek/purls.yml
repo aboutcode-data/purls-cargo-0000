@@ -22,3 +22,4 @@
 - pkg:cargo/mosek@11.0.1
 - pkg:cargo/mosek@11.0.15
 - pkg:cargo/mosek@11.0.16
+- pkg:cargo/mosek@11.1.0

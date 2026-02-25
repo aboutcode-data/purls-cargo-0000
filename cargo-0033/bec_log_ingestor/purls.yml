@@ -17,3 +17,7 @@
 - pkg:cargo/bec_log_ingestor@1.5.1
 - pkg:cargo/bec_log_ingestor@1.5.2
 - pkg:cargo/bec_log_ingestor@1.5.3
+- pkg:cargo/bec_log_ingestor@1.6.0
+- pkg:cargo/bec_log_ingestor@1.7.0
+- pkg:cargo/bec_log_ingestor@1.7.1
+- pkg:cargo/bec_log_ingestor@1.8.0

@@ -16,6 +16,12 @@
 - pkg:cargo/snap-coin@11.2.0
 - pkg:cargo/snap-coin@11.2.1
 - pkg:cargo/snap-coin@11.2.2
+- pkg:cargo/snap-coin@12.0.0
+- pkg:cargo/snap-coin@13.0.0
+- pkg:cargo/snap-coin@13.1.0
+- pkg:cargo/snap-coin@13.1.1
+- pkg:cargo/snap-coin@13.2.0
+- pkg:cargo/snap-coin@13.3.0
 - pkg:cargo/snap-coin@2.0.0
 - pkg:cargo/snap-coin@2.1.0
 - pkg:cargo/snap-coin@2.1.1

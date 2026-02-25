@@ -22,3 +22,5 @@
 - pkg:cargo/bevy_editor_cam@0.6.0
 - pkg:cargo/bevy_editor_cam@0.6.1
 - pkg:cargo/bevy_editor_cam@0.7.0
+- pkg:cargo/bevy_editor_cam@0.7.1
+- pkg:cargo/bevy_editor_cam@0.8.0

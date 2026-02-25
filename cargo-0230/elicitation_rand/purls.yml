@@ -1,0 +1,5 @@
+- pkg:cargo/elicitation_rand@0.6.11
+- pkg:cargo/elicitation_rand@0.7.0
+- pkg:cargo/elicitation_rand@0.8.0
+- pkg:cargo/elicitation_rand@0.8.1
+- pkg:cargo/elicitation_rand@0.8.2

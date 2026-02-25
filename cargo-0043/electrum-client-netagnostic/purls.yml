@@ -2,3 +2,4 @@
 - pkg:cargo/electrum-client-netagnostic@0.20.0
 - pkg:cargo/electrum-client-netagnostic@0.21.0
 - pkg:cargo/electrum-client-netagnostic@0.21.1
+- pkg:cargo/electrum-client-netagnostic@0.21.2

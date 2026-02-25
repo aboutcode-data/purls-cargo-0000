@@ -134,3 +134,5 @@
 - pkg:cargo/http-constant@3.3.2
 - pkg:cargo/http-constant@3.3.3
 - pkg:cargo/http-constant@3.4.0
+- pkg:cargo/http-constant@4.0.0
+- pkg:cargo/http-constant@5.0.0

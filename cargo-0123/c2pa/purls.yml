@@ -162,7 +162,11 @@
 - pkg:cargo/c2pa@0.75.15
 - pkg:cargo/c2pa@0.75.16
 - pkg:cargo/c2pa@0.75.17
+- pkg:cargo/c2pa@0.75.18
+- pkg:cargo/c2pa@0.75.19
 - pkg:cargo/c2pa@0.75.2
+- pkg:cargo/c2pa@0.75.20
+- pkg:cargo/c2pa@0.75.21
 - pkg:cargo/c2pa@0.75.3
 - pkg:cargo/c2pa@0.75.4
 - pkg:cargo/c2pa@0.75.5
@@ -170,6 +174,7 @@
 - pkg:cargo/c2pa@0.75.7
 - pkg:cargo/c2pa@0.75.8
 - pkg:cargo/c2pa@0.75.9
+- pkg:cargo/c2pa@0.76.0
 - pkg:cargo/c2pa@0.8.0
 - pkg:cargo/c2pa@0.8.1
 - pkg:cargo/c2pa@0.9.1

@@ -30,5 +30,7 @@
 - pkg:cargo/mockforge-ui@0.3.4
 - pkg:cargo/mockforge-ui@0.3.5
 - pkg:cargo/mockforge-ui@0.3.6
+- pkg:cargo/mockforge-ui@0.3.66
+- pkg:cargo/mockforge-ui@0.3.67
 - pkg:cargo/mockforge-ui@0.3.8
 - pkg:cargo/mockforge-ui@0.3.9
