@@ -13,3 +13,5 @@
 - pkg:cargo/proteus-lib@0.5.9
 - pkg:cargo/proteus-lib@0.6.0
 - pkg:cargo/proteus-lib@0.6.1
+- pkg:cargo/proteus-lib@0.6.2
+- pkg:cargo/proteus-lib@0.6.3
