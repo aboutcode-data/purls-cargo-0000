@@ -25,3 +25,4 @@
 - pkg:cargo/range-set-blaze@0.3.0
 - pkg:cargo/range-set-blaze@0.4.1
 - pkg:cargo/range-set-blaze@0.4.2
+- pkg:cargo/range-set-blaze@0.4.3
