@@ -8,3 +8,4 @@
 - pkg:cargo/minipg@0.1.4
 - pkg:cargo/minipg@0.1.5
 - pkg:cargo/minipg@0.1.6
+- pkg:cargo/minipg@0.2.0

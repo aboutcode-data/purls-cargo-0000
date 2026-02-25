@@ -7,3 +7,4 @@
 - pkg:cargo/pallet-staking-async-ah-client@0.6.1
 - pkg:cargo/pallet-staking-async-ah-client@0.7.0
 - pkg:cargo/pallet-staking-async-ah-client@0.7.1
+- pkg:cargo/pallet-staking-async-ah-client@0.7.2

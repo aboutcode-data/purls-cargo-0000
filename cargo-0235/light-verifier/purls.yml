@@ -10,6 +10,7 @@
 - pkg:cargo/light-verifier@0.6.0
 - pkg:cargo/light-verifier@1.0.0
 - pkg:cargo/light-verifier@1.1.0
+- pkg:cargo/light-verifier@10.0.0
 - pkg:cargo/light-verifier@2.0.0
 - pkg:cargo/light-verifier@2.1.0
 - pkg:cargo/light-verifier@3.0.0

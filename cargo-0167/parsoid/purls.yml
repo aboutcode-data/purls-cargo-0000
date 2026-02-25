@@ -5,6 +5,7 @@
 - pkg:cargo/parsoid@0.10.0-rc.3
 - pkg:cargo/parsoid@0.10.0-rc.4
 - pkg:cargo/parsoid@0.10.1
+- pkg:cargo/parsoid@0.11.0-rc.1
 - pkg:cargo/parsoid@0.2.0
 - pkg:cargo/parsoid@0.3.0-alpha.1
 - pkg:cargo/parsoid@0.3.0-alpha.2

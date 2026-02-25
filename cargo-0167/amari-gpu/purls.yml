@@ -11,6 +11,7 @@
 - pkg:cargo/amari-gpu@0.16.0
 - pkg:cargo/amari-gpu@0.17.0
 - pkg:cargo/amari-gpu@0.18.0
+- pkg:cargo/amari-gpu@0.18.1
 - pkg:cargo/amari-gpu@0.7.0
 - pkg:cargo/amari-gpu@0.8.2
 - pkg:cargo/amari-gpu@0.8.3

@@ -5,3 +5,4 @@
 - pkg:cargo/liblmdb@0.9.70-pre.1
 - pkg:cargo/liblmdb@0.9.71-pre.1
 - pkg:cargo/liblmdb@0.9.71-pre.2
+- pkg:cargo/liblmdb@0.9.71-pre.3

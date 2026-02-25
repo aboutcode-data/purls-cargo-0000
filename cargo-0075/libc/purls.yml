@@ -103,6 +103,8 @@
 - pkg:cargo/libc@0.2.179
 - pkg:cargo/libc@0.2.18
 - pkg:cargo/libc@0.2.180
+- pkg:cargo/libc@0.2.181
+- pkg:cargo/libc@0.2.182
 - pkg:cargo/libc@0.2.19
 - pkg:cargo/libc@0.2.2
 - pkg:cargo/libc@0.2.20
@@ -193,3 +195,4 @@
 - pkg:cargo/libc@0.2.99
 - pkg:cargo/libc@1.0.0-alpha.1
 - pkg:cargo/libc@1.0.0-alpha.2
+- pkg:cargo/libc@1.0.0-alpha.3
