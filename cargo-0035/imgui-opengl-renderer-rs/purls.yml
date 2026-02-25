@@ -1,1 +1,3 @@
 - pkg:cargo/imgui-opengl-renderer-rs@0.12.0
+- pkg:cargo/imgui-opengl-renderer-rs@0.12.2
+- pkg:cargo/imgui-opengl-renderer-rs@0.12.3

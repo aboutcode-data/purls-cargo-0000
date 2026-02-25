@@ -11,3 +11,4 @@
 - pkg:cargo/rand_regex@0.17.0
 - pkg:cargo/rand_regex@0.18.0
 - pkg:cargo/rand_regex@0.18.1
+- pkg:cargo/rand_regex@0.19.0

@@ -5,3 +5,14 @@
 - pkg:cargo/nf_ndc_connect_public@0.3.3
 - pkg:cargo/nf_ndc_connect_public@0.4.0
 - pkg:cargo/nf_ndc_connect_public@0.4.1
+- pkg:cargo/nf_ndc_connect_public@0.5.0
+- pkg:cargo/nf_ndc_connect_public@0.5.1
+- pkg:cargo/nf_ndc_connect_public@0.5.2
+- pkg:cargo/nf_ndc_connect_public@0.5.3
+- pkg:cargo/nf_ndc_connect_public@0.5.4
+- pkg:cargo/nf_ndc_connect_public@0.5.5
+- pkg:cargo/nf_ndc_connect_public@0.6.0
+- pkg:cargo/nf_ndc_connect_public@0.6.1
+- pkg:cargo/nf_ndc_connect_public@0.6.3
+- pkg:cargo/nf_ndc_connect_public@0.6.4
+- pkg:cargo/nf_ndc_connect_public@0.7.0
