@@ -20,3 +20,4 @@
 - pkg:cargo/floki@2.2.0
 - pkg:cargo/floki@2.3.0
 - pkg:cargo/floki@2.4.0
+- pkg:cargo/floki@2.4.1
