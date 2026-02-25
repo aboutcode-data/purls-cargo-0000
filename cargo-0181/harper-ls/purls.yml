@@ -105,3 +105,5 @@
 - pkg:cargo/harper-ls@1.4.1
 - pkg:cargo/harper-ls@1.5.1
 - pkg:cargo/harper-ls@1.6.0
+- pkg:cargo/harper-ls@1.7.0
+- pkg:cargo/harper-ls@1.8.0

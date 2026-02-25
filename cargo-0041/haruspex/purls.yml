@@ -27,3 +27,4 @@
 - pkg:cargo/haruspex@0.7.3
 - pkg:cargo/haruspex@0.7.4
 - pkg:cargo/haruspex@0.7.5
+- pkg:cargo/haruspex@0.8.0

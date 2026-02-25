@@ -1,1 +1,2 @@
 - pkg:cargo/astarte-fdo-protocol@0.1.0-alpha.1
+- pkg:cargo/astarte-fdo-protocol@1.0.0

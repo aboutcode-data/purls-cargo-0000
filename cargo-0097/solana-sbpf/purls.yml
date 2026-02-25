@@ -11,4 +11,6 @@
 - pkg:cargo/solana-sbpf@0.14.0
 - pkg:cargo/solana-sbpf@0.14.1
 - pkg:cargo/solana-sbpf@0.14.2
+- pkg:cargo/solana-sbpf@0.14.3
+- pkg:cargo/solana-sbpf@0.14.4
 - pkg:cargo/solana-sbpf@0.9.0

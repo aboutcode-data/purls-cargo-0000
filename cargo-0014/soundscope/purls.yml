@@ -9,3 +9,6 @@
 - pkg:cargo/soundscope@1.4.1
 - pkg:cargo/soundscope@1.5.0
 - pkg:cargo/soundscope@1.6.0
+- pkg:cargo/soundscope@1.7.0
+- pkg:cargo/soundscope@1.8.0
+- pkg:cargo/soundscope@1.8.1

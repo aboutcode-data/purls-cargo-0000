@@ -10,3 +10,5 @@
 - pkg:cargo/hashtree-config@0.2.3
 - pkg:cargo/hashtree-config@0.2.4
 - pkg:cargo/hashtree-config@0.2.5
+- pkg:cargo/hashtree-config@0.2.6
+- pkg:cargo/hashtree-config@0.2.8

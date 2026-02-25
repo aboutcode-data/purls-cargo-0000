@@ -9,3 +9,4 @@
 - pkg:cargo/tari_comms_dht@0.8.1
 - pkg:cargo/tari_comms_dht@1.0.0-rc.5
 - pkg:cargo/tari_comms_dht@5.1.0
+- pkg:cargo/tari_comms_dht@5.2.1

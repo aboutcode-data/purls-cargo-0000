@@ -3,6 +3,7 @@
 - pkg:cargo/wikibase_rest_api@0.1.10
 - pkg:cargo/wikibase_rest_api@0.1.11
 - pkg:cargo/wikibase_rest_api@0.1.12
+- pkg:cargo/wikibase_rest_api@0.1.13
 - pkg:cargo/wikibase_rest_api@0.1.2
 - pkg:cargo/wikibase_rest_api@0.1.3
 - pkg:cargo/wikibase_rest_api@0.1.4

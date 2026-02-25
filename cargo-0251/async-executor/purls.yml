@@ -13,6 +13,7 @@
 - pkg:cargo/async-executor@1.13.1
 - pkg:cargo/async-executor@1.13.2
 - pkg:cargo/async-executor@1.13.3
+- pkg:cargo/async-executor@1.14.0
 - pkg:cargo/async-executor@1.2.0
 - pkg:cargo/async-executor@1.3.0
 - pkg:cargo/async-executor@1.4.0

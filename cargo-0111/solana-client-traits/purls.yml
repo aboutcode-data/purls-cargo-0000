@@ -3,3 +3,4 @@
 - pkg:cargo/solana-client-traits@2.2.0
 - pkg:cargo/solana-client-traits@2.2.1
 - pkg:cargo/solana-client-traits@3.0.0
+- pkg:cargo/solana-client-traits@4.0.0

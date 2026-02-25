@@ -8,3 +8,4 @@
 - pkg:cargo/tari_p2p@1.0.0-rc.5
 - pkg:cargo/tari_p2p@1.0.0-rc.5.a
 - pkg:cargo/tari_p2p@5.1.0
+- pkg:cargo/tari_p2p@5.2.1
