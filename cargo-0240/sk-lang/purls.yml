@@ -3,3 +3,7 @@
 - pkg:cargo/sk-lang@0.7.2
 - pkg:cargo/sk-lang@0.7.6
 - pkg:cargo/sk-lang@0.8.0
+- pkg:cargo/sk-lang@0.9.1
+- pkg:cargo/sk-lang@0.9.3
+- pkg:cargo/sk-lang@0.9.6
+- pkg:cargo/sk-lang@0.9.7

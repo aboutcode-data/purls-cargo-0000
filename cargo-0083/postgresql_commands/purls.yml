@@ -28,6 +28,8 @@
 - pkg:cargo/postgresql_commands@0.18.7
 - pkg:cargo/postgresql_commands@0.19.0
 - pkg:cargo/postgresql_commands@0.20.0
+- pkg:cargo/postgresql_commands@0.20.1
+- pkg:cargo/postgresql_commands@0.20.2
 - pkg:cargo/postgresql_commands@0.8.0
 - pkg:cargo/postgresql_commands@0.8.1
 - pkg:cargo/postgresql_commands@0.8.2

@@ -164,3 +164,5 @@
 - pkg:cargo/stablebond-events@2.0.73
 - pkg:cargo/stablebond-events@2.0.8
 - pkg:cargo/stablebond-events@2.0.9
+- pkg:cargo/stablebond-events@2.1.0
+- pkg:cargo/stablebond-events@2.1.1

@@ -19,4 +19,7 @@
 - pkg:cargo/openmls@0.7.1
 - pkg:cargo/openmls@0.7.1-rc.1
 - pkg:cargo/openmls@0.7.2
+- pkg:cargo/openmls@0.7.3
+- pkg:cargo/openmls@0.7.4
 - pkg:cargo/openmls@0.8.0
+- pkg:cargo/openmls@0.8.1

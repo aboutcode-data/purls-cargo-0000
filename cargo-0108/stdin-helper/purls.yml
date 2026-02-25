@@ -2,3 +2,5 @@
 - pkg:cargo/stdin-helper@0.2.0
 - pkg:cargo/stdin-helper@1.0.0
 - pkg:cargo/stdin-helper@1.0.1
+- pkg:cargo/stdin-helper@2.0.0
+- pkg:cargo/stdin-helper@2.0.1

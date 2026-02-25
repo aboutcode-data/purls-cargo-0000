@@ -5,3 +5,4 @@
 - pkg:cargo/float_next_after@0.1.4
 - pkg:cargo/float_next_after@0.1.5
 - pkg:cargo/float_next_after@1.0.0
+- pkg:cargo/float_next_after@2.0.0

@@ -35,6 +35,8 @@
 - pkg:cargo/postgresql_archive@0.2.2
 - pkg:cargo/postgresql_archive@0.2.3
 - pkg:cargo/postgresql_archive@0.20.0
+- pkg:cargo/postgresql_archive@0.20.1
+- pkg:cargo/postgresql_archive@0.20.2
 - pkg:cargo/postgresql_archive@0.3.0
 - pkg:cargo/postgresql_archive@0.3.1
 - pkg:cargo/postgresql_archive@0.3.2
