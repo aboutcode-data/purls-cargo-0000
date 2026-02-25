@@ -1,0 +1,3 @@
+- pkg:cargo/candle-cudnn-attn@0.0.1
+- pkg:cargo/candle-cudnn-attn@0.0.2
+- pkg:cargo/candle-cudnn-attn@0.0.3

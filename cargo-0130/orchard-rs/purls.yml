@@ -3,3 +3,7 @@
 - pkg:cargo/orchard-rs@2026.1.2
 - pkg:cargo/orchard-rs@2026.1.3
 - pkg:cargo/orchard-rs@2026.1.4
+- pkg:cargo/orchard-rs@2026.2.1
+- pkg:cargo/orchard-rs@2026.2.2
+- pkg:cargo/orchard-rs@2026.2.3
+- pkg:cargo/orchard-rs@2026.2.4

@@ -54,3 +54,4 @@
 - pkg:cargo/cargo-lambda-remote@1.8.4
 - pkg:cargo/cargo-lambda-remote@1.8.5
 - pkg:cargo/cargo-lambda-remote@1.8.6
+- pkg:cargo/cargo-lambda-remote@1.9.0

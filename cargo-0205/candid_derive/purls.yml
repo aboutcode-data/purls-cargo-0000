@@ -7,6 +7,8 @@
 - pkg:cargo/candid_derive@0.10.19
 - pkg:cargo/candid_derive@0.10.20
 - pkg:cargo/candid_derive@0.10.21
+- pkg:cargo/candid_derive@0.10.22
+- pkg:cargo/candid_derive@0.10.23
 - pkg:cargo/candid_derive@0.2.0
 - pkg:cargo/candid_derive@0.2.1
 - pkg:cargo/candid_derive@0.2.2

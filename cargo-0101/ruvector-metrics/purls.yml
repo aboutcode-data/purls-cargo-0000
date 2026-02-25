@@ -3,3 +3,4 @@
 - pkg:cargo/ruvector-metrics@0.1.22
 - pkg:cargo/ruvector-metrics@0.1.29
 - pkg:cargo/ruvector-metrics@0.1.30
+- pkg:cargo/ruvector-metrics@2.0.4

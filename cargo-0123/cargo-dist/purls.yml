@@ -81,6 +81,8 @@
 - pkg:cargo/cargo-dist@0.30.1
 - pkg:cargo/cargo-dist@0.30.2
 - pkg:cargo/cargo-dist@0.30.3
+- pkg:cargo/cargo-dist@0.30.4
+- pkg:cargo/cargo-dist@0.31.0
 - pkg:cargo/cargo-dist@0.4.0
 - pkg:cargo/cargo-dist@0.4.1
 - pkg:cargo/cargo-dist@0.4.2

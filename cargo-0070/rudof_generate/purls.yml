@@ -2,3 +2,6 @@
 - pkg:cargo/rudof_generate@0.1.121
 - pkg:cargo/rudof_generate@0.1.122
 - pkg:cargo/rudof_generate@0.1.134
+- pkg:cargo/rudof_generate@0.1.149
+- pkg:cargo/rudof_generate@0.2.1
+- pkg:cargo/rudof_generate@0.2.2

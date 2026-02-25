@@ -1,1 +1,2 @@
 - pkg:cargo/ruvector-gnn-wasm@0.1.2
+- pkg:cargo/ruvector-gnn-wasm@2.0.4

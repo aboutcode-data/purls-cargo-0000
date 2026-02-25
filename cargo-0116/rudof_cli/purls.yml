@@ -65,3 +65,6 @@
 - pkg:cargo/rudof_cli@0.1.90
 - pkg:cargo/rudof_cli@0.1.92
 - pkg:cargo/rudof_cli@0.1.97
+- pkg:cargo/rudof_cli@0.2.0
+- pkg:cargo/rudof_cli@0.2.1
+- pkg:cargo/rudof_cli@0.2.2

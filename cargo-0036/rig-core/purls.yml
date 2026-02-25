@@ -37,6 +37,7 @@
 - pkg:cargo/rig-core@0.29.0
 - pkg:cargo/rig-core@0.3.0
 - pkg:cargo/rig-core@0.30.0
+- pkg:cargo/rig-core@0.31.0
 - pkg:cargo/rig-core@0.4.0
 - pkg:cargo/rig-core@0.4.1
 - pkg:cargo/rig-core@0.5.0

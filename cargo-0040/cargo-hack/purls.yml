@@ -93,6 +93,8 @@
 - pkg:cargo/cargo-hack@0.6.4
 - pkg:cargo/cargo-hack@0.6.40
 - pkg:cargo/cargo-hack@0.6.41
+- pkg:cargo/cargo-hack@0.6.42
+- pkg:cargo/cargo-hack@0.6.43
 - pkg:cargo/cargo-hack@0.6.5
 - pkg:cargo/cargo-hack@0.6.6
 - pkg:cargo/cargo-hack@0.6.7

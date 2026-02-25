@@ -1,3 +1,5 @@
 - pkg:cargo/json-ld-cli@0.13.1
 - pkg:cargo/json-ld-cli@0.14.0
 - pkg:cargo/json-ld-cli@0.14.1
+- pkg:cargo/json-ld-cli@0.21.3
+- pkg:cargo/json-ld-cli@0.21.4

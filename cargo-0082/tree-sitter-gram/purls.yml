@@ -4,3 +4,6 @@
 - pkg:cargo/tree-sitter-gram@0.2.5
 - pkg:cargo/tree-sitter-gram@0.2.6
 - pkg:cargo/tree-sitter-gram@0.2.7
+- pkg:cargo/tree-sitter-gram@0.3.0
+- pkg:cargo/tree-sitter-gram@0.3.2
+- pkg:cargo/tree-sitter-gram@0.3.3

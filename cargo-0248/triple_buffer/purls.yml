@@ -32,3 +32,4 @@
 - pkg:cargo/triple_buffer@8.0.0
 - pkg:cargo/triple_buffer@8.1.0
 - pkg:cargo/triple_buffer@8.1.1
+- pkg:cargo/triple_buffer@9.0.0

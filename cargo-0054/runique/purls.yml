@@ -12,3 +12,6 @@
 - pkg:cargo/runique@1.1.0
 - pkg:cargo/runique@1.1.1
 - pkg:cargo/runique@1.1.11
+- pkg:cargo/runique@1.1.13
+- pkg:cargo/runique@1.1.20
+- pkg:cargo/runique@1.1.25
