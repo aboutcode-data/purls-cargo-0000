@@ -44,3 +44,4 @@
 - pkg:cargo/perspective-python@4.0.1
 - pkg:cargo/perspective-python@4.1.0
 - pkg:cargo/perspective-python@4.1.1
+- pkg:cargo/perspective-python@4.2.0

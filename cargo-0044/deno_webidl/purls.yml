@@ -147,6 +147,9 @@
 - pkg:cargo/deno_webidl@0.229.0
 - pkg:cargo/deno_webidl@0.23.0
 - pkg:cargo/deno_webidl@0.230.0
+- pkg:cargo/deno_webidl@0.231.0
+- pkg:cargo/deno_webidl@0.232.0
+- pkg:cargo/deno_webidl@0.233.0
 - pkg:cargo/deno_webidl@0.24.0
 - pkg:cargo/deno_webidl@0.25.0
 - pkg:cargo/deno_webidl@0.26.0

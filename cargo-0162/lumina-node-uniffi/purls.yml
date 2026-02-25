@@ -13,3 +13,4 @@
 - pkg:cargo/lumina-node-uniffi@0.5.1
 - pkg:cargo/lumina-node-uniffi@0.5.2
 - pkg:cargo/lumina-node-uniffi@0.5.3
+- pkg:cargo/lumina-node-uniffi@1.0.0-rc.1

@@ -99,6 +99,7 @@
 - pkg:cargo/swc_ecma_compat_common@30.0.0
 - pkg:cargo/swc_ecma_compat_common@31.0.0
 - pkg:cargo/swc_ecma_compat_common@32.0.0
+- pkg:cargo/swc_ecma_compat_common@33.0.0
 - pkg:cargo/swc_ecma_compat_common@4.0.0
 - pkg:cargo/swc_ecma_compat_common@5.0.0
 - pkg:cargo/swc_ecma_compat_common@6.0.0

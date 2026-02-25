@@ -12,3 +12,5 @@
 - pkg:cargo/symb_anafis@0.5.1
 - pkg:cargo/symb_anafis@0.6.0
 - pkg:cargo/symb_anafis@0.7.0
+- pkg:cargo/symb_anafis@0.8.0
+- pkg:cargo/symb_anafis@0.8.1

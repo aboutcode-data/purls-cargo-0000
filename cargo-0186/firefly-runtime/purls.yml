@@ -1,2 +1,4 @@
 - pkg:cargo/firefly-runtime@0.1.0
+- pkg:cargo/firefly-runtime@0.10.0
+- pkg:cargo/firefly-runtime@0.10.1
 - pkg:cargo/firefly-runtime@0.9.1

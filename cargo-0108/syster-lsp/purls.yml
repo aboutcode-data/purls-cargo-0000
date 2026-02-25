@@ -5,3 +5,6 @@
 - pkg:cargo/syster-lsp@0.2.0-alpha
 - pkg:cargo/syster-lsp@0.2.1-alpha
 - pkg:cargo/syster-lsp@0.3.0-alpha
+- pkg:cargo/syster-lsp@0.3.3-alpha
+- pkg:cargo/syster-lsp@0.3.5-alpha
+- pkg:cargo/syster-lsp@0.4.0-alpha

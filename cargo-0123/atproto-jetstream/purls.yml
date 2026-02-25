@@ -5,6 +5,7 @@
 - pkg:cargo/atproto-jetstream@0.11.3
 - pkg:cargo/atproto-jetstream@0.12.0
 - pkg:cargo/atproto-jetstream@0.13.0
+- pkg:cargo/atproto-jetstream@0.14.0
 - pkg:cargo/atproto-jetstream@0.6.0
 - pkg:cargo/atproto-jetstream@0.7.0
 - pkg:cargo/atproto-jetstream@0.8.0

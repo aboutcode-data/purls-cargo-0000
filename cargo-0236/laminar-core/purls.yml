@@ -1,1 +1,6 @@
 - pkg:cargo/laminar-core@0.1.0
+- pkg:cargo/laminar-core@0.1.1
+- pkg:cargo/laminar-core@0.10.1
+- pkg:cargo/laminar-core@0.13.0
+- pkg:cargo/laminar-core@0.13.1
+- pkg:cargo/laminar-core@0.15.0
