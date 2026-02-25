@@ -60,6 +60,8 @@
 - pkg:cargo/aws-smithy-protocol-test@0.63.1
 - pkg:cargo/aws-smithy-protocol-test@0.63.10
 - pkg:cargo/aws-smithy-protocol-test@0.63.11
+- pkg:cargo/aws-smithy-protocol-test@0.63.12
+- pkg:cargo/aws-smithy-protocol-test@0.63.13
 - pkg:cargo/aws-smithy-protocol-test@0.63.2
 - pkg:cargo/aws-smithy-protocol-test@0.63.4
 - pkg:cargo/aws-smithy-protocol-test@0.63.5

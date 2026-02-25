@@ -55,6 +55,10 @@
 - pkg:cargo/aws-sdk-ecr@1.104.0
 - pkg:cargo/aws-sdk-ecr@1.105.0
 - pkg:cargo/aws-sdk-ecr@1.106.0
+- pkg:cargo/aws-sdk-ecr@1.107.0
+- pkg:cargo/aws-sdk-ecr@1.107.1
+- pkg:cargo/aws-sdk-ecr@1.108.0
+- pkg:cargo/aws-sdk-ecr@1.109.0
 - pkg:cargo/aws-sdk-ecr@1.11.0
 - pkg:cargo/aws-sdk-ecr@1.12.0
 - pkg:cargo/aws-sdk-ecr@1.13.0

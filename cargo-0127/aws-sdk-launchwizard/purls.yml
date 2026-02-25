@@ -97,3 +97,5 @@
 - pkg:cargo/aws-sdk-launchwizard@1.93.0
 - pkg:cargo/aws-sdk-launchwizard@1.94.0
 - pkg:cargo/aws-sdk-launchwizard@1.95.0
+- pkg:cargo/aws-sdk-launchwizard@1.96.0
+- pkg:cargo/aws-sdk-launchwizard@1.97.0

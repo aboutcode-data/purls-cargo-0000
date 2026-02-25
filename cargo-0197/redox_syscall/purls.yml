@@ -101,3 +101,5 @@
 - pkg:cargo/redox_syscall@0.5.9
 - pkg:cargo/redox_syscall@0.6.0
 - pkg:cargo/redox_syscall@0.7.0
+- pkg:cargo/redox_syscall@0.7.1
+- pkg:cargo/redox_syscall@0.7.2

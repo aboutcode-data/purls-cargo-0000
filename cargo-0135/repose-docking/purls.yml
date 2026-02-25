@@ -1,2 +1,4 @@
 - pkg:cargo/repose-docking@0.12.0
 - pkg:cargo/repose-docking@0.12.2
+- pkg:cargo/repose-docking@0.13.0
+- pkg:cargo/repose-docking@0.13.1

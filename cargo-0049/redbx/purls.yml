@@ -1,2 +1,3 @@
 - pkg:cargo/redbx@3.0.1
 - pkg:cargo/redbx@3.1.0
+- pkg:cargo/redbx@3.2.0

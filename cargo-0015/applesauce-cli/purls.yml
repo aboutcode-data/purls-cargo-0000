@@ -26,6 +26,8 @@
 - pkg:cargo/applesauce-cli@0.5.21
 - pkg:cargo/applesauce-cli@0.5.22
 - pkg:cargo/applesauce-cli@0.5.23
+- pkg:cargo/applesauce-cli@0.5.24
+- pkg:cargo/applesauce-cli@0.5.25
 - pkg:cargo/applesauce-cli@0.5.3
 - pkg:cargo/applesauce-cli@0.5.4
 - pkg:cargo/applesauce-cli@0.5.5

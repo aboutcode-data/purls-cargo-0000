@@ -13,3 +13,5 @@
 - pkg:cargo/sugar_path@1.1.0
 - pkg:cargo/sugar_path@1.2.0
 - pkg:cargo/sugar_path@1.2.1
+- pkg:cargo/sugar_path@2.0.0
+- pkg:cargo/sugar_path@2.0.1

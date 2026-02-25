@@ -13,4 +13,5 @@
 - pkg:cargo/sequoia-ipc@0.35.0
 - pkg:cargo/sequoia-ipc@0.35.1
 - pkg:cargo/sequoia-ipc@0.36.0
+- pkg:cargo/sequoia-ipc@0.36.1
 - pkg:cargo/sequoia-ipc@0.37.0-pqc.1

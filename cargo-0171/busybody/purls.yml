@@ -43,6 +43,7 @@
 - pkg:cargo/busybody@1.0.11
 - pkg:cargo/busybody@1.0.12
 - pkg:cargo/busybody@1.0.13
+- pkg:cargo/busybody@1.0.14
 - pkg:cargo/busybody@1.0.2
 - pkg:cargo/busybody@1.0.3
 - pkg:cargo/busybody@1.0.4

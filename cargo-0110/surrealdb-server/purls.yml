@@ -1,3 +1,4 @@
+- pkg:cargo/surrealdb-server@3.0.0
 - pkg:cargo/surrealdb-server@3.0.0-alpha.14
 - pkg:cargo/surrealdb-server@3.0.0-alpha.16
 - pkg:cargo/surrealdb-server@3.0.0-alpha.17
@@ -5,3 +6,5 @@
 - pkg:cargo/surrealdb-server@3.0.0-beta.1
 - pkg:cargo/surrealdb-server@3.0.0-beta.2
 - pkg:cargo/surrealdb-server@3.0.0-beta.3
+- pkg:cargo/surrealdb-server@3.0.0-beta.4
+- pkg:cargo/surrealdb-server@3.0.1

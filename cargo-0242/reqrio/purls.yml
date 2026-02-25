@@ -8,7 +8,9 @@
 - pkg:cargo/reqrio@0.0.16
 - pkg:cargo/reqrio@0.0.17
 - pkg:cargo/reqrio@0.0.18
+- pkg:cargo/reqrio@0.0.19
 - pkg:cargo/reqrio@0.0.2
+- pkg:cargo/reqrio@0.0.20
 - pkg:cargo/reqrio@0.0.3
 - pkg:cargo/reqrio@0.0.4
 - pkg:cargo/reqrio@0.0.5
@@ -16,3 +18,7 @@
 - pkg:cargo/reqrio@0.0.7
 - pkg:cargo/reqrio@0.0.8
 - pkg:cargo/reqrio@0.0.9
+- pkg:cargo/reqrio@0.1.0
+- pkg:cargo/reqrio@0.1.0-alpha1
+- pkg:cargo/reqrio@0.1.0-rc1
+- pkg:cargo/reqrio@0.1.1

@@ -7,3 +7,4 @@
 - pkg:cargo/suricatasc@8.0.1
 - pkg:cargo/suricatasc@8.0.2
 - pkg:cargo/suricatasc@8.0.3
+- pkg:cargo/suricatasc@9.0.0-alpha.20260210
