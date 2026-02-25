@@ -47,6 +47,7 @@
 - pkg:cargo/deno_npm_cache@0.50.0
 - pkg:cargo/deno_npm_cache@0.51.0
 - pkg:cargo/deno_npm_cache@0.52.0
+- pkg:cargo/deno_npm_cache@0.53.0
 - pkg:cargo/deno_npm_cache@0.6.0
 - pkg:cargo/deno_npm_cache@0.7.0
 - pkg:cargo/deno_npm_cache@0.8.0
