@@ -14,3 +14,5 @@
 - pkg:cargo/toon-format@0.3.7
 - pkg:cargo/toon-format@0.4.0
 - pkg:cargo/toon-format@0.4.1
+- pkg:cargo/toon-format@0.4.2
+- pkg:cargo/toon-format@0.4.3

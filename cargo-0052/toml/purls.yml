@@ -94,6 +94,7 @@
 - pkg:cargo/toml@0.9.1
 - pkg:cargo/toml@0.9.10%2Bspec-1.1.0
 - pkg:cargo/toml@0.9.11%2Bspec-1.1.0
+- pkg:cargo/toml@0.9.12%2Bspec-1.1.0
 - pkg:cargo/toml@0.9.2
 - pkg:cargo/toml@0.9.3
 - pkg:cargo/toml@0.9.4
@@ -102,3 +103,7 @@
 - pkg:cargo/toml@0.9.7
 - pkg:cargo/toml@0.9.8
 - pkg:cargo/toml@0.9.9%2Bspec-1.0.0
+- pkg:cargo/toml@1.0.0%2Bspec-1.1.0
+- pkg:cargo/toml@1.0.1%2Bspec-1.1.0
+- pkg:cargo/toml@1.0.2%2Bspec-1.1.0
+- pkg:cargo/toml@1.0.3%2Bspec-1.1.0

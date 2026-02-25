@@ -29,6 +29,9 @@
 - pkg:cargo/lofty@0.22.2
 - pkg:cargo/lofty@0.22.3
 - pkg:cargo/lofty@0.22.4
+- pkg:cargo/lofty@0.23.0
+- pkg:cargo/lofty@0.23.1
+- pkg:cargo/lofty@0.23.2
 - pkg:cargo/lofty@0.3.0
 - pkg:cargo/lofty@0.3.1
 - pkg:cargo/lofty@0.3.2

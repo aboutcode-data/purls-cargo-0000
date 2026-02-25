@@ -7,6 +7,7 @@
 - pkg:cargo/cosmian_crypto_core@10.1.0
 - pkg:cargo/cosmian_crypto_core@10.2.0
 - pkg:cargo/cosmian_crypto_core@10.3.0
+- pkg:cargo/cosmian_crypto_core@11.0.0
 - pkg:cargo/cosmian_crypto_core@2.0.0
 - pkg:cargo/cosmian_crypto_core@3.0.0
 - pkg:cargo/cosmian_crypto_core@4.0.0

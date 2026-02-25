@@ -85,3 +85,4 @@
 - pkg:cargo/lsm-tree@3.0.0-rc.8
 - pkg:cargo/lsm-tree@3.0.0-rc.9
 - pkg:cargo/lsm-tree@3.0.1
+- pkg:cargo/lsm-tree@3.0.2

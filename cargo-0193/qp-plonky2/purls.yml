@@ -6,3 +6,4 @@
 - pkg:cargo/qp-plonky2@1.1.1
 - pkg:cargo/qp-plonky2@1.1.2
 - pkg:cargo/qp-plonky2@1.1.3
+- pkg:cargo/qp-plonky2@1.1.5

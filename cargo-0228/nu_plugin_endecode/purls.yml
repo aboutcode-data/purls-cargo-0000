@@ -8,6 +8,7 @@
 - pkg:cargo/nu_plugin_endecode@0.107.0
 - pkg:cargo/nu_plugin_endecode@0.108.0
 - pkg:cargo/nu_plugin_endecode@0.109.0
+- pkg:cargo/nu_plugin_endecode@0.110.0
 - pkg:cargo/nu_plugin_endecode@0.2.0
 - pkg:cargo/nu_plugin_endecode@0.3.0
 - pkg:cargo/nu_plugin_endecode@0.99.0

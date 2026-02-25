@@ -14,3 +14,4 @@
 - pkg:cargo/tower-http-client@0.5.1
 - pkg:cargo/tower-http-client@0.5.2
 - pkg:cargo/tower-http-client@0.5.3
+- pkg:cargo/tower-http-client@0.6.0-alpha.1

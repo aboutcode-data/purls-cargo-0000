@@ -10,3 +10,4 @@
 - pkg:cargo/pbcli@2.7.0
 - pkg:cargo/pbcli@2.7.1
 - pkg:cargo/pbcli@2.8.0
+- pkg:cargo/pbcli@2.9.0
