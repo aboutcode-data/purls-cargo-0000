@@ -11,3 +11,4 @@
 - pkg:cargo/timezone_provider@0.1.0
 - pkg:cargo/timezone_provider@0.1.1
 - pkg:cargo/timezone_provider@0.1.2
+- pkg:cargo/timezone_provider@0.2.0

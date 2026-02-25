@@ -28,6 +28,7 @@
 - pkg:cargo/br-cache@0.3.19
 - pkg:cargo/br-cache@0.3.20
 - pkg:cargo/br-cache@0.3.21
+- pkg:cargo/br-cache@0.3.22
 - pkg:cargo/br-cache@0.3.3
 - pkg:cargo/br-cache@0.3.4
 - pkg:cargo/br-cache@0.3.5

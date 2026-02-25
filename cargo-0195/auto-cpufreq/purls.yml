@@ -1,0 +1,2 @@
+- pkg:cargo/auto-cpufreq@3.0.0-rust2
+- pkg:cargo/auto-cpufreq@3.0.1

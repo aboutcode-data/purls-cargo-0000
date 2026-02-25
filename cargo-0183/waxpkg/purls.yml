@@ -27,3 +27,4 @@
 - pkg:cargo/waxpkg@0.6.8
 - pkg:cargo/waxpkg@0.6.9
 - pkg:cargo/waxpkg@0.7.0
+- pkg:cargo/waxpkg@0.7.1

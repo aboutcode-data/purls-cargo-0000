@@ -17,3 +17,4 @@
 - pkg:cargo/tellaro-query-language@0.2.6
 - pkg:cargo/tellaro-query-language@0.2.7
 - pkg:cargo/tellaro-query-language@0.2.8
+- pkg:cargo/tellaro-query-language@0.3.1
