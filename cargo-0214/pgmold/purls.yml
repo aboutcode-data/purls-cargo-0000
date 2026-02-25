@@ -52,6 +52,14 @@
 - pkg:cargo/pgmold@0.22.5
 - pkg:cargo/pgmold@0.22.6
 - pkg:cargo/pgmold@0.22.7
+- pkg:cargo/pgmold@0.23.0
+- pkg:cargo/pgmold@0.24.0
+- pkg:cargo/pgmold@0.24.1
+- pkg:cargo/pgmold@0.24.2
+- pkg:cargo/pgmold@0.24.4
+- pkg:cargo/pgmold@0.24.5
+- pkg:cargo/pgmold@0.24.6
+- pkg:cargo/pgmold@0.25.0
 - pkg:cargo/pgmold@0.3.0
 - pkg:cargo/pgmold@0.3.1
 - pkg:cargo/pgmold@0.4.0

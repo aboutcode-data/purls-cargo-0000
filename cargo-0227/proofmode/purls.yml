@@ -1,1 +1,6 @@
 - pkg:cargo/proofmode@0.2.0
+- pkg:cargo/proofmode@0.8.0
+- pkg:cargo/proofmode@0.8.1
+- pkg:cargo/proofmode@0.8.2
+- pkg:cargo/proofmode@0.8.3
+- pkg:cargo/proofmode@0.8.4

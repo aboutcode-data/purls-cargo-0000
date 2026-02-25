@@ -6,3 +6,5 @@
 - pkg:cargo/typeset-parser@2.0.5
 - pkg:cargo/typeset-parser@3.0.5
 - pkg:cargo/typeset-parser@3.1.0
+- pkg:cargo/typeset-parser@3.1.1
+- pkg:cargo/typeset-parser@3.1.2

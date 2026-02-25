@@ -1,0 +1,3 @@
+- pkg:cargo/pg2sqlite-core@0.1.2
+- pkg:cargo/pg2sqlite-core@0.1.3
+- pkg:cargo/pg2sqlite-core@0.1.4

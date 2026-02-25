@@ -6,6 +6,9 @@
 - pkg:cargo/prosto_derive@0.11.12
 - pkg:cargo/prosto_derive@0.11.13
 - pkg:cargo/prosto_derive@0.11.14
+- pkg:cargo/prosto_derive@0.11.15
+- pkg:cargo/prosto_derive@0.11.16
+- pkg:cargo/prosto_derive@0.11.17
 - pkg:cargo/prosto_derive@0.11.2
 - pkg:cargo/prosto_derive@0.11.3
 - pkg:cargo/prosto_derive@0.11.4

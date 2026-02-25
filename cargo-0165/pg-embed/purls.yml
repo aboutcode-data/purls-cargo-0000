@@ -25,3 +25,4 @@
 - pkg:cargo/pg-embed@0.6.4
 - pkg:cargo/pg-embed@0.6.5
 - pkg:cargo/pg-embed@0.7.1
+- pkg:cargo/pg-embed@1.0.0

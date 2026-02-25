@@ -1,2 +1,4 @@
 - pkg:cargo/pgmold-sqlparser@0.60.0
 - pkg:cargo/pgmold-sqlparser@0.60.1
+- pkg:cargo/pgmold-sqlparser@0.60.2
+- pkg:cargo/pgmold-sqlparser@0.60.3

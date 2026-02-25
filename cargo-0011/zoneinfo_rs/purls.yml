@@ -7,3 +7,4 @@
 - pkg:cargo/zoneinfo_rs@0.0.16
 - pkg:cargo/zoneinfo_rs@0.0.17
 - pkg:cargo/zoneinfo_rs@0.0.18
+- pkg:cargo/zoneinfo_rs@0.1.0

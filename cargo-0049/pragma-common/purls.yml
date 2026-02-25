@@ -65,3 +65,4 @@
 - pkg:cargo/pragma-common@0.6.1
 - pkg:cargo/pragma-common@0.6.2
 - pkg:cargo/pragma-common@0.6.3
+- pkg:cargo/pragma-common@0.6.4

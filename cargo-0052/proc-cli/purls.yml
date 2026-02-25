@@ -13,3 +13,7 @@
 - pkg:cargo/proc-cli@1.4.2
 - pkg:cargo/proc-cli@1.5.0
 - pkg:cargo/proc-cli@1.5.1
+- pkg:cargo/proc-cli@1.6.0
+- pkg:cargo/proc-cli@1.7.0
+- pkg:cargo/proc-cli@1.7.1
+- pkg:cargo/proc-cli@1.7.2

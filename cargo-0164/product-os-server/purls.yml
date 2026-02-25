@@ -38,6 +38,9 @@
 - pkg:cargo/product-os-server@0.0.48
 - pkg:cargo/product-os-server@0.0.49
 - pkg:cargo/product-os-server@0.0.5
+- pkg:cargo/product-os-server@0.0.51
+- pkg:cargo/product-os-server@0.0.52
+- pkg:cargo/product-os-server@0.0.53
 - pkg:cargo/product-os-server@0.0.6
 - pkg:cargo/product-os-server@0.0.7
 - pkg:cargo/product-os-server@0.0.8

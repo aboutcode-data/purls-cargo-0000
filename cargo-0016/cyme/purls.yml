@@ -23,6 +23,7 @@
 - pkg:cargo/cyme@1.5.2
 - pkg:cargo/cyme@1.7.0
 - pkg:cargo/cyme@2.2.10
+- pkg:cargo/cyme@2.2.11
 - pkg:cargo/cyme@2.2.4
 - pkg:cargo/cyme@2.2.5
 - pkg:cargo/cyme@2.2.6
