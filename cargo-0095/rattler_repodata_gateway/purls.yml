@@ -122,6 +122,7 @@
 - pkg:cargo/rattler_repodata_gateway@0.25.9
 - pkg:cargo/rattler_repodata_gateway@0.26.0
 - pkg:cargo/rattler_repodata_gateway@0.26.1
+- pkg:cargo/rattler_repodata_gateway@0.26.2
 - pkg:cargo/rattler_repodata_gateway@0.3.0
 - pkg:cargo/rattler_repodata_gateway@0.4.0
 - pkg:cargo/rattler_repodata_gateway@0.5.0
