@@ -80,6 +80,7 @@
 - pkg:cargo/apicize_lib@0.32.0
 - pkg:cargo/apicize_lib@0.32.1
 - pkg:cargo/apicize_lib@0.33.0
+- pkg:cargo/apicize_lib@0.33.1
 - pkg:cargo/apicize_lib@0.8.1
 - pkg:cargo/apicize_lib@0.8.4
 - pkg:cargo/apicize_lib@0.9.0
