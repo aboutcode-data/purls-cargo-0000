@@ -7,3 +7,4 @@
 - pkg:cargo/celestia-client@0.4.1
 - pkg:cargo/celestia-client@0.5.0
 - pkg:cargo/celestia-client@1.0.0-rc.1
+- pkg:cargo/celestia-client@1.0.0-rc.2
