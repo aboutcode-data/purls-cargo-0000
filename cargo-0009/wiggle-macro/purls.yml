@@ -152,6 +152,7 @@
 - pkg:cargo/wiggle-macro@41.0.3
 - pkg:cargo/wiggle-macro@41.0.4
 - pkg:cargo/wiggle-macro@42.0.0
+- pkg:cargo/wiggle-macro@42.0.1
 - pkg:cargo/wiggle-macro@5.0.0
 - pkg:cargo/wiggle-macro@5.0.1
 - pkg:cargo/wiggle-macro@6.0.0
