@@ -17,3 +17,4 @@
 - pkg:cargo/chromiumoxide@0.7.0
 - pkg:cargo/chromiumoxide@0.8.0
 - pkg:cargo/chromiumoxide@0.9.0
+- pkg:cargo/chromiumoxide@0.9.1
