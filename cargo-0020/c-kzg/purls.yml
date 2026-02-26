@@ -12,3 +12,4 @@
 - pkg:cargo/c-kzg@2.1.2
 - pkg:cargo/c-kzg@2.1.4
 - pkg:cargo/c-kzg@2.1.5
+- pkg:cargo/c-kzg@2.1.6
