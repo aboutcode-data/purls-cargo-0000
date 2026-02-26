@@ -1,2 +1,3 @@
 - pkg:cargo/dawn-wgpu@0.1.0-dev
 - pkg:cargo/dawn-wgpu@0.1.1-dev
+- pkg:cargo/dawn-wgpu@0.1.2-dev
