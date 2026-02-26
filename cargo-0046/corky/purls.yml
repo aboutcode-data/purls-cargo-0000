@@ -1,5 +1,6 @@
 - pkg:cargo/corky@0.10.0
 - pkg:cargo/corky@0.11.0
+- pkg:cargo/corky@0.11.1
 - pkg:cargo/corky@0.7.0
 - pkg:cargo/corky@0.7.1
 - pkg:cargo/corky@0.7.2
