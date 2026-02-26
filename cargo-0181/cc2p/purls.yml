@@ -40,3 +40,4 @@
 - pkg:cargo/cc2p@0.5.5
 - pkg:cargo/cc2p@0.5.6
 - pkg:cargo/cc2p@0.6.0
+- pkg:cargo/cc2p@0.6.1
