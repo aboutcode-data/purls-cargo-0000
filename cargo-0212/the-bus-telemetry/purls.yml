@@ -8,3 +8,5 @@
 - pkg:cargo/the-bus-telemetry@1.3.0
 - pkg:cargo/the-bus-telemetry@2.0.0
 - pkg:cargo/the-bus-telemetry@3.0.0
+- pkg:cargo/the-bus-telemetry@4.0.0
+- pkg:cargo/the-bus-telemetry@4.1.0
