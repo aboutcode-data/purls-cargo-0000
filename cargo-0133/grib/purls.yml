@@ -14,6 +14,7 @@
 - pkg:cargo/grib@0.13.4
 - pkg:cargo/grib@0.13.5
 - pkg:cargo/grib@0.13.6
+- pkg:cargo/grib@0.13.7
 - pkg:cargo/grib@0.2.0
 - pkg:cargo/grib@0.3.0
 - pkg:cargo/grib@0.4.0

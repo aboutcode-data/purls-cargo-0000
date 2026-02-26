@@ -13,6 +13,7 @@
 - pkg:cargo/grib-cli@0.13.4
 - pkg:cargo/grib-cli@0.13.5
 - pkg:cargo/grib-cli@0.13.6
+- pkg:cargo/grib-cli@0.13.7
 - pkg:cargo/grib-cli@0.6.0
 - pkg:cargo/grib-cli@0.6.1
 - pkg:cargo/grib-cli@0.7.0
