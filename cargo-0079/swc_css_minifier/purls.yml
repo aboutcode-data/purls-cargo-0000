@@ -362,6 +362,7 @@
 - pkg:cargo/swc_css_minifier@16.0.0
 - pkg:cargo/swc_css_minifier@17.0.0
 - pkg:cargo/swc_css_minifier@18.0.0
+- pkg:cargo/swc_css_minifier@19.0.0
 - pkg:cargo/swc_css_minifier@2.0.0
 - pkg:cargo/swc_css_minifier@3.0.0
 - pkg:cargo/swc_css_minifier@4.0.0

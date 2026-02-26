@@ -215,6 +215,7 @@
 - pkg:cargo/swc_css_modules@16.0.0
 - pkg:cargo/swc_css_modules@17.0.0
 - pkg:cargo/swc_css_modules@18.0.0
+- pkg:cargo/swc_css_modules@19.0.0
 - pkg:cargo/swc_css_modules@2.0.0
 - pkg:cargo/swc_css_modules@3.0.0
 - pkg:cargo/swc_css_modules@4.0.0

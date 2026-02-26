@@ -1061,6 +1061,7 @@
 - pkg:cargo/swc_bundler@41.0.0
 - pkg:cargo/swc_bundler@42.0.0
 - pkg:cargo/swc_bundler@43.0.0
+- pkg:cargo/swc_bundler@44.0.0
 - pkg:cargo/swc_bundler@5.0.0
 - pkg:cargo/swc_bundler@6.0.0
 - pkg:cargo/swc_bundler@7.0.0

@@ -981,6 +981,7 @@
 - pkg:cargo/swc_html@29.0.0
 - pkg:cargo/swc_html@3.0.0
 - pkg:cargo/swc_html@30.0.0
+- pkg:cargo/swc_html@31.0.0
 - pkg:cargo/swc_html@4.0.0
 - pkg:cargo/swc_html@5.0.0
 - pkg:cargo/swc_html@6.0.0

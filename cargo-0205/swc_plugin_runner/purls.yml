@@ -444,6 +444,7 @@
 - pkg:cargo/swc_plugin_runner@22.0.1
 - pkg:cargo/swc_plugin_runner@23.0.0
 - pkg:cargo/swc_plugin_runner@24.0.0
+- pkg:cargo/swc_plugin_runner@25.0.0
 - pkg:cargo/swc_plugin_runner@3.0.0
 - pkg:cargo/swc_plugin_runner@4.0.0
 - pkg:cargo/swc_plugin_runner@5.0.0

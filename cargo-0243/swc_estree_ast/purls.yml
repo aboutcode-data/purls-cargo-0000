@@ -149,6 +149,7 @@
 - pkg:cargo/swc_estree_ast@16.0.0
 - pkg:cargo/swc_estree_ast@17.0.0
 - pkg:cargo/swc_estree_ast@18.0.0
+- pkg:cargo/swc_estree_ast@19.0.0
 - pkg:cargo/swc_estree_ast@2.0.0
 - pkg:cargo/swc_estree_ast@3.0.0
 - pkg:cargo/swc_estree_ast@4.0.0
