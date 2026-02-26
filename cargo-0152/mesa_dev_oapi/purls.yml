@@ -5,4 +5,5 @@
 - pkg:cargo/mesa_dev_oapi@1.14.0
 - pkg:cargo/mesa_dev_oapi@1.15.0
 - pkg:cargo/mesa_dev_oapi@1.18.0
+- pkg:cargo/mesa_dev_oapi@1.22.0
 - pkg:cargo/mesa_dev_oapi@1.8.0
