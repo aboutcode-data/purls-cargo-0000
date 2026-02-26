@@ -2,3 +2,4 @@
 - pkg:cargo/nanograph@0.6.1
 - pkg:cargo/nanograph@0.7.0
 - pkg:cargo/nanograph@0.7.1
+- pkg:cargo/nanograph@0.8.0

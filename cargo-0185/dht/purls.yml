@@ -4,3 +4,4 @@
 - pkg:cargo/dht@6.0.1-rc.2
 - pkg:cargo/dht@6.1.0
 - pkg:cargo/dht@6.2.0
+- pkg:cargo/dht@6.3.0
