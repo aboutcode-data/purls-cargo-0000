@@ -14,3 +14,6 @@
 - pkg:cargo/rainy-sdk@0.6.1
 - pkg:cargo/rainy-sdk@0.6.2
 - pkg:cargo/rainy-sdk@0.6.4
+- pkg:cargo/rainy-sdk@0.6.7
+- pkg:cargo/rainy-sdk@0.6.8
+- pkg:cargo/rainy-sdk@0.6.9
