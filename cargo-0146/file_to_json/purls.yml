@@ -7,3 +7,4 @@
 - pkg:cargo/file_to_json@0.1.6
 - pkg:cargo/file_to_json@0.1.7
 - pkg:cargo/file_to_json@0.2.0
+- pkg:cargo/file_to_json@0.3.0
