@@ -17,5 +17,6 @@
 - pkg:cargo/agent-rex@0.0.0-nightly.20260223
 - pkg:cargo/agent-rex@0.0.0-nightly.20260224
 - pkg:cargo/agent-rex@0.0.0-nightly.20260225
+- pkg:cargo/agent-rex@0.0.0-nightly.20260226
 - pkg:cargo/agent-rex@0.1.0
 - pkg:cargo/agent-rex@0.1.1
