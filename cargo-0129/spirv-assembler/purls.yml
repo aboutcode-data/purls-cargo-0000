@@ -2,3 +2,4 @@
 - pkg:cargo/spirv-assembler@0.0.5
 - pkg:cargo/spirv-assembler@0.0.6
 - pkg:cargo/spirv-assembler@0.0.7
+- pkg:cargo/spirv-assembler@0.1.0
