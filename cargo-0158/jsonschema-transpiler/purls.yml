@@ -16,3 +16,4 @@
 - pkg:cargo/jsonschema-transpiler@1.8.1
 - pkg:cargo/jsonschema-transpiler@1.9.0
 - pkg:cargo/jsonschema-transpiler@2.0.0
+- pkg:cargo/jsonschema-transpiler@2.0.1
