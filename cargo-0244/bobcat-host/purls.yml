@@ -8,3 +8,5 @@
 - pkg:cargo/bobcat-host@0.7.24
 - pkg:cargo/bobcat-host@0.7.25
 - pkg:cargo/bobcat-host@0.7.26
+- pkg:cargo/bobcat-host@0.7.27
+- pkg:cargo/bobcat-host@0.7.28
