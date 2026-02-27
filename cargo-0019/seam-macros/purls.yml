@@ -3,3 +3,4 @@
 - pkg:cargo/seam-macros@0.2.3
 - pkg:cargo/seam-macros@0.3.7
 - pkg:cargo/seam-macros@0.4.3
+- pkg:cargo/seam-macros@0.4.4
