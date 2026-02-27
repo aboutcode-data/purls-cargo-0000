@@ -6,6 +6,7 @@
 - pkg:cargo/uv-build@0.10.4
 - pkg:cargo/uv-build@0.10.5
 - pkg:cargo/uv-build@0.10.6
+- pkg:cargo/uv-build@0.10.7
 - pkg:cargo/uv-build@0.9.12
 - pkg:cargo/uv-build@0.9.13
 - pkg:cargo/uv-build@0.9.14
