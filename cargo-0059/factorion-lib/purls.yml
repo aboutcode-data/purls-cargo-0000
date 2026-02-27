@@ -21,3 +21,5 @@
 - pkg:cargo/factorion-lib@4.1.7
 - pkg:cargo/factorion-lib@4.2.0
 - pkg:cargo/factorion-lib@4.2.2
+- pkg:cargo/factorion-lib@4.2.4
+- pkg:cargo/factorion-lib@4.3.0
