@@ -74,3 +74,4 @@
 - pkg:cargo/cedar-policy-core@4.8.1
 - pkg:cargo/cedar-policy-core@4.8.2
 - pkg:cargo/cedar-policy-core@4.9.0
+- pkg:cargo/cedar-policy-core@4.9.1
