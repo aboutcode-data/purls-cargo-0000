@@ -12,6 +12,7 @@
 - pkg:cargo/spacetimedsl_derive@0.16.0
 - pkg:cargo/spacetimedsl_derive@0.17.0
 - pkg:cargo/spacetimedsl_derive@0.18.0
+- pkg:cargo/spacetimedsl_derive@0.18.1
 - pkg:cargo/spacetimedsl_derive@0.2.0-1.1.0
 - pkg:cargo/spacetimedsl_derive@0.2.1-1.1.0
 - pkg:cargo/spacetimedsl_derive@0.2.2-1.1.0
