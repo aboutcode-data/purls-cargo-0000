@@ -135,6 +135,7 @@
 - pkg:cargo/feldera-rest-api@0.251.0
 - pkg:cargo/feldera-rest-api@0.252.0
 - pkg:cargo/feldera-rest-api@0.253.0
+- pkg:cargo/feldera-rest-api@0.254.0
 - pkg:cargo/feldera-rest-api@0.45.0
 - pkg:cargo/feldera-rest-api@0.46.0
 - pkg:cargo/feldera-rest-api@0.47.0
