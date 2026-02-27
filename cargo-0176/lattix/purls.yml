@@ -1,2 +1,4 @@
 - pkg:cargo/lattix@0.1.0
 - pkg:cargo/lattix@0.1.1
+- pkg:cargo/lattix@0.1.2
+- pkg:cargo/lattix@0.2.0
