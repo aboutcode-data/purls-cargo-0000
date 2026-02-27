@@ -36,6 +36,7 @@
 - pkg:cargo/libbpf-cargo@0.26.0
 - pkg:cargo/libbpf-cargo@0.26.0-beta.0
 - pkg:cargo/libbpf-cargo@0.26.0-beta.1
+- pkg:cargo/libbpf-cargo@0.26.1
 - pkg:cargo/libbpf-cargo@0.3.0
 - pkg:cargo/libbpf-cargo@0.4.0
 - pkg:cargo/libbpf-cargo@0.4.1
