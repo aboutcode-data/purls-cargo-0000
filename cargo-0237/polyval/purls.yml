@@ -23,6 +23,7 @@
 - pkg:cargo/polyval@0.6.0-pre.2
 - pkg:cargo/polyval@0.6.1
 - pkg:cargo/polyval@0.6.2
+- pkg:cargo/polyval@0.7.0
 - pkg:cargo/polyval@0.7.0-pre.0
 - pkg:cargo/polyval@0.7.0-rc.0
 - pkg:cargo/polyval@0.7.0-rc.1
