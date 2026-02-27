@@ -30,3 +30,5 @@
 - pkg:cargo/plain_trie@8.0.1
 - pkg:cargo/plain_trie@8.0.2
 - pkg:cargo/plain_trie@8.1.0
+- pkg:cargo/plain_trie@8.2.0
+- pkg:cargo/plain_trie@8.2.1
