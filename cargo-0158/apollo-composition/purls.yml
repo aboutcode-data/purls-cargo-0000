@@ -35,3 +35,4 @@
 - pkg:cargo/apollo-composition@0.4.1
 - pkg:cargo/apollo-composition@0.5.0
 - pkg:cargo/apollo-composition@0.5.0-abstract.1
+- pkg:cargo/apollo-composition@0.5.1
