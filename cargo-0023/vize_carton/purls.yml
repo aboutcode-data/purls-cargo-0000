@@ -83,6 +83,7 @@
 - pkg:cargo/vize_carton@0.0.1-alpha.99
 - pkg:cargo/vize_carton@0.1.0
 - pkg:cargo/vize_carton@0.1.0-alpha
+- pkg:cargo/vize_carton@0.10.0
 - pkg:cargo/vize_carton@0.2.0
 - pkg:cargo/vize_carton@0.3.0
 - pkg:cargo/vize_carton@0.4.0
@@ -91,3 +92,4 @@
 - pkg:cargo/vize_carton@0.7.0
 - pkg:cargo/vize_carton@0.8.0
 - pkg:cargo/vize_carton@0.9.0
+- pkg:cargo/vize_carton@0.9.0-alpha
