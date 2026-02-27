@@ -7,3 +7,4 @@
 - pkg:cargo/glycin-common@1.0.4-alpha.2
 - pkg:cargo/glycin-common@1.0.4-alpha.3
 - pkg:cargo/glycin-common@1.0.4-beta
+- pkg:cargo/glycin-common@1.0.4-rc
