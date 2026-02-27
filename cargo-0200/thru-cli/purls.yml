@@ -33,3 +33,4 @@
 - pkg:cargo/thru-cli@0.2.3
 - pkg:cargo/thru-cli@0.2.4
 - pkg:cargo/thru-cli@0.2.5
+- pkg:cargo/thru-cli@0.2.6
