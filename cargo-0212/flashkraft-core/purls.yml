@@ -3,3 +3,7 @@
 - pkg:cargo/flashkraft-core@0.5.5
 - pkg:cargo/flashkraft-core@0.5.6
 - pkg:cargo/flashkraft-core@0.5.8
+- pkg:cargo/flashkraft-core@0.5.9
+- pkg:cargo/flashkraft-core@0.6.0
+- pkg:cargo/flashkraft-core@0.6.1
+- pkg:cargo/flashkraft-core@0.6.3
