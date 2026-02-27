@@ -12,3 +12,5 @@
 - pkg:cargo/dark_iron_ecs@0.6.85
 - pkg:cargo/dark_iron_ecs@0.6.9
 - pkg:cargo/dark_iron_ecs@0.7.0
+- pkg:cargo/dark_iron_ecs@0.9.0
+- pkg:cargo/dark_iron_ecs@0.9.5
