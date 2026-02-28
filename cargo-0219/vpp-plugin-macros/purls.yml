@@ -1,1 +1,2 @@
 - pkg:cargo/vpp-plugin-macros@0.1.0
+- pkg:cargo/vpp-plugin-macros@0.2.0
