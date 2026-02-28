@@ -8,3 +8,4 @@
 - pkg:cargo/keyring-search@1.1.2
 - pkg:cargo/keyring-search@1.2.0
 - pkg:cargo/keyring-search@1.2.1
+- pkg:cargo/keyring-search@1.2.2
