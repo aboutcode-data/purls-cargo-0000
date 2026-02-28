@@ -80,6 +80,8 @@
 - pkg:cargo/hyperlane-plugin-websocket@10.0.5
 - pkg:cargo/hyperlane-plugin-websocket@10.0.6
 - pkg:cargo/hyperlane-plugin-websocket@10.0.7
+- pkg:cargo/hyperlane-plugin-websocket@11.0.0
+- pkg:cargo/hyperlane-plugin-websocket@11.0.1
 - pkg:cargo/hyperlane-plugin-websocket@2.0.0
 - pkg:cargo/hyperlane-plugin-websocket@2.0.1
 - pkg:cargo/hyperlane-plugin-websocket@2.0.2

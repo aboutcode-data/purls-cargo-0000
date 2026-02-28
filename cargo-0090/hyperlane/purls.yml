@@ -170,6 +170,8 @@
 - pkg:cargo/hyperlane@17.3.5
 - pkg:cargo/hyperlane@17.3.6
 - pkg:cargo/hyperlane@17.3.7
+- pkg:cargo/hyperlane@18.0.0
+- pkg:cargo/hyperlane@18.0.1
 - pkg:cargo/hyperlane@2.0.0
 - pkg:cargo/hyperlane@2.0.1
 - pkg:cargo/hyperlane@2.1.1

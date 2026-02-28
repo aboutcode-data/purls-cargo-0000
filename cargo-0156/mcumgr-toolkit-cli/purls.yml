@@ -2,6 +2,7 @@
 - pkg:cargo/mcumgr-toolkit-cli@0.11.0
 - pkg:cargo/mcumgr-toolkit-cli@0.11.1
 - pkg:cargo/mcumgr-toolkit-cli@0.11.2
+- pkg:cargo/mcumgr-toolkit-cli@0.11.3
 - pkg:cargo/mcumgr-toolkit-cli@0.8.0
 - pkg:cargo/mcumgr-toolkit-cli@0.8.1
 - pkg:cargo/mcumgr-toolkit-cli@0.9.0
