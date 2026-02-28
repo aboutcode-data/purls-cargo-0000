@@ -22,3 +22,6 @@
 - pkg:cargo/korea-investment-api@1.6.3
 - pkg:cargo/korea-investment-api@1.6.4
 - pkg:cargo/korea-investment-api@1.6.5
+- pkg:cargo/korea-investment-api@2.0.0
+- pkg:cargo/korea-investment-api@2.0.1
+- pkg:cargo/korea-investment-api@2.0.2
