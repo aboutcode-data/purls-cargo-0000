@@ -33,3 +33,4 @@
 - pkg:cargo/zepter@1.82.0
 - pkg:cargo/zepter@1.82.1
 - pkg:cargo/zepter@1.85.0
+- pkg:cargo/zepter@1.88.0

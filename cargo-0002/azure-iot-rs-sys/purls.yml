@@ -15,3 +15,4 @@
 - pkg:cargo/azure-iot-rs-sys@0.4.1
 - pkg:cargo/azure-iot-rs-sys@0.5.0
 - pkg:cargo/azure-iot-rs-sys@0.6.0
+- pkg:cargo/azure-iot-rs-sys@0.7.0
