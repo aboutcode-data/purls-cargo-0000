@@ -31,3 +31,4 @@
 - pkg:cargo/test-r@2.3.1
 - pkg:cargo/test-r@3.0.0
 - pkg:cargo/test-r@3.0.1
+- pkg:cargo/test-r@3.0.2
