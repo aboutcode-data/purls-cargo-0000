@@ -5,6 +5,8 @@
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.14%2Bupstream-0.6.7
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.15%2Bupstream-0.6.7
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.16%2Bupstream-0.6.7
+- pkg:cargo/internal-russh-forked-ssh-key@0.6.17%2Bupstream-0.6.7
+- pkg:cargo/internal-russh-forked-ssh-key@0.6.18%2Bupstream-0.6.7
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.3-internal.1
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.3-internal.2
 - pkg:cargo/internal-russh-forked-ssh-key@0.6.7-internal.3
