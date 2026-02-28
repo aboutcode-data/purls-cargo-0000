@@ -10,3 +10,4 @@
 - pkg:cargo/openrouter-rs@0.4.6
 - pkg:cargo/openrouter-rs@0.4.7
 - pkg:cargo/openrouter-rs@0.5.0
+- pkg:cargo/openrouter-rs@0.5.1
