@@ -1,3 +1,4 @@
 - pkg:cargo/ts_query_ls@3.14.0
 - pkg:cargo/ts_query_ls@3.15.0
 - pkg:cargo/ts_query_ls@3.15.1
+- pkg:cargo/ts_query_ls@3.16.0
