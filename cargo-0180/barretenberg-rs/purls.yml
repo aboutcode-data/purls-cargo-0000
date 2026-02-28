@@ -14,6 +14,7 @@
 - pkg:cargo/barretenberg-rs@0.0.1-commit.9117c5f5a
 - pkg:cargo/barretenberg-rs@0.0.1-commit.934299a21
 - pkg:cargo/barretenberg-rs@0.0.1-commit.96dac018d
+- pkg:cargo/barretenberg-rs@0.0.1-commit.c0b82b2
 - pkg:cargo/barretenberg-rs@0.0.1-commit.c949de6bc
 - pkg:cargo/barretenberg-rs@0.0.1-commit.cd76b27
 - pkg:cargo/barretenberg-rs@0.0.1-commit.dbf9cec
