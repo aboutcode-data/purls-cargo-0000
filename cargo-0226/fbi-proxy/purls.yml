@@ -7,3 +7,5 @@
 - pkg:cargo/fbi-proxy@1.6.1
 - pkg:cargo/fbi-proxy@1.6.2
 - pkg:cargo/fbi-proxy@1.7.0
+- pkg:cargo/fbi-proxy@1.8.0
+- pkg:cargo/fbi-proxy@1.8.1
