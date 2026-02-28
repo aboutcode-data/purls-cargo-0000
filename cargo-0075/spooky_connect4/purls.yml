@@ -1,2 +1,5 @@
 - pkg:cargo/spooky_connect4@0.2.17
 - pkg:cargo/spooky_connect4@0.2.18
+- pkg:cargo/spooky_connect4@0.3.0
+- pkg:cargo/spooky_connect4@0.4.0
+- pkg:cargo/spooky_connect4@0.4.1
