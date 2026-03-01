@@ -12,3 +12,4 @@
 - pkg:cargo/tempo-x402-client@0.7.0
 - pkg:cargo/tempo-x402-client@0.8.0
 - pkg:cargo/tempo-x402-client@0.9.0
+- pkg:cargo/tempo-x402-client@1.0.0
