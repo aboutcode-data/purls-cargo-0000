@@ -57,6 +57,7 @@
 - pkg:cargo/ra-ap-rustc_lexer@0.150.0
 - pkg:cargo/ra-ap-rustc_lexer@0.151.0
 - pkg:cargo/ra-ap-rustc_lexer@0.152.0
+- pkg:cargo/ra-ap-rustc_lexer@0.153.0
 - pkg:cargo/ra-ap-rustc_lexer@0.16.0
 - pkg:cargo/ra-ap-rustc_lexer@0.17.0
 - pkg:cargo/ra-ap-rustc_lexer@0.18.0
