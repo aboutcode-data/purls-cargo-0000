@@ -22,3 +22,4 @@
 - pkg:cargo/reactive_stores_macro@0.2.4
 - pkg:cargo/reactive_stores_macro@0.2.5
 - pkg:cargo/reactive_stores_macro@0.2.6
+- pkg:cargo/reactive_stores_macro@0.4.1
