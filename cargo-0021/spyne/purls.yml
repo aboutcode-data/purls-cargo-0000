@@ -8,3 +8,4 @@
 - pkg:cargo/spyne@0.7.0
 - pkg:cargo/spyne@0.7.1
 - pkg:cargo/spyne@0.8.1
+- pkg:cargo/spyne@0.9.0
