@@ -1,6 +1,16 @@
 - pkg:cargo/altius-tx-sdk@0.1.0
 - pkg:cargo/altius-tx-sdk@0.1.1
+- pkg:cargo/altius-tx-sdk@0.1.10
+- pkg:cargo/altius-tx-sdk@0.1.15
+- pkg:cargo/altius-tx-sdk@0.1.16
+- pkg:cargo/altius-tx-sdk@0.1.17
 - pkg:cargo/altius-tx-sdk@0.1.2
+- pkg:cargo/altius-tx-sdk@0.1.20
+- pkg:cargo/altius-tx-sdk@0.1.21
 - pkg:cargo/altius-tx-sdk@0.1.3
 - pkg:cargo/altius-tx-sdk@0.1.4
 - pkg:cargo/altius-tx-sdk@0.1.5
+- pkg:cargo/altius-tx-sdk@0.1.6
+- pkg:cargo/altius-tx-sdk@0.1.7
+- pkg:cargo/altius-tx-sdk@0.1.8
+- pkg:cargo/altius-tx-sdk@0.1.9

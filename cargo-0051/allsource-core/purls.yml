@@ -4,6 +4,7 @@
 - pkg:cargo/allsource-core@0.10.4
 - pkg:cargo/allsource-core@0.10.5
 - pkg:cargo/allsource-core@0.11.0
+- pkg:cargo/allsource-core@0.12.0
 - pkg:cargo/allsource-core@0.2.0
 - pkg:cargo/allsource-core@0.7.0
 - pkg:cargo/allsource-core@0.7.1
