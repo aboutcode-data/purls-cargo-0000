@@ -1,1 +1,2 @@
 - pkg:cargo/vellaveto-http-proxy@3.0.0
+- pkg:cargo/vellaveto-http-proxy@6.0.0
