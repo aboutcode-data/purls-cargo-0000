@@ -1,1 +1,2 @@
 - pkg:cargo/reqwest-vcr@0.3.0
+- pkg:cargo/reqwest-vcr@0.4.0
