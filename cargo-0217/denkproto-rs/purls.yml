@@ -4,6 +4,8 @@
 - pkg:cargo/denkproto-rs@1.0.108
 - pkg:cargo/denkproto-rs@1.0.110
 - pkg:cargo/denkproto-rs@1.0.112
+- pkg:cargo/denkproto-rs@1.0.113
+- pkg:cargo/denkproto-rs@1.0.114
 - pkg:cargo/denkproto-rs@1.0.13
 - pkg:cargo/denkproto-rs@1.0.19
 - pkg:cargo/denkproto-rs@1.0.20
