@@ -1,1 +1,2 @@
 - pkg:cargo/mdbook-permalinks@2.0.0
+- pkg:cargo/mdbook-permalinks@2.0.1
