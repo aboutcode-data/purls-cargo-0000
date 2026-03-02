@@ -49,3 +49,4 @@
 - pkg:cargo/snafu@0.8.7
 - pkg:cargo/snafu@0.8.8
 - pkg:cargo/snafu@0.8.9
+- pkg:cargo/snafu@0.9.0

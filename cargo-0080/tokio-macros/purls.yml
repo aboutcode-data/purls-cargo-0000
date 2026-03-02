@@ -35,3 +35,4 @@
 - pkg:cargo/tokio-macros@2.4.0
 - pkg:cargo/tokio-macros@2.5.0
 - pkg:cargo/tokio-macros@2.6.0
+- pkg:cargo/tokio-macros@2.6.1
