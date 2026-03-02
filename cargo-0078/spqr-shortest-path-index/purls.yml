@@ -6,3 +6,5 @@
 - pkg:cargo/spqr-shortest-path-index@0.2.3
 - pkg:cargo/spqr-shortest-path-index@1.0.0
 - pkg:cargo/spqr-shortest-path-index@1.0.1
+- pkg:cargo/spqr-shortest-path-index@1.1.0
+- pkg:cargo/spqr-shortest-path-index@1.2.0
