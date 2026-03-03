@@ -1,3 +1,5 @@
 - pkg:cargo/tari_engine_types@0.1.0
 - pkg:cargo/tari_engine_types@0.24.0
 - pkg:cargo/tari_engine_types@0.25.1
+- pkg:cargo/tari_engine_types@0.25.5
+- pkg:cargo/tari_engine_types@0.25.6
