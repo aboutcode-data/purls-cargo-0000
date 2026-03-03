@@ -22,6 +22,7 @@
 - pkg:cargo/xpg@0.19.2
 - pkg:cargo/xpg@0.19.3
 - pkg:cargo/xpg@0.19.4
+- pkg:cargo/xpg@0.19.5
 - pkg:cargo/xpg@0.2.0
 - pkg:cargo/xpg@0.3.0
 - pkg:cargo/xpg@0.3.1

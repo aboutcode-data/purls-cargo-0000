@@ -6,3 +6,5 @@
 - pkg:cargo/deferred-cell@0.5.5
 - pkg:cargo/deferred-cell@0.6.0
 - pkg:cargo/deferred-cell@0.6.1
+- pkg:cargo/deferred-cell@0.6.2
+- pkg:cargo/deferred-cell@0.6.3
