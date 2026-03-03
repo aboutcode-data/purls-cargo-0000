@@ -10,3 +10,4 @@
 - pkg:cargo/genetic_regression@0.5.3
 - pkg:cargo/genetic_regression@0.5.4
 - pkg:cargo/genetic_regression@0.5.5
+- pkg:cargo/genetic_regression@0.5.6
