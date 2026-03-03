@@ -1,4 +1,6 @@
 - pkg:cargo/winload@0.1.7-beta.4
+- pkg:cargo/winload@0.1.7-rc.10
+- pkg:cargo/winload@0.1.7-rc.11
 - pkg:cargo/winload@0.1.7-rc.3
 - pkg:cargo/winload@0.1.7-rc.4
 - pkg:cargo/winload@0.1.7-rc.5
