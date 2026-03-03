@@ -18,6 +18,7 @@
 - pkg:cargo/excelstream@0.2.1
 - pkg:cargo/excelstream@0.2.2
 - pkg:cargo/excelstream@0.20.0
+- pkg:cargo/excelstream@0.20.1
 - pkg:cargo/excelstream@0.3.0
 - pkg:cargo/excelstream@0.4.0
 - pkg:cargo/excelstream@0.4.3
