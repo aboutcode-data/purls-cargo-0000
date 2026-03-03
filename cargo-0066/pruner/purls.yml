@@ -33,3 +33,4 @@
 - pkg:cargo/pruner@0.72.0
 - pkg:cargo/pruner@0.74.0
 - pkg:cargo/pruner@0.76.0
+- pkg:cargo/pruner@0.78.0
