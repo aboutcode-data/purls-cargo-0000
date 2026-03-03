@@ -131,6 +131,7 @@
 - pkg:cargo/wrzasqpl-commons-aws@4.2.30
 - pkg:cargo/wrzasqpl-commons-aws@4.2.32
 - pkg:cargo/wrzasqpl-commons-aws@4.2.33
+- pkg:cargo/wrzasqpl-commons-aws@4.2.34
 - pkg:cargo/wrzasqpl-commons-aws@4.2.4
 - pkg:cargo/wrzasqpl-commons-aws@4.2.5
 - pkg:cargo/wrzasqpl-commons-aws@4.2.6
