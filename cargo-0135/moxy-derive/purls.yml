@@ -2,3 +2,4 @@
 - pkg:cargo/moxy-derive@0.0.1
 - pkg:cargo/moxy-derive@0.0.2
 - pkg:cargo/moxy-derive@0.0.3
+- pkg:cargo/moxy-derive@0.0.4

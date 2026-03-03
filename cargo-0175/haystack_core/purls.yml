@@ -1,2 +1,3 @@
 - pkg:cargo/haystack_core@1.10.0
+- pkg:cargo/haystack_core@1.11.0
 - pkg:cargo/haystack_core@1.5.1
