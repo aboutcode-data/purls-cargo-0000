@@ -11,3 +11,4 @@
 - pkg:cargo/unity-version-manager@3.7.0
 - pkg:cargo/unity-version-manager@3.8.0
 - pkg:cargo/unity-version-manager@3.9.0
+- pkg:cargo/unity-version-manager@3.9.1
