@@ -1,1 +1,3 @@
 - pkg:cargo/susshi@0.11.0
+- pkg:cargo/susshi@0.12.0
+- pkg:cargo/susshi@0.12.1
