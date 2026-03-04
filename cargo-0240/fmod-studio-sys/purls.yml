@@ -1,2 +1,3 @@
 - pkg:cargo/fmod-studio-sys@0.0.0
 - pkg:cargo/fmod-studio-sys@1.0.0
+- pkg:cargo/fmod-studio-sys@1.0.1
