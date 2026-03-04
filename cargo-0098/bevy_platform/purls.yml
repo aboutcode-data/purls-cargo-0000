@@ -11,3 +11,4 @@
 - pkg:cargo/bevy_platform@0.18.0
 - pkg:cargo/bevy_platform@0.18.0-rc.1
 - pkg:cargo/bevy_platform@0.18.0-rc.2
+- pkg:cargo/bevy_platform@0.18.1
