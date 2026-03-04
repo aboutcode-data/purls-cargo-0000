@@ -70,6 +70,7 @@
 - pkg:cargo/authentik-client@2026.2.0-rc3
 - pkg:cargo/authentik-client@2026.2.0-rc4
 - pkg:cargo/authentik-client@2026.2.0-rc5
+- pkg:cargo/authentik-client@2026.2.1
 - pkg:cargo/authentik-client@2026.2.1-rc1
 - pkg:cargo/authentik-client@2026.5.0-rc1.1770775923
 - pkg:cargo/authentik-client@2026.5.0-rc1.1770841240
