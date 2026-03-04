@@ -7,3 +7,4 @@
 - pkg:cargo/kmeans@1.1.0
 - pkg:cargo/kmeans@2.0.0
 - pkg:cargo/kmeans@2.0.1
+- pkg:cargo/kmeans@2.0.2
