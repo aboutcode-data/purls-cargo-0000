@@ -39,3 +39,4 @@
 - pkg:cargo/hyperlane_bootstrap@17.2.0
 - pkg:cargo/hyperlane_bootstrap@17.2.2
 - pkg:cargo/hyperlane_bootstrap@18.0.0
+- pkg:cargo/hyperlane_bootstrap@18.0.1
