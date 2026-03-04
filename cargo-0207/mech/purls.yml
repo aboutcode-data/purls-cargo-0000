@@ -73,3 +73,4 @@
 - pkg:cargo/mech@0.2.75
 - pkg:cargo/mech@0.2.8
 - pkg:cargo/mech@0.2.9
+- pkg:cargo/mech@0.3.0
