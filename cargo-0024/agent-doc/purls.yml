@@ -25,3 +25,5 @@
 - pkg:cargo/agent-doc@0.6.6
 - pkg:cargo/agent-doc@0.7.0
 - pkg:cargo/agent-doc@0.7.1
+- pkg:cargo/agent-doc@0.7.2
+- pkg:cargo/agent-doc@0.8.0
