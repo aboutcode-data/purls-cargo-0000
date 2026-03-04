@@ -14,3 +14,4 @@
 - pkg:cargo/basic_trie@1.2.2
 - pkg:cargo/basic_trie@1.2.3
 - pkg:cargo/basic_trie@2.0.0
+- pkg:cargo/basic_trie@2.1.0
