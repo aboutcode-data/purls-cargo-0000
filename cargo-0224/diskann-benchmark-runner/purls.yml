@@ -2,3 +2,4 @@
 - pkg:cargo/diskann-benchmark-runner@0.45.0
 - pkg:cargo/diskann-benchmark-runner@0.46.0
 - pkg:cargo/diskann-benchmark-runner@0.47.0
+- pkg:cargo/diskann-benchmark-runner@0.48.0

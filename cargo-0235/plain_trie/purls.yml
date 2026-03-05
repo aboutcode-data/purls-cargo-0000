@@ -6,6 +6,7 @@
 - pkg:cargo/plain_trie@1.0.5
 - pkg:cargo/plain_trie@1.0.6
 - pkg:cargo/plain_trie@1.1.0
+- pkg:cargo/plain_trie@10.0.0
 - pkg:cargo/plain_trie@2.0.0
 - pkg:cargo/plain_trie@3.0.0
 - pkg:cargo/plain_trie@4.0.0
