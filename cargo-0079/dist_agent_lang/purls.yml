@@ -1,3 +1,4 @@
+- pkg:cargo/dist_agent_lang@1.0.10
 - pkg:cargo/dist_agent_lang@1.0.3
 - pkg:cargo/dist_agent_lang@1.0.5
 - pkg:cargo/dist_agent_lang@1.0.6
