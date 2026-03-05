@@ -29,5 +29,6 @@
 - pkg:cargo/jj-cli@0.36.0
 - pkg:cargo/jj-cli@0.37.0
 - pkg:cargo/jj-cli@0.38.0
+- pkg:cargo/jj-cli@0.39.0
 - pkg:cargo/jj-cli@0.8.0
 - pkg:cargo/jj-cli@0.9.0
