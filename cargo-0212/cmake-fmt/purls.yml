@@ -1,5 +1,6 @@
 - pkg:cargo/cmake-fmt@0.10.0
 - pkg:cargo/cmake-fmt@0.10.1
+- pkg:cargo/cmake-fmt@0.10.2
 - pkg:cargo/cmake-fmt@0.7.0
 - pkg:cargo/cmake-fmt@0.7.0-beta.1
 - pkg:cargo/cmake-fmt@0.7.0-beta.2
