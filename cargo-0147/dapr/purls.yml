@@ -22,6 +22,7 @@
 - pkg:cargo/dapr@0.16.2
 - pkg:cargo/dapr@0.17.0
 - pkg:cargo/dapr@0.17.0-rc.0
+- pkg:cargo/dapr@0.18.0-rc.0
 - pkg:cargo/dapr@0.2.0-alpha.0
 - pkg:cargo/dapr@0.3.0-alpha.0
 - pkg:cargo/dapr@0.4.0-alpha.0

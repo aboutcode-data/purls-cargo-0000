@@ -15,3 +15,4 @@
 - pkg:cargo/dapr-macros@0.16.2
 - pkg:cargo/dapr-macros@0.17.0
 - pkg:cargo/dapr-macros@0.17.0-rc.0
+- pkg:cargo/dapr-macros@0.18.0-rc.0
