@@ -5,3 +5,4 @@
 - pkg:cargo/integer_to_bytes@0.1.4-Beta.1
 - pkg:cargo/integer_to_bytes@0.1.4-Beta.2
 - pkg:cargo/integer_to_bytes@0.2.1
+- pkg:cargo/integer_to_bytes@0.2.2
