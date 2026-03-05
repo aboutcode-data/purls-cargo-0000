@@ -14,3 +14,4 @@
 - pkg:cargo/cargo-test-macro@0.4.6
 - pkg:cargo/cargo-test-macro@0.4.7
 - pkg:cargo/cargo-test-macro@0.4.8
+- pkg:cargo/cargo-test-macro@0.4.9
