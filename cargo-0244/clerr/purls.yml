@@ -1,4 +1,5 @@
 - pkg:cargo/clerr@0.1.0
+- pkg:cargo/clerr@0.10.0-rc.1
 - pkg:cargo/clerr@0.2.0
 - pkg:cargo/clerr@0.3.0
 - pkg:cargo/clerr@0.4.0
