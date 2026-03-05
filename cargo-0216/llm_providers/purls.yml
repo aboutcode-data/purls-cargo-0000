@@ -10,3 +10,4 @@
 - pkg:cargo/llm_providers@0.7.2
 - pkg:cargo/llm_providers@0.7.3
 - pkg:cargo/llm_providers@0.7.4
+- pkg:cargo/llm_providers@0.8.0
