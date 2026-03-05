@@ -17,3 +17,5 @@
 - pkg:cargo/runique@1.1.25
 - pkg:cargo/runique@1.1.30
 - pkg:cargo/runique@1.1.35
+- pkg:cargo/runique@1.1.36
+- pkg:cargo/runique@1.1.37
