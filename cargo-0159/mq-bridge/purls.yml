@@ -12,3 +12,4 @@
 - pkg:cargo/mq-bridge@0.2.3
 - pkg:cargo/mq-bridge@0.2.4
 - pkg:cargo/mq-bridge@0.2.6
+- pkg:cargo/mq-bridge@0.2.7
