@@ -1,3 +1,4 @@
 - pkg:cargo/specter-mem@0.1.0
 - pkg:cargo/specter-mem@1.0.0
 - pkg:cargo/specter-mem@1.0.1
+- pkg:cargo/specter-mem@1.0.2
