@@ -4,3 +4,4 @@
 - pkg:cargo/bgpsim-macros@0.18.1
 - pkg:cargo/bgpsim-macros@0.20.0
 - pkg:cargo/bgpsim-macros@0.20.1
+- pkg:cargo/bgpsim-macros@0.20.2
