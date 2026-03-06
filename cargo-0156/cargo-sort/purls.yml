@@ -13,3 +13,4 @@
 - pkg:cargo/cargo-sort@2.0.1
 - pkg:cargo/cargo-sort@2.0.2
 - pkg:cargo/cargo-sort@2.1.0
+- pkg:cargo/cargo-sort@2.1.1
