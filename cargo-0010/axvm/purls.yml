@@ -2,3 +2,5 @@
 - pkg:cargo/axvm@0.2.1
 - pkg:cargo/axvm@0.2.1-preview.1
 - pkg:cargo/axvm@0.2.2
+- pkg:cargo/axvm@0.2.3
+- pkg:cargo/axvm@0.3.0
