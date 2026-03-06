@@ -28,3 +28,4 @@
 - pkg:cargo/redisctl@0.8.1
 - pkg:cargo/redisctl@0.8.2
 - pkg:cargo/redisctl@0.8.3
+- pkg:cargo/redisctl@0.9.0
