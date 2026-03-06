@@ -28,3 +28,4 @@
 - pkg:cargo/ralph-proto@2.5.0
 - pkg:cargo/ralph-proto@2.5.1
 - pkg:cargo/ralph-proto@2.6.0
+- pkg:cargo/ralph-proto@2.7.0

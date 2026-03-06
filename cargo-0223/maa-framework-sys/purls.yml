@@ -9,3 +9,4 @@
 - pkg:cargo/maa-framework-sys@5.8.0-alpha.3
 - pkg:cargo/maa-framework-sys@5.8.0-beta.1
 - pkg:cargo/maa-framework-sys@5.8.0-beta.2
+- pkg:cargo/maa-framework-sys@5.8.1
