@@ -6,3 +6,4 @@
 - pkg:cargo/butteraugli-cli@0.6.2
 - pkg:cargo/butteraugli-cli@0.7.1
 - pkg:cargo/butteraugli-cli@0.7.2
+- pkg:cargo/butteraugli-cli@0.8.0
