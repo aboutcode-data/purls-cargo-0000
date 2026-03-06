@@ -1,1 +1,2 @@
 - pkg:cargo/edc-connector-client-next@0.5.1
+- pkg:cargo/edc-connector-client-next@0.5.2
