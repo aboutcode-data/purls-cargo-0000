@@ -1,1 +1,2 @@
 - pkg:cargo/cortex-mem-config@1.0.0
+- pkg:cargo/cortex-mem-config@2.5.0
