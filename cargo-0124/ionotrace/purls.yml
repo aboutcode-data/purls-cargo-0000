@@ -2,3 +2,5 @@
 - pkg:cargo/ionotrace@0.2.0
 - pkg:cargo/ionotrace@0.3.0
 - pkg:cargo/ionotrace@0.3.1
+- pkg:cargo/ionotrace@0.5.6
+- pkg:cargo/ionotrace@0.5.7
