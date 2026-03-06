@@ -5,3 +5,4 @@
 - pkg:cargo/scud-task-core@1.64.0
 - pkg:cargo/scud-task-core@1.64.1
 - pkg:cargo/scud-task-core@1.65.1
+- pkg:cargo/scud-task-core@1.66.0
