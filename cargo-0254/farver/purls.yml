@@ -1,1 +1,2 @@
 - pkg:cargo/farver@3.1.0
+- pkg:cargo/farver@3.2.1
