@@ -7,3 +7,4 @@
 - pkg:cargo/elfcore@1.1.4
 - pkg:cargo/elfcore@1.1.5
 - pkg:cargo/elfcore@2.0.0
+- pkg:cargo/elfcore@2.0.1
