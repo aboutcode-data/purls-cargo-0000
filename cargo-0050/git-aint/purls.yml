@@ -1,3 +1,4 @@
 - pkg:cargo/git-aint@0.0.1
 - pkg:cargo/git-aint@0.0.1-alpha2
 - pkg:cargo/git-aint@0.0.2
+- pkg:cargo/git-aint@0.0.4
