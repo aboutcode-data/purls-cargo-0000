@@ -13,3 +13,4 @@
 - pkg:cargo/xfr@0.7.1
 - pkg:cargo/xfr@0.8.0
 - pkg:cargo/xfr@0.9.1
+- pkg:cargo/xfr@0.9.2
