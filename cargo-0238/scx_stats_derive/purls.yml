@@ -18,3 +18,4 @@
 - pkg:cargo/scx_stats_derive@1.0.7
 - pkg:cargo/scx_stats_derive@1.0.8
 - pkg:cargo/scx_stats_derive@1.0.9
+- pkg:cargo/scx_stats_derive@1.1.0
