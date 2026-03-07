@@ -38,3 +38,4 @@
 - pkg:cargo/ironoxide@4.0.0
 - pkg:cargo/ironoxide@4.0.1
 - pkg:cargo/ironoxide@4.1.0
+- pkg:cargo/ironoxide@4.2.0
