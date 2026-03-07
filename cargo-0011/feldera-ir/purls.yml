@@ -148,6 +148,7 @@
 - pkg:cargo/feldera-ir@0.258.0
 - pkg:cargo/feldera-ir@0.259.0
 - pkg:cargo/feldera-ir@0.260.0
+- pkg:cargo/feldera-ir@0.261.0
 - pkg:cargo/feldera-ir@0.48.0
 - pkg:cargo/feldera-ir@0.49.0
 - pkg:cargo/feldera-ir@0.50.0
