@@ -16,3 +16,4 @@
 - pkg:cargo/miden-client-integration-tests@0.13.0
 - pkg:cargo/miden-client-integration-tests@0.13.1
 - pkg:cargo/miden-client-integration-tests@0.13.2
+- pkg:cargo/miden-client-integration-tests@0.14.0-alpha.1
