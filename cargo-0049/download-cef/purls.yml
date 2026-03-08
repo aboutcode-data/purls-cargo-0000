@@ -17,3 +17,4 @@
 - pkg:cargo/download-cef@2.2.0
 - pkg:cargo/download-cef@2.2.1
 - pkg:cargo/download-cef@2.3.0
+- pkg:cargo/download-cef@2.3.1
