@@ -32,3 +32,5 @@
 - pkg:cargo/nostr-double-ratchet@0.0.75
 - pkg:cargo/nostr-double-ratchet@0.0.76
 - pkg:cargo/nostr-double-ratchet@0.0.77
+- pkg:cargo/nostr-double-ratchet@0.0.78
+- pkg:cargo/nostr-double-ratchet@0.0.79

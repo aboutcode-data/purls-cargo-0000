@@ -1,3 +1,4 @@
 - pkg:cargo/auth0-integration@0.1.0
 - pkg:cargo/auth0-integration@0.1.1
 - pkg:cargo/auth0-integration@0.2.0
+- pkg:cargo/auth0-integration@0.2.1
