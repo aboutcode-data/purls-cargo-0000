@@ -3,6 +3,7 @@
 - pkg:cargo/gz-transport-sys@0.0.3
 - pkg:cargo/gz-transport-sys@0.1.0
 - pkg:cargo/gz-transport-sys@0.1.1
+- pkg:cargo/gz-transport-sys@0.10.0
 - pkg:cargo/gz-transport-sys@0.2.0
 - pkg:cargo/gz-transport-sys@0.7.0
 - pkg:cargo/gz-transport-sys@0.7.1
