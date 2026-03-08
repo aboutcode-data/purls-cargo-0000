@@ -70,6 +70,7 @@
 - pkg:cargo/lyon_tessellation@1.0.14
 - pkg:cargo/lyon_tessellation@1.0.15
 - pkg:cargo/lyon_tessellation@1.0.16
+- pkg:cargo/lyon_tessellation@1.0.19
 - pkg:cargo/lyon_tessellation@1.0.2
 - pkg:cargo/lyon_tessellation@1.0.3
 - pkg:cargo/lyon_tessellation@1.0.4
