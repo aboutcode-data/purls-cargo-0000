@@ -5,5 +5,6 @@
 - pkg:cargo/gephyr@1.16.14
 - pkg:cargo/gephyr@1.16.15
 - pkg:cargo/gephyr@1.16.16
+- pkg:cargo/gephyr@1.16.18
 - pkg:cargo/gephyr@1.16.7
 - pkg:cargo/gephyr@1.16.8
