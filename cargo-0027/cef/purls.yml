@@ -94,3 +94,4 @@
 - pkg:cargo/cef@145.4.0%2B145.0.26
 - pkg:cargo/cef@145.5.0%2B145.0.27
 - pkg:cargo/cef@145.6.0%2B145.0.28
+- pkg:cargo/cef@145.6.1%2B145.0.28
