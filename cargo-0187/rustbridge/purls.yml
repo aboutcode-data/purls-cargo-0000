@@ -7,3 +7,5 @@
 - pkg:cargo/rustbridge@0.8.1
 - pkg:cargo/rustbridge@0.9.0
 - pkg:cargo/rustbridge@0.9.1
+- pkg:cargo/rustbridge@1.0.0
+- pkg:cargo/rustbridge@1.0.1
