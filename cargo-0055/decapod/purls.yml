@@ -192,11 +192,15 @@
 - pkg:cargo/decapod@0.46.4
 - pkg:cargo/decapod@0.47.0
 - pkg:cargo/decapod@0.47.1
+- pkg:cargo/decapod@0.47.10
 - pkg:cargo/decapod@0.47.2
 - pkg:cargo/decapod@0.47.3
 - pkg:cargo/decapod@0.47.4
 - pkg:cargo/decapod@0.47.5
 - pkg:cargo/decapod@0.47.6
+- pkg:cargo/decapod@0.47.7
+- pkg:cargo/decapod@0.47.8
+- pkg:cargo/decapod@0.47.9
 - pkg:cargo/decapod@0.5.0
 - pkg:cargo/decapod@0.5.1
 - pkg:cargo/decapod@0.5.2
