@@ -2,3 +2,4 @@
 - pkg:cargo/wasmworker@0.1.1
 - pkg:cargo/wasmworker@0.1.2
 - pkg:cargo/wasmworker@0.2.1
+- pkg:cargo/wasmworker@0.3.0
