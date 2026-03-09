@@ -2,3 +2,4 @@
 - pkg:cargo/types-sdk@0.2.12
 - pkg:cargo/types-sdk@0.2.14
 - pkg:cargo/types-sdk@0.3.2
+- pkg:cargo/types-sdk@0.4.0
