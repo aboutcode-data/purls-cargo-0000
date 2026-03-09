@@ -33,3 +33,5 @@
 - pkg:cargo/briefcase-core@2.3.0
 - pkg:cargo/briefcase-core@2.4.0
 - pkg:cargo/briefcase-core@2.4.2
+- pkg:cargo/briefcase-core@2.5.0
+- pkg:cargo/briefcase-core@2.5.1
