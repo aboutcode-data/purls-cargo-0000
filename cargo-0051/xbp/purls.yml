@@ -32,6 +32,7 @@
 - pkg:cargo/xbp@10.14.3
 - pkg:cargo/xbp@10.14.4
 - pkg:cargo/xbp@10.14.5
+- pkg:cargo/xbp@10.15.0
 - pkg:cargo/xbp@10.5.0
 - pkg:cargo/xbp@10.6.1
 - pkg:cargo/xbp@10.7.0
