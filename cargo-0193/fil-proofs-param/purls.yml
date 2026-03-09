@@ -8,6 +8,7 @@
 - pkg:cargo/fil-proofs-param@13.1.0
 - pkg:cargo/fil-proofs-param@14.0.0
 - pkg:cargo/fil-proofs-param@14.0.1
+- pkg:cargo/fil-proofs-param@14.1.0
 - pkg:cargo/fil-proofs-param@2.0.0
 - pkg:cargo/fil-proofs-param@2.0.1
 - pkg:cargo/fil-proofs-param@3.0.0
