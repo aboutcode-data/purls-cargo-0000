@@ -10,3 +10,4 @@
 - pkg:cargo/open_clip_inference@0.2.4
 - pkg:cargo/open_clip_inference@0.2.5
 - pkg:cargo/open_clip_inference@0.2.6
+- pkg:cargo/open_clip_inference@0.3.0
