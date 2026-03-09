@@ -8,3 +8,5 @@
 - pkg:cargo/markdownlint-rs@0.2.6
 - pkg:cargo/markdownlint-rs@0.2.7
 - pkg:cargo/markdownlint-rs@0.2.8
+- pkg:cargo/markdownlint-rs@0.3.0
+- pkg:cargo/markdownlint-rs@0.3.3
