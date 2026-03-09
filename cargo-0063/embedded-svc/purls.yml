@@ -60,6 +60,7 @@
 - pkg:cargo/embedded-svc@0.27.1
 - pkg:cargo/embedded-svc@0.28.0
 - pkg:cargo/embedded-svc@0.28.1
+- pkg:cargo/embedded-svc@0.29.0
 - pkg:cargo/embedded-svc@0.7.0
 - pkg:cargo/embedded-svc@0.7.1
 - pkg:cargo/embedded-svc@0.8.0
