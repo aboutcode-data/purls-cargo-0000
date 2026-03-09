@@ -4,6 +4,7 @@
 - pkg:cargo/mq@0.20.0
 - pkg:cargo/mq@0.20.1
 - pkg:cargo/mq@0.3.0
+- pkg:cargo/mq@0.30.0
 - pkg:cargo/mq@0.4.0
 - pkg:cargo/mq@0.4.1
 - pkg:cargo/mq@0.4.2

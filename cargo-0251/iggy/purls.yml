@@ -163,3 +163,4 @@
 - pkg:cargo/iggy@0.8.3-edge.1
 - pkg:cargo/iggy@0.9.0
 - pkg:cargo/iggy@0.9.1-edge.1
+- pkg:cargo/iggy@0.9.1-edge.2
