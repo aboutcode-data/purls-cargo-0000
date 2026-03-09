@@ -8,3 +8,5 @@
 - pkg:cargo/nexus-rt@0.5.3
 - pkg:cargo/nexus-rt@0.6.0
 - pkg:cargo/nexus-rt@0.6.1
+- pkg:cargo/nexus-rt@0.7.0
+- pkg:cargo/nexus-rt@0.8.0
