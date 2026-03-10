@@ -83,3 +83,4 @@
 - pkg:cargo/esp-idf-hal@0.45.1
 - pkg:cargo/esp-idf-hal@0.45.2
 - pkg:cargo/esp-idf-hal@0.46.0
+- pkg:cargo/esp-idf-hal@0.46.1
