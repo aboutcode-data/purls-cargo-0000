@@ -9,3 +9,4 @@
 - pkg:cargo/seam-injector@0.4.4
 - pkg:cargo/seam-injector@0.5.10
 - pkg:cargo/seam-injector@0.5.27
+- pkg:cargo/seam-injector@0.5.31
