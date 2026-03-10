@@ -2,3 +2,4 @@
 - pkg:cargo/lex-config@0.2.4
 - pkg:cargo/lex-config@0.2.5
 - pkg:cargo/lex-config@0.2.6
+- pkg:cargo/lex-config@0.3.0
