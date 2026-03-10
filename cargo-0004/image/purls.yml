@@ -76,6 +76,7 @@
 - pkg:cargo/image@0.25.0
 - pkg:cargo/image@0.25.0-preview.0
 - pkg:cargo/image@0.25.1
+- pkg:cargo/image@0.25.10
 - pkg:cargo/image@0.25.2
 - pkg:cargo/image@0.25.3
 - pkg:cargo/image@0.25.4
