@@ -5,3 +5,4 @@
 - pkg:cargo/clvm-fuzzing@0.16.5
 - pkg:cargo/clvm-fuzzing@0.17.0
 - pkg:cargo/clvm-fuzzing@0.17.1
+- pkg:cargo/clvm-fuzzing@0.17.2

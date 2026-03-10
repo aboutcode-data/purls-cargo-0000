@@ -6,3 +6,4 @@
 - pkg:cargo/claude-deck-cli@0.4.6
 - pkg:cargo/claude-deck-cli@0.4.7
 - pkg:cargo/claude-deck-cli@0.4.8
+- pkg:cargo/claude-deck-cli@0.4.9
