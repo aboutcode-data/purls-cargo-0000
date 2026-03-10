@@ -1,5 +1,9 @@
+- pkg:cargo/solverforge-console@0.5.10
+- pkg:cargo/solverforge-console@0.5.11
 - pkg:cargo/solverforge-console@0.5.2
 - pkg:cargo/solverforge-console@0.5.4
 - pkg:cargo/solverforge-console@0.5.5
 - pkg:cargo/solverforge-console@0.5.6
 - pkg:cargo/solverforge-console@0.5.7
+- pkg:cargo/solverforge-console@0.5.8
+- pkg:cargo/solverforge-console@0.5.9
