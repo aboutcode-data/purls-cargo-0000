@@ -1,2 +1,3 @@
 - pkg:cargo/r-toml@0.0.26
+- pkg:cargo/r-toml@0.0.27
 - pkg:cargo/r-toml@0.1.0

@@ -5,3 +5,4 @@
 - pkg:cargo/ohttp-gateway@0.2.0
 - pkg:cargo/ohttp-gateway@0.2.5
 - pkg:cargo/ohttp-gateway@1.0.0
+- pkg:cargo/ohttp-gateway@1.0.1
