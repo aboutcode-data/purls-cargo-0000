@@ -1,1 +1,2 @@
 - pkg:cargo/oneshot-openai-cli@0.1.0
+- pkg:cargo/oneshot-openai-cli@0.1.1
