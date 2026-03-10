@@ -4,3 +4,4 @@
 - pkg:cargo/unifictl@0.5.1
 - pkg:cargo/unifictl@5.2.0
 - pkg:cargo/unifictl@5.3.0
+- pkg:cargo/unifictl@5.3.1
