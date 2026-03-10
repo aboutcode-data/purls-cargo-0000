@@ -31,3 +31,4 @@
 - pkg:cargo/somehal@0.6.0
 - pkg:cargo/somehal@0.6.1
 - pkg:cargo/somehal@0.6.2
+- pkg:cargo/somehal@0.6.3
