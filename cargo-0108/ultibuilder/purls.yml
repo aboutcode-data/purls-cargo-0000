@@ -5,3 +5,5 @@
 - pkg:cargo/ultibuilder@0.3.5
 - pkg:cargo/ultibuilder@0.3.6
 - pkg:cargo/ultibuilder@0.3.8
+- pkg:cargo/ultibuilder@0.4.0
+- pkg:cargo/ultibuilder@0.4.1
