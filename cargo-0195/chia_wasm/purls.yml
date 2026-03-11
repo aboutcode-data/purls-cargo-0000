@@ -27,3 +27,4 @@
 - pkg:cargo/chia_wasm@0.37.0
 - pkg:cargo/chia_wasm@0.38.0
 - pkg:cargo/chia_wasm@0.38.1
+- pkg:cargo/chia_wasm@0.38.2
