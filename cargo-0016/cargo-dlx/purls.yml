@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-dlx@0.1.0
 - pkg:cargo/cargo-dlx@0.2.0
 - pkg:cargo/cargo-dlx@0.3.0
+- pkg:cargo/cargo-dlx@0.4.0
