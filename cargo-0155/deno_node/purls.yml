@@ -84,6 +84,7 @@
 - pkg:cargo/deno_node@0.173.0
 - pkg:cargo/deno_node@0.174.0
 - pkg:cargo/deno_node@0.175.0
+- pkg:cargo/deno_node@0.176.0
 - pkg:cargo/deno_node@0.18.0
 - pkg:cargo/deno_node@0.19.0
 - pkg:cargo/deno_node@0.2.0
