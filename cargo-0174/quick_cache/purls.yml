@@ -24,6 +24,7 @@
 - pkg:cargo/quick_cache@0.6.16
 - pkg:cargo/quick_cache@0.6.17
 - pkg:cargo/quick_cache@0.6.18
+- pkg:cargo/quick_cache@0.6.19
 - pkg:cargo/quick_cache@0.6.2
 - pkg:cargo/quick_cache@0.6.3
 - pkg:cargo/quick_cache@0.6.4
