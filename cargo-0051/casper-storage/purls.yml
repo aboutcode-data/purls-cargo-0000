@@ -5,3 +5,4 @@
 - pkg:cargo/casper-storage@3.0.0
 - pkg:cargo/casper-storage@4.0.0
 - pkg:cargo/casper-storage@4.0.1
+- pkg:cargo/casper-storage@5.0.0

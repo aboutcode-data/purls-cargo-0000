@@ -43,6 +43,8 @@
 - pkg:cargo/cargo-spellcheck@0.15.3
 - pkg:cargo/cargo-spellcheck@0.15.4
 - pkg:cargo/cargo-spellcheck@0.15.5
+- pkg:cargo/cargo-spellcheck@0.15.6
+- pkg:cargo/cargo-spellcheck@0.15.7
 - pkg:cargo/cargo-spellcheck@0.2.0
 - pkg:cargo/cargo-spellcheck@0.2.1
 - pkg:cargo/cargo-spellcheck@0.2.2
