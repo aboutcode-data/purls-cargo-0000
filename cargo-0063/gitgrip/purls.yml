@@ -12,6 +12,7 @@
 - pkg:cargo/gitgrip@0.14.1
 - pkg:cargo/gitgrip@0.15.0
 - pkg:cargo/gitgrip@0.16.0
+- pkg:cargo/gitgrip@0.17.0
 - pkg:cargo/gitgrip@0.5.0
 - pkg:cargo/gitgrip@0.5.1
 - pkg:cargo/gitgrip@0.5.2
