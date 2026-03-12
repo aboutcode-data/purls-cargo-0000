@@ -12,3 +12,5 @@
 - pkg:cargo/the-bus-telemetry@4.1.0
 - pkg:cargo/the-bus-telemetry@4.3.0
 - pkg:cargo/the-bus-telemetry@4.4.0
+- pkg:cargo/the-bus-telemetry@5.0.0
+- pkg:cargo/the-bus-telemetry@5.0.1
