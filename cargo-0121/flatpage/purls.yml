@@ -3,3 +3,4 @@
 - pkg:cargo/flatpage@0.2.0
 - pkg:cargo/flatpage@0.2.1
 - pkg:cargo/flatpage@0.3.0
+- pkg:cargo/flatpage@1.0.0
