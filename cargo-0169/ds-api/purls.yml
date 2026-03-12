@@ -19,3 +19,5 @@
 - pkg:cargo/ds-api@0.7.0
 - pkg:cargo/ds-api@0.7.1
 - pkg:cargo/ds-api@0.8.0
+- pkg:cargo/ds-api@0.8.2
+- pkg:cargo/ds-api@0.8.3
