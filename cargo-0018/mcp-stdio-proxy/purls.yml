@@ -28,6 +28,7 @@
 - pkg:cargo/mcp-stdio-proxy@0.1.4
 - pkg:cargo/mcp-stdio-proxy@0.1.5
 - pkg:cargo/mcp-stdio-proxy@0.1.55
+- pkg:cargo/mcp-stdio-proxy@0.1.59
 - pkg:cargo/mcp-stdio-proxy@0.1.6
 - pkg:cargo/mcp-stdio-proxy@0.1.7
 - pkg:cargo/mcp-stdio-proxy@0.1.8
