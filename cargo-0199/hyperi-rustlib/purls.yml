@@ -3,3 +3,4 @@
 - pkg:cargo/hyperi-rustlib@1.14.0
 - pkg:cargo/hyperi-rustlib@1.15.0
 - pkg:cargo/hyperi-rustlib@1.16.0
+- pkg:cargo/hyperi-rustlib@1.16.1
