@@ -60,3 +60,4 @@
 - pkg:cargo/flyer@0.2.6
 - pkg:cargo/flyer@0.2.7
 - pkg:cargo/flyer@0.2.8
+- pkg:cargo/flyer@2.0.0
