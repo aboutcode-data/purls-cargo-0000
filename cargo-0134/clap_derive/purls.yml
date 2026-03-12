@@ -84,4 +84,5 @@
 - pkg:cargo/clap_derive@4.5.49
 - pkg:cargo/clap_derive@4.5.5
 - pkg:cargo/clap_derive@4.5.55
+- pkg:cargo/clap_derive@4.5.61
 - pkg:cargo/clap_derive@4.5.8
