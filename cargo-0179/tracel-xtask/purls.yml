@@ -53,6 +53,7 @@
 - pkg:cargo/tracel-xtask@4.13.2
 - pkg:cargo/tracel-xtask@4.13.3
 - pkg:cargo/tracel-xtask@4.13.4
+- pkg:cargo/tracel-xtask@4.13.5
 - pkg:cargo/tracel-xtask@4.2.0
 - pkg:cargo/tracel-xtask@4.2.1
 - pkg:cargo/tracel-xtask@4.2.2
