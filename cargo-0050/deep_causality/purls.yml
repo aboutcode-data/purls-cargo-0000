@@ -19,6 +19,7 @@
 - pkg:cargo/deep_causality@0.13.2
 - pkg:cargo/deep_causality@0.13.3
 - pkg:cargo/deep_causality@0.13.4
+- pkg:cargo/deep_causality@0.13.5
 - pkg:cargo/deep_causality@0.2.4
 - pkg:cargo/deep_causality@0.2.7
 - pkg:cargo/deep_causality@0.2.8
