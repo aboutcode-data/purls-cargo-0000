@@ -52,6 +52,8 @@
 - pkg:cargo/rustdoc-types@0.56.0
 - pkg:cargo/rustdoc-types@0.57.0
 - pkg:cargo/rustdoc-types@0.57.1
+- pkg:cargo/rustdoc-types@0.57.2
+- pkg:cargo/rustdoc-types@0.57.3
 - pkg:cargo/rustdoc-types@0.6.0
 - pkg:cargo/rustdoc-types@0.7.0
 - pkg:cargo/rustdoc-types@0.8.0
