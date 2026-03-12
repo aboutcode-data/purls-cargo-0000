@@ -17,3 +17,4 @@
 - pkg:cargo/nettle-sys@2.2.0
 - pkg:cargo/nettle-sys@2.3.0
 - pkg:cargo/nettle-sys@2.3.1
+- pkg:cargo/nettle-sys@2.3.2
