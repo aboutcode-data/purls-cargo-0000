@@ -3,3 +3,4 @@
 - pkg:cargo/cg-bundler@1.0.1
 - pkg:cargo/cg-bundler@1.1.0
 - pkg:cargo/cg-bundler@1.1.10
+- pkg:cargo/cg-bundler@1.1.13
