@@ -11,3 +11,4 @@
 - pkg:cargo/falcon-z3@0.4.5
 - pkg:cargo/falcon-z3@0.5.1
 - pkg:cargo/falcon-z3@0.5.2
+- pkg:cargo/falcon-z3@0.6.0
