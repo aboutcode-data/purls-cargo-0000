@@ -1,3 +1,6 @@
 - pkg:cargo/irithyll@1.0.0
 - pkg:cargo/irithyll@5.0.0
 - pkg:cargo/irithyll@5.1.0
+- pkg:cargo/irithyll@6.0.0
+- pkg:cargo/irithyll@6.1.0
+- pkg:cargo/irithyll@6.1.1
