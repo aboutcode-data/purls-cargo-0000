@@ -57,4 +57,5 @@
 - pkg:cargo/circuit_encodings@0.153.6
 - pkg:cargo/circuit_encodings@0.153.7
 - pkg:cargo/circuit_encodings@0.153.8
+- pkg:cargo/circuit_encodings@0.153.8-1
 - pkg:cargo/circuit_encodings@0.153.9
