@@ -35,6 +35,8 @@
 - pkg:cargo/kinetics-macro@0.13.4
 - pkg:cargo/kinetics-macro@0.13.5
 - pkg:cargo/kinetics-macro@0.13.6
+- pkg:cargo/kinetics-macro@0.13.7
+- pkg:cargo/kinetics-macro@0.14.0
 - pkg:cargo/kinetics-macro@0.2.1
 - pkg:cargo/kinetics-macro@0.2.2
 - pkg:cargo/kinetics-macro@0.2.3
