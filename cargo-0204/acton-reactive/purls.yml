@@ -23,3 +23,5 @@
 - pkg:cargo/acton-reactive@7.1.1
 - pkg:cargo/acton-reactive@7.1.2
 - pkg:cargo/acton-reactive@8.0.0
+- pkg:cargo/acton-reactive@8.0.1
+- pkg:cargo/acton-reactive@8.0.2
