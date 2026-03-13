@@ -57,6 +57,7 @@
 - pkg:cargo/noodles-tabix@0.6.0
 - pkg:cargo/noodles-tabix@0.6.1
 - pkg:cargo/noodles-tabix@0.60.0
+- pkg:cargo/noodles-tabix@0.61.0
 - pkg:cargo/noodles-tabix@0.7.0
 - pkg:cargo/noodles-tabix@0.7.1
 - pkg:cargo/noodles-tabix@0.7.2

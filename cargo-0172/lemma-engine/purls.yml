@@ -14,3 +14,4 @@
 - pkg:cargo/lemma-engine@0.7.5
 - pkg:cargo/lemma-engine@0.8.0
 - pkg:cargo/lemma-engine@0.8.1
+- pkg:cargo/lemma-engine@0.8.2
