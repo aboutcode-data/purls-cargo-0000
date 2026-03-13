@@ -1,4 +1,6 @@
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha1
+- pkg:cargo/ngb-sqlbuilder@0.1.0-alpha10
+- pkg:cargo/ngb-sqlbuilder@0.1.0-alpha11
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha2
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha3
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha4
@@ -7,3 +9,5 @@
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha7
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha8
 - pkg:cargo/ngb-sqlbuilder@0.1.0-alpha9
+- pkg:cargo/ngb-sqlbuilder@0.1.1
+- pkg:cargo/ngb-sqlbuilder@0.1.2
