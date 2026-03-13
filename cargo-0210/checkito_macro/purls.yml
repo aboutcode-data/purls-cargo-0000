@@ -16,3 +16,4 @@
 - pkg:cargo/checkito_macro@0.5.5
 - pkg:cargo/checkito_macro@0.5.6
 - pkg:cargo/checkito_macro@0.5.7
+- pkg:cargo/checkito_macro@0.5.8
