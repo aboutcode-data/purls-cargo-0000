@@ -15,3 +15,5 @@
 - pkg:cargo/focusmini@2.0.1
 - pkg:cargo/focusmini@2.0.2
 - pkg:cargo/focusmini@2.0.3
+- pkg:cargo/focusmini@3.0.0
+- pkg:cargo/focusmini@4.0.0
