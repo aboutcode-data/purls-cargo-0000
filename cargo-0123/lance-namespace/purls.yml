@@ -15,3 +15,4 @@
 - pkg:cargo/lance-namespace@1.0.4
 - pkg:cargo/lance-namespace@2.0.0
 - pkg:cargo/lance-namespace@2.0.1
+- pkg:cargo/lance-namespace@3.0.0
