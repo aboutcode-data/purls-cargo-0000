@@ -68,3 +68,5 @@
 - pkg:cargo/google_maps@3.9.0
 - pkg:cargo/google_maps@3.9.1
 - pkg:cargo/google_maps@3.9.2
+- pkg:cargo/google_maps@3.9.3
+- pkg:cargo/google_maps@3.9.4
