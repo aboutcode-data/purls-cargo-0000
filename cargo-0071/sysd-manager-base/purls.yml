@@ -6,3 +6,4 @@
 - pkg:cargo/sysd-manager-base@2.14.0
 - pkg:cargo/sysd-manager-base@2.14.1
 - pkg:cargo/sysd-manager-base@2.14.2
+- pkg:cargo/sysd-manager-base@2.14.5
