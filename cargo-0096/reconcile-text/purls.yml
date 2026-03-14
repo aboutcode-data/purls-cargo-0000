@@ -1,4 +1,5 @@
 - pkg:cargo/reconcile-text@0.10.0
+- pkg:cargo/reconcile-text@0.11.0
 - pkg:cargo/reconcile-text@0.4.10
 - pkg:cargo/reconcile-text@0.4.6
 - pkg:cargo/reconcile-text@0.4.7
