@@ -31,6 +31,7 @@
 - pkg:cargo/aidaemon@0.9.23
 - pkg:cargo/aidaemon@0.9.24
 - pkg:cargo/aidaemon@0.9.25
+- pkg:cargo/aidaemon@0.9.26
 - pkg:cargo/aidaemon@0.9.3
 - pkg:cargo/aidaemon@0.9.4
 - pkg:cargo/aidaemon@0.9.5
