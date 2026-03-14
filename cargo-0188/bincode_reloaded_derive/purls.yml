@@ -1,1 +1,2 @@
 - pkg:cargo/bincode_reloaded_derive@2.0.1
+- pkg:cargo/bincode_reloaded_derive@3.1.0
