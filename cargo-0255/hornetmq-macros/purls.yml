@@ -1,0 +1,3 @@
+- pkg:cargo/hornetmq-macros@0.1.1
+- pkg:cargo/hornetmq-macros@0.3.0
+- pkg:cargo/hornetmq-macros@0.3.1
