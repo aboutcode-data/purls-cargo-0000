@@ -3,3 +3,5 @@
 - pkg:cargo/code-graph-cli@1.1.0
 - pkg:cargo/code-graph-cli@1.2.0
 - pkg:cargo/code-graph-cli@2.0.0
+- pkg:cargo/code-graph-cli@3.0.0
+- pkg:cargo/code-graph-cli@3.0.1
