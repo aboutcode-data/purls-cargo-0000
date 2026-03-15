@@ -46,6 +46,8 @@
 - pkg:cargo/vex-cli@0.5.13
 - pkg:cargo/vex-cli@0.5.14
 - pkg:cargo/vex-cli@0.5.15
+- pkg:cargo/vex-cli@0.5.16
+- pkg:cargo/vex-cli@0.5.17
 - pkg:cargo/vex-cli@0.5.2
 - pkg:cargo/vex-cli@0.5.3
 - pkg:cargo/vex-cli@0.5.4

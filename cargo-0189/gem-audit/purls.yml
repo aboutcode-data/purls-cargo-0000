@@ -1,3 +1,5 @@
 - pkg:cargo/gem-audit@2.3.3
 - pkg:cargo/gem-audit@2.4.0
 - pkg:cargo/gem-audit@2.5.0
+- pkg:cargo/gem-audit@2.6.0
+- pkg:cargo/gem-audit@2.7.0
