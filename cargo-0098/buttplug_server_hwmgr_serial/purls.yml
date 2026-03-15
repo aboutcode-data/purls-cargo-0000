@@ -1,1 +1,2 @@
 - pkg:cargo/buttplug_server_hwmgr_serial@10.0.0
+- pkg:cargo/buttplug_server_hwmgr_serial@10.0.1
