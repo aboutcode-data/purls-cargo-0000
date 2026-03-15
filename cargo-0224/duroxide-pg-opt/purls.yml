@@ -1,2 +1,3 @@
 - pkg:cargo/duroxide-pg-opt@0.1.21
+- pkg:cargo/duroxide-pg-opt@0.1.22
 - pkg:cargo/duroxide-pg-opt@0.1.7
