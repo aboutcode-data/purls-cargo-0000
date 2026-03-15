@@ -1,3 +1,4 @@
 - pkg:cargo/ghgrab@0.1.0
 - pkg:cargo/ghgrab@0.1.15
 - pkg:cargo/ghgrab@1.0.0
+- pkg:cargo/ghgrab@1.0.1
