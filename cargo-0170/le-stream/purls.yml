@@ -56,3 +56,6 @@
 - pkg:cargo/le-stream@6.0.0
 - pkg:cargo/le-stream@6.1.0
 - pkg:cargo/le-stream@7.0.0
+- pkg:cargo/le-stream@7.1.0
+- pkg:cargo/le-stream@7.1.1
+- pkg:cargo/le-stream@8.0.0
