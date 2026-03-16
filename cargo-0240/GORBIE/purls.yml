@@ -9,3 +9,5 @@
 - pkg:cargo/GORBIE@0.5.3
 - pkg:cargo/GORBIE@0.6.0
 - pkg:cargo/GORBIE@0.7.0
+- pkg:cargo/GORBIE@0.8.0
+- pkg:cargo/GORBIE@0.8.1

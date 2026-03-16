@@ -251,3 +251,4 @@
 - pkg:cargo/holochain_zome_types@0.7.0-dev.6
 - pkg:cargo/holochain_zome_types@0.7.0-dev.7
 - pkg:cargo/holochain_zome_types@0.7.0-dev.8
+- pkg:cargo/holochain_zome_types@0.7.0-dev.9
