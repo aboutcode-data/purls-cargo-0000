@@ -1,2 +1,4 @@
 - pkg:cargo/sendkit@1.0.0
 - pkg:cargo/sendkit@1.0.1
+- pkg:cargo/sendkit@1.0.8
+- pkg:cargo/sendkit@1.0.9
