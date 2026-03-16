@@ -1,3 +1,6 @@
 - pkg:cargo/raft-hpc-core@2026.1.0
 - pkg:cargo/raft-hpc-core@2026.1.16
 - pkg:cargo/raft-hpc-core@2026.1.19
+- pkg:cargo/raft-hpc-core@2026.1.20
+- pkg:cargo/raft-hpc-core@2026.1.21
+- pkg:cargo/raft-hpc-core@2026.1.22

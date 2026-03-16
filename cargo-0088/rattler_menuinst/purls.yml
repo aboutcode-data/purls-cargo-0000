@@ -45,6 +45,7 @@
 - pkg:cargo/rattler_menuinst@0.2.48
 - pkg:cargo/rattler_menuinst@0.2.49
 - pkg:cargo/rattler_menuinst@0.2.5
+- pkg:cargo/rattler_menuinst@0.2.50
 - pkg:cargo/rattler_menuinst@0.2.6
 - pkg:cargo/rattler_menuinst@0.2.7
 - pkg:cargo/rattler_menuinst@0.2.8
