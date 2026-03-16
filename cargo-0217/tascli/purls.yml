@@ -6,6 +6,7 @@
 - pkg:cargo/tascli@0.11.1
 - pkg:cargo/tascli@0.11.2
 - pkg:cargo/tascli@0.12.0
+- pkg:cargo/tascli@0.13.0
 - pkg:cargo/tascli@0.2.0
 - pkg:cargo/tascli@0.2.1
 - pkg:cargo/tascli@0.2.2
