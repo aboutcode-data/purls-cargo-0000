@@ -5,3 +5,4 @@
 - pkg:cargo/value-box-ffi@1.1.2
 - pkg:cargo/value-box-ffi@1.1.3
 - pkg:cargo/value-box-ffi@1.2.0
+- pkg:cargo/value-box-ffi@3.0.0
