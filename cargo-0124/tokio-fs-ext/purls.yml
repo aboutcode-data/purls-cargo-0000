@@ -60,3 +60,4 @@
 - pkg:cargo/tokio-fs-ext@0.7.5
 - pkg:cargo/tokio-fs-ext@0.7.6
 - pkg:cargo/tokio-fs-ext@0.7.7
+- pkg:cargo/tokio-fs-ext@0.7.8
