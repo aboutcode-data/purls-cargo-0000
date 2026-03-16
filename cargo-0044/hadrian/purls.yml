@@ -2,3 +2,4 @@
 - pkg:cargo/hadrian@0.0.0-alpha.5
 - pkg:cargo/hadrian@0.0.0-alpha.7
 - pkg:cargo/hadrian@0.0.0-alpha.8
+- pkg:cargo/hadrian@0.0.0-alpha.9

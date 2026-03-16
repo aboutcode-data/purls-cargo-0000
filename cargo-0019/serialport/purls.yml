@@ -34,3 +34,4 @@
 - pkg:cargo/serialport@4.7.3
 - pkg:cargo/serialport@4.8.0
 - pkg:cargo/serialport@4.8.1
+- pkg:cargo/serialport@4.9.0
