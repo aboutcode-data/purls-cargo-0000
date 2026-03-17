@@ -6,6 +6,7 @@
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.15.0
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.16.0
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.17.0
+- pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.18.0
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.3.0
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.6.0
 - pkg:cargo/googleapis-tonic-google-cloud-geminidataanalytics-v1beta@0.7.0
