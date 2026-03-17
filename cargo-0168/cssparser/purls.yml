@@ -89,6 +89,7 @@
 - pkg:cargo/cssparser@0.34.0
 - pkg:cargo/cssparser@0.35.0
 - pkg:cargo/cssparser@0.36.0
+- pkg:cargo/cssparser@0.37.0
 - pkg:cargo/cssparser@0.4.0
 - pkg:cargo/cssparser@0.5.0
 - pkg:cargo/cssparser@0.5.2
