@@ -8,3 +8,4 @@
 - pkg:cargo/gcode@0.5.3
 - pkg:cargo/gcode@0.6.0
 - pkg:cargo/gcode@0.6.1
+- pkg:cargo/gcode@0.7.0-beta
