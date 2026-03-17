@@ -4,3 +4,5 @@
 - pkg:cargo/nettui@0.1.13
 - pkg:cargo/nettui@0.1.9
 - pkg:cargo/nettui@0.2.0
+- pkg:cargo/nettui@0.3.0
+- pkg:cargo/nettui@0.3.1
