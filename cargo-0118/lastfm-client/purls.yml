@@ -2,3 +2,4 @@
 - pkg:cargo/lastfm-client@2.0.1
 - pkg:cargo/lastfm-client@2.0.2
 - pkg:cargo/lastfm-client@2.1.0
+- pkg:cargo/lastfm-client@3.5.0
