@@ -17,3 +17,4 @@
 - pkg:cargo/flashkraft-core@0.7.9
 - pkg:cargo/flashkraft-core@0.8.0
 - pkg:cargo/flashkraft-core@0.8.2
+- pkg:cargo/flashkraft-core@0.8.3
