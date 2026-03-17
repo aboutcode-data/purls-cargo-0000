@@ -1,3 +1,4 @@
 - pkg:cargo/wincode-derive-arcium-fork@0.2.3
 - pkg:cargo/wincode-derive-arcium-fork@0.2.3-patch.1
 - pkg:cargo/wincode-derive-arcium-fork@0.2.4
+- pkg:cargo/wincode-derive-arcium-fork@0.2.5
