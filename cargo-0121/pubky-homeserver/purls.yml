@@ -17,3 +17,4 @@
 - pkg:cargo/pubky-homeserver@0.6.0-rc.5
 - pkg:cargo/pubky-homeserver@0.6.0-rc.6
 - pkg:cargo/pubky-homeserver@0.6.0-rc.6exp
+- pkg:cargo/pubky-homeserver@0.7.0
