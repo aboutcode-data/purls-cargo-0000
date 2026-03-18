@@ -2,3 +2,5 @@
 - pkg:cargo/array-box@1.0.1
 - pkg:cargo/array-box@1.0.2
 - pkg:cargo/array-box@3.0.0
+- pkg:cargo/array-box@4.0.0
+- pkg:cargo/array-box@4.1.0
