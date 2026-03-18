@@ -5,3 +5,4 @@
 - pkg:cargo/dlccryptlib@1.0.0
 - pkg:cargo/dlccryptlib@1.9.0
 - pkg:cargo/dlccryptlib@1.9.5
+- pkg:cargo/dlccryptlib@2.0.0

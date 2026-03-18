@@ -1,1 +1,3 @@
 - pkg:cargo/llm-cost-dashboard@1.0.0
+- pkg:cargo/llm-cost-dashboard@1.0.1
+- pkg:cargo/llm-cost-dashboard@1.0.2
