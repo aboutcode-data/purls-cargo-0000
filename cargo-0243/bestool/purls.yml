@@ -133,3 +133,4 @@
 - pkg:cargo/bestool@1.3.9
 - pkg:cargo/bestool@1.4.0
 - pkg:cargo/bestool@1.5.0
+- pkg:cargo/bestool@1.5.1
