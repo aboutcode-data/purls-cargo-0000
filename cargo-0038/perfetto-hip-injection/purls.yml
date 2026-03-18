@@ -1,1 +1,2 @@
 - pkg:cargo/perfetto-hip-injection@0.4.0
+- pkg:cargo/perfetto-hip-injection@0.4.1
