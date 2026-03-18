@@ -9,3 +9,4 @@
 - pkg:cargo/symbi-dsl@1.6.1
 - pkg:cargo/symbi-dsl@1.7.0
 - pkg:cargo/symbi-dsl@1.7.1
+- pkg:cargo/symbi-dsl@1.8.0
