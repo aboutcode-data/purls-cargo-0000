@@ -1,3 +1,4 @@
 - pkg:cargo/pareto@0.1.0
 - pkg:cargo/pareto@2.1.1
 - pkg:cargo/pareto@2.5.16
+- pkg:cargo/pareto@2.6.1
