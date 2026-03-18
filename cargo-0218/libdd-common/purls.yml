@@ -2,3 +2,4 @@
 - pkg:cargo/libdd-common@1.1.0
 - pkg:cargo/libdd-common@2.0.0
 - pkg:cargo/libdd-common@2.0.1
+- pkg:cargo/libdd-common@3.0.0
