@@ -16,3 +16,4 @@
 - pkg:cargo/random-access-disk@2.0.0
 - pkg:cargo/random-access-disk@3.0.0
 - pkg:cargo/random-access-disk@3.0.1
+- pkg:cargo/random-access-disk@4.0.0-alpha
