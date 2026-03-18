@@ -6,3 +6,4 @@
 - pkg:cargo/orb-tokio@0.6.0
 - pkg:cargo/orb-tokio@0.7.0
 - pkg:cargo/orb-tokio@0.8.0
+- pkg:cargo/orb-tokio@0.9.0
