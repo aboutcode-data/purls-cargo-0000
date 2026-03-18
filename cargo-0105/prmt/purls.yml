@@ -14,3 +14,5 @@
 - pkg:cargo/prmt@0.2.5
 - pkg:cargo/prmt@0.2.6
 - pkg:cargo/prmt@0.2.7
+- pkg:cargo/prmt@0.3.0
+- pkg:cargo/prmt@0.4.0
