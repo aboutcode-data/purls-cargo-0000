@@ -135,3 +135,4 @@
 - pkg:cargo/zitadel@5.4.0
 - pkg:cargo/zitadel@5.5.0
 - pkg:cargo/zitadel@5.5.1
+- pkg:cargo/zitadel@5.7.5
