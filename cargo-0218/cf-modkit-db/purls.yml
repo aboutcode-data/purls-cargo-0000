@@ -25,3 +25,4 @@
 - pkg:cargo/cf-modkit-db@0.5.4
 - pkg:cargo/cf-modkit-db@0.5.5
 - pkg:cargo/cf-modkit-db@0.5.7
+- pkg:cargo/cf-modkit-db@0.5.8
