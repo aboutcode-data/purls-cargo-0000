@@ -95,3 +95,4 @@
 - pkg:cargo/deno_permissions@0.95.0
 - pkg:cargo/deno_permissions@0.96.0
 - pkg:cargo/deno_permissions@0.97.0
+- pkg:cargo/deno_permissions@0.98.0
