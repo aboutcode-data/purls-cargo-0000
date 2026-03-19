@@ -8,6 +8,7 @@
 - pkg:cargo/events_once@0.5.15
 - pkg:cargo/events_once@0.5.16
 - pkg:cargo/events_once@0.5.17
+- pkg:cargo/events_once@0.5.18
 - pkg:cargo/events_once@0.5.2
 - pkg:cargo/events_once@0.5.3
 - pkg:cargo/events_once@0.5.4
