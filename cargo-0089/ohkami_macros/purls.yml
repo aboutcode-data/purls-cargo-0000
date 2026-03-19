@@ -16,6 +16,7 @@
 - pkg:cargo/ohkami_macros@0.24.4
 - pkg:cargo/ohkami_macros@0.24.5
 - pkg:cargo/ohkami_macros@0.24.6
+- pkg:cargo/ohkami_macros@0.24.7
 - pkg:cargo/ohkami_macros@0.3.0
 - pkg:cargo/ohkami_macros@0.4.0
 - pkg:cargo/ohkami_macros@0.5.0
