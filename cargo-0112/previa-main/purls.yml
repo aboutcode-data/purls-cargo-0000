@@ -2,3 +2,6 @@
 - pkg:cargo/previa-main@0.0.5
 - pkg:cargo/previa-main@0.0.6
 - pkg:cargo/previa-main@0.0.7
+- pkg:cargo/previa-main@1.0.0-alpha.0
+- pkg:cargo/previa-main@1.0.0-alpha.1
+- pkg:cargo/previa-main@1.0.0-alpha.2
