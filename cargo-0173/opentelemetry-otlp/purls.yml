@@ -16,6 +16,7 @@
 - pkg:cargo/opentelemetry-otlp@0.3.0
 - pkg:cargo/opentelemetry-otlp@0.30.0
 - pkg:cargo/opentelemetry-otlp@0.31.0
+- pkg:cargo/opentelemetry-otlp@0.31.1
 - pkg:cargo/opentelemetry-otlp@0.4.0
 - pkg:cargo/opentelemetry-otlp@0.5.0
 - pkg:cargo/opentelemetry-otlp@0.6.0
