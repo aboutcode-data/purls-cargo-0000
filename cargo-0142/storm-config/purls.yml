@@ -36,6 +36,8 @@
 - pkg:cargo/storm-config@0.28.124
 - pkg:cargo/storm-config@0.28.125
 - pkg:cargo/storm-config@0.28.126
+- pkg:cargo/storm-config@0.28.127
+- pkg:cargo/storm-config@0.28.128
 - pkg:cargo/storm-config@0.28.13
 - pkg:cargo/storm-config@0.28.14
 - pkg:cargo/storm-config@0.28.15
