@@ -6,4 +6,7 @@
 - pkg:cargo/k8s-maestro@0.1.6
 - pkg:cargo/k8s-maestro@0.2.0
 - pkg:cargo/k8s-maestro@0.3.0
+- pkg:cargo/k8s-maestro@1.0.0
 - pkg:cargo/k8s-maestro@1.0.0-beta
+- pkg:cargo/k8s-maestro@1.0.0-beta1
+- pkg:cargo/k8s-maestro@1.0.0-beta2
