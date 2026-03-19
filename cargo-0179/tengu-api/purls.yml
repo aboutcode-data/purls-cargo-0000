@@ -26,3 +26,4 @@
 - pkg:cargo/tengu-api@0.2.7
 - pkg:cargo/tengu-api@0.2.8
 - pkg:cargo/tengu-api@0.2.9
+- pkg:cargo/tengu-api@0.3.0
