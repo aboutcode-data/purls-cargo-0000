@@ -82,3 +82,4 @@
 - pkg:cargo/versa@1.7.0
 - pkg:cargo/versa@1.7.1
 - pkg:cargo/versa@1.7.2
+- pkg:cargo/versa@1.8.0
