@@ -1,4 +1,6 @@
 - pkg:cargo/tree-sitter-language-pack@1.0.0-rc.1
+- pkg:cargo/tree-sitter-language-pack@1.0.0-rc.10
+- pkg:cargo/tree-sitter-language-pack@1.0.0-rc.11
 - pkg:cargo/tree-sitter-language-pack@1.0.0-rc.2
 - pkg:cargo/tree-sitter-language-pack@1.0.0-rc.3
 - pkg:cargo/tree-sitter-language-pack@1.0.0-rc.4
