@@ -1,3 +1,4 @@
+- pkg:cargo/chrondb@0.0.0-dev.1
 - pkg:cargo/chrondb@0.0.0-dev.10
 - pkg:cargo/chrondb@0.0.0-dev.11
 - pkg:cargo/chrondb@0.0.0-dev.12
@@ -11,3 +12,4 @@
 - pkg:cargo/chrondb@0.0.0-dev.7
 - pkg:cargo/chrondb@0.0.0-dev.8
 - pkg:cargo/chrondb@0.0.0-dev.9
+- pkg:cargo/chrondb@0.1.1
