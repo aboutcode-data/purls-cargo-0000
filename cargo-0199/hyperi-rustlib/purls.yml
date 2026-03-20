@@ -11,3 +11,4 @@
 - pkg:cargo/hyperi-rustlib@1.16.6
 - pkg:cargo/hyperi-rustlib@1.16.7
 - pkg:cargo/hyperi-rustlib@1.16.8
+- pkg:cargo/hyperi-rustlib@1.17.0
