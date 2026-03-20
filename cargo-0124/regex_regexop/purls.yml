@@ -1,1 +1,3 @@
 - pkg:cargo/regex_regexop@0.1.0
+- pkg:cargo/regex_regexop@0.2.0
+- pkg:cargo/regex_regexop@0.2.1
