@@ -20,6 +20,7 @@
 - pkg:cargo/es-entity@0.10.26
 - pkg:cargo/es-entity@0.10.27
 - pkg:cargo/es-entity@0.10.28
+- pkg:cargo/es-entity@0.10.29
 - pkg:cargo/es-entity@0.10.3
 - pkg:cargo/es-entity@0.10.4
 - pkg:cargo/es-entity@0.10.5
