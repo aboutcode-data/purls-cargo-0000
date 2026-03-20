@@ -17,3 +17,4 @@
 - pkg:cargo/generic-ec@0.4.3
 - pkg:cargo/generic-ec@0.4.4
 - pkg:cargo/generic-ec@0.4.5
+- pkg:cargo/generic-ec@0.5.0
