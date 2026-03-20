@@ -1,2 +1,3 @@
 - pkg:cargo/actix-remote-ip@0.1.0
 - pkg:cargo/actix-remote-ip@0.1.0-alpha
+- pkg:cargo/actix-remote-ip@1.0.0
