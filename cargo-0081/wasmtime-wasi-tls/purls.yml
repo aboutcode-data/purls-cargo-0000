@@ -38,3 +38,4 @@
 - pkg:cargo/wasmtime-wasi-tls@41.0.4
 - pkg:cargo/wasmtime-wasi-tls@42.0.0
 - pkg:cargo/wasmtime-wasi-tls@42.0.1
+- pkg:cargo/wasmtime-wasi-tls@43.0.0

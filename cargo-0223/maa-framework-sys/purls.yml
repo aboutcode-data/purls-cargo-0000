@@ -12,3 +12,4 @@
 - pkg:cargo/maa-framework-sys@5.8.1
 - pkg:cargo/maa-framework-sys@5.9.0-alpha.1
 - pkg:cargo/maa-framework-sys@5.9.0-alpha.6
+- pkg:cargo/maa-framework-sys@5.9.2
