@@ -8,3 +8,4 @@
 - pkg:cargo/preflate-rs@0.6.4
 - pkg:cargo/preflate-rs@0.7.0
 - pkg:cargo/preflate-rs@0.7.1
+- pkg:cargo/preflate-rs@0.7.6
