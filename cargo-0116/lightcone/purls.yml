@@ -2,3 +2,5 @@
 - pkg:cargo/lightcone@0.3.2
 - pkg:cargo/lightcone@0.3.21
 - pkg:cargo/lightcone@0.3.22
+- pkg:cargo/lightcone@0.4.0
+- pkg:cargo/lightcone@0.4.1
