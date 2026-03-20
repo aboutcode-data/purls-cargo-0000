@@ -1,5 +1,6 @@
 - pkg:cargo/rum-code@0.7.10
 - pkg:cargo/rum-code@0.7.11
+- pkg:cargo/rum-code@0.7.12
 - pkg:cargo/rum-code@0.7.4
 - pkg:cargo/rum-code@0.7.5
 - pkg:cargo/rum-code@0.7.9
