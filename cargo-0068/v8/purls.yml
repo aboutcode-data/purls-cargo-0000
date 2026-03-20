@@ -175,3 +175,4 @@
 - pkg:cargo/v8@146.6.0
 - pkg:cargo/v8@146.7.0
 - pkg:cargo/v8@146.8.0
+- pkg:cargo/v8@146.9.0
