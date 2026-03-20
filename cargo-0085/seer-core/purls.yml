@@ -18,3 +18,5 @@
 - pkg:cargo/seer-core@0.10.0
 - pkg:cargo/seer-core@0.10.1
 - pkg:cargo/seer-core@0.10.3
+- pkg:cargo/seer-core@0.10.4
+- pkg:cargo/seer-core@0.11.0
