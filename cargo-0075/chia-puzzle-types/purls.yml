@@ -28,3 +28,4 @@
 - pkg:cargo/chia-puzzle-types@0.38.2
 - pkg:cargo/chia-puzzle-types@0.39.0
 - pkg:cargo/chia-puzzle-types@0.40.0
+- pkg:cargo/chia-puzzle-types@0.41.0
