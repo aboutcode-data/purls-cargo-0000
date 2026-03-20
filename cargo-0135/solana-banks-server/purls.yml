@@ -403,6 +403,7 @@
 - pkg:cargo/solana-banks-server@3.0.8
 - pkg:cargo/solana-banks-server@3.1.1
 - pkg:cargo/solana-banks-server@3.1.10
+- pkg:cargo/solana-banks-server@3.1.11
 - pkg:cargo/solana-banks-server@3.1.2
 - pkg:cargo/solana-banks-server@3.1.3
 - pkg:cargo/solana-banks-server@3.1.4
@@ -415,3 +416,4 @@
 - pkg:cargo/solana-banks-server@4.0.0-beta.0
 - pkg:cargo/solana-banks-server@4.0.0-beta.1
 - pkg:cargo/solana-banks-server@4.0.0-beta.2
+- pkg:cargo/solana-banks-server@4.0.0-beta.3
