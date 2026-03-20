@@ -7,3 +7,5 @@
 - pkg:cargo/merkl@0.4.3
 - pkg:cargo/merkl@0.4.4
 - pkg:cargo/merkl@1.0.0
+- pkg:cargo/merkl@1.0.1
+- pkg:cargo/merkl@1.0.2
