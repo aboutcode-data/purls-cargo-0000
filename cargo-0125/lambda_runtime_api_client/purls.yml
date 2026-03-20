@@ -14,3 +14,4 @@
 - pkg:cargo/lambda_runtime_api_client@1.0.0
 - pkg:cargo/lambda_runtime_api_client@1.0.1
 - pkg:cargo/lambda_runtime_api_client@1.0.2
+- pkg:cargo/lambda_runtime_api_client@1.0.3

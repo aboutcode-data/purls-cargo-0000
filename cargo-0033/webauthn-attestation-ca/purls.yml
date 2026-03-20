@@ -4,3 +4,4 @@
 - pkg:cargo/webauthn-attestation-ca@0.5.2
 - pkg:cargo/webauthn-attestation-ca@0.5.3
 - pkg:cargo/webauthn-attestation-ca@0.5.4
+- pkg:cargo/webauthn-attestation-ca@0.6.0-dev
