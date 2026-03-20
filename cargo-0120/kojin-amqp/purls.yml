@@ -1,1 +1,2 @@
 - pkg:cargo/kojin-amqp@0.3.0
+- pkg:cargo/kojin-amqp@0.4.0
