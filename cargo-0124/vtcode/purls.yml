@@ -313,3 +313,4 @@
 - pkg:cargo/vtcode@0.9.3
 - pkg:cargo/vtcode@0.90.0
 - pkg:cargo/vtcode@0.91.0
+- pkg:cargo/vtcode@0.91.1
