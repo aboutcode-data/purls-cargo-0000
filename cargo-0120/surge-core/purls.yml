@@ -27,6 +27,7 @@
 - pkg:cargo/surge-core@0.4.0-preview.224
 - pkg:cargo/surge-core@0.4.0-preview.228
 - pkg:cargo/surge-core@0.4.0-preview.230
+- pkg:cargo/surge-core@0.4.0-preview.231
 - pkg:cargo/surge-core@0.4.0-preview.42
 - pkg:cargo/surge-core@0.4.0-preview.45
 - pkg:cargo/surge-core@0.4.0-preview.47
