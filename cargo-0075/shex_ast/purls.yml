@@ -60,3 +60,4 @@
 - pkg:cargo/shex_ast@0.2.2
 - pkg:cargo/shex_ast@0.2.6
 - pkg:cargo/shex_ast@0.2.7
+- pkg:cargo/shex_ast@0.2.8
