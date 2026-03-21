@@ -1,3 +1,4 @@
 - pkg:cargo/tanim-cli@0.13.1
 - pkg:cargo/tanim-cli@0.13.2
 - pkg:cargo/tanim-cli@0.14.2
+- pkg:cargo/tanim-cli@0.14.3
