@@ -68,3 +68,4 @@
 - pkg:cargo/clarity@1.5.4
 - pkg:cargo/clarity@1.5.5
 - pkg:cargo/clarity@1.6.0
+- pkg:cargo/clarity@1.7.0
