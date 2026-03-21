@@ -7,3 +7,4 @@
 - pkg:cargo/secrets-provider-tests@0.4.23
 - pkg:cargo/secrets-provider-tests@0.4.24
 - pkg:cargo/secrets-provider-tests@0.4.25
+- pkg:cargo/secrets-provider-tests@0.4.26
