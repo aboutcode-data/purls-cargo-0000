@@ -2,3 +2,4 @@
 - pkg:cargo/oxidros-zenoh@0.5.2
 - pkg:cargo/oxidros-zenoh@0.5.3
 - pkg:cargo/oxidros-zenoh@0.5.5
+- pkg:cargo/oxidros-zenoh@0.5.6
