@@ -10,3 +10,5 @@
 - pkg:cargo/swmr-cell@0.1.8
 - pkg:cargo/swmr-cell@0.1.9
 - pkg:cargo/swmr-cell@0.2.0
+- pkg:cargo/swmr-cell@0.3.0
+- pkg:cargo/swmr-cell@0.3.1
