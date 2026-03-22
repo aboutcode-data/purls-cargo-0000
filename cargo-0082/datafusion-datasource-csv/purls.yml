@@ -13,3 +13,4 @@
 - pkg:cargo/datafusion-datasource-csv@52.1.0
 - pkg:cargo/datafusion-datasource-csv@52.2.0
 - pkg:cargo/datafusion-datasource-csv@52.3.0
+- pkg:cargo/datafusion-datasource-csv@52.4.0
