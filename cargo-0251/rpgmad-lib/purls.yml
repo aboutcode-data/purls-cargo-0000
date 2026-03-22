@@ -3,3 +3,4 @@
 - pkg:cargo/rpgmad-lib@2.0.0
 - pkg:cargo/rpgmad-lib@3.0.0
 - pkg:cargo/rpgmad-lib@4.0.0
+- pkg:cargo/rpgmad-lib@5.0.0
