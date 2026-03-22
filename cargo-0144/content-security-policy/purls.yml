@@ -13,3 +13,4 @@
 - pkg:cargo/content-security-policy@0.5.4
 - pkg:cargo/content-security-policy@0.6.0
 - pkg:cargo/content-security-policy@0.6.1
+- pkg:cargo/content-security-policy@0.7.0
