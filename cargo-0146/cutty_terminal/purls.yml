@@ -1,3 +1,5 @@
 - pkg:cargo/cutty_terminal@0.25.2-dev
 - pkg:cargo/cutty_terminal@0.25.3
 - pkg:cargo/cutty_terminal@0.26.0
+- pkg:cargo/cutty_terminal@0.26.3
+- pkg:cargo/cutty_terminal@0.26.4

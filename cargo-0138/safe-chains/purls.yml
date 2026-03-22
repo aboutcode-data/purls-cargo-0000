@@ -85,3 +85,6 @@
 - pkg:cargo/safe-chains@0.89.0
 - pkg:cargo/safe-chains@0.91.0
 - pkg:cargo/safe-chains@0.92.0
+- pkg:cargo/safe-chains@0.93.0
+- pkg:cargo/safe-chains@0.94.0
+- pkg:cargo/safe-chains@0.95.0
