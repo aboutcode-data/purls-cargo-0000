@@ -12,3 +12,4 @@
 - pkg:cargo/cqdb@0.5.7
 - pkg:cargo/cqdb@0.5.8
 - pkg:cargo/cqdb@0.6.0
+- pkg:cargo/cqdb@0.7.0
