@@ -37,3 +37,4 @@
 - pkg:cargo/saorsa-gossip-transport@0.5.1
 - pkg:cargo/saorsa-gossip-transport@0.5.2
 - pkg:cargo/saorsa-gossip-transport@0.5.3
+- pkg:cargo/saorsa-gossip-transport@0.5.4
