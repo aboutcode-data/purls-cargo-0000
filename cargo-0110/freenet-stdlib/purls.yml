@@ -48,3 +48,4 @@
 - pkg:cargo/freenet-stdlib@0.3.0
 - pkg:cargo/freenet-stdlib@0.3.1
 - pkg:cargo/freenet-stdlib@0.3.2
+- pkg:cargo/freenet-stdlib@0.3.3
