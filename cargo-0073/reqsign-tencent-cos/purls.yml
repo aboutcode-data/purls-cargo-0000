@@ -2,3 +2,4 @@
 - pkg:cargo/reqsign-tencent-cos@2.0.0
 - pkg:cargo/reqsign-tencent-cos@2.0.1
 - pkg:cargo/reqsign-tencent-cos@2.0.2
+- pkg:cargo/reqsign-tencent-cos@3.0.0
