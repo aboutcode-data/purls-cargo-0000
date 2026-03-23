@@ -57,3 +57,4 @@
 - pkg:cargo/zellij-client@0.42.2
 - pkg:cargo/zellij-client@0.43.0
 - pkg:cargo/zellij-client@0.43.1
+- pkg:cargo/zellij-client@0.44.0
