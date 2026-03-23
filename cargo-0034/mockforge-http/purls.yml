@@ -72,3 +72,4 @@
 - pkg:cargo/mockforge-http@0.3.95
 - pkg:cargo/mockforge-http@0.3.97
 - pkg:cargo/mockforge-http@0.3.98
+- pkg:cargo/mockforge-http@0.3.99

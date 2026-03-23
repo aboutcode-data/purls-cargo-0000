@@ -6,6 +6,7 @@
 - pkg:cargo/types-sdk@0.4.1
 - pkg:cargo/types-sdk@0.5.1
 - pkg:cargo/types-sdk@0.5.10
+- pkg:cargo/types-sdk@0.5.11
 - pkg:cargo/types-sdk@0.5.2
 - pkg:cargo/types-sdk@0.5.5
 - pkg:cargo/types-sdk@0.5.8
