@@ -113,6 +113,7 @@
 - pkg:cargo/rustweb2@1.1.3
 - pkg:cargo/rustweb2@1.1.30
 - pkg:cargo/rustweb2@1.1.31
+- pkg:cargo/rustweb2@1.1.32
 - pkg:cargo/rustweb2@1.1.4
 - pkg:cargo/rustweb2@1.1.5
 - pkg:cargo/rustweb2@1.1.6
