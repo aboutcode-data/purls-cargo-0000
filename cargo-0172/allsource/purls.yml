@@ -5,3 +5,4 @@
 - pkg:cargo/allsource@0.13.1
 - pkg:cargo/allsource@0.14.0
 - pkg:cargo/allsource@0.14.3
+- pkg:cargo/allsource@0.17.0
