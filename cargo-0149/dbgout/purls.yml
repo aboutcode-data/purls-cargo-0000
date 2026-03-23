@@ -1,3 +1,5 @@
 - pkg:cargo/dbgout@1.0.0
 - pkg:cargo/dbgout@1.0.1
 - pkg:cargo/dbgout@2.0.0
+- pkg:cargo/dbgout@2.1.0
+- pkg:cargo/dbgout@2.2.0
