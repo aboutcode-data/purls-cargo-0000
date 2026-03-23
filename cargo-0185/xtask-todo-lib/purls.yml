@@ -5,6 +5,7 @@
 - pkg:cargo/xtask-todo-lib@0.1.12
 - pkg:cargo/xtask-todo-lib@0.1.13
 - pkg:cargo/xtask-todo-lib@0.1.14
+- pkg:cargo/xtask-todo-lib@0.1.15
 - pkg:cargo/xtask-todo-lib@0.1.2
 - pkg:cargo/xtask-todo-lib@0.1.4
 - pkg:cargo/xtask-todo-lib@0.1.5
