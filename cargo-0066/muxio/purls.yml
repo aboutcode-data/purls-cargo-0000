@@ -1,6 +1,7 @@
 - pkg:cargo/muxio@0.0.1-alpha
 - pkg:cargo/muxio@0.1.0-alpha
 - pkg:cargo/muxio@0.10.0-alpha
+- pkg:cargo/muxio@0.10.1-alpha
 - pkg:cargo/muxio@0.2.0-alpha
 - pkg:cargo/muxio@0.3.0-alpha
 - pkg:cargo/muxio@0.4.0-alpha
