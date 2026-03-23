@@ -12,3 +12,4 @@
 - pkg:cargo/charms-app-runner@0.9.3
 - pkg:cargo/charms-app-runner@11.0.0
 - pkg:cargo/charms-app-runner@11.0.1
+- pkg:cargo/charms-app-runner@12.0.0
