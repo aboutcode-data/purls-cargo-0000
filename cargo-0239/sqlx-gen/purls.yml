@@ -9,3 +9,4 @@
 - pkg:cargo/sqlx-gen@0.4.5
 - pkg:cargo/sqlx-gen@0.4.6
 - pkg:cargo/sqlx-gen@0.4.7
+- pkg:cargo/sqlx-gen@0.4.8
