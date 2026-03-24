@@ -12,3 +12,4 @@
 - pkg:cargo/openai-oxide@0.9.5
 - pkg:cargo/openai-oxide@0.9.6
 - pkg:cargo/openai-oxide@0.9.7
+- pkg:cargo/openai-oxide@0.9.8
