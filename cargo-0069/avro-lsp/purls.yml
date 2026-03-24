@@ -5,3 +5,4 @@
 - pkg:cargo/avro-lsp@0.1.28
 - pkg:cargo/avro-lsp@0.1.29
 - pkg:cargo/avro-lsp@0.1.30
+- pkg:cargo/avro-lsp@0.1.31
