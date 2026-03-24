@@ -5,6 +5,7 @@
 - pkg:cargo/passless-rs@0.0.4
 - pkg:cargo/passless-rs@0.0.5
 - pkg:cargo/passless-rs@0.1.0
+- pkg:cargo/passless-rs@0.10.0
 - pkg:cargo/passless-rs@0.2.0
 - pkg:cargo/passless-rs@0.3.2
 - pkg:cargo/passless-rs@0.3.3
