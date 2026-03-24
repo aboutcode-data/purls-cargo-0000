@@ -3,3 +3,4 @@
 - pkg:cargo/feldera-buffer-cache@0.270.0
 - pkg:cargo/feldera-buffer-cache@0.271.0
 - pkg:cargo/feldera-buffer-cache@0.272.0
+- pkg:cargo/feldera-buffer-cache@0.273.0
