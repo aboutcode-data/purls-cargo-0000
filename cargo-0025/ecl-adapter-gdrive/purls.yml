@@ -1,1 +1,2 @@
 - pkg:cargo/ecl-adapter-gdrive@0.4.0
+- pkg:cargo/ecl-adapter-gdrive@0.4.1

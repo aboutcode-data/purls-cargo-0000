@@ -10,3 +10,4 @@
 - pkg:cargo/ffmt@0.2.6
 - pkg:cargo/ffmt@0.2.7
 - pkg:cargo/ffmt@0.2.8
+- pkg:cargo/ffmt@0.3.0
