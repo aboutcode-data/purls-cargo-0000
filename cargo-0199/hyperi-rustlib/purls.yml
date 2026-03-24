@@ -16,3 +16,6 @@
 - pkg:cargo/hyperi-rustlib@1.19.0
 - pkg:cargo/hyperi-rustlib@1.19.1
 - pkg:cargo/hyperi-rustlib@1.19.2
+- pkg:cargo/hyperi-rustlib@1.19.3
+- pkg:cargo/hyperi-rustlib@1.19.4
+- pkg:cargo/hyperi-rustlib@1.19.5
