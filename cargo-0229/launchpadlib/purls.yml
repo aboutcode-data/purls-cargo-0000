@@ -19,3 +19,4 @@
 - pkg:cargo/launchpadlib@0.5.4
 - pkg:cargo/launchpadlib@0.5.5
 - pkg:cargo/launchpadlib@0.5.6
+- pkg:cargo/launchpadlib@0.5.7
