@@ -5,6 +5,8 @@
 - pkg:cargo/orion-sdr@0.0.13
 - pkg:cargo/orion-sdr@0.0.15
 - pkg:cargo/orion-sdr@0.0.16
+- pkg:cargo/orion-sdr@0.0.17
+- pkg:cargo/orion-sdr@0.0.18
 - pkg:cargo/orion-sdr@0.0.2
 - pkg:cargo/orion-sdr@0.0.3
 - pkg:cargo/orion-sdr@0.0.4
