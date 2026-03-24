@@ -16,6 +16,7 @@
 - pkg:cargo/atuin-server-database@18.13.1
 - pkg:cargo/atuin-server-database@18.13.2
 - pkg:cargo/atuin-server-database@18.13.3
+- pkg:cargo/atuin-server-database@18.13.4
 - pkg:cargo/atuin-server-database@18.2.0
 - pkg:cargo/atuin-server-database@18.3.0
 - pkg:cargo/atuin-server-database@18.4.0
