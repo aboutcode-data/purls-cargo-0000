@@ -90,6 +90,7 @@
 - pkg:cargo/barretenberg-rs@4.2.0-nightly.20260321
 - pkg:cargo/barretenberg-rs@4.2.0-nightly.20260322
 - pkg:cargo/barretenberg-rs@4.2.0-nightly.20260323
+- pkg:cargo/barretenberg-rs@4.2.0-nightly.20260324
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260220
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260221
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260222
@@ -115,6 +116,7 @@
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260322
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260323
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260323.1
+- pkg:cargo/barretenberg-rs@5.0.0-nightly.20260324
 - pkg:cargo/barretenberg-rs@5.0.0-patched.20260317
 - pkg:cargo/barretenberg-rs@5.0.0-patched.20260318
 - pkg:cargo/barretenberg-rs@5.0.0-private.20260318
