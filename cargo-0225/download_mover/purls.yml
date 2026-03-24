@@ -1,3 +1,4 @@
 - pkg:cargo/download_mover@1.0.3
 - pkg:cargo/download_mover@1.1.1
 - pkg:cargo/download_mover@1.1.2
+- pkg:cargo/download_mover@1.2.0
