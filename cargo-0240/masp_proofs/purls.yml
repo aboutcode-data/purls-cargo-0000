@@ -6,6 +6,7 @@
 - pkg:cargo/masp_proofs@2.0.1
 - pkg:cargo/masp_proofs@3.0.0
 - pkg:cargo/masp_proofs@3.0.1
+- pkg:cargo/masp_proofs@3.0.10
 - pkg:cargo/masp_proofs@3.0.2
 - pkg:cargo/masp_proofs@3.0.3
 - pkg:cargo/masp_proofs@3.0.4
