@@ -2,3 +2,4 @@
 - pkg:cargo/tari_transaction_manifest@0.25.5
 - pkg:cargo/tari_transaction_manifest@0.26.0
 - pkg:cargo/tari_transaction_manifest@0.26.1
+- pkg:cargo/tari_transaction_manifest@0.27.0
