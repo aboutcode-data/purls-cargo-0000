@@ -19,3 +19,4 @@
 - pkg:cargo/fsst-rs@0.5.6
 - pkg:cargo/fsst-rs@0.5.7
 - pkg:cargo/fsst-rs@0.5.8
+- pkg:cargo/fsst-rs@0.5.9
