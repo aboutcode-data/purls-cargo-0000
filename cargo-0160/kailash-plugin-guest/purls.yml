@@ -14,3 +14,4 @@
 - pkg:cargo/kailash-plugin-guest@2.9.4
 - pkg:cargo/kailash-plugin-guest@3.0.0
 - pkg:cargo/kailash-plugin-guest@3.1.0
+- pkg:cargo/kailash-plugin-guest@3.3.0
