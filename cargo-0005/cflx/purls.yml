@@ -1,4 +1,5 @@
 - pkg:cargo/cflx@0.5.10
+- pkg:cargo/cflx@0.5.12
 - pkg:cargo/cflx@0.5.2
 - pkg:cargo/cflx@0.5.4
 - pkg:cargo/cflx@0.5.6
