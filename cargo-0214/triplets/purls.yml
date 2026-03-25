@@ -8,3 +8,5 @@
 - pkg:cargo/triplets@0.5.0-alpha
 - pkg:cargo/triplets@0.5.1-alpha
 - pkg:cargo/triplets@0.6.0-alpha
+- pkg:cargo/triplets@0.6.1-alpha
+- pkg:cargo/triplets@0.7.0-alpha
