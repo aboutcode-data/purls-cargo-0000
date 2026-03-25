@@ -1,5 +1,6 @@
 - pkg:cargo/deno_permissions@0.1.0
 - pkg:cargo/deno_permissions@0.10.0
+- pkg:cargo/deno_permissions@0.100.0
 - pkg:cargo/deno_permissions@0.11.0
 - pkg:cargo/deno_permissions@0.12.0
 - pkg:cargo/deno_permissions@0.13.0
