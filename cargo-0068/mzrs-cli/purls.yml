@@ -1,4 +1,5 @@
 - pkg:cargo/mzrs-cli@0.1.0
 - pkg:cargo/mzrs-cli@0.1.1
+- pkg:cargo/mzrs-cli@0.1.12
 - pkg:cargo/mzrs-cli@0.1.2
 - pkg:cargo/mzrs-cli@0.1.3
