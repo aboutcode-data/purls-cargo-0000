@@ -4,3 +4,5 @@
 - pkg:cargo/tokensave@1.2.0
 - pkg:cargo/tokensave@1.2.1
 - pkg:cargo/tokensave@1.3.0
+- pkg:cargo/tokensave@1.4.0
+- pkg:cargo/tokensave@1.4.2
