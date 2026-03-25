@@ -2,3 +2,4 @@
 - pkg:cargo/apple-native-keyring-store@0.2.0
 - pkg:cargo/apple-native-keyring-store@0.2.1
 - pkg:cargo/apple-native-keyring-store@0.2.2
+- pkg:cargo/apple-native-keyring-store@0.2.3
