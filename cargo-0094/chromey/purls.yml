@@ -144,9 +144,13 @@
 - pkg:cargo/chromey@2.41.1
 - pkg:cargo/chromey@2.42.0
 - pkg:cargo/chromey@2.42.1
+- pkg:cargo/chromey@2.42.10
+- pkg:cargo/chromey@2.42.11
 - pkg:cargo/chromey@2.42.2
 - pkg:cargo/chromey@2.42.3
 - pkg:cargo/chromey@2.42.4
 - pkg:cargo/chromey@2.42.5
 - pkg:cargo/chromey@2.42.6
 - pkg:cargo/chromey@2.42.7
+- pkg:cargo/chromey@2.42.8
+- pkg:cargo/chromey@2.42.9
