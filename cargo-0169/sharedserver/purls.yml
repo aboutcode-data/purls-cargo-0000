@@ -2,3 +2,4 @@
 - pkg:cargo/sharedserver@0.4.3
 - pkg:cargo/sharedserver@0.4.4
 - pkg:cargo/sharedserver@0.4.7
+- pkg:cargo/sharedserver@0.4.8
