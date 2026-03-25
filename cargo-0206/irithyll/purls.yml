@@ -44,3 +44,6 @@
 - pkg:cargo/irithyll@9.3.0
 - pkg:cargo/irithyll@9.4.0
 - pkg:cargo/irithyll@9.4.1
+- pkg:cargo/irithyll@9.5.0
+- pkg:cargo/irithyll@9.5.1
+- pkg:cargo/irithyll@9.5.2
