@@ -9,3 +9,4 @@
 - pkg:cargo/anyrender_svg@0.6.2
 - pkg:cargo/anyrender_svg@0.6.3
 - pkg:cargo/anyrender_svg@0.8.0
+- pkg:cargo/anyrender_svg@0.9.0
