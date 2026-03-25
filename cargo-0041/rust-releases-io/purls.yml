@@ -18,3 +18,4 @@
 - pkg:cargo/rust-releases-io@0.29.0
 - pkg:cargo/rust-releases-io@0.30.0
 - pkg:cargo/rust-releases-io@0.31.0
+- pkg:cargo/rust-releases-io@0.32.0
