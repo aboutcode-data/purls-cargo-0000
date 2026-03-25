@@ -2,3 +2,4 @@
 - pkg:cargo/wcl@0.2.5-alpha
 - pkg:cargo/wcl@0.2.6-alpha
 - pkg:cargo/wcl@0.2.7-alpha
+- pkg:cargo/wcl@0.3.0-alpha

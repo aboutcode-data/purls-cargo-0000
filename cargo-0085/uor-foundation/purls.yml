@@ -1,4 +1,5 @@
 - pkg:cargo/uor-foundation@0.1.0
+- pkg:cargo/uor-foundation@0.1.1
 - pkg:cargo/uor-foundation@1.1.0
 - pkg:cargo/uor-foundation@2.0.0
 - pkg:cargo/uor-foundation@2.1.0
