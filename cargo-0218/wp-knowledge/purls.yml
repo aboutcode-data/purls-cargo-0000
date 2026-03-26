@@ -1,2 +1,4 @@
 - pkg:cargo/wp-knowledge@0.10.4
+- pkg:cargo/wp-knowledge@0.11.0
+- pkg:cargo/wp-knowledge@0.11.1
 - pkg:cargo/wp-knowledge@1.19.2
