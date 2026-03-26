@@ -10,3 +10,4 @@
 - pkg:cargo/blockifier_test_utils@0.18.0-dev.0
 - pkg:cargo/blockifier_test_utils@0.18.0-dev.1
 - pkg:cargo/blockifier_test_utils@0.18.0-dev.2
+- pkg:cargo/blockifier_test_utils@0.18.0-rc.0
