@@ -5,3 +5,4 @@
 - pkg:cargo/hotmint-staking@0.7.0
 - pkg:cargo/hotmint-staking@0.8.0
 - pkg:cargo/hotmint-staking@0.8.1
+- pkg:cargo/hotmint-staking@0.8.2
