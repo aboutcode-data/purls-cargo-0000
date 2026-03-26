@@ -45,6 +45,9 @@
 - pkg:cargo/rash_core@2.17.8
 - pkg:cargo/rash_core@2.18.0
 - pkg:cargo/rash_core@2.18.1
+- pkg:cargo/rash_core@2.18.2
+- pkg:cargo/rash_core@2.18.3
+- pkg:cargo/rash_core@2.19.0
 - pkg:cargo/rash_core@2.2.0
 - pkg:cargo/rash_core@2.3.0
 - pkg:cargo/rash_core@2.3.1
