@@ -5,3 +5,4 @@
 - pkg:cargo/mbedtls-sys-auto-smx@2.28.16
 - pkg:cargo/mbedtls-sys-auto-smx@2.28.17
 - pkg:cargo/mbedtls-sys-auto-smx@2.28.18
+- pkg:cargo/mbedtls-sys-auto-smx@2.28.19
