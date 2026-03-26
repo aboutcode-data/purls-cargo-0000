@@ -23,6 +23,7 @@
 - pkg:cargo/docker-compose-types@0.20.0
 - pkg:cargo/docker-compose-types@0.21.0
 - pkg:cargo/docker-compose-types@0.22.0
+- pkg:cargo/docker-compose-types@0.23.0
 - pkg:cargo/docker-compose-types@0.3.0
 - pkg:cargo/docker-compose-types@0.3.1
 - pkg:cargo/docker-compose-types@0.4.0
