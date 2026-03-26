@@ -30,3 +30,4 @@
 - pkg:cargo/cf-modkit-db@0.5.8
 - pkg:cargo/cf-modkit-db@0.5.9
 - pkg:cargo/cf-modkit-db@0.6.0
+- pkg:cargo/cf-modkit-db@0.6.1
