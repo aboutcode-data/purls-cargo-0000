@@ -64,3 +64,4 @@
 - pkg:cargo/hypersync-client@1.1.0
 - pkg:cargo/hypersync-client@1.1.1
 - pkg:cargo/hypersync-client@1.1.2
+- pkg:cargo/hypersync-client@1.1.3
