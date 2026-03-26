@@ -1,1 +1,2 @@
 - pkg:cargo/rexlang-ast@3.9.1
+- pkg:cargo/rexlang-ast@3.9.2
