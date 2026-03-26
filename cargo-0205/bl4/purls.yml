@@ -31,3 +31,5 @@
 - pkg:cargo/bl4@0.7.5
 - pkg:cargo/bl4@0.7.6
 - pkg:cargo/bl4@0.7.7
+- pkg:cargo/bl4@0.8.0
+- pkg:cargo/bl4@0.8.1
