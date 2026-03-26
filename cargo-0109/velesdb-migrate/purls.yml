@@ -25,3 +25,4 @@
 - pkg:cargo/velesdb-migrate@1.6.0
 - pkg:cargo/velesdb-migrate@1.7.0
 - pkg:cargo/velesdb-migrate@1.7.1
+- pkg:cargo/velesdb-migrate@1.7.2
