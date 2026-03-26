@@ -17,3 +17,4 @@
 - pkg:cargo/ckb-vm-debug-utils@0.203.0
 - pkg:cargo/ckb-vm-debug-utils@1.0.0
 - pkg:cargo/ckb-vm-debug-utils@1.1.0
+- pkg:cargo/ckb-vm-debug-utils@1.1.1

@@ -4,3 +4,4 @@
 - pkg:cargo/ckb-vm-syscall-tracer@0.203.0-rc3
 - pkg:cargo/ckb-vm-syscall-tracer@1.0.0
 - pkg:cargo/ckb-vm-syscall-tracer@1.1.0
+- pkg:cargo/ckb-vm-syscall-tracer@1.1.1
