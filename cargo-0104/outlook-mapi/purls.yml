@@ -21,6 +21,7 @@
 - pkg:cargo/outlook-mapi@0.14.5
 - pkg:cargo/outlook-mapi@0.15.0
 - pkg:cargo/outlook-mapi@0.15.1
+- pkg:cargo/outlook-mapi@0.15.10
 - pkg:cargo/outlook-mapi@0.15.2
 - pkg:cargo/outlook-mapi@0.15.3
 - pkg:cargo/outlook-mapi@0.15.4
