@@ -21,3 +21,4 @@
 - pkg:cargo/google-cloud-dialogflow-cx-v3@2.0.0
 - pkg:cargo/google-cloud-dialogflow-cx-v3@2.1.0
 - pkg:cargo/google-cloud-dialogflow-cx-v3@2.2.0
+- pkg:cargo/google-cloud-dialogflow-cx-v3@2.3.0
