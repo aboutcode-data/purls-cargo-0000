@@ -1,2 +1,3 @@
+- pkg:cargo/perfgate-validation@0.15.0
 - pkg:cargo/perfgate-validation@0.4.0
 - pkg:cargo/perfgate-validation@0.4.1
