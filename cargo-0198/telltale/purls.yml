@@ -7,3 +7,4 @@
 - pkg:cargo/telltale@4.0.1
 - pkg:cargo/telltale@5.0.0
 - pkg:cargo/telltale@6.0.0
+- pkg:cargo/telltale@7.0.0

@@ -9,3 +9,5 @@
 - pkg:cargo/sids@0.5.2
 - pkg:cargo/sids@0.6.0
 - pkg:cargo/sids@1.0.1
+- pkg:cargo/sids@1.0.2
+- pkg:cargo/sids@1.0.3
