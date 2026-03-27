@@ -1,1 +1,2 @@
 - pkg:cargo/constraint-theory-core@1.0.0
+- pkg:cargo/constraint-theory-core@1.0.1
