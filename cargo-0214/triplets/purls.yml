@@ -11,3 +11,4 @@
 - pkg:cargo/triplets@0.6.1-alpha
 - pkg:cargo/triplets@0.7.0-alpha
 - pkg:cargo/triplets@0.8.0-alpha
+- pkg:cargo/triplets@0.9.0-alpha
