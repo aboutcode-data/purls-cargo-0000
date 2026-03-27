@@ -93,6 +93,8 @@
 - pkg:cargo/hyperlane_config@18.4.0
 - pkg:cargo/hyperlane_config@18.5.0
 - pkg:cargo/hyperlane_config@18.5.1
+- pkg:cargo/hyperlane_config@19.0.0
+- pkg:cargo/hyperlane_config@19.0.1
 - pkg:cargo/hyperlane_config@9.2.10
 - pkg:cargo/hyperlane_config@9.2.11
 - pkg:cargo/hyperlane_config@9.2.13
