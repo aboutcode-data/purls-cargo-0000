@@ -7,3 +7,5 @@
 - pkg:cargo/cashier-server@0.4.2
 - pkg:cargo/cashier-server@0.4.3
 - pkg:cargo/cashier-server@0.4.4
+- pkg:cargo/cashier-server@1.0.0
+- pkg:cargo/cashier-server@1.0.1
