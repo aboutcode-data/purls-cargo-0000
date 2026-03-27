@@ -13,6 +13,8 @@
 - pkg:cargo/plain_trie@11.1.1
 - pkg:cargo/plain_trie@12.0.0
 - pkg:cargo/plain_trie@12.0.1
+- pkg:cargo/plain_trie@12.1.0
+- pkg:cargo/plain_trie@12.1.1
 - pkg:cargo/plain_trie@2.0.0
 - pkg:cargo/plain_trie@3.0.0
 - pkg:cargo/plain_trie@4.0.0
