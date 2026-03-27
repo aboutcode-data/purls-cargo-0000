@@ -1,3 +1,5 @@
 - pkg:cargo/majra@0.21.3
 - pkg:cargo/majra@0.22.3
 - pkg:cargo/majra@0.26.3
+- pkg:cargo/majra@1.0.0
+- pkg:cargo/majra@1.0.1
