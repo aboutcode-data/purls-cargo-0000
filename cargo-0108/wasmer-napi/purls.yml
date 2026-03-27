@@ -1,2 +1,4 @@
+- pkg:cargo/wasmer-napi@0.701.0
 - pkg:cargo/wasmer-napi@0.701.0-rc.1
 - pkg:cargo/wasmer-napi@0.701.0-rc.2
+- pkg:cargo/wasmer-napi@0.701.0-rc.3
