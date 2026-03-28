@@ -153,6 +153,7 @@
 - pkg:cargo/feldera-sqllib@0.272.0
 - pkg:cargo/feldera-sqllib@0.273.0
 - pkg:cargo/feldera-sqllib@0.274.0
+- pkg:cargo/feldera-sqllib@0.275.0
 - pkg:cargo/feldera-sqllib@0.28.0
 - pkg:cargo/feldera-sqllib@0.29.0
 - pkg:cargo/feldera-sqllib@0.30.0
