@@ -23,3 +23,4 @@
 - pkg:cargo/tuning@0.4.2
 - pkg:cargo/tuning@0.5.0
 - pkg:cargo/tuning@0.5.3
+- pkg:cargo/tuning@0.5.4
