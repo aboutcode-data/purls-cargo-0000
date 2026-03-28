@@ -34,3 +34,6 @@
 - pkg:cargo/statico@0.7.4
 - pkg:cargo/statico@0.7.5
 - pkg:cargo/statico@0.7.6
+- pkg:cargo/statico@0.8.0
+- pkg:cargo/statico@0.9.0
+- pkg:cargo/statico@0.9.1
