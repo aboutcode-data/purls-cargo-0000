@@ -6,3 +6,6 @@
 - pkg:cargo/specsync@2.1.1
 - pkg:cargo/specsync@2.2.0
 - pkg:cargo/specsync@2.2.1
+- pkg:cargo/specsync@2.3.0
+- pkg:cargo/specsync@2.3.3
+- pkg:cargo/specsync@2.4.0
