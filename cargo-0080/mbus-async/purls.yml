@@ -1,1 +1,2 @@
 - pkg:cargo/mbus-async@0.0.1
+- pkg:cargo/mbus-async@0.4.0
