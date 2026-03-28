@@ -5,3 +5,4 @@
 - pkg:cargo/sc-runtime-utilities@0.5.0
 - pkg:cargo/sc-runtime-utilities@0.6.0
 - pkg:cargo/sc-runtime-utilities@0.7.0
+- pkg:cargo/sc-runtime-utilities@0.8.0

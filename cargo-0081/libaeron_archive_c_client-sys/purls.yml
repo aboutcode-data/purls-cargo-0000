@@ -10,3 +10,4 @@
 - pkg:cargo/libaeron_archive_c_client-sys@1.48.5
 - pkg:cargo/libaeron_archive_c_client-sys@1.48.9
 - pkg:cargo/libaeron_archive_c_client-sys@1.49.1
+- pkg:cargo/libaeron_archive_c_client-sys@1.50.4
