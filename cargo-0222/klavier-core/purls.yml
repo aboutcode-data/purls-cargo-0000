@@ -19,6 +19,7 @@
 - pkg:cargo/klavier-core@0.1.13
 - pkg:cargo/klavier-core@0.1.13-beta.1
 - pkg:cargo/klavier-core@0.1.14
+- pkg:cargo/klavier-core@0.1.15
 - pkg:cargo/klavier-core@0.1.2
 - pkg:cargo/klavier-core@0.1.2-beta.1
 - pkg:cargo/klavier-core@0.1.3

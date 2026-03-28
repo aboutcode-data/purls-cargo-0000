@@ -28,3 +28,4 @@
 - pkg:cargo/i3status-rs@0.34.0
 - pkg:cargo/i3status-rs@0.35.0
 - pkg:cargo/i3status-rs@0.36.0
+- pkg:cargo/i3status-rs@0.36.1
