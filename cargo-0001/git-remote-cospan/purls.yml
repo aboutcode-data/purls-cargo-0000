@@ -1,2 +1,4 @@
 - pkg:cargo/git-remote-cospan@0.17.2
 - pkg:cargo/git-remote-cospan@0.17.3
+- pkg:cargo/git-remote-cospan@0.18.0
+- pkg:cargo/git-remote-cospan@0.18.1
