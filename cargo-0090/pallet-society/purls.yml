@@ -58,6 +58,7 @@
 - pkg:cargo/pallet-society@44.0.0
 - pkg:cargo/pallet-society@45.0.0
 - pkg:cargo/pallet-society@45.1.0
+- pkg:cargo/pallet-society@46.0.0
 - pkg:cargo/pallet-society@5.0.0
 - pkg:cargo/pallet-society@6.0.0
 - pkg:cargo/pallet-society@7.0.0
