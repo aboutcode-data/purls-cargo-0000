@@ -1,5 +1,6 @@
 - pkg:cargo/mockforge-runtime-daemon@0.3.100
 - pkg:cargo/mockforge-runtime-daemon@0.3.101
+- pkg:cargo/mockforge-runtime-daemon@0.3.102
 - pkg:cargo/mockforge-runtime-daemon@0.3.20
 - pkg:cargo/mockforge-runtime-daemon@0.3.27
 - pkg:cargo/mockforge-runtime-daemon@0.3.28
