@@ -1,3 +1,4 @@
 - pkg:cargo/agnosai@0.20.3
 - pkg:cargo/agnosai@0.21.3
 - pkg:cargo/agnosai@0.25.3
+- pkg:cargo/agnosai@1.0.0
