@@ -26,3 +26,4 @@
 - pkg:cargo/webio@0.9.7-alpha
 - pkg:cargo/webio@0.9.8-alpha
 - pkg:cargo/webio@0.9.9-alpha
+- pkg:cargo/webio@1.0.0
