@@ -45,3 +45,4 @@
 - pkg:cargo/velesdb-cli@1.9.0
 - pkg:cargo/velesdb-cli@1.9.1
 - pkg:cargo/velesdb-cli@1.9.2
+- pkg:cargo/velesdb-cli@1.9.3
