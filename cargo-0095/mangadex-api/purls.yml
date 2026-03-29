@@ -49,3 +49,4 @@
 - pkg:cargo/mangadex-api@4.0.0
 - pkg:cargo/mangadex-api@4.1.0
 - pkg:cargo/mangadex-api@4.2.0
+- pkg:cargo/mangadex-api@4.2.1
