@@ -14,3 +14,5 @@
 - pkg:cargo/ord-reqwest@0.2.4
 - pkg:cargo/ord-reqwest@0.2.5
 - pkg:cargo/ord-reqwest@0.3.0
+- pkg:cargo/ord-reqwest@0.4.0
+- pkg:cargo/ord-reqwest@0.4.1
