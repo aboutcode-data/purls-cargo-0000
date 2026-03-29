@@ -24,3 +24,4 @@
 - pkg:cargo/uart_16550@0.3.2
 - pkg:cargo/uart_16550@0.4.0
 - pkg:cargo/uart_16550@0.5.0
+- pkg:cargo/uart_16550@0.6.0
