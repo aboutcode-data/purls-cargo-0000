@@ -93,6 +93,7 @@
 - pkg:cargo/vize_patina@0.35.0
 - pkg:cargo/vize_patina@0.37.0
 - pkg:cargo/vize_patina@0.38.0
+- pkg:cargo/vize_patina@0.39.0
 - pkg:cargo/vize_patina@0.6.0
 - pkg:cargo/vize_patina@0.7.0
 - pkg:cargo/vize_patina@0.8.0

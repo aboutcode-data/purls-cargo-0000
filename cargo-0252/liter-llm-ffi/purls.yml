@@ -1,2 +1,4 @@
+- pkg:cargo/liter-llm-ffi@1.0.0
 - pkg:cargo/liter-llm-ffi@1.0.0-rc.6
 - pkg:cargo/liter-llm-ffi@1.0.0-rc.8
+- pkg:cargo/liter-llm-ffi@1.0.0-rc.9
