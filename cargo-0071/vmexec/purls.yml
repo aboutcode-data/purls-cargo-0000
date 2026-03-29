@@ -7,3 +7,4 @@
 - pkg:cargo/vmexec@0.2.0
 - pkg:cargo/vmexec@0.3.0
 - pkg:cargo/vmexec@0.4.0
+- pkg:cargo/vmexec@0.5.0
