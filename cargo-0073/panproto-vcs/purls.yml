@@ -13,6 +13,7 @@
 - pkg:cargo/panproto-vcs@0.18.1
 - pkg:cargo/panproto-vcs@0.19.0
 - pkg:cargo/panproto-vcs@0.20.0
+- pkg:cargo/panproto-vcs@0.21.0
 - pkg:cargo/panproto-vcs@0.3.0
 - pkg:cargo/panproto-vcs@0.4.0
 - pkg:cargo/panproto-vcs@0.5.0
