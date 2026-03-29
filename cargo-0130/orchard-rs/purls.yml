@@ -12,6 +12,8 @@
 - pkg:cargo/orchard-rs@2026.3.11
 - pkg:cargo/orchard-rs@2026.3.12
 - pkg:cargo/orchard-rs@2026.3.13
+- pkg:cargo/orchard-rs@2026.3.14
+- pkg:cargo/orchard-rs@2026.3.15
 - pkg:cargo/orchard-rs@2026.3.2
 - pkg:cargo/orchard-rs@2026.3.3
 - pkg:cargo/orchard-rs@2026.3.4
