@@ -136,6 +136,7 @@
 - pkg:cargo/zerocopy-derive@0.8.46-alpha.2
 - pkg:cargo/zerocopy-derive@0.8.46-alpha.3
 - pkg:cargo/zerocopy-derive@0.8.47
+- pkg:cargo/zerocopy-derive@0.8.48
 - pkg:cargo/zerocopy-derive@0.8.5
 - pkg:cargo/zerocopy-derive@0.8.6
 - pkg:cargo/zerocopy-derive@0.8.7
