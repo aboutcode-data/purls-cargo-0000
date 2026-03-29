@@ -24,3 +24,4 @@
 - pkg:cargo/cdk-signatory@0.15.2-rc.0
 - pkg:cargo/cdk-signatory@0.16.0-rc.0
 - pkg:cargo/cdk-signatory@0.16.0-rc.1
+- pkg:cargo/cdk-signatory@0.16.0-rc.2
