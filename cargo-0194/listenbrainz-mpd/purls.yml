@@ -19,3 +19,4 @@
 - pkg:cargo/listenbrainz-mpd@2.3.8
 - pkg:cargo/listenbrainz-mpd@2.3.9
 - pkg:cargo/listenbrainz-mpd@2.5.0
+- pkg:cargo/listenbrainz-mpd@2.5.1

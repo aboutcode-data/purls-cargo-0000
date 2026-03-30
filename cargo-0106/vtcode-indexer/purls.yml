@@ -327,3 +327,4 @@
 - pkg:cargo/vtcode-indexer@0.93.3
 - pkg:cargo/vtcode-indexer@0.94.0
 - pkg:cargo/vtcode-indexer@0.95.0
+- pkg:cargo/vtcode-indexer@0.96.0

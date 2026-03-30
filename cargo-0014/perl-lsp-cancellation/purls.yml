@@ -1,1 +1,2 @@
 - pkg:cargo/perl-lsp-cancellation@0.11.0
+- pkg:cargo/perl-lsp-cancellation@0.12.0
