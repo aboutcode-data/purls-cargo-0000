@@ -212,3 +212,4 @@
 - pkg:cargo/styled_components@0.98.1
 - pkg:cargo/styled_components@0.98.2
 - pkg:cargo/styled_components@0.99.0
+- pkg:cargo/styled_components@1.0.0
