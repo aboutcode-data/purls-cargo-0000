@@ -10,6 +10,7 @@
 - pkg:cargo/rsmq_async@13.0.0
 - pkg:cargo/rsmq_async@14.0.0
 - pkg:cargo/rsmq_async@15.0.0
+- pkg:cargo/rsmq_async@16.0.0
 - pkg:cargo/rsmq_async@2.0.0
 - pkg:cargo/rsmq_async@2.0.1
 - pkg:cargo/rsmq_async@2.0.2

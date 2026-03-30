@@ -1,4 +1,6 @@
 - pkg:cargo/rs-math3d@0.10.0
+- pkg:cargo/rs-math3d@0.11.0
+- pkg:cargo/rs-math3d@0.11.1
 - pkg:cargo/rs-math3d@0.9.0
 - pkg:cargo/rs-math3d@0.9.1
 - pkg:cargo/rs-math3d@0.9.10

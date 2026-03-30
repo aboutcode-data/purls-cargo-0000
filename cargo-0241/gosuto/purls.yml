@@ -1,5 +1,6 @@
 - pkg:cargo/gosuto@0.10.0
 - pkg:cargo/gosuto@0.11.0
+- pkg:cargo/gosuto@0.11.1
 - pkg:cargo/gosuto@0.7.0
 - pkg:cargo/gosuto@0.8.0
 - pkg:cargo/gosuto@0.9.0
