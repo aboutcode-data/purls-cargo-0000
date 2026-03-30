@@ -9,3 +9,4 @@
 - pkg:cargo/aegisdb-cli@0.2.2
 - pkg:cargo/aegisdb-cli@0.2.4
 - pkg:cargo/aegisdb-cli@0.2.5
+- pkg:cargo/aegisdb-cli@0.2.6
