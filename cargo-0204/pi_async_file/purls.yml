@@ -16,3 +16,4 @@
 - pkg:cargo/pi_async_file@0.6.5
 - pkg:cargo/pi_async_file@0.6.6
 - pkg:cargo/pi_async_file@0.7.0
+- pkg:cargo/pi_async_file@0.8.0
