@@ -1,2 +1,4 @@
 - pkg:cargo/teasr-core@0.13.0
+- pkg:cargo/teasr-core@0.15.0
+- pkg:cargo/teasr-core@0.15.1
 - pkg:cargo/teasr-core@0.2.0
