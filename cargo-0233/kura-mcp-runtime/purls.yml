@@ -15,3 +15,4 @@
 - pkg:cargo/kura-mcp-runtime@0.1.9
 - pkg:cargo/kura-mcp-runtime@0.2.0
 - pkg:cargo/kura-mcp-runtime@0.2.1
+- pkg:cargo/kura-mcp-runtime@0.3.0

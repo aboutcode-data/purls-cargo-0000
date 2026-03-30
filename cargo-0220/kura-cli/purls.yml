@@ -18,3 +18,4 @@
 - pkg:cargo/kura-cli@0.1.9
 - pkg:cargo/kura-cli@0.2.0
 - pkg:cargo/kura-cli@0.2.1
+- pkg:cargo/kura-cli@0.3.0

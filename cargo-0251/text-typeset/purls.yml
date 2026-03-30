@@ -4,3 +4,6 @@
 - pkg:cargo/text-typeset@0.0.7
 - pkg:cargo/text-typeset@1.0.0
 - pkg:cargo/text-typeset@1.1.0
+- pkg:cargo/text-typeset@1.1.1
+- pkg:cargo/text-typeset@1.1.2
+- pkg:cargo/text-typeset@1.1.3
