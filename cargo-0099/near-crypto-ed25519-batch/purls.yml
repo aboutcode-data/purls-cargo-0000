@@ -14,3 +14,4 @@
 - pkg:cargo/near-crypto-ed25519-batch@0.35.0-rc.1
 - pkg:cargo/near-crypto-ed25519-batch@0.35.0-rc.3
 - pkg:cargo/near-crypto-ed25519-batch@0.35.0-rc.4
+- pkg:cargo/near-crypto-ed25519-batch@0.35.0-rc.5

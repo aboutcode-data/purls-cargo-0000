@@ -11,3 +11,5 @@
 - pkg:cargo/sessfind@0.4.1
 - pkg:cargo/sessfind@0.5.0
 - pkg:cargo/sessfind@0.6.0
+- pkg:cargo/sessfind@0.7.0
+- pkg:cargo/sessfind@0.7.1
