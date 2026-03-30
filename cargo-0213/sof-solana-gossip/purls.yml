@@ -4,3 +4,5 @@
 - pkg:cargo/sof-solana-gossip@3.1.8-sof.4
 - pkg:cargo/sof-solana-gossip@3.1.8-sof.5
 - pkg:cargo/sof-solana-gossip@3.1.8-sof.6
+- pkg:cargo/sof-solana-gossip@3.1.8-sof.7
+- pkg:cargo/sof-solana-gossip@3.1.8-sof.8
