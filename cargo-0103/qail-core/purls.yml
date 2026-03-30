@@ -73,6 +73,8 @@
 - pkg:cargo/qail-core@0.27.0
 - pkg:cargo/qail-core@0.27.2
 - pkg:cargo/qail-core@0.27.3
+- pkg:cargo/qail-core@0.27.4
+- pkg:cargo/qail-core@0.27.5
 - pkg:cargo/qail-core@0.3.0
 - pkg:cargo/qail-core@0.4.0
 - pkg:cargo/qail-core@0.5.0-alpha
