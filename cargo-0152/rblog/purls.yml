@@ -68,6 +68,7 @@
 - pkg:cargo/rblog@0.3.0
 - pkg:cargo/rblog@0.30.0
 - pkg:cargo/rblog@0.300.0
+- pkg:cargo/rblog@0.301.0
 - pkg:cargo/rblog@0.31.0
 - pkg:cargo/rblog@0.32.0
 - pkg:cargo/rblog@0.33.0
