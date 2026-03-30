@@ -17,3 +17,4 @@
 - pkg:cargo/clasp-transport@4.2.0
 - pkg:cargo/clasp-transport@4.3.0
 - pkg:cargo/clasp-transport@4.4.0
+- pkg:cargo/clasp-transport@4.5.0
