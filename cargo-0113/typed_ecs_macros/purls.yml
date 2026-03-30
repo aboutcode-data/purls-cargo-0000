@@ -1,1 +1,2 @@
 - pkg:cargo/typed_ecs_macros@0.0.2
+- pkg:cargo/typed_ecs_macros@0.0.3
