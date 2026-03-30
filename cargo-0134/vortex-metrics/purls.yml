@@ -49,3 +49,4 @@
 - pkg:cargo/vortex-metrics@0.64.0
 - pkg:cargo/vortex-metrics@0.65.0
 - pkg:cargo/vortex-metrics@0.66.0
+- pkg:cargo/vortex-metrics@0.67.0

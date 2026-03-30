@@ -6,3 +6,5 @@
 - pkg:cargo/kobe-evm@0.5.2
 - pkg:cargo/kobe-evm@0.5.3
 - pkg:cargo/kobe-evm@0.5.4
+- pkg:cargo/kobe-evm@0.7.1
+- pkg:cargo/kobe-evm@0.7.2

@@ -7,3 +7,5 @@
 - pkg:cargo/embed-src@3.3.1
 - pkg:cargo/embed-src@3.4.0
 - pkg:cargo/embed-src@3.4.1
+- pkg:cargo/embed-src@3.4.2
+- pkg:cargo/embed-src@3.5.0
