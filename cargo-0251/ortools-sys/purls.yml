@@ -1,1 +1,2 @@
 - pkg:cargo/ortools-sys@0.1.1
+- pkg:cargo/ortools-sys@2.0.0
