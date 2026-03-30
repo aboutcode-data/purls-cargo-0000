@@ -3,3 +3,4 @@
 - pkg:cargo/tree-sitter-objectscript-playground@1.6.0
 - pkg:cargo/tree-sitter-objectscript-playground@1.6.1
 - pkg:cargo/tree-sitter-objectscript-playground@1.6.3
+- pkg:cargo/tree-sitter-objectscript-playground@1.7.0
