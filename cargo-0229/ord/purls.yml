@@ -51,6 +51,7 @@
 - pkg:cargo/ord@0.25.0
 - pkg:cargo/ord@0.26.0
 - pkg:cargo/ord@0.27.0
+- pkg:cargo/ord@0.27.1
 - pkg:cargo/ord@0.3.0
 - pkg:cargo/ord@0.4.0
 - pkg:cargo/ord@0.4.1
