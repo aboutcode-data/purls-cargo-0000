@@ -46,6 +46,7 @@
 - pkg:cargo/turso_parser@0.6.0-pre.1
 - pkg:cargo/turso_parser@0.6.0-pre.10
 - pkg:cargo/turso_parser@0.6.0-pre.11
+- pkg:cargo/turso_parser@0.6.0-pre.12
 - pkg:cargo/turso_parser@0.6.0-pre.2
 - pkg:cargo/turso_parser@0.6.0-pre.3
 - pkg:cargo/turso_parser@0.6.0-pre.4
