@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-powersync@0.0.1
+- pkg:cargo/tauri-plugin-powersync@0.0.3
