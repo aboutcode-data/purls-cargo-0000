@@ -3,3 +3,4 @@
 - pkg:cargo/mosaik-macros@0.2.38
 - pkg:cargo/mosaik-macros@0.2.43
 - pkg:cargo/mosaik-macros@0.2.9
+- pkg:cargo/mosaik-macros@0.3.1
