@@ -15,3 +15,4 @@
 - pkg:cargo/scratchstack-aws-signature@0.11.1-preview.6
 - pkg:cargo/scratchstack-aws-signature@0.11.2
 - pkg:cargo/scratchstack-aws-signature@0.11.3
+- pkg:cargo/scratchstack-aws-signature@0.11.4
