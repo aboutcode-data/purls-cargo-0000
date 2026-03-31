@@ -27,3 +27,4 @@
 - pkg:cargo/nbml@0.5.3
 - pkg:cargo/nbml@0.5.4
 - pkg:cargo/nbml@0.6.0
+- pkg:cargo/nbml@0.6.1
