@@ -25,6 +25,7 @@
 - pkg:cargo/yellowstone-grpc-client@12.0.0
 - pkg:cargo/yellowstone-grpc-client@12.1.0
 - pkg:cargo/yellowstone-grpc-client@12.2.0
+- pkg:cargo/yellowstone-grpc-client@13.0.0
 - pkg:cargo/yellowstone-grpc-client@2.0.0
 - pkg:cargo/yellowstone-grpc-client@3.0.0
 - pkg:cargo/yellowstone-grpc-client@3.1.1

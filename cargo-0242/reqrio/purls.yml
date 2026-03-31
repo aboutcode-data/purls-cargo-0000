@@ -26,6 +26,7 @@
 - pkg:cargo/reqrio@0.1.3
 - pkg:cargo/reqrio@0.1.4
 - pkg:cargo/reqrio@0.1.5
+- pkg:cargo/reqrio@0.2.0
 - pkg:cargo/reqrio@0.2.0-alpha1
 - pkg:cargo/reqrio@0.2.0-alpha2
 - pkg:cargo/reqrio@0.2.0-alpha3
