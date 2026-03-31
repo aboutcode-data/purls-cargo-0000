@@ -19,3 +19,4 @@
 - pkg:cargo/prometheus-client@0.23.0
 - pkg:cargo/prometheus-client@0.23.1
 - pkg:cargo/prometheus-client@0.24.0
+- pkg:cargo/prometheus-client@0.24.1
