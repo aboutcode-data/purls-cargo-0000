@@ -1,1 +1,2 @@
 - pkg:cargo/jaro_winkler@0.1.0
+- pkg:cargo/jaro_winkler@0.2.1
