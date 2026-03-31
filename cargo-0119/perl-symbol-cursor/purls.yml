@@ -1,1 +1,2 @@
 - pkg:cargo/perl-symbol-cursor@0.11.0
+- pkg:cargo/perl-symbol-cursor@0.12.1

@@ -7,3 +7,8 @@
 - pkg:cargo/libverify-github@0.5.0
 - pkg:cargo/libverify-github@0.6.0
 - pkg:cargo/libverify-github@0.6.1
+- pkg:cargo/libverify-github@0.6.2
+- pkg:cargo/libverify-github@0.6.3
+- pkg:cargo/libverify-github@0.7.1
+- pkg:cargo/libverify-github@0.7.2
+- pkg:cargo/libverify-github@0.7.3
