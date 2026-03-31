@@ -15,6 +15,7 @@
 - pkg:cargo/tower-reqwest@0.5.1
 - pkg:cargo/tower-reqwest@0.5.2
 - pkg:cargo/tower-reqwest@0.5.3
+- pkg:cargo/tower-reqwest@0.6.0
 - pkg:cargo/tower-reqwest@0.6.0-alpha.1
 - pkg:cargo/tower-reqwest@0.6.0-alpha.2
 - pkg:cargo/tower-reqwest@0.6.0-alpha.3
