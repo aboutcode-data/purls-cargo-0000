@@ -4,6 +4,7 @@
 - pkg:cargo/salsa20@0.10.0
 - pkg:cargo/salsa20@0.10.1
 - pkg:cargo/salsa20@0.10.2
+- pkg:cargo/salsa20@0.11.0
 - pkg:cargo/salsa20@0.11.0-pre.1
 - pkg:cargo/salsa20@0.11.0-pre.2
 - pkg:cargo/salsa20@0.11.0-rc.0
