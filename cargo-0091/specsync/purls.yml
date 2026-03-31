@@ -10,3 +10,4 @@
 - pkg:cargo/specsync@2.3.3
 - pkg:cargo/specsync@2.4.0
 - pkg:cargo/specsync@2.5.0
+- pkg:cargo/specsync@3.0.0
