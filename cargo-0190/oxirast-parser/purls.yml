@@ -1,1 +1,2 @@
 - pkg:cargo/oxirast-parser@0.1.0
+- pkg:cargo/oxirast-parser@1.0.0
