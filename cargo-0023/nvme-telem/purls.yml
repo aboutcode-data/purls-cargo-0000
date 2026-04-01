@@ -6,3 +6,4 @@
 - pkg:cargo/nvme-telem@0.2.0
 - pkg:cargo/nvme-telem@0.2.1
 - pkg:cargo/nvme-telem@0.2.2
+- pkg:cargo/nvme-telem@0.3.0
