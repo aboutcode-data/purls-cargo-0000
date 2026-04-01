@@ -27,3 +27,4 @@
 - pkg:cargo/tokensave@2.4.0
 - pkg:cargo/tokensave@3.0.0
 - pkg:cargo/tokensave@3.0.1
+- pkg:cargo/tokensave@3.1.0
