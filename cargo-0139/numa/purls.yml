@@ -6,3 +6,4 @@
 - pkg:cargo/numa@0.7.1
 - pkg:cargo/numa@0.7.2
 - pkg:cargo/numa@0.7.3
+- pkg:cargo/numa@0.8.0
