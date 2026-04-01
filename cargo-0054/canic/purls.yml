@@ -99,6 +99,10 @@
 - pkg:cargo/canic@0.21.0
 - pkg:cargo/canic@0.21.1
 - pkg:cargo/canic@0.21.2
+- pkg:cargo/canic@0.21.4
+- pkg:cargo/canic@0.21.5
+- pkg:cargo/canic@0.21.6
+- pkg:cargo/canic@0.21.7
 - pkg:cargo/canic@0.3.0
 - pkg:cargo/canic@0.3.1
 - pkg:cargo/canic@0.3.11
