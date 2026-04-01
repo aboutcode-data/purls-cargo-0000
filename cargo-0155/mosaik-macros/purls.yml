@@ -5,3 +5,4 @@
 - pkg:cargo/mosaik-macros@0.2.9
 - pkg:cargo/mosaik-macros@0.3.1
 - pkg:cargo/mosaik-macros@0.3.2
+- pkg:cargo/mosaik-macros@0.3.3
