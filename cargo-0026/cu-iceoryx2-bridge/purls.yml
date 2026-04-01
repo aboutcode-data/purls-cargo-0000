@@ -1,2 +1,3 @@
 - pkg:cargo/cu-iceoryx2-bridge@0.13.0
 - pkg:cargo/cu-iceoryx2-bridge@0.14.0
+- pkg:cargo/cu-iceoryx2-bridge@0.15.0
