@@ -117,6 +117,7 @@
 - pkg:cargo/agent-doc@0.28.1
 - pkg:cargo/agent-doc@0.28.2
 - pkg:cargo/agent-doc@0.28.3
+- pkg:cargo/agent-doc@0.29.0
 - pkg:cargo/agent-doc@0.3.0
 - pkg:cargo/agent-doc@0.4.0
 - pkg:cargo/agent-doc@0.4.1
