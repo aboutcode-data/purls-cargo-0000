@@ -7,3 +7,4 @@
 - pkg:cargo/toml_writer@1.0.6%2Bspec-1.1.0
 - pkg:cargo/toml_writer@1.0.7%2Bspec-1.1.0
 - pkg:cargo/toml_writer@1.1.0%2Bspec-1.1.0
+- pkg:cargo/toml_writer@1.1.1%2Bspec-1.1.0
