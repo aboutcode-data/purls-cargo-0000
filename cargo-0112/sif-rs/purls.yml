@@ -2,3 +2,4 @@
 - pkg:cargo/sif-rs@0.9.1
 - pkg:cargo/sif-rs@0.9.2
 - pkg:cargo/sif-rs@0.9.3
+- pkg:cargo/sif-rs@1.0.0
