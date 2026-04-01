@@ -42,6 +42,7 @@
 - pkg:cargo/turso@0.5.1
 - pkg:cargo/turso@0.5.1-pre.1
 - pkg:cargo/turso@0.5.1-pre.2
+- pkg:cargo/turso@0.5.2
 - pkg:cargo/turso@0.5.2-pre.1
 - pkg:cargo/turso@0.5.2-pre.2
 - pkg:cargo/turso@0.5.2-pre.3
