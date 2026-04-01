@@ -1,0 +1,2 @@
+- pkg:cargo/postgres-lsp-schema@1.0.0
+- pkg:cargo/postgres-lsp-schema@1.0.1
