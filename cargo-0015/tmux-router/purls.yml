@@ -19,3 +19,4 @@
 - pkg:cargo/tmux-router@0.3.4
 - pkg:cargo/tmux-router@0.3.5
 - pkg:cargo/tmux-router@0.3.6
+- pkg:cargo/tmux-router@0.3.7
