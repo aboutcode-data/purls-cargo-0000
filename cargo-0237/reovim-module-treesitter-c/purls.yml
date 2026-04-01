@@ -1,1 +1,2 @@
 - pkg:cargo/reovim-module-treesitter-c@0.14.3
+- pkg:cargo/reovim-module-treesitter-c@0.14.4
