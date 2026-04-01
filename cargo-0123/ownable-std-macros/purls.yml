@@ -3,3 +3,4 @@
 - pkg:cargo/ownable-std-macros@0.1.2
 - pkg:cargo/ownable-std-macros@0.5.0
 - pkg:cargo/ownable-std-macros@0.6.0
+- pkg:cargo/ownable-std-macros@0.6.1
