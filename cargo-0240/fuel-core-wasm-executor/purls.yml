@@ -49,3 +49,4 @@
 - pkg:cargo/fuel-core-wasm-executor@0.47.0
 - pkg:cargo/fuel-core-wasm-executor@0.47.1
 - pkg:cargo/fuel-core-wasm-executor@0.47.3
+- pkg:cargo/fuel-core-wasm-executor@0.48.0
