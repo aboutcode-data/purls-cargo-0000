@@ -14,3 +14,4 @@
 - pkg:cargo/bsv-wallet-toolbox@0.2.1
 - pkg:cargo/bsv-wallet-toolbox@0.2.11
 - pkg:cargo/bsv-wallet-toolbox@0.2.12
+- pkg:cargo/bsv-wallet-toolbox@0.2.13
