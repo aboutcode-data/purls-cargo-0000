@@ -1,1 +1,2 @@
 - pkg:cargo/wasmsh-testkit@0.3.0
+- pkg:cargo/wasmsh-testkit@0.4.0
