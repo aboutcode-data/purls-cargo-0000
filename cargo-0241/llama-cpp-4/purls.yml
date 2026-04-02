@@ -24,6 +24,9 @@
 - pkg:cargo/llama-cpp-4@0.2.19
 - pkg:cargo/llama-cpp-4@0.2.2
 - pkg:cargo/llama-cpp-4@0.2.20
+- pkg:cargo/llama-cpp-4@0.2.21
+- pkg:cargo/llama-cpp-4@0.2.22
+- pkg:cargo/llama-cpp-4@0.2.23
 - pkg:cargo/llama-cpp-4@0.2.3
 - pkg:cargo/llama-cpp-4@0.2.4
 - pkg:cargo/llama-cpp-4@0.2.5
