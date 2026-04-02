@@ -1,3 +1,5 @@
 - pkg:cargo/revm-rwasm-primitives@20.0.0
 - pkg:cargo/revm-rwasm-primitives@20.0.1
 - pkg:cargo/revm-rwasm-primitives@22.0.0-rwasm.1
+- pkg:cargo/revm-rwasm-primitives@22.0.0-rwasm.2
+- pkg:cargo/revm-rwasm-primitives@22.0.1
