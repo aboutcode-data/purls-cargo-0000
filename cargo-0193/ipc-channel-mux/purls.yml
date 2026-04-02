@@ -6,3 +6,4 @@
 - pkg:cargo/ipc-channel-mux@0.0.6
 - pkg:cargo/ipc-channel-mux@0.0.7
 - pkg:cargo/ipc-channel-mux@0.0.8
+- pkg:cargo/ipc-channel-mux@0.0.9
