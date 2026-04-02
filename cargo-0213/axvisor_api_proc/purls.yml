@@ -2,3 +2,4 @@
 - pkg:cargo/axvisor_api_proc@0.1.1-preview.1
 - pkg:cargo/axvisor_api_proc@0.2.0
 - pkg:cargo/axvisor_api_proc@0.3.0
+- pkg:cargo/axvisor_api_proc@0.5.0
