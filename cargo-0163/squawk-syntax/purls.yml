@@ -19,3 +19,4 @@
 - pkg:cargo/squawk-syntax@2.41.0
 - pkg:cargo/squawk-syntax@2.43.0
 - pkg:cargo/squawk-syntax@2.44.0
+- pkg:cargo/squawk-syntax@2.45.0
