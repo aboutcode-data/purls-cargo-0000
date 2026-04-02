@@ -38,6 +38,7 @@
 - pkg:cargo/hugr-passes@0.25.7
 - pkg:cargo/hugr-passes@0.26.0
 - pkg:cargo/hugr-passes@0.26.1
+- pkg:cargo/hugr-passes@0.26.2
 - pkg:cargo/hugr-passes@0.3.0
 - pkg:cargo/hugr-passes@0.4.0
 - pkg:cargo/hugr-passes@0.5.0
