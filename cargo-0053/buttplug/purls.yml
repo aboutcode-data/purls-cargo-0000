@@ -38,6 +38,7 @@
 - pkg:cargo/buttplug@1.0.4
 - pkg:cargo/buttplug@1.0.5
 - pkg:cargo/buttplug@10.0.0
+- pkg:cargo/buttplug@10.0.2
 - pkg:cargo/buttplug@2.0.0
 - pkg:cargo/buttplug@2.0.1
 - pkg:cargo/buttplug@2.0.2
