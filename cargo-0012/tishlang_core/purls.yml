@@ -11,3 +11,7 @@
 - pkg:cargo/tishlang_core@1.0.29
 - pkg:cargo/tishlang_core@1.0.33
 - pkg:cargo/tishlang_core@1.0.34
+- pkg:cargo/tishlang_core@1.1.1
+- pkg:cargo/tishlang_core@1.1.2
+- pkg:cargo/tishlang_core@1.1.3
+- pkg:cargo/tishlang_core@1.3.0
