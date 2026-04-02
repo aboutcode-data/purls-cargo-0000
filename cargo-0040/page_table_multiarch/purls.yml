@@ -21,3 +21,4 @@
 - pkg:cargo/page_table_multiarch@0.5.8-preview.1
 - pkg:cargo/page_table_multiarch@0.6.0
 - pkg:cargo/page_table_multiarch@0.6.1
+- pkg:cargo/page_table_multiarch@0.8.1
