@@ -24,3 +24,4 @@
 - pkg:cargo/opentalk-types-signaling-livekit@0.43.0
 - pkg:cargo/opentalk-types-signaling-livekit@0.44.0
 - pkg:cargo/opentalk-types-signaling-livekit@0.45.0
+- pkg:cargo/opentalk-types-signaling-livekit@0.46.0

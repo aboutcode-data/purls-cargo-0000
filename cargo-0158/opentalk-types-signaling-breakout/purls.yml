@@ -22,3 +22,4 @@
 - pkg:cargo/opentalk-types-signaling-breakout@0.41.0
 - pkg:cargo/opentalk-types-signaling-breakout@0.42.0
 - pkg:cargo/opentalk-types-signaling-breakout@0.43.0
+- pkg:cargo/opentalk-types-signaling-breakout@0.44.0
