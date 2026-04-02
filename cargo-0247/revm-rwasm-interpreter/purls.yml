@@ -1,1 +1,2 @@
 - pkg:cargo/revm-rwasm-interpreter@23.0.2
+- pkg:cargo/revm-rwasm-interpreter@32.0.0-rwasm.1
