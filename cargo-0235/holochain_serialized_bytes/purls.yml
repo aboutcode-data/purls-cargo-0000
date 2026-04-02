@@ -27,3 +27,4 @@
 - pkg:cargo/holochain_serialized_bytes@0.0.54
 - pkg:cargo/holochain_serialized_bytes@0.0.55
 - pkg:cargo/holochain_serialized_bytes@0.0.56
+- pkg:cargo/holochain_serialized_bytes@0.0.57
