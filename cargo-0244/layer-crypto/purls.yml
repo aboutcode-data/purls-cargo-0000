@@ -6,3 +6,4 @@
 - pkg:cargo/layer-crypto@0.4.0
 - pkg:cargo/layer-crypto@0.4.2
 - pkg:cargo/layer-crypto@0.4.4
+- pkg:cargo/layer-crypto@0.4.5
