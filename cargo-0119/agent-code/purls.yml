@@ -18,3 +18,4 @@
 - pkg:cargo/agent-code@0.8.5
 - pkg:cargo/agent-code@0.8.6
 - pkg:cargo/agent-code@0.8.7
+- pkg:cargo/agent-code@0.9.7
