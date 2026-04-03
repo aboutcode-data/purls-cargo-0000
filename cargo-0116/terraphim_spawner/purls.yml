@@ -1,3 +1,4 @@
 - pkg:cargo/terraphim_spawner@1.10.0
 - pkg:cargo/terraphim_spawner@1.11.0
 - pkg:cargo/terraphim_spawner@1.14.0
+- pkg:cargo/terraphim_spawner@1.15.0
