@@ -1,5 +1,6 @@
 - pkg:cargo/stellar-registry@0.0.1
 - pkg:cargo/stellar-registry@0.0.1-alpha
+- pkg:cargo/stellar-registry@0.0.10
 - pkg:cargo/stellar-registry@0.0.2
 - pkg:cargo/stellar-registry@0.0.3
 - pkg:cargo/stellar-registry@0.0.4
