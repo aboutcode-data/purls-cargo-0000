@@ -71,3 +71,4 @@
 - pkg:cargo/kreuzberg-cli@4.6.1
 - pkg:cargo/kreuzberg-cli@4.6.2
 - pkg:cargo/kreuzberg-cli@4.6.3
+- pkg:cargo/kreuzberg-cli@4.7.0
