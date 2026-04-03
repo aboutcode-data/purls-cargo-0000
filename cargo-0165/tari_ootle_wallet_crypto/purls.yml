@@ -6,4 +6,5 @@
 - pkg:cargo/tari_ootle_wallet_crypto@0.28.1
 - pkg:cargo/tari_ootle_wallet_crypto@0.28.2
 - pkg:cargo/tari_ootle_wallet_crypto@0.28.3
+- pkg:cargo/tari_ootle_wallet_crypto@0.28.4
 - pkg:cargo/tari_ootle_wallet_crypto@0.3.0
