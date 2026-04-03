@@ -1,3 +1,5 @@
 - pkg:cargo/bb-flasher-sd@0.1.0
 - pkg:cargo/bb-flasher-sd@0.1.1
 - pkg:cargo/bb-flasher-sd@1.0.0
+- pkg:cargo/bb-flasher-sd@2.0.0
+- pkg:cargo/bb-flasher-sd@2.0.1
