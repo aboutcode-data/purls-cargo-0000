@@ -33,3 +33,5 @@
 - pkg:cargo/oatbar@0.0.9
 - pkg:cargo/oatbar@0.1.0
 - pkg:cargo/oatbar@0.2.0
+- pkg:cargo/oatbar@0.3.0
+- pkg:cargo/oatbar@0.3.1
