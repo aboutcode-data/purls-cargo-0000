@@ -10,6 +10,7 @@
 - pkg:cargo/birdnet-onnx@2.0.0-rc.1
 - pkg:cargo/birdnet-onnx@2.0.0-rc.10
 - pkg:cargo/birdnet-onnx@2.0.0-rc.11
+- pkg:cargo/birdnet-onnx@2.0.0-rc.12
 - pkg:cargo/birdnet-onnx@2.0.0-rc.2
 - pkg:cargo/birdnet-onnx@2.0.0-rc.4
 - pkg:cargo/birdnet-onnx@2.0.0-rc.5
