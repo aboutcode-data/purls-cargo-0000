@@ -17,4 +17,6 @@
 - pkg:cargo/chrondb@0.2.1
 - pkg:cargo/chrondb@0.2.3-dev.23
 - pkg:cargo/chrondb@0.2.3-dev.24
+- pkg:cargo/chrondb@0.2.3-dev.25
 - pkg:cargo/chrondb@0.2.3-dev.8
+- pkg:cargo/chrondb@0.2.3-dev.9
