@@ -2,6 +2,7 @@
 - pkg:cargo/ephemeral-rollups-pinocchio@0.10.1
 - pkg:cargo/ephemeral-rollups-pinocchio@0.10.2
 - pkg:cargo/ephemeral-rollups-pinocchio@0.10.3
+- pkg:cargo/ephemeral-rollups-pinocchio@0.10.4
 - pkg:cargo/ephemeral-rollups-pinocchio@0.2.10
 - pkg:cargo/ephemeral-rollups-pinocchio@0.2.11
 - pkg:cargo/ephemeral-rollups-pinocchio@0.2.12
