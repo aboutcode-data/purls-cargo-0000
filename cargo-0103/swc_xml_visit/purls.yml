@@ -148,6 +148,7 @@
 - pkg:cargo/swc_xml_visit@19.0.0
 - pkg:cargo/swc_xml_visit@2.0.0
 - pkg:cargo/swc_xml_visit@20.0.0
+- pkg:cargo/swc_xml_visit@21.0.0
 - pkg:cargo/swc_xml_visit@3.0.0
 - pkg:cargo/swc_xml_visit@4.0.0
 - pkg:cargo/swc_xml_visit@4.0.1
