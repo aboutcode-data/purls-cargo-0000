@@ -6,6 +6,7 @@
 - pkg:cargo/couchbase-lite-core-sys@0.12.2
 - pkg:cargo/couchbase-lite-core-sys@0.13.0
 - pkg:cargo/couchbase-lite-core-sys@0.13.1
+- pkg:cargo/couchbase-lite-core-sys@0.14.0
 - pkg:cargo/couchbase-lite-core-sys@0.6.0
 - pkg:cargo/couchbase-lite-core-sys@0.6.1
 - pkg:cargo/couchbase-lite-core-sys@0.6.2
