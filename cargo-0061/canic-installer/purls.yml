@@ -15,3 +15,4 @@
 - pkg:cargo/canic-installer@0.22.7
 - pkg:cargo/canic-installer@0.22.8
 - pkg:cargo/canic-installer@0.22.9
+- pkg:cargo/canic-installer@0.23.0
