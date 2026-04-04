@@ -201,6 +201,7 @@
 - pkg:cargo/hdi@0.7.1-rc.1
 - pkg:cargo/hdi@0.7.1-rc.2
 - pkg:cargo/hdi@0.7.1-rc.3
+- pkg:cargo/hdi@0.7.1-rc.4
 - pkg:cargo/hdi@0.8.0-dev.0
 - pkg:cargo/hdi@0.8.0-dev.1
 - pkg:cargo/hdi@0.8.0-dev.2
