@@ -1,1 +1,2 @@
 - pkg:cargo/xet-client@0.0.0
+- pkg:cargo/xet-client@1.5.0
