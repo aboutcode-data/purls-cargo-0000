@@ -1,1 +1,2 @@
 - pkg:cargo/nostd_cow@0.1.0
+- pkg:cargo/nostd_cow@0.1.1
