@@ -63,3 +63,4 @@
 - pkg:cargo/solana-transaction-context@4.0.0-beta.3
 - pkg:cargo/solana-transaction-context@4.0.0-beta.4
 - pkg:cargo/solana-transaction-context@4.0.0-beta.5
+- pkg:cargo/solana-transaction-context@4.0.0-beta.6
