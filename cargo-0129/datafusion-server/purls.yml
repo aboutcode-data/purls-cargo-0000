@@ -41,6 +41,7 @@
 - pkg:cargo/datafusion-server@0.20.7
 - pkg:cargo/datafusion-server@0.20.8
 - pkg:cargo/datafusion-server@0.20.9
+- pkg:cargo/datafusion-server@0.21.0
 - pkg:cargo/datafusion-server@0.8.10
 - pkg:cargo/datafusion-server@0.8.11
 - pkg:cargo/datafusion-server@0.8.12
