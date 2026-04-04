@@ -1,2 +1,3 @@
 - pkg:cargo/datasynth-audit-optimizer@1.5.0
 - pkg:cargo/datasynth-audit-optimizer@2.0.0
+- pkg:cargo/datasynth-audit-optimizer@2.1.0
