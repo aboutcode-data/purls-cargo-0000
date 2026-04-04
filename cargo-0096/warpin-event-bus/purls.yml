@@ -1,1 +1,2 @@
 - pkg:cargo/warpin-event-bus@0.2.0
+- pkg:cargo/warpin-event-bus@0.2.1
