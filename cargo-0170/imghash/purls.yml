@@ -7,3 +7,4 @@
 - pkg:cargo/imghash@1.4.0
 - pkg:cargo/imghash@1.5.0
 - pkg:cargo/imghash@1.6.0
+- pkg:cargo/imghash@2.0.0
