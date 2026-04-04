@@ -1,3 +1,4 @@
 - pkg:cargo/oled_async@0.1.0
 - pkg:cargo/oled_async@0.1.0-alpha1
 - pkg:cargo/oled_async@0.2.0
+- pkg:cargo/oled_async@0.2.1
