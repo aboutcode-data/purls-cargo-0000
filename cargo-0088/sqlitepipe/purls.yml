@@ -4,3 +4,4 @@
 - pkg:cargo/sqlitepipe@0.2.0
 - pkg:cargo/sqlitepipe@0.2.1
 - pkg:cargo/sqlitepipe@0.2.2
+- pkg:cargo/sqlitepipe@0.2.3
