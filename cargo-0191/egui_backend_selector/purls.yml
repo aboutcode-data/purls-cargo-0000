@@ -1,1 +1,2 @@
 - pkg:cargo/egui_backend_selector@0.0.1
+- pkg:cargo/egui_backend_selector@0.0.2
