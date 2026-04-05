@@ -42,3 +42,4 @@
 - pkg:cargo/hyperstack-server@0.5.7
 - pkg:cargo/hyperstack-server@0.5.8
 - pkg:cargo/hyperstack-server@0.5.9
+- pkg:cargo/hyperstack-server@0.6.3
