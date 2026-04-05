@@ -43,6 +43,7 @@
 - pkg:cargo/serial2@0.2.32
 - pkg:cargo/serial2@0.2.33
 - pkg:cargo/serial2@0.2.34
+- pkg:cargo/serial2@0.2.35
 - pkg:cargo/serial2@0.2.4
 - pkg:cargo/serial2@0.2.5
 - pkg:cargo/serial2@0.2.6
