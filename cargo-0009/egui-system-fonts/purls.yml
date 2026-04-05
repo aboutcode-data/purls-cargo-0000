@@ -1,1 +1,2 @@
 - pkg:cargo/egui-system-fonts@0.1.0
+- pkg:cargo/egui-system-fonts@0.34.0
