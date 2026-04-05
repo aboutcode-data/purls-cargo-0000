@@ -32,3 +32,4 @@
 - pkg:cargo/simple-agent-type@0.2.4
 - pkg:cargo/simple-agent-type@0.2.6
 - pkg:cargo/simple-agent-type@0.3.0
+- pkg:cargo/simple-agent-type@0.3.1
