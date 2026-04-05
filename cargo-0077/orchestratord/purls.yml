@@ -11,3 +11,4 @@
 - pkg:cargo/orchestratord@0.2.5
 - pkg:cargo/orchestratord@0.2.7
 - pkg:cargo/orchestratord@0.2.8
+- pkg:cargo/orchestratord@0.3.0
