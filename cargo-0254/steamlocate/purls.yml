@@ -19,3 +19,4 @@
 - pkg:cargo/steamlocate@2.0.0-beta.3
 - pkg:cargo/steamlocate@2.0.0-beta.4
 - pkg:cargo/steamlocate@2.0.1
+- pkg:cargo/steamlocate@2.1.0
