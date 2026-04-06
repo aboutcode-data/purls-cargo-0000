@@ -1,3 +1,5 @@
 - pkg:cargo/soffit@0.0.1
 - pkg:cargo/soffit@0.0.2
 - pkg:cargo/soffit@0.0.3
+- pkg:cargo/soffit@0.0.7
+- pkg:cargo/soffit@0.1.0
