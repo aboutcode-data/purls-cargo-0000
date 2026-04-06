@@ -79,3 +79,4 @@
 - pkg:cargo/hyperlane_bootstrap@19.0.4
 - pkg:cargo/hyperlane_bootstrap@19.0.5
 - pkg:cargo/hyperlane_bootstrap@19.0.6
+- pkg:cargo/hyperlane_bootstrap@20.0.0
