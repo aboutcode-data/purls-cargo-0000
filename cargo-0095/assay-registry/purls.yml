@@ -13,3 +13,4 @@
 - pkg:cargo/assay-registry@3.3.0
 - pkg:cargo/assay-registry@3.4.0
 - pkg:cargo/assay-registry@3.5.0
+- pkg:cargo/assay-registry@3.5.1
