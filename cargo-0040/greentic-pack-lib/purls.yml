@@ -18,6 +18,7 @@
 - pkg:cargo/greentic-pack-lib@0.4.119
 - pkg:cargo/greentic-pack-lib@0.4.121
 - pkg:cargo/greentic-pack-lib@0.4.122
+- pkg:cargo/greentic-pack-lib@0.4.123
 - pkg:cargo/greentic-pack-lib@0.4.43
 - pkg:cargo/greentic-pack-lib@0.4.45
 - pkg:cargo/greentic-pack-lib@0.4.46
