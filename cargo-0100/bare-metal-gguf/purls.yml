@@ -1,0 +1,2 @@
+- pkg:cargo/bare-metal-gguf@0.7.0
+- pkg:cargo/bare-metal-gguf@0.7.1
