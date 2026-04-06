@@ -84,6 +84,10 @@
 - pkg:cargo/barretenberg-rs@0.0.6-commit.a2d1860fe9
 - pkg:cargo/barretenberg-rs@0.0.8-commit.a2d1860fe9
 - pkg:cargo/barretenberg-rs@3.9.9-nightly.20260312
+- pkg:cargo/barretenberg-rs@4.0.0-devnet.3-patch.0
+- pkg:cargo/barretenberg-rs@4.0.0-devnet.3-patch.1
+- pkg:cargo/barretenberg-rs@4.0.0-devnet.3-patch.2
+- pkg:cargo/barretenberg-rs@4.0.0-devnet.3-patch.3
 - pkg:cargo/barretenberg-rs@4.0.0-nightly.20260218
 - pkg:cargo/barretenberg-rs@4.0.4
 - pkg:cargo/barretenberg-rs@4.1.0
