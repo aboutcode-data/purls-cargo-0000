@@ -6,3 +6,4 @@
 - pkg:cargo/ome_zarr_metadata@0.2.4
 - pkg:cargo/ome_zarr_metadata@0.2.5
 - pkg:cargo/ome_zarr_metadata@0.3.0
+- pkg:cargo/ome_zarr_metadata@0.3.1
