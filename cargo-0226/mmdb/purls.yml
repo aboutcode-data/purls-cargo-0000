@@ -20,3 +20,4 @@
 - pkg:cargo/mmdb@2.2.4
 - pkg:cargo/mmdb@2.2.5
 - pkg:cargo/mmdb@3.0.0
+- pkg:cargo/mmdb@3.1.0
