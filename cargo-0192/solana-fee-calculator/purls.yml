@@ -24,3 +24,4 @@
 - pkg:cargo/solana-fee-calculator@2.2.1
 - pkg:cargo/solana-fee-calculator@3.0.0
 - pkg:cargo/solana-fee-calculator@3.1.0
+- pkg:cargo/solana-fee-calculator@3.2.0
