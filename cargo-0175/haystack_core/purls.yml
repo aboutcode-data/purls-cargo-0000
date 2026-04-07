@@ -8,6 +8,7 @@
 - pkg:cargo/haystack_core@1.16.13
 - pkg:cargo/haystack_core@1.16.14
 - pkg:cargo/haystack_core@1.16.15
+- pkg:cargo/haystack_core@1.16.30
 - pkg:cargo/haystack_core@1.16.7
 - pkg:cargo/haystack_core@1.16.8
 - pkg:cargo/haystack_core@1.16.9

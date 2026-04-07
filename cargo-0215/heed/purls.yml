@@ -26,6 +26,7 @@
 - pkg:cargo/heed@0.20.5
 - pkg:cargo/heed@0.21.0
 - pkg:cargo/heed@0.22.0
+- pkg:cargo/heed@0.22.1
 - pkg:cargo/heed@0.22.1-nested-rtxns
 - pkg:cargo/heed@0.22.1-nested-rtxns-2
 - pkg:cargo/heed@0.22.1-nested-rtxns-3
