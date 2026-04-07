@@ -15,6 +15,7 @@
 - pkg:cargo/kailash-plugin-guest@3.0.0
 - pkg:cargo/kailash-plugin-guest@3.1.0
 - pkg:cargo/kailash-plugin-guest@3.10.0
+- pkg:cargo/kailash-plugin-guest@3.11.0
 - pkg:cargo/kailash-plugin-guest@3.3.0
 - pkg:cargo/kailash-plugin-guest@3.3.1
 - pkg:cargo/kailash-plugin-guest@3.4.0

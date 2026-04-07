@@ -3,6 +3,7 @@
 - pkg:cargo/telltale@10.0.0
 - pkg:cargo/telltale@11.0.0
 - pkg:cargo/telltale@11.1.0
+- pkg:cargo/telltale@11.2.0
 - pkg:cargo/telltale@2.0.0
 - pkg:cargo/telltale@2.1.0
 - pkg:cargo/telltale@3.0.0
