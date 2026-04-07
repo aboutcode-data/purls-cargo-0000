@@ -26,6 +26,7 @@
 - pkg:cargo/stac@0.16.3
 - pkg:cargo/stac@0.16.4
 - pkg:cargo/stac@0.16.5
+- pkg:cargo/stac@0.17.0
 - pkg:cargo/stac@0.2.0
 - pkg:cargo/stac@0.3.0
 - pkg:cargo/stac@0.3.1
