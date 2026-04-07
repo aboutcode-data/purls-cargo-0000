@@ -5,6 +5,7 @@
 - pkg:cargo/lmdb-master-sys@0.2.3
 - pkg:cargo/lmdb-master-sys@0.2.4
 - pkg:cargo/lmdb-master-sys@0.2.5
+- pkg:cargo/lmdb-master-sys@0.2.6
 - pkg:cargo/lmdb-master-sys@0.2.6-nested-rtxns
 - pkg:cargo/lmdb-master-sys@0.2.6-nested-rtxns-3
 - pkg:cargo/lmdb-master-sys@0.2.6-nested-rtxns-4

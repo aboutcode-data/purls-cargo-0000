@@ -11,3 +11,4 @@
 - pkg:cargo/toprs@0.6.2
 - pkg:cargo/toprs@0.6.3
 - pkg:cargo/toprs@0.6.5
+- pkg:cargo/toprs@0.6.9
