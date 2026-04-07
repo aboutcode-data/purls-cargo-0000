@@ -1,3 +1,4 @@
 - pkg:cargo/session-keys-macros@0.1.1
 - pkg:cargo/session-keys-macros@0.1.2
 - pkg:cargo/session-keys-macros@3.0.10
+- pkg:cargo/session-keys-macros@3.0.11
