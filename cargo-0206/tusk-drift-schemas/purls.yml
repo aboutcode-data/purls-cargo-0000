@@ -1,2 +1,4 @@
 - pkg:cargo/tusk-drift-schemas@0.1.30
 - pkg:cargo/tusk-drift-schemas@0.1.32
+- pkg:cargo/tusk-drift-schemas@0.1.33
+- pkg:cargo/tusk-drift-schemas@0.1.34
