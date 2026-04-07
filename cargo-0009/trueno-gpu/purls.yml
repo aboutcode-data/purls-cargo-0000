@@ -37,3 +37,4 @@
 - pkg:cargo/trueno-gpu@0.4.7
 - pkg:cargo/trueno-gpu@0.4.8
 - pkg:cargo/trueno-gpu@0.4.9
+- pkg:cargo/trueno-gpu@0.5.0
