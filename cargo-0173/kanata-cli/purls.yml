@@ -1,3 +1,4 @@
 - pkg:cargo/kanata-cli@0.1.5
 - pkg:cargo/kanata-cli@0.1.6
 - pkg:cargo/kanata-cli@0.1.7
+- pkg:cargo/kanata-cli@1.0.0
