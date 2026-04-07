@@ -119,3 +119,4 @@
 - pkg:cargo/lindera-cli@2.3.3
 - pkg:cargo/lindera-cli@2.3.4
 - pkg:cargo/lindera-cli@3.0.0
+- pkg:cargo/lindera-cli@3.0.1
