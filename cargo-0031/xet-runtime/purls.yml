@@ -1,2 +1,3 @@
 - pkg:cargo/xet-runtime@0.0.0
 - pkg:cargo/xet-runtime@1.5.0
+- pkg:cargo/xet-runtime@1.5.1
