@@ -7,3 +7,4 @@
 - pkg:cargo/yauth-migration@0.2.4
 - pkg:cargo/yauth-migration@0.2.5
 - pkg:cargo/yauth-migration@0.2.6
+- pkg:cargo/yauth-migration@0.8.0
