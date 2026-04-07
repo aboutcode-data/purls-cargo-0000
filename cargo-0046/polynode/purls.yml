@@ -15,3 +15,4 @@
 - pkg:cargo/polynode@0.5.6
 - pkg:cargo/polynode@0.5.7
 - pkg:cargo/polynode@0.5.8
+- pkg:cargo/polynode@0.6.0
