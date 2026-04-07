@@ -11,3 +11,4 @@
 - pkg:cargo/policy-rs@1.4.12
 - pkg:cargo/policy-rs@1.4.2
 - pkg:cargo/policy-rs@1.4.3
+- pkg:cargo/policy-rs@1.5.0
