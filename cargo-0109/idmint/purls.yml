@@ -1,2 +1,4 @@
 - pkg:cargo/idmint@0.1.0
 - pkg:cargo/idmint@0.2.0
+- pkg:cargo/idmint@0.2.1
+- pkg:cargo/idmint@0.2.2
