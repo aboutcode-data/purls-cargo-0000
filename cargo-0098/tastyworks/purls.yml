@@ -27,6 +27,7 @@
 - pkg:cargo/tastyworks@0.29.0
 - pkg:cargo/tastyworks@0.3.0
 - pkg:cargo/tastyworks@0.3.1
+- pkg:cargo/tastyworks@0.30.0
 - pkg:cargo/tastyworks@0.4.0
 - pkg:cargo/tastyworks@0.4.1
 - pkg:cargo/tastyworks@0.4.2
