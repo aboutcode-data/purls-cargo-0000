@@ -185,6 +185,7 @@
 - pkg:cargo/hyperlane@19.0.0
 - pkg:cargo/hyperlane@19.1.0
 - pkg:cargo/hyperlane@19.1.1
+- pkg:cargo/hyperlane@19.1.2
 - pkg:cargo/hyperlane@2.0.0
 - pkg:cargo/hyperlane@2.0.1
 - pkg:cargo/hyperlane@2.1.1
