@@ -1,2 +1,3 @@
 - pkg:cargo/gitkit@0.1.2
 - pkg:cargo/gitkit@0.2.0
+- pkg:cargo/gitkit@0.3.0
