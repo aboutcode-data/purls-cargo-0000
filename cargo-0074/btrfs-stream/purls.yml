@@ -1,3 +1,4 @@
+- pkg:cargo/btrfs-stream@0.10.0
 - pkg:cargo/btrfs-stream@0.3.0
 - pkg:cargo/btrfs-stream@0.4.0
 - pkg:cargo/btrfs-stream@0.5.0
