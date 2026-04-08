@@ -3,3 +3,4 @@
 - pkg:cargo/serde_vrm@0.0.12
 - pkg:cargo/serde_vrm@0.0.9
 - pkg:cargo/serde_vrm@0.1.0
+- pkg:cargo/serde_vrm@0.3.0
