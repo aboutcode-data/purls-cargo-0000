@@ -181,6 +181,8 @@
 - pkg:cargo/vsdb@12.1.0
 - pkg:cargo/vsdb@12.1.1
 - pkg:cargo/vsdb@12.2.0
+- pkg:cargo/vsdb@13.0.0
+- pkg:cargo/vsdb@13.0.1
 - pkg:cargo/vsdb@2.0.0
 - pkg:cargo/vsdb@3.0.0
 - pkg:cargo/vsdb@4.0.0
