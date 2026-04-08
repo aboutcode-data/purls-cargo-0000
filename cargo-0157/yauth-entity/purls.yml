@@ -9,6 +9,10 @@
 - pkg:cargo/yauth-entity@0.2.6
 - pkg:cargo/yauth-entity@0.8.0
 - pkg:cargo/yauth-entity@0.8.1
+- pkg:cargo/yauth-entity@0.8.10
+- pkg:cargo/yauth-entity@0.8.11
+- pkg:cargo/yauth-entity@0.8.12
+- pkg:cargo/yauth-entity@0.8.13
 - pkg:cargo/yauth-entity@0.8.2
 - pkg:cargo/yauth-entity@0.8.3
 - pkg:cargo/yauth-entity@0.8.4
