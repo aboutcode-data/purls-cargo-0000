@@ -7,6 +7,7 @@
 - pkg:cargo/case_insensitive_string@0.1.7
 - pkg:cargo/case_insensitive_string@0.2.0
 - pkg:cargo/case_insensitive_string@0.2.10
+- pkg:cargo/case_insensitive_string@0.2.11
 - pkg:cargo/case_insensitive_string@0.2.2
 - pkg:cargo/case_insensitive_string@0.2.3
 - pkg:cargo/case_insensitive_string@0.2.4
