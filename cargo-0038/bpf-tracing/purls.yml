@@ -1,1 +1,2 @@
 - pkg:cargo/bpf-tracing@0.0.1
+- pkg:cargo/bpf-tracing@0.0.2
