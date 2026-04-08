@@ -1,1 +1,2 @@
 - pkg:cargo/wasm-neovm@0.4.2
+- pkg:cargo/wasm-neovm@0.5.5
