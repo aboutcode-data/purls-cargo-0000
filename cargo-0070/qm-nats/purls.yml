@@ -26,3 +26,4 @@
 - pkg:cargo/qm-nats@0.0.73
 - pkg:cargo/qm-nats@0.0.74
 - pkg:cargo/qm-nats@0.0.75
+- pkg:cargo/qm-nats@0.0.76
