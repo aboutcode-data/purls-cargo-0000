@@ -1,3 +1,4 @@
 - pkg:cargo/sapphire-sync@0.2.0
 - pkg:cargo/sapphire-sync@0.3.0
 - pkg:cargo/sapphire-sync@0.5.0
+- pkg:cargo/sapphire-sync@0.5.1
