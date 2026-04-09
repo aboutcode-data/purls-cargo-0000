@@ -1,1 +1,2 @@
 - pkg:cargo/weave-github@0.2.6
+- pkg:cargo/weave-github@0.2.8
