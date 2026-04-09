@@ -13,3 +13,4 @@
 - pkg:cargo/embed-src@3.5.2
 - pkg:cargo/embed-src@3.5.3
 - pkg:cargo/embed-src@3.5.4
+- pkg:cargo/embed-src@3.6.0
