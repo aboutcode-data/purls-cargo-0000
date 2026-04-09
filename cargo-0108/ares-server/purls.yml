@@ -10,3 +10,4 @@
 - pkg:cargo/ares-server@0.5.0
 - pkg:cargo/ares-server@0.6.2
 - pkg:cargo/ares-server@0.7.0
+- pkg:cargo/ares-server@0.7.1
