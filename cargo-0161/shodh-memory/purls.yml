@@ -9,3 +9,4 @@
 - pkg:cargo/shodh-memory@0.1.8
 - pkg:cargo/shodh-memory@0.1.80
 - pkg:cargo/shodh-memory@0.1.90
+- pkg:cargo/shodh-memory@0.2.0
