@@ -2,6 +2,7 @@
 - pkg:cargo/sonda-server@0.1.3
 - pkg:cargo/sonda-server@0.11.0
 - pkg:cargo/sonda-server@0.12.0
+- pkg:cargo/sonda-server@0.13.0
 - pkg:cargo/sonda-server@0.2.0
 - pkg:cargo/sonda-server@0.3.0
 - pkg:cargo/sonda-server@0.4.0

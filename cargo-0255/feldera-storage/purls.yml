@@ -169,6 +169,7 @@
 - pkg:cargo/feldera-storage@0.283.0
 - pkg:cargo/feldera-storage@0.284.0
 - pkg:cargo/feldera-storage@0.285.0
+- pkg:cargo/feldera-storage@0.286.0
 - pkg:cargo/feldera-storage@0.39.0
 - pkg:cargo/feldera-storage@0.40.0
 - pkg:cargo/feldera-storage@0.41.0
