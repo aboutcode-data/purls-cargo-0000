@@ -4,3 +4,4 @@
 - pkg:cargo/stack-auth@0.34.0-alpha.4
 - pkg:cargo/stack-auth@0.34.0-alpha.5
 - pkg:cargo/stack-auth@0.34.1-alpha.1
+- pkg:cargo/stack-auth@0.34.1-alpha.2
