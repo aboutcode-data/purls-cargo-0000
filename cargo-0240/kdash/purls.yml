@@ -40,3 +40,4 @@
 - pkg:cargo/kdash@0.6.0
 - pkg:cargo/kdash@0.6.1
 - pkg:cargo/kdash@0.6.2
+- pkg:cargo/kdash@1.0.0
