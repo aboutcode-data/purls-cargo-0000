@@ -33,3 +33,5 @@
 - pkg:cargo/tramli@3.5.1
 - pkg:cargo/tramli@3.6.0
 - pkg:cargo/tramli@3.6.1
+- pkg:cargo/tramli@3.7.0
+- pkg:cargo/tramli@3.7.1
