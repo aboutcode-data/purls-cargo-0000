@@ -13,3 +13,4 @@
 - pkg:cargo/axum-webtools-dlq-redrive@0.1.47
 - pkg:cargo/axum-webtools-dlq-redrive@0.1.48
 - pkg:cargo/axum-webtools-dlq-redrive@0.1.49
+- pkg:cargo/axum-webtools-dlq-redrive@0.1.50

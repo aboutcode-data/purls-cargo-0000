@@ -25,3 +25,5 @@
 - pkg:cargo/tramli@1.9.0
 - pkg:cargo/tramli@2.0.0
 - pkg:cargo/tramli@3.0.0
+- pkg:cargo/tramli@3.1.0
+- pkg:cargo/tramli@3.2.0
