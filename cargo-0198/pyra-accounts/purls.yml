@@ -6,8 +6,10 @@
 - pkg:cargo/pyra-accounts@0.2.15
 - pkg:cargo/pyra-accounts@0.2.16
 - pkg:cargo/pyra-accounts@0.2.17
+- pkg:cargo/pyra-accounts@0.2.18
 - pkg:cargo/pyra-accounts@0.2.5
 - pkg:cargo/pyra-accounts@0.2.6
 - pkg:cargo/pyra-accounts@0.2.7
 - pkg:cargo/pyra-accounts@0.2.8
 - pkg:cargo/pyra-accounts@0.2.9
+- pkg:cargo/pyra-accounts@0.3.0
