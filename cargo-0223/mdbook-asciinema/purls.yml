@@ -1,1 +1,2 @@
 - pkg:cargo/mdbook-asciinema@0.1.0-alpha.1
+- pkg:cargo/mdbook-asciinema@1.0.0
