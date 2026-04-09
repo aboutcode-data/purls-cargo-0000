@@ -1,3 +1,4 @@
 - pkg:cargo/parsentry-reports@0.18.0
 - pkg:cargo/parsentry-reports@0.19.0
 - pkg:cargo/parsentry-reports@0.20.0
+- pkg:cargo/parsentry-reports@0.21.0
