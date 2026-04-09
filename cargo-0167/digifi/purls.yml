@@ -16,6 +16,7 @@
 - pkg:cargo/digifi@2.1.9
 - pkg:cargo/digifi@3.0.0
 - pkg:cargo/digifi@3.0.1
+- pkg:cargo/digifi@3.0.10
 - pkg:cargo/digifi@3.0.2
 - pkg:cargo/digifi@3.0.3
 - pkg:cargo/digifi@3.0.4
