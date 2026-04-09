@@ -5,3 +5,4 @@
 - pkg:cargo/sst_sdk@4.6.7
 - pkg:cargo/sst_sdk@4.6.8
 - pkg:cargo/sst_sdk@4.6.9
+- pkg:cargo/sst_sdk@4.7.0
