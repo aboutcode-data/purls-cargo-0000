@@ -4,6 +4,7 @@
 - pkg:cargo/w-gui@0.21.1
 - pkg:cargo/w-gui@0.21.10
 - pkg:cargo/w-gui@0.21.2
+- pkg:cargo/w-gui@0.21.20
 - pkg:cargo/w-gui@0.21.3
 - pkg:cargo/w-gui@0.21.4
 - pkg:cargo/w-gui@0.21.5
