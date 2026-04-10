@@ -3,3 +3,4 @@
 - pkg:cargo/percli-program@0.5.0
 - pkg:cargo/percli-program@0.6.0
 - pkg:cargo/percli-program@0.7.0
+- pkg:cargo/percli-program@0.8.0
