@@ -1,4 +1,6 @@
+- pkg:cargo/oxidized-auth@0.1.0-dev.05f44f9
 - pkg:cargo/oxidized-auth@0.1.0-dev.0b44e91
+- pkg:cargo/oxidized-auth@0.1.0-dev.1a53f74
 - pkg:cargo/oxidized-auth@0.1.0-dev.5a34653
 - pkg:cargo/oxidized-auth@0.1.0-dev.95a67a4
 - pkg:cargo/oxidized-auth@0.1.0-dev.a5cb2da

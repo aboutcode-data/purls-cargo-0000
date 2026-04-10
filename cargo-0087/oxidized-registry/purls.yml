@@ -1,6 +1,8 @@
 - pkg:cargo/oxidized-registry@0.1.0-dev.02c2785
 - pkg:cargo/oxidized-registry@0.1.0-dev.1babe8b
+- pkg:cargo/oxidized-registry@0.1.0-dev.3f12e25
 - pkg:cargo/oxidized-registry@0.1.0-dev.5f7a9a0
+- pkg:cargo/oxidized-registry@0.1.0-dev.629e069
 - pkg:cargo/oxidized-registry@0.1.0-dev.7013be4
 - pkg:cargo/oxidized-registry@0.1.0-dev.7950283
 - pkg:cargo/oxidized-registry@0.1.0-dev.b8e702e
