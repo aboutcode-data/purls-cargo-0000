@@ -7,6 +7,7 @@
 - pkg:cargo/ofb@0.5.1
 - pkg:cargo/ofb@0.6.0
 - pkg:cargo/ofb@0.6.1
+- pkg:cargo/ofb@0.7.0
 - pkg:cargo/ofb@0.7.0-rc.0
 - pkg:cargo/ofb@0.7.0-rc.1
 - pkg:cargo/ofb@0.7.0-rc.2
