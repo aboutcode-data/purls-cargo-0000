@@ -3,3 +3,5 @@
 - pkg:cargo/task-trigger-mcp@1.1.1
 - pkg:cargo/task-trigger-mcp@1.1.2
 - pkg:cargo/task-trigger-mcp@1.2.0
+- pkg:cargo/task-trigger-mcp@1.2.1
+- pkg:cargo/task-trigger-mcp@1.4.0
