@@ -42,6 +42,9 @@
 - pkg:cargo/mig-types@0.1.48
 - pkg:cargo/mig-types@0.1.49
 - pkg:cargo/mig-types@0.1.5
+- pkg:cargo/mig-types@0.1.50
+- pkg:cargo/mig-types@0.1.51
+- pkg:cargo/mig-types@0.1.52
 - pkg:cargo/mig-types@0.1.6
 - pkg:cargo/mig-types@0.1.7
 - pkg:cargo/mig-types@0.1.8
