@@ -2,5 +2,8 @@
 - pkg:cargo/pulse-platform@4.0.0-canary.11
 - pkg:cargo/pulse-platform@4.0.0-canary.29
 - pkg:cargo/pulse-platform@4.0.0-canary.30
+- pkg:cargo/pulse-platform@4.0.0-canary.31
+- pkg:cargo/pulse-platform@4.0.0-canary.32
+- pkg:cargo/pulse-platform@4.0.0-canary.33
 - pkg:cargo/pulse-platform@4.0.0-canary.6
 - pkg:cargo/pulse-platform@4.0.0-canary.7
