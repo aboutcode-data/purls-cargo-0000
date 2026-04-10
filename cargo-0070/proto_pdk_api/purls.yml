@@ -81,6 +81,7 @@
 - pkg:cargo/proto_pdk_api@0.31.0
 - pkg:cargo/proto_pdk_api@0.31.1
 - pkg:cargo/proto_pdk_api@0.31.10
+- pkg:cargo/proto_pdk_api@0.31.11
 - pkg:cargo/proto_pdk_api@0.31.2
 - pkg:cargo/proto_pdk_api@0.31.3
 - pkg:cargo/proto_pdk_api@0.31.4
