@@ -29,3 +29,4 @@
 - pkg:cargo/myko-server@4.4.8
 - pkg:cargo/myko-server@4.5.0
 - pkg:cargo/myko-server@4.6.0
+- pkg:cargo/myko-server@4.6.1
