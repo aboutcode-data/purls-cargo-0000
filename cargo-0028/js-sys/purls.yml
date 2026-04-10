@@ -102,3 +102,4 @@
 - pkg:cargo/js-sys@0.3.92
 - pkg:cargo/js-sys@0.3.93
 - pkg:cargo/js-sys@0.3.94
+- pkg:cargo/js-sys@0.3.95

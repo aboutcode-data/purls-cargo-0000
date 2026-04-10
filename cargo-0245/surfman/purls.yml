@@ -5,6 +5,7 @@
 - pkg:cargo/surfman@0.1.4
 - pkg:cargo/surfman@0.10.0
 - pkg:cargo/surfman@0.11.0
+- pkg:cargo/surfman@0.12.0
 - pkg:cargo/surfman@0.2.0
 - pkg:cargo/surfman@0.3.0
 - pkg:cargo/surfman@0.3.1
