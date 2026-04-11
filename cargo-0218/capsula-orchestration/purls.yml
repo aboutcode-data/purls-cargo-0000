@@ -1,3 +1,4 @@
 - pkg:cargo/capsula-orchestration@0.11.2
 - pkg:cargo/capsula-orchestration@0.11.3
 - pkg:cargo/capsula-orchestration@0.11.5
+- pkg:cargo/capsula-orchestration@0.12.0
