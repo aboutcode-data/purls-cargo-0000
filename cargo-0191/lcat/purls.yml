@@ -26,3 +26,4 @@
 - pkg:cargo/lcat@0.7.8
 - pkg:cargo/lcat@0.7.9
 - pkg:cargo/lcat@0.8.0
+- pkg:cargo/lcat@0.8.1
