@@ -15,3 +15,4 @@
 - pkg:cargo/iced-code-editor@0.3.4
 - pkg:cargo/iced-code-editor@0.3.6
 - pkg:cargo/iced-code-editor@0.3.7
+- pkg:cargo/iced-code-editor@0.3.8
