@@ -35,3 +35,4 @@
 - pkg:cargo/sql-cli@1.64.0
 - pkg:cargo/sql-cli@1.66.0
 - pkg:cargo/sql-cli@1.67.0
+- pkg:cargo/sql-cli@1.67.1
