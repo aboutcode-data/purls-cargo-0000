@@ -6,6 +6,7 @@
 - pkg:cargo/wsb@0.141.143
 - pkg:cargo/wsb@0.144.274
 - pkg:cargo/wsb@0.147.14
+- pkg:cargo/wsb@0.153.17
 - pkg:cargo/wsb@0.70.193581
 - pkg:cargo/wsb@0.75.194064
 - pkg:cargo/wsb@0.76.226710
