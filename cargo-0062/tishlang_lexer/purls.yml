@@ -22,3 +22,4 @@
 - pkg:cargo/tishlang_lexer@1.3.7
 - pkg:cargo/tishlang_lexer@1.3.8
 - pkg:cargo/tishlang_lexer@1.4.2
+- pkg:cargo/tishlang_lexer@1.5.0
