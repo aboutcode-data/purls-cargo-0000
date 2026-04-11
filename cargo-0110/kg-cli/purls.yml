@@ -1,6 +1,7 @@
 - pkg:cargo/kg-cli@0.1.17
 - pkg:cargo/kg-cli@0.1.6
 - pkg:cargo/kg-cli@0.2.0
+- pkg:cargo/kg-cli@0.2.11
 - pkg:cargo/kg-cli@0.2.2
 - pkg:cargo/kg-cli@0.2.3
 - pkg:cargo/kg-cli@0.2.4

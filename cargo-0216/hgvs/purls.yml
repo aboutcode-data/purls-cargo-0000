@@ -29,6 +29,7 @@
 - pkg:cargo/hgvs@0.20.1
 - pkg:cargo/hgvs@0.20.2
 - pkg:cargo/hgvs@0.21.0
+- pkg:cargo/hgvs@0.22.0
 - pkg:cargo/hgvs@0.3.0
 - pkg:cargo/hgvs@0.3.1
 - pkg:cargo/hgvs@0.4.0
