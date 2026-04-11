@@ -16,3 +16,4 @@
 - pkg:cargo/fastcdc@3.1.0
 - pkg:cargo/fastcdc@3.2.0
 - pkg:cargo/fastcdc@3.2.1
+- pkg:cargo/fastcdc@4.0.0
