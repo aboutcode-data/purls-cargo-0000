@@ -7,6 +7,7 @@
 - pkg:cargo/pgqrs@0.15.0
 - pkg:cargo/pgqrs@0.15.1
 - pkg:cargo/pgqrs@0.15.2
+- pkg:cargo/pgqrs@0.15.3
 - pkg:cargo/pgqrs@0.2.1
 - pkg:cargo/pgqrs@0.3.0
 - pkg:cargo/pgqrs@0.4.0
