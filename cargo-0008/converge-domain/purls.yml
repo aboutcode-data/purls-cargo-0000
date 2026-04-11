@@ -9,3 +9,4 @@
 - pkg:cargo/converge-domain@0.2.7
 - pkg:cargo/converge-domain@2.0.0
 - pkg:cargo/converge-domain@2.1.0
+- pkg:cargo/converge-domain@2.1.2
