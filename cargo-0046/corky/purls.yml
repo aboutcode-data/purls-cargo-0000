@@ -39,6 +39,7 @@
 - pkg:cargo/corky@0.25.1
 - pkg:cargo/corky@0.26.0
 - pkg:cargo/corky@0.26.3
+- pkg:cargo/corky@0.27.0
 - pkg:cargo/corky@0.7.0
 - pkg:cargo/corky@0.7.1
 - pkg:cargo/corky@0.7.2
