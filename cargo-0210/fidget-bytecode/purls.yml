@@ -1,1 +1,2 @@
 - pkg:cargo/fidget-bytecode@0.4.1
+- pkg:cargo/fidget-bytecode@0.4.3
