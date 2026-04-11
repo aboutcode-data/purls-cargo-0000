@@ -3,3 +3,4 @@
 - pkg:cargo/serde_styx@1.0.1
 - pkg:cargo/serde_styx@2.0.0
 - pkg:cargo/serde_styx@3.0.0
+- pkg:cargo/serde_styx@3.0.1
