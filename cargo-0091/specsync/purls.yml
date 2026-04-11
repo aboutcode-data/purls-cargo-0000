@@ -21,3 +21,4 @@
 - pkg:cargo/specsync@3.6.1
 - pkg:cargo/specsync@3.6.2
 - pkg:cargo/specsync@3.7.0
+- pkg:cargo/specsync@3.8.0
