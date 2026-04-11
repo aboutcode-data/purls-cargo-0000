@@ -2,3 +2,4 @@
 - pkg:cargo/cloacina-workflow@0.3.1
 - pkg:cargo/cloacina-workflow@0.3.2
 - pkg:cargo/cloacina-workflow@0.4.0
+- pkg:cargo/cloacina-workflow@0.5.0
