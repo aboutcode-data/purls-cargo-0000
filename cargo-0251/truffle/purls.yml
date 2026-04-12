@@ -11,3 +11,4 @@
 - pkg:cargo/truffle@0.3.24
 - pkg:cargo/truffle@0.3.25
 - pkg:cargo/truffle@0.4.0
+- pkg:cargo/truffle@0.4.1
