@@ -20,4 +20,5 @@
 - pkg:cargo/ansible-wrapper@2026.3.22
 - pkg:cargo/ansible-wrapper@2026.3.29
 - pkg:cargo/ansible-wrapper@2026.3.8
+- pkg:cargo/ansible-wrapper@2026.4.12
 - pkg:cargo/ansible-wrapper@2026.4.5
