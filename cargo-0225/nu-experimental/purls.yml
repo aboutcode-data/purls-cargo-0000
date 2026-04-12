@@ -6,3 +6,5 @@
 - pkg:cargo/nu-experimental@0.109.1
 - pkg:cargo/nu-experimental@0.110.0
 - pkg:cargo/nu-experimental@0.111.0
+- pkg:cargo/nu-experimental@0.112.0
+- pkg:cargo/nu-experimental@0.112.1
