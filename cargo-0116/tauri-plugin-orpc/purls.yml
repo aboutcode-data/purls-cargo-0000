@@ -1,3 +1,4 @@
 - pkg:cargo/tauri-plugin-orpc@0.1.1
 - pkg:cargo/tauri-plugin-orpc@0.1.2
 - pkg:cargo/tauri-plugin-orpc@1.0.0
+- pkg:cargo/tauri-plugin-orpc@1.1.0
