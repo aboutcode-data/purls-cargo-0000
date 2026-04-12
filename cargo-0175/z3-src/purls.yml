@@ -6,3 +6,4 @@
 - pkg:cargo/z3-src@415.4.4
 - pkg:cargo/z3-src@416.0.0
 - pkg:cargo/z3-src@416.0.1
+- pkg:cargo/z3-src@416.0.2
