@@ -13,3 +13,4 @@
 - pkg:cargo/laminar-db@0.18.7
 - pkg:cargo/laminar-db@0.18.8
 - pkg:cargo/laminar-db@0.18.9
+- pkg:cargo/laminar-db@0.20.1
