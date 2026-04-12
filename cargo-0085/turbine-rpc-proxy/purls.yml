@@ -9,3 +9,4 @@
 - pkg:cargo/turbine-rpc-proxy@0.8.0
 - pkg:cargo/turbine-rpc-proxy@0.9.0
 - pkg:cargo/turbine-rpc-proxy@1.0.0
+- pkg:cargo/turbine-rpc-proxy@1.1.0

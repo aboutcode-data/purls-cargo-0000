@@ -1,3 +1,5 @@
 - pkg:cargo/veclite-cli@0.1.0
 - pkg:cargo/veclite-cli@1.0.0
 - pkg:cargo/veclite-cli@1.0.9
+- pkg:cargo/veclite-cli@1.1.0
+- pkg:cargo/veclite-cli@1.1.1
