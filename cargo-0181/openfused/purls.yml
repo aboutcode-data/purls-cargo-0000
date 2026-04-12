@@ -1,3 +1,4 @@
 - pkg:cargo/openfused@0.4.4
 - pkg:cargo/openfused@0.4.5
 - pkg:cargo/openfused@0.5.3
+- pkg:cargo/openfused@0.5.4
