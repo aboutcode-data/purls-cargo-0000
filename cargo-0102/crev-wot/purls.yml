@@ -19,3 +19,4 @@
 - pkg:cargo/crev-wot@0.25.9
 - pkg:cargo/crev-wot@0.26.0
 - pkg:cargo/crev-wot@0.26.1
+- pkg:cargo/crev-wot@0.27.1
