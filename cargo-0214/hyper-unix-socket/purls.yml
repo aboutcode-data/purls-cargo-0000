@@ -1,3 +1,5 @@
 - pkg:cargo/hyper-unix-socket@0.0.0-development
 - pkg:cargo/hyper-unix-socket@0.1.0
 - pkg:cargo/hyper-unix-socket@0.3.0
+- pkg:cargo/hyper-unix-socket@0.6.0
+- pkg:cargo/hyper-unix-socket@0.6.1
