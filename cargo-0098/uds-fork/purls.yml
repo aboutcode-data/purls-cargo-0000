@@ -13,3 +13,4 @@
 - pkg:cargo/uds-fork@0.7.5
 - pkg:cargo/uds-fork@0.7.6
 - pkg:cargo/uds-fork@0.7.7
+- pkg:cargo/uds-fork@0.8.0
