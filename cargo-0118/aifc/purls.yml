@@ -1,2 +1,3 @@
 - pkg:cargo/aifc@0.5.3
 - pkg:cargo/aifc@0.6.0
+- pkg:cargo/aifc@0.7.0
