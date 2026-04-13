@@ -13,6 +13,7 @@
 - pkg:cargo/mockforge-runtime-daemon@0.3.113
 - pkg:cargo/mockforge-runtime-daemon@0.3.114
 - pkg:cargo/mockforge-runtime-daemon@0.3.115
+- pkg:cargo/mockforge-runtime-daemon@0.3.116
 - pkg:cargo/mockforge-runtime-daemon@0.3.20
 - pkg:cargo/mockforge-runtime-daemon@0.3.27
 - pkg:cargo/mockforge-runtime-daemon@0.3.28

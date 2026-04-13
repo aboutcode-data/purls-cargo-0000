@@ -3,4 +3,5 @@
 - pkg:cargo/subfeature@0.0.3
 - pkg:cargo/subfeature@0.0.4
 - pkg:cargo/subfeature@0.0.5
+- pkg:cargo/subfeature@1.24.0
 - pkg:cargo/subfeature@1.24.0-rc3
