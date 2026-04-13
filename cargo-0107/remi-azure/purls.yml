@@ -1,6 +1,7 @@
 - pkg:cargo/remi-azure@0.10.0
 - pkg:cargo/remi-azure@0.10.1
 - pkg:cargo/remi-azure@0.10.2
+- pkg:cargo/remi-azure@0.10.3
 - pkg:cargo/remi-azure@0.5.0
 - pkg:cargo/remi-azure@0.6.0
 - pkg:cargo/remi-azure@0.6.1
