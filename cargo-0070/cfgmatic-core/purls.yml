@@ -9,3 +9,5 @@
 - pkg:cargo/cfgmatic-core@3.0.0
 - pkg:cargo/cfgmatic-core@3.0.1
 - pkg:cargo/cfgmatic-core@4.0.0
+- pkg:cargo/cfgmatic-core@5.0.0
+- pkg:cargo/cfgmatic-core@5.0.1

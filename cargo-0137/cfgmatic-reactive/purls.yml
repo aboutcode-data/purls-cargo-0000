@@ -3,3 +3,5 @@
 - pkg:cargo/cfgmatic-reactive@3.0.0
 - pkg:cargo/cfgmatic-reactive@3.0.1
 - pkg:cargo/cfgmatic-reactive@4.0.0
+- pkg:cargo/cfgmatic-reactive@5.0.0
+- pkg:cargo/cfgmatic-reactive@5.0.1
