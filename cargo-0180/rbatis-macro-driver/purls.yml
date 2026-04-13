@@ -173,3 +173,4 @@
 - pkg:cargo/rbatis-macro-driver@4.6.0
 - pkg:cargo/rbatis-macro-driver@4.7.0
 - pkg:cargo/rbatis-macro-driver@4.7.2
+- pkg:cargo/rbatis-macro-driver@4.8.0

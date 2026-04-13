@@ -46,3 +46,5 @@
 - pkg:cargo/nodecraft@0.7.9
 - pkg:cargo/nodecraft@0.8.0
 - pkg:cargo/nodecraft@0.8.1
+- pkg:cargo/nodecraft@0.9.0
+- pkg:cargo/nodecraft@0.9.1
