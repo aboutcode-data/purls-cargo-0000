@@ -25,6 +25,7 @@
 - pkg:cargo/moon_config@1.0.1
 - pkg:cargo/moon_config@2.0.0
 - pkg:cargo/moon_config@2.0.1
+- pkg:cargo/moon_config@2.0.10
 - pkg:cargo/moon_config@2.0.2
 - pkg:cargo/moon_config@2.0.3
 - pkg:cargo/moon_config@2.0.4
