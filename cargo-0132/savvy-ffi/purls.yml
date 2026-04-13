@@ -1,6 +1,7 @@
 - pkg:cargo/savvy-ffi@0.1.18
 - pkg:cargo/savvy-ffi@0.1.19
 - pkg:cargo/savvy-ffi@0.10.0
+- pkg:cargo/savvy-ffi@0.10.1
 - pkg:cargo/savvy-ffi@0.2.0
 - pkg:cargo/savvy-ffi@0.2.1
 - pkg:cargo/savvy-ffi@0.2.10

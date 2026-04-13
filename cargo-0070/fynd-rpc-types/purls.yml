@@ -23,3 +23,4 @@
 - pkg:cargo/fynd-rpc-types@0.48.0
 - pkg:cargo/fynd-rpc-types@0.49.0
 - pkg:cargo/fynd-rpc-types@0.49.1
+- pkg:cargo/fynd-rpc-types@0.50.0
