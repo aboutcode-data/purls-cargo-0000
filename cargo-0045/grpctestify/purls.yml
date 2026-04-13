@@ -12,6 +12,7 @@
 - pkg:cargo/grpctestify@1.4.12
 - pkg:cargo/grpctestify@1.4.13
 - pkg:cargo/grpctestify@1.4.14
+- pkg:cargo/grpctestify@1.4.15
 - pkg:cargo/grpctestify@1.4.2
 - pkg:cargo/grpctestify@1.4.3
 - pkg:cargo/grpctestify@1.4.4
