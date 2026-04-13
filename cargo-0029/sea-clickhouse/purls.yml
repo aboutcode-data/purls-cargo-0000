@@ -2,3 +2,4 @@
 - pkg:cargo/sea-clickhouse@0.14.3
 - pkg:cargo/sea-clickhouse@0.14.4
 - pkg:cargo/sea-clickhouse@0.14.5
+- pkg:cargo/sea-clickhouse@0.15.0
