@@ -30,3 +30,4 @@
 - pkg:cargo/customasm@0.13.7
 - pkg:cargo/customasm@0.13.8
 - pkg:cargo/customasm@0.13.9
+- pkg:cargo/customasm@0.14.0
