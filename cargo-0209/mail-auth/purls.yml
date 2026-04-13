@@ -24,3 +24,4 @@
 - pkg:cargo/mail-auth@0.7.3
 - pkg:cargo/mail-auth@0.7.4
 - pkg:cargo/mail-auth@0.7.5
+- pkg:cargo/mail-auth@0.8.0
