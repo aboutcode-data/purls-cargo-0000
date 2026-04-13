@@ -55,3 +55,4 @@
 - pkg:cargo/sr-core@3.4.0
 - pkg:cargo/sr-core@4.0.0
 - pkg:cargo/sr-core@4.1.0
+- pkg:cargo/sr-core@5.0.0
