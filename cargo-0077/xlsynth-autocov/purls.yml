@@ -8,3 +8,4 @@
 - pkg:cargo/xlsynth-autocov@0.37.0
 - pkg:cargo/xlsynth-autocov@0.38.0
 - pkg:cargo/xlsynth-autocov@0.39.0
+- pkg:cargo/xlsynth-autocov@0.40.0
