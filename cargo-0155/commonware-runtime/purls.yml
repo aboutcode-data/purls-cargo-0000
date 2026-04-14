@@ -48,3 +48,4 @@
 - pkg:cargo/commonware-runtime@0.0.9
 - pkg:cargo/commonware-runtime@2026.2.0
 - pkg:cargo/commonware-runtime@2026.3.0
+- pkg:cargo/commonware-runtime@2026.4.0
