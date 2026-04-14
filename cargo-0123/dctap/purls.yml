@@ -40,3 +40,4 @@
 - pkg:cargo/dctap@0.1.90
 - pkg:cargo/dctap@0.2.0
 - pkg:cargo/dctap@0.2.8
+- pkg:cargo/dctap@0.2.9
