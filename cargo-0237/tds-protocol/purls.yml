@@ -10,3 +10,4 @@
 - pkg:cargo/tds-protocol@0.5.2
 - pkg:cargo/tds-protocol@0.6.0
 - pkg:cargo/tds-protocol@0.7.0
+- pkg:cargo/tds-protocol@0.8.0

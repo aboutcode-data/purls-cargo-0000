@@ -1,1 +1,2 @@
 - pkg:cargo/convergio-depgraph@0.1.2
+- pkg:cargo/convergio-depgraph@0.1.6
