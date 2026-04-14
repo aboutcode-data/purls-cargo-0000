@@ -1,1 +1,2 @@
+- pkg:cargo/opentalk-roomserver-livekit-proxy@0.0.33
 - pkg:cargo/opentalk-roomserver-livekit-proxy@0.0.34-alpha
