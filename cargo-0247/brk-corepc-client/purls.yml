@@ -1,1 +1,2 @@
 - pkg:cargo/brk-corepc-client@0.11.0
+- pkg:cargo/brk-corepc-client@0.11.1

@@ -1,1 +1,2 @@
 - pkg:cargo/brk-corepc-jsonrpc@0.19.0
+- pkg:cargo/brk-corepc-jsonrpc@0.19.1
