@@ -1,1 +1,2 @@
 - pkg:cargo/snowflake-gen@0.1.0
+- pkg:cargo/snowflake-gen@1.0.0
