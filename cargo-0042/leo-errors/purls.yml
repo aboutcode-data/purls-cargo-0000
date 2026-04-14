@@ -37,3 +37,4 @@
 - pkg:cargo/leo-errors@3.4.0
 - pkg:cargo/leo-errors@3.5.0
 - pkg:cargo/leo-errors@4.0.0
+- pkg:cargo/leo-errors@4.0.1
