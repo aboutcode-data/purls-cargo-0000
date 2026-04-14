@@ -1,1 +1,3 @@
 - pkg:cargo/blvm-spec-lock@0.1.2
+- pkg:cargo/blvm-spec-lock@0.1.3
+- pkg:cargo/blvm-spec-lock@0.1.4
