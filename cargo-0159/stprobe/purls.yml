@@ -1,1 +1,4 @@
 - pkg:cargo/stprobe@0.1.0
+- pkg:cargo/stprobe@0.2.1
+- pkg:cargo/stprobe@0.2.2
+- pkg:cargo/stprobe@0.2.3
