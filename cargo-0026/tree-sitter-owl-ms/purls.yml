@@ -2,6 +2,8 @@
 - pkg:cargo/tree-sitter-owl-ms@0.0.2
 - pkg:cargo/tree-sitter-owl-ms@0.0.3
 - pkg:cargo/tree-sitter-owl-ms@0.10.0
+- pkg:cargo/tree-sitter-owl-ms@0.12.0
+- pkg:cargo/tree-sitter-owl-ms@0.12.1
 - pkg:cargo/tree-sitter-owl-ms@0.7.0
 - pkg:cargo/tree-sitter-owl-ms@0.7.1
 - pkg:cargo/tree-sitter-owl-ms@0.7.2
