@@ -26,6 +26,7 @@
 - pkg:cargo/nu-plugin-bexpand@1.3.11000
 - pkg:cargo/nu-plugin-bexpand@1.3.11100
 - pkg:cargo/nu-plugin-bexpand@1.3.11210
+- pkg:cargo/nu-plugin-bexpand@1.3.11211%2Bnu-0.112.1
 - pkg:cargo/nu-plugin-bexpand@1.3.2
 - pkg:cargo/nu-plugin-bexpand@1.3.3
 - pkg:cargo/nu-plugin-bexpand@1.3.4
