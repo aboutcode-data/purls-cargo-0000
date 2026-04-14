@@ -35,3 +35,5 @@
 - pkg:cargo/runique@1.1.52
 - pkg:cargo/runique@1.1.53
 - pkg:cargo/runique@1.1.54
+- pkg:cargo/runique@2.0.0
+- pkg:cargo/runique@2.0.1
