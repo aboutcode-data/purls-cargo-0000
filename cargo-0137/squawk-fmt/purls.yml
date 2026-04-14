@@ -7,3 +7,4 @@
 - pkg:cargo/squawk-fmt@2.44.0
 - pkg:cargo/squawk-fmt@2.45.0
 - pkg:cargo/squawk-fmt@2.46.0
+- pkg:cargo/squawk-fmt@2.47.0
