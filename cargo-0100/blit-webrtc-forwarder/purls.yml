@@ -10,3 +10,4 @@
 - pkg:cargo/blit-webrtc-forwarder@0.20.0
 - pkg:cargo/blit-webrtc-forwarder@0.21.0
 - pkg:cargo/blit-webrtc-forwarder@0.22.0
+- pkg:cargo/blit-webrtc-forwarder@0.24.0
