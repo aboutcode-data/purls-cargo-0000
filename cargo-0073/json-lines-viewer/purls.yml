@@ -5,3 +5,4 @@
 - pkg:cargo/json-lines-viewer@0.4.6
 - pkg:cargo/json-lines-viewer@0.5.0
 - pkg:cargo/json-lines-viewer@0.5.1
+- pkg:cargo/json-lines-viewer@0.5.2
