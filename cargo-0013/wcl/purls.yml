@@ -8,3 +8,4 @@
 - pkg:cargo/wcl@0.5.0-alpha
 - pkg:cargo/wcl@0.6.1-alpha
 - pkg:cargo/wcl@0.7.0-alpha
+- pkg:cargo/wcl@0.8.0-alpha
