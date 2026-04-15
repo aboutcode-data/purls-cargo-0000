@@ -35,6 +35,7 @@
 - pkg:cargo/minidex@0.26.2
 - pkg:cargo/minidex@0.26.3
 - pkg:cargo/minidex@0.26.4
+- pkg:cargo/minidex@0.26.5
 - pkg:cargo/minidex@0.3.0
 - pkg:cargo/minidex@0.3.1
 - pkg:cargo/minidex@0.4.0
