@@ -52,3 +52,4 @@
 - pkg:cargo/sbp@6.3.0
 - pkg:cargo/sbp@6.3.2
 - pkg:cargo/sbp@6.3.3
+- pkg:cargo/sbp@6.4.0
