@@ -9,3 +9,4 @@
 - pkg:cargo/facet-json-schema@0.44.4
 - pkg:cargo/facet-json-schema@0.44.5
 - pkg:cargo/facet-json-schema@0.44.6
+- pkg:cargo/facet-json-schema@0.44.7

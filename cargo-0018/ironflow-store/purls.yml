@@ -11,3 +11,4 @@
 - pkg:cargo/ironflow-store@2.5.1
 - pkg:cargo/ironflow-store@2.6.0
 - pkg:cargo/ironflow-store@2.6.1
+- pkg:cargo/ironflow-store@2.7.0
