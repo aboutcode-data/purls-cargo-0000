@@ -8,3 +8,5 @@
 - pkg:cargo/qubit-config@0.8.1
 - pkg:cargo/qubit-config@0.8.2
 - pkg:cargo/qubit-config@0.8.3
+- pkg:cargo/qubit-config@0.8.4
+- pkg:cargo/qubit-config@0.8.5
