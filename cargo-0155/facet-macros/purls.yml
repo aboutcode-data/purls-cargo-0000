@@ -39,3 +39,4 @@
 - pkg:cargo/facet-macros@0.44.3
 - pkg:cargo/facet-macros@0.44.4
 - pkg:cargo/facet-macros@0.45.0
+- pkg:cargo/facet-macros@0.46.0
