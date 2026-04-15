@@ -5,6 +5,7 @@
 - pkg:cargo/moq-cli@0.7.14
 - pkg:cargo/moq-cli@0.7.15
 - pkg:cargo/moq-cli@0.7.16
+- pkg:cargo/moq-cli@0.7.17
 - pkg:cargo/moq-cli@0.7.5
 - pkg:cargo/moq-cli@0.7.6
 - pkg:cargo/moq-cli@0.7.7
