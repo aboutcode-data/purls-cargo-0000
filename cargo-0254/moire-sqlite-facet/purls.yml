@@ -1,2 +1,3 @@
 - pkg:cargo/moire-sqlite-facet@0.0.0
 - pkg:cargo/moire-sqlite-facet@1.0.0
+- pkg:cargo/moire-sqlite-facet@1.0.1
