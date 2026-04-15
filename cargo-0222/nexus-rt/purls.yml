@@ -28,3 +28,5 @@
 - pkg:cargo/nexus-rt@2.0.1
 - pkg:cargo/nexus-rt@2.0.2
 - pkg:cargo/nexus-rt@2.0.3
+- pkg:cargo/nexus-rt@2.0.4
+- pkg:cargo/nexus-rt@2.1.0
