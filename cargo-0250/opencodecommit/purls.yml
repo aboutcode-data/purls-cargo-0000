@@ -17,3 +17,5 @@
 - pkg:cargo/opencodecommit@1.4.2
 - pkg:cargo/opencodecommit@1.5.0
 - pkg:cargo/opencodecommit@1.5.1
+- pkg:cargo/opencodecommit@1.6.0
+- pkg:cargo/opencodecommit@1.6.1
