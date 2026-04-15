@@ -8,5 +8,6 @@
 - pkg:cargo/cts-common@0.34.0-alpha.6
 - pkg:cargo/cts-common@0.34.1-alpha.1
 - pkg:cargo/cts-common@0.34.1-alpha.2
+- pkg:cargo/cts-common@0.34.1-alpha.3
 - pkg:cargo/cts-common@0.4.0
 - pkg:cargo/cts-common@0.4.1
