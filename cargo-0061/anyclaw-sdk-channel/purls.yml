@@ -2,3 +2,4 @@
 - pkg:cargo/anyclaw-sdk-channel@0.2.7
 - pkg:cargo/anyclaw-sdk-channel@0.2.8
 - pkg:cargo/anyclaw-sdk-channel@0.3.0
+- pkg:cargo/anyclaw-sdk-channel@0.3.1
