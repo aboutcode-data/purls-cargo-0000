@@ -175,6 +175,10 @@
 - pkg:cargo/chromey@2.46.2
 - pkg:cargo/chromey@2.46.20
 - pkg:cargo/chromey@2.46.21
+- pkg:cargo/chromey@2.46.22
+- pkg:cargo/chromey@2.46.23
+- pkg:cargo/chromey@2.46.24
+- pkg:cargo/chromey@2.46.25
 - pkg:cargo/chromey@2.46.3
 - pkg:cargo/chromey@2.46.4
 - pkg:cargo/chromey@2.46.5
