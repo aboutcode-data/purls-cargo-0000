@@ -6,6 +6,7 @@
 - pkg:cargo/silent-openapi-macros@2.14.0
 - pkg:cargo/silent-openapi-macros@2.15.0
 - pkg:cargo/silent-openapi-macros@2.16.0
+- pkg:cargo/silent-openapi-macros@2.16.1
 - pkg:cargo/silent-openapi-macros@2.8.0
 - pkg:cargo/silent-openapi-macros@2.9.0
 - pkg:cargo/silent-openapi-macros@2.9.1
