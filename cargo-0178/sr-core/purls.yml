@@ -59,3 +59,4 @@
 - pkg:cargo/sr-core@5.1.0
 - pkg:cargo/sr-core@6.0.0
 - pkg:cargo/sr-core@6.0.1
+- pkg:cargo/sr-core@7.0.0
