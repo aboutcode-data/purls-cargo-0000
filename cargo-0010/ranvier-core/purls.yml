@@ -34,5 +34,6 @@
 - pkg:cargo/ranvier-core@0.41.0
 - pkg:cargo/ranvier-core@0.42.0
 - pkg:cargo/ranvier-core@0.43.0
+- pkg:cargo/ranvier-core@0.44.0
 - pkg:cargo/ranvier-core@0.7.0
 - pkg:cargo/ranvier-core@0.8.0
