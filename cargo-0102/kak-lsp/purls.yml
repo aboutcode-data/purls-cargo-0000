@@ -19,3 +19,4 @@
 - pkg:cargo/kak-lsp@18.2.0
 - pkg:cargo/kak-lsp@19.0.0
 - pkg:cargo/kak-lsp@19.0.1
+- pkg:cargo/kak-lsp@20.0.0

@@ -1,1 +1,2 @@
 - pkg:cargo/riscv64-qemu-virt-hv@0.5.0
+- pkg:cargo/riscv64-qemu-virt-hv@0.5.4
