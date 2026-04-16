@@ -5,6 +5,7 @@
 - pkg:cargo/moq-clock@0.10.12
 - pkg:cargo/moq-clock@0.10.13
 - pkg:cargo/moq-clock@0.10.14
+- pkg:cargo/moq-clock@0.10.15
 - pkg:cargo/moq-clock@0.10.2
 - pkg:cargo/moq-clock@0.10.3
 - pkg:cargo/moq-clock@0.10.4
