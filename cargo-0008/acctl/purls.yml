@@ -8,6 +8,7 @@
 - pkg:cargo/acctl@3.3.15
 - pkg:cargo/acctl@3.3.16
 - pkg:cargo/acctl@3.3.17
+- pkg:cargo/acctl@3.3.18
 - pkg:cargo/acctl@3.3.2
 - pkg:cargo/acctl@3.3.3
 - pkg:cargo/acctl@3.3.5
