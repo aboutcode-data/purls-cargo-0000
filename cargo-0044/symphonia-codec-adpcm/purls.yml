@@ -3,3 +3,4 @@
 - pkg:cargo/symphonia-codec-adpcm@0.5.4
 - pkg:cargo/symphonia-codec-adpcm@0.5.5
 - pkg:cargo/symphonia-codec-adpcm@0.6.0-alpha.1
+- pkg:cargo/symphonia-codec-adpcm@0.6.0-alpha.2
