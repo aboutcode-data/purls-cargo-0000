@@ -2,3 +2,4 @@
 - pkg:cargo/midenc-log@0.7.0
 - pkg:cargo/midenc-log@0.7.1
 - pkg:cargo/midenc-log@0.8.0
+- pkg:cargo/midenc-log@0.8.1
