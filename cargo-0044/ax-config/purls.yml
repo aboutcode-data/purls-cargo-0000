@@ -3,3 +3,4 @@
 - pkg:cargo/ax-config@0.5.2
 - pkg:cargo/ax-config@0.5.3
 - pkg:cargo/ax-config@0.5.5
+- pkg:cargo/ax-config@0.5.9
