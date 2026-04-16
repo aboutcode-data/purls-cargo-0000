@@ -1,2 +1,4 @@
 - pkg:cargo/suture-driver-otio@0.8.0
 - pkg:cargo/suture-driver-otio@0.9.0
+- pkg:cargo/suture-driver-otio@1.0.0
+- pkg:cargo/suture-driver-otio@1.0.0-rc.1
