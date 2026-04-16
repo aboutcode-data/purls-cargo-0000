@@ -8,3 +8,4 @@
 - pkg:cargo/sochdb@0.4.8
 - pkg:cargo/sochdb@0.4.9
 - pkg:cargo/sochdb@0.5.0
+- pkg:cargo/sochdb@2.0.0
