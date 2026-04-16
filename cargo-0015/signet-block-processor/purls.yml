@@ -1,3 +1,4 @@
 - pkg:cargo/signet-block-processor@0.0.1-alpha
 - pkg:cargo/signet-block-processor@0.17.0
 - pkg:cargo/signet-block-processor@0.17.1
+- pkg:cargo/signet-block-processor@0.17.2
