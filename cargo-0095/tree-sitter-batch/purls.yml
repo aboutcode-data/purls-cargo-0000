@@ -6,3 +6,4 @@
 - pkg:cargo/tree-sitter-batch@0.4.2
 - pkg:cargo/tree-sitter-batch@0.5.0
 - pkg:cargo/tree-sitter-batch@0.6.0
+- pkg:cargo/tree-sitter-batch@0.7.0
