@@ -1,4 +1,5 @@
 - pkg:cargo/agentchrome@1.12.0
 - pkg:cargo/agentchrome@1.14.0
 - pkg:cargo/agentchrome@1.17.0
+- pkg:cargo/agentchrome@1.27.0
 - pkg:cargo/agentchrome@1.3.0
