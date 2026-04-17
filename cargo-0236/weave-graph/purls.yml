@@ -4,3 +4,6 @@
 - pkg:cargo/weave-graph@0.2.2
 - pkg:cargo/weave-graph@0.2.3
 - pkg:cargo/weave-graph@0.2.4
+- pkg:cargo/weave-graph@0.2.5
+- pkg:cargo/weave-graph@0.2.6
+- pkg:cargo/weave-graph@0.2.7
