@@ -2,6 +2,7 @@
 - pkg:cargo/yantrikdb-server@0.5.11
 - pkg:cargo/yantrikdb-server@0.5.12
 - pkg:cargo/yantrikdb-server@0.5.13
+- pkg:cargo/yantrikdb-server@0.5.14
 - pkg:cargo/yantrikdb-server@0.5.2
 - pkg:cargo/yantrikdb-server@0.5.5
 - pkg:cargo/yantrikdb-server@0.5.6
