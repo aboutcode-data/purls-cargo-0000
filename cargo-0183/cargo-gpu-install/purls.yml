@@ -1,1 +1,2 @@
 - pkg:cargo/cargo-gpu-install@0.1.0
+- pkg:cargo/cargo-gpu-install@0.10.0-alpha.1

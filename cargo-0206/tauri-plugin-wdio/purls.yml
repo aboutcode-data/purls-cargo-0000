@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-wdio@1.0.0-next.0
+- pkg:cargo/tauri-plugin-wdio@1.0.0-next.1
