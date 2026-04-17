@@ -48,6 +48,7 @@
 - pkg:cargo/fusillade@16.1.0
 - pkg:cargo/fusillade@16.1.2
 - pkg:cargo/fusillade@16.1.3
+- pkg:cargo/fusillade@16.2.0
 - pkg:cargo/fusillade@2.0.0
 - pkg:cargo/fusillade@2.0.1
 - pkg:cargo/fusillade@2.1.0
