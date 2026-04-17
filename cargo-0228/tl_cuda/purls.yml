@@ -9,3 +9,4 @@
 - pkg:cargo/tl_cuda@0.4.6
 - pkg:cargo/tl_cuda@0.4.7
 - pkg:cargo/tl_cuda@0.4.8
+- pkg:cargo/tl_cuda@0.4.9
