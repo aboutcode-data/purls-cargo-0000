@@ -5,3 +5,4 @@
 - pkg:cargo/quotas@0.5.0
 - pkg:cargo/quotas@0.7.0
 - pkg:cargo/quotas@0.7.1
+- pkg:cargo/quotas@0.8.0
