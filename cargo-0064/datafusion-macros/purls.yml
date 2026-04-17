@@ -20,3 +20,4 @@
 - pkg:cargo/datafusion-macros@52.4.0
 - pkg:cargo/datafusion-macros@52.5.0
 - pkg:cargo/datafusion-macros@53.0.0
+- pkg:cargo/datafusion-macros@53.1.0

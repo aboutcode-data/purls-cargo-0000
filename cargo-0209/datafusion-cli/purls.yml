@@ -54,6 +54,7 @@
 - pkg:cargo/datafusion-cli@52.4.0
 - pkg:cargo/datafusion-cli@52.5.0
 - pkg:cargo/datafusion-cli@53.0.0
+- pkg:cargo/datafusion-cli@53.1.0
 - pkg:cargo/datafusion-cli@7.0.0
 - pkg:cargo/datafusion-cli@8.0.0
 - pkg:cargo/datafusion-cli@9.0.0
