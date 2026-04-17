@@ -11,3 +11,6 @@
 - pkg:cargo/tusks@2.1.5
 - pkg:cargo/tusks@2.1.6
 - pkg:cargo/tusks@2.1.7
+- pkg:cargo/tusks@3.0.0
+- pkg:cargo/tusks@3.1.0
+- pkg:cargo/tusks@3.2.0
