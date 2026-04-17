@@ -100,3 +100,4 @@
 - pkg:cargo/fvm_shared@4.7.5
 - pkg:cargo/fvm_shared@4.8.0
 - pkg:cargo/fvm_shared@4.8.1
+- pkg:cargo/fvm_shared@4.8.2
