@@ -5,3 +5,4 @@
 - pkg:cargo/nu_plugin_ls_colorize@1.0.2%2B0.110.0
 - pkg:cargo/nu_plugin_ls_colorize@1.0.3%2B0.111.0
 - pkg:cargo/nu_plugin_ls_colorize@1.0.4%2B0.112.1
+- pkg:cargo/nu_plugin_ls_colorize@1.0.5%2B0.112.2
