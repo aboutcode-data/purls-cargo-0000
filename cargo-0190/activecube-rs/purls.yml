@@ -17,6 +17,8 @@
 - pkg:cargo/activecube-rs@0.1.18
 - pkg:cargo/activecube-rs@0.1.19
 - pkg:cargo/activecube-rs@0.1.2
+- pkg:cargo/activecube-rs@0.1.20
+- pkg:cargo/activecube-rs@0.1.21
 - pkg:cargo/activecube-rs@0.1.4
 - pkg:cargo/activecube-rs@0.1.6
 - pkg:cargo/activecube-rs@0.1.7
