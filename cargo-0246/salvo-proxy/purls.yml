@@ -108,3 +108,4 @@
 - pkg:cargo/salvo-proxy@0.90.1
 - pkg:cargo/salvo-proxy@0.91.0
 - pkg:cargo/salvo-proxy@0.91.1
+- pkg:cargo/salvo-proxy@0.92.0
