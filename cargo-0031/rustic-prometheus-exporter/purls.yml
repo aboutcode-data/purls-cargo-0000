@@ -2,3 +2,4 @@
 - pkg:cargo/rustic-prometheus-exporter@0.2.0
 - pkg:cargo/rustic-prometheus-exporter@0.2.1
 - pkg:cargo/rustic-prometheus-exporter@0.2.2
+- pkg:cargo/rustic-prometheus-exporter@0.3.0
