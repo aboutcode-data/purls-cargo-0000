@@ -64,3 +64,4 @@
 - pkg:cargo/grepq@1.6.3
 - pkg:cargo/grepq@1.6.4
 - pkg:cargo/grepq@1.6.5
+- pkg:cargo/grepq@1.6.6
