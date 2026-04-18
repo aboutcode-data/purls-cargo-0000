@@ -1,1 +1,2 @@
 - pkg:cargo/reifydb-remote-proxy@0.4.10
+- pkg:cargo/reifydb-remote-proxy@0.4.11
