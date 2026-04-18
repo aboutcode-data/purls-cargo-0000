@@ -3,6 +3,7 @@
 - pkg:cargo/libfreemkv@0.1.2
 - pkg:cargo/libfreemkv@0.10.0
 - pkg:cargo/libfreemkv@0.10.1
+- pkg:cargo/libfreemkv@0.10.10
 - pkg:cargo/libfreemkv@0.10.2
 - pkg:cargo/libfreemkv@0.10.3
 - pkg:cargo/libfreemkv@0.10.4
