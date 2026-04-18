@@ -37,3 +37,5 @@
 - pkg:cargo/rvpm@3.5.0
 - pkg:cargo/rvpm@3.6.0
 - pkg:cargo/rvpm@3.7.0
+- pkg:cargo/rvpm@3.8.0
+- pkg:cargo/rvpm@3.9.0
