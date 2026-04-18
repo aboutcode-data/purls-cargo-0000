@@ -88,6 +88,7 @@
 - pkg:cargo/obeli-sk-wasm-workers@0.37.4
 - pkg:cargo/obeli-sk-wasm-workers@0.37.5
 - pkg:cargo/obeli-sk-wasm-workers@0.37.6
+- pkg:cargo/obeli-sk-wasm-workers@0.37.7
 - pkg:cargo/obeli-sk-wasm-workers@0.4.0
 - pkg:cargo/obeli-sk-wasm-workers@0.5.0
 - pkg:cargo/obeli-sk-wasm-workers@0.6.0
