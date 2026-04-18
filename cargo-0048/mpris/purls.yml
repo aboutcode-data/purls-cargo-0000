@@ -8,3 +8,4 @@
 - pkg:cargo/mpris@2.0.0-rc2
 - pkg:cargo/mpris@2.0.0-rc3
 - pkg:cargo/mpris@2.0.1
+- pkg:cargo/mpris@2.1.0
