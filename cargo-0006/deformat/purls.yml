@@ -1,4 +1,6 @@
 - pkg:cargo/deformat@0.1.0
+- pkg:cargo/deformat@0.10.0
+- pkg:cargo/deformat@0.11.0
 - pkg:cargo/deformat@0.2.0
 - pkg:cargo/deformat@0.2.1
 - pkg:cargo/deformat@0.3.0
@@ -9,3 +11,5 @@
 - pkg:cargo/deformat@0.5.0
 - pkg:cargo/deformat@0.5.1
 - pkg:cargo/deformat@0.6.0
+- pkg:cargo/deformat@0.9.0
+- pkg:cargo/deformat@0.9.1
