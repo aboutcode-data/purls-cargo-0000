@@ -335,3 +335,4 @@
 - pkg:cargo/vtcode@0.98.6
 - pkg:cargo/vtcode@0.98.7
 - pkg:cargo/vtcode@0.99.1
+- pkg:cargo/vtcode@0.99.2
