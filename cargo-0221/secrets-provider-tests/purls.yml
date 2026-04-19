@@ -8,3 +8,4 @@
 - pkg:cargo/secrets-provider-tests@0.4.24
 - pkg:cargo/secrets-provider-tests@0.4.25
 - pkg:cargo/secrets-provider-tests@0.4.26
+- pkg:cargo/secrets-provider-tests@0.5.0
