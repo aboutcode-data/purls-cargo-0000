@@ -180,3 +180,4 @@
 - pkg:cargo/v8@147.1.0
 - pkg:cargo/v8@147.2.0
 - pkg:cargo/v8@147.2.1
+- pkg:cargo/v8@147.3.0
