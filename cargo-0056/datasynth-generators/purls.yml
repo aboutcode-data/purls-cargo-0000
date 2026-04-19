@@ -36,3 +36,4 @@
 - pkg:cargo/datasynth-generators@2.5.0
 - pkg:cargo/datasynth-generators@3.0.0
 - pkg:cargo/datasynth-generators@3.1.0
+- pkg:cargo/datasynth-generators@3.1.1
