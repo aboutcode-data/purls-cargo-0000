@@ -1,1 +1,2 @@
 - pkg:cargo/rustybook-rumqttc@0.25.1
+- pkg:cargo/rustybook-rumqttc@0.25.2
