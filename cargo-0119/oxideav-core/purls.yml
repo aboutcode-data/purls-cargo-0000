@@ -5,3 +5,5 @@
 - pkg:cargo/oxideav-core@0.0.7
 - pkg:cargo/oxideav-core@0.0.8
 - pkg:cargo/oxideav-core@0.1.0
+- pkg:cargo/oxideav-core@0.1.1
+- pkg:cargo/oxideav-core@0.1.2
