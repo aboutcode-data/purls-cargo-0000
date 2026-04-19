@@ -89,3 +89,4 @@
 - pkg:cargo/kreuzberg-tesseract@4.8.5
 - pkg:cargo/kreuzberg-tesseract@4.8.6
 - pkg:cargo/kreuzberg-tesseract@4.9.0
+- pkg:cargo/kreuzberg-tesseract@4.9.1
