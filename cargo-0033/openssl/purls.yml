@@ -78,6 +78,7 @@
 - pkg:cargo/openssl@0.10.75
 - pkg:cargo/openssl@0.10.76
 - pkg:cargo/openssl@0.10.77
+- pkg:cargo/openssl@0.10.78
 - pkg:cargo/openssl@0.10.8
 - pkg:cargo/openssl@0.10.9
 - pkg:cargo/openssl@0.2.0

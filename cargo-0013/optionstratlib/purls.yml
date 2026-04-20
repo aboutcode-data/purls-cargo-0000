@@ -17,6 +17,8 @@
 - pkg:cargo/optionstratlib@0.15.1
 - pkg:cargo/optionstratlib@0.15.2
 - pkg:cargo/optionstratlib@0.15.3
+- pkg:cargo/optionstratlib@0.16.0
+- pkg:cargo/optionstratlib@0.16.2
 - pkg:cargo/optionstratlib@0.2.0
 - pkg:cargo/optionstratlib@0.2.1
 - pkg:cargo/optionstratlib@0.2.2

@@ -10,3 +10,5 @@
 - pkg:cargo/openmw-config@0.1.91
 - pkg:cargo/openmw-config@0.1.92
 - pkg:cargo/openmw-config@0.1.93
+- pkg:cargo/openmw-config@1.0.0
+- pkg:cargo/openmw-config@1.0.1
