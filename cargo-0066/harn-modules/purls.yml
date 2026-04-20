@@ -8,3 +8,5 @@
 - pkg:cargo/harn-modules@0.7.20
 - pkg:cargo/harn-modules@0.7.21
 - pkg:cargo/harn-modules@0.7.22
+- pkg:cargo/harn-modules@0.7.23
+- pkg:cargo/harn-modules@0.7.24
