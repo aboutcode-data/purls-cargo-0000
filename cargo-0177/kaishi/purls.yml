@@ -1,2 +1,4 @@
 - pkg:cargo/kaishi@0.8.4
 - pkg:cargo/kaishi@0.9.3
+- pkg:cargo/kaishi@1.0.0
+- pkg:cargo/kaishi@1.0.1
