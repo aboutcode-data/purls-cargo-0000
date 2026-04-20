@@ -154,3 +154,4 @@
 - pkg:cargo/fast_log@1.7.5
 - pkg:cargo/fast_log@1.7.6
 - pkg:cargo/fast_log@1.7.7
+- pkg:cargo/fast_log@1.7.8
