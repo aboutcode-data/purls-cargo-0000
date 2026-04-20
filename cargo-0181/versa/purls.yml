@@ -85,3 +85,4 @@
 - pkg:cargo/versa@1.8.0
 - pkg:cargo/versa@1.9.0-rc1
 - pkg:cargo/versa@1.9.0-rc2
+- pkg:cargo/versa@1.9.0-rc3
