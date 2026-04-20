@@ -26,6 +26,7 @@
 - pkg:cargo/es-entity-macros@0.10.31
 - pkg:cargo/es-entity-macros@0.10.32
 - pkg:cargo/es-entity-macros@0.10.33
+- pkg:cargo/es-entity-macros@0.10.34
 - pkg:cargo/es-entity-macros@0.10.4
 - pkg:cargo/es-entity-macros@0.10.5
 - pkg:cargo/es-entity-macros@0.10.6

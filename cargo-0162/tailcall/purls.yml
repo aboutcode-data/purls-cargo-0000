@@ -6,3 +6,4 @@
 - pkg:cargo/tailcall@0.1.6
 - pkg:cargo/tailcall@1.0.0
 - pkg:cargo/tailcall@1.0.1
+- pkg:cargo/tailcall@2.0.0
