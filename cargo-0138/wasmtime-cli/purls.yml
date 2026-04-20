@@ -157,6 +157,7 @@
 - pkg:cargo/wasmtime-cli@42.0.2
 - pkg:cargo/wasmtime-cli@43.0.0
 - pkg:cargo/wasmtime-cli@43.0.1
+- pkg:cargo/wasmtime-cli@44.0.0
 - pkg:cargo/wasmtime-cli@5.0.0
 - pkg:cargo/wasmtime-cli@5.0.1
 - pkg:cargo/wasmtime-cli@6.0.0
