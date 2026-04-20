@@ -7,3 +7,6 @@
 - pkg:cargo/certboy@2026.16.17
 - pkg:cargo/certboy@2026.16.41
 - pkg:cargo/certboy@2026.16.49
+- pkg:cargo/certboy@2026.4.1-dev0
+- pkg:cargo/certboy@2026.4.2-dev0
+- pkg:cargo/certboy@2026.4.5-dev0
