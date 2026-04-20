@@ -9,4 +9,5 @@
 - pkg:cargo/teasr-core@0.15.7
 - pkg:cargo/teasr-core@0.16.0
 - pkg:cargo/teasr-core@0.17.0
+- pkg:cargo/teasr-core@0.19.2
 - pkg:cargo/teasr-core@0.2.0
