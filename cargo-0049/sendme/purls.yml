@@ -27,6 +27,7 @@
 - pkg:cargo/sendme@0.30.0
 - pkg:cargo/sendme@0.31.0
 - pkg:cargo/sendme@0.32.0
+- pkg:cargo/sendme@0.33.0
 - pkg:cargo/sendme@0.5.0
 - pkg:cargo/sendme@0.6.0
 - pkg:cargo/sendme@0.7.0
