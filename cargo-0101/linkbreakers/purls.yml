@@ -4,6 +4,7 @@
 - pkg:cargo/linkbreakers@1.45.1
 - pkg:cargo/linkbreakers@1.46.0
 - pkg:cargo/linkbreakers@1.46.1
+- pkg:cargo/linkbreakers@1.46.10
 - pkg:cargo/linkbreakers@1.46.2
 - pkg:cargo/linkbreakers@1.46.3
 - pkg:cargo/linkbreakers@1.46.4
