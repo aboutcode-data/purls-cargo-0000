@@ -3,6 +3,8 @@
 - pkg:cargo/clipmem@0.1.2
 - pkg:cargo/clipmem@0.2.0
 - pkg:cargo/clipmem@0.2.1
+- pkg:cargo/clipmem@0.2.10
+- pkg:cargo/clipmem@0.2.11
 - pkg:cargo/clipmem@0.2.2
 - pkg:cargo/clipmem@0.2.3
 - pkg:cargo/clipmem@0.2.4
@@ -10,3 +12,4 @@
 - pkg:cargo/clipmem@0.2.6
 - pkg:cargo/clipmem@0.2.7
 - pkg:cargo/clipmem@0.2.8
+- pkg:cargo/clipmem@0.2.9

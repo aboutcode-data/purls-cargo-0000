@@ -4,3 +4,6 @@
 - pkg:cargo/mur@0.7.6
 - pkg:cargo/mur@0.8.5
 - pkg:cargo/mur@0.8.6
+- pkg:cargo/mur@0.8.7
+- pkg:cargo/mur@0.8.8
+- pkg:cargo/mur@0.8.9
