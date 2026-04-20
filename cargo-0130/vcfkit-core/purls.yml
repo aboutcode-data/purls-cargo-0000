@@ -5,3 +5,5 @@
 - pkg:cargo/vcfkit-core@0.1.5
 - pkg:cargo/vcfkit-core@0.1.6
 - pkg:cargo/vcfkit-core@0.3.0-alpha.2
+- pkg:cargo/vcfkit-core@0.3.0-alpha.3
+- pkg:cargo/vcfkit-core@0.3.0-alpha.4
