@@ -62,3 +62,4 @@
 - pkg:cargo/sr-core@7.0.0
 - pkg:cargo/sr-core@7.1.0
 - pkg:cargo/sr-core@7.1.1
+- pkg:cargo/sr-core@7.1.2
