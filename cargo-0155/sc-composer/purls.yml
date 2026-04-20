@@ -7,3 +7,4 @@
 - pkg:cargo/sc-composer@0.44.9
 - pkg:cargo/sc-composer@0.45.1
 - pkg:cargo/sc-composer@0.45.2
+- pkg:cargo/sc-composer@1.0.0

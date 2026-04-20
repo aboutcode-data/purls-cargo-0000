@@ -2,3 +2,4 @@
 - pkg:cargo/sc-compose@0.43.4
 - pkg:cargo/sc-compose@0.44.9
 - pkg:cargo/sc-compose@0.45.2
+- pkg:cargo/sc-compose@1.0.0
