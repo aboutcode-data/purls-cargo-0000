@@ -43,3 +43,4 @@
 - pkg:cargo/iroh-gossip@0.95.0
 - pkg:cargo/iroh-gossip@0.96.0
 - pkg:cargo/iroh-gossip@0.97.0
+- pkg:cargo/iroh-gossip@0.98.0
