@@ -2,3 +2,4 @@
 - pkg:cargo/deribit-websocket@0.1.1
 - pkg:cargo/deribit-websocket@0.2.0
 - pkg:cargo/deribit-websocket@0.2.1
+- pkg:cargo/deribit-websocket@0.3.0
