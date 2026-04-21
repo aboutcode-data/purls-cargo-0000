@@ -16,3 +16,4 @@
 - pkg:cargo/dyn-slice@3.2.0-alpha.3
 - pkg:cargo/dyn-slice@3.2.1
 - pkg:cargo/dyn-slice@3.2.2
+- pkg:cargo/dyn-slice@4.0.0-alpha.1
