@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-test-r@2.2.2
 - pkg:cargo/cargo-test-r@2.2.3
 - pkg:cargo/cargo-test-r@2.2.4
+- pkg:cargo/cargo-test-r@2.2.5
