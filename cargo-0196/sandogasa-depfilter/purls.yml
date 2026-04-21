@@ -1,4 +1,5 @@
 - pkg:cargo/sandogasa-depfilter@0.10.0
+- pkg:cargo/sandogasa-depfilter@0.10.1
 - pkg:cargo/sandogasa-depfilter@0.7.0
 - pkg:cargo/sandogasa-depfilter@0.8.0
 - pkg:cargo/sandogasa-depfilter@0.8.1
