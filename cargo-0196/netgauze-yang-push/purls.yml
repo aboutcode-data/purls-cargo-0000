@@ -1,4 +1,5 @@
 - pkg:cargo/netgauze-yang-push@0.10.0
+- pkg:cargo/netgauze-yang-push@0.11.0
 - pkg:cargo/netgauze-yang-push@0.7.0
 - pkg:cargo/netgauze-yang-push@0.8.0
 - pkg:cargo/netgauze-yang-push@0.9.0
