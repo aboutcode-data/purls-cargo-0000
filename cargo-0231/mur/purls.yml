@@ -2,6 +2,10 @@
 - pkg:cargo/mur@0.1.6
 - pkg:cargo/mur@0.7.5
 - pkg:cargo/mur@0.7.6
+- pkg:cargo/mur@0.8.10
+- pkg:cargo/mur@0.8.11
+- pkg:cargo/mur@0.8.12
+- pkg:cargo/mur@0.8.13
 - pkg:cargo/mur@0.8.5
 - pkg:cargo/mur@0.8.6
 - pkg:cargo/mur@0.8.7
