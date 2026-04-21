@@ -20,6 +20,7 @@
 - pkg:cargo/imap-proto@0.16.4
 - pkg:cargo/imap-proto@0.16.5
 - pkg:cargo/imap-proto@0.16.6
+- pkg:cargo/imap-proto@0.16.7
 - pkg:cargo/imap-proto@0.2.0
 - pkg:cargo/imap-proto@0.3.0
 - pkg:cargo/imap-proto@0.4.0
