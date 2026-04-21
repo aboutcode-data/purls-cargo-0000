@@ -1,0 +1,6 @@
+- pkg:cargo/mysten-metrics@9.0.0
+- pkg:cargo/mysten-metrics@9.0.1
+- pkg:cargo/mysten-metrics@9.0.2
+- pkg:cargo/mysten-metrics@9.0.3
+- pkg:cargo/mysten-metrics@99.0.0
+- pkg:cargo/mysten-metrics@99.0.1
