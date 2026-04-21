@@ -18,3 +18,4 @@
 - pkg:cargo/sst_sdk@4.8.0
 - pkg:cargo/sst_sdk@4.9.0
 - pkg:cargo/sst_sdk@4.9.1
+- pkg:cargo/sst_sdk@4.9.2
