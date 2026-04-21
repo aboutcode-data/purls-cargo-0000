@@ -11,6 +11,7 @@
 - pkg:cargo/hello-world-test-rust@0.21.8-g0e0a8fdbe7d841a0
 - pkg:cargo/hello-world-test-rust@0.21.8-g1d1bafd5f4d14bc4
 - pkg:cargo/hello-world-test-rust@0.21.8-g503e0466b77842c1
+- pkg:cargo/hello-world-test-rust@0.21.8-g8fa2d14a41a44406
 - pkg:cargo/hello-world-test-rust@0.21.8-gafc104c40011492e
 - pkg:cargo/hello-world-test-rust@0.21.8-gff20a9cb08364541
 - pkg:cargo/hello-world-test-rust@0.21.9
