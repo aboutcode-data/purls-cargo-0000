@@ -2,3 +2,4 @@
 - pkg:cargo/ringkernel-cli@0.4.0
 - pkg:cargo/ringkernel-cli@0.4.1
 - pkg:cargo/ringkernel-cli@0.4.2
+- pkg:cargo/ringkernel-cli@1.1.0
