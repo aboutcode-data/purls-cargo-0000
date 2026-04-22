@@ -86,6 +86,7 @@
 - pkg:cargo/deno_cache@0.176.0
 - pkg:cargo/deno_cache@0.177.0
 - pkg:cargo/deno_cache@0.178.0
+- pkg:cargo/deno_cache@0.179.0
 - pkg:cargo/deno_cache@0.18.0
 - pkg:cargo/deno_cache@0.19.0
 - pkg:cargo/deno_cache@0.2.0
