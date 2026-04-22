@@ -5,3 +5,5 @@
 - pkg:cargo/peon-core@0.1.4
 - pkg:cargo/peon-core@0.2.0
 - pkg:cargo/peon-core@0.2.1
+- pkg:cargo/peon-core@0.2.2
+- pkg:cargo/peon-core@0.2.3
