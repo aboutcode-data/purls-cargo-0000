@@ -39,3 +39,4 @@
 - pkg:cargo/datasynth-core@3.1.1
 - pkg:cargo/datasynth-core@4.0.1
 - pkg:cargo/datasynth-core@4.2.1
+- pkg:cargo/datasynth-core@4.4.3
