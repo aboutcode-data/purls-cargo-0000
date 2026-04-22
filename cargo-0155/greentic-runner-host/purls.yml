@@ -78,3 +78,4 @@
 - pkg:cargo/greentic-runner-host@0.5.6
 - pkg:cargo/greentic-runner-host@0.5.7
 - pkg:cargo/greentic-runner-host@0.5.8
+- pkg:cargo/greentic-runner-host@0.5.9
