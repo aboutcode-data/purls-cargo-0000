@@ -69,6 +69,7 @@
 - pkg:cargo/pyrudof@0.1.99
 - pkg:cargo/pyrudof@0.2.0
 - pkg:cargo/pyrudof@0.2.1
+- pkg:cargo/pyrudof@0.2.12
 - pkg:cargo/pyrudof@0.2.2
 - pkg:cargo/pyrudof@0.2.6
 - pkg:cargo/pyrudof@0.2.7
