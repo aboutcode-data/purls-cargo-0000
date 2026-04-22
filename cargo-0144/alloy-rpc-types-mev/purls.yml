@@ -123,3 +123,4 @@
 - pkg:cargo/alloy-rpc-types-mev@1.8.2
 - pkg:cargo/alloy-rpc-types-mev@1.8.3
 - pkg:cargo/alloy-rpc-types-mev@2.0.0
+- pkg:cargo/alloy-rpc-types-mev@2.0.1
