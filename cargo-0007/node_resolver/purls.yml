@@ -81,4 +81,5 @@
 - pkg:cargo/node_resolver@0.81.0
 - pkg:cargo/node_resolver@0.82.0
 - pkg:cargo/node_resolver@0.83.0
+- pkg:cargo/node_resolver@0.84.0
 - pkg:cargo/node_resolver@0.9.0
