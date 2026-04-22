@@ -36,3 +36,4 @@
 - pkg:cargo/guilder-client-hyperliquid@0.4.7
 - pkg:cargo/guilder-client-hyperliquid@0.4.8
 - pkg:cargo/guilder-client-hyperliquid@0.4.9
+- pkg:cargo/guilder-client-hyperliquid@0.5.1
