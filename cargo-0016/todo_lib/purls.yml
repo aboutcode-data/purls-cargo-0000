@@ -17,6 +17,7 @@
 - pkg:cargo/todo_lib@10.1.0
 - pkg:cargo/todo_lib@11.0.0
 - pkg:cargo/todo_lib@11.1.0
+- pkg:cargo/todo_lib@11.2.0
 - pkg:cargo/todo_lib@2.0.0
 - pkg:cargo/todo_lib@2.1.0
 - pkg:cargo/todo_lib@2.1.1

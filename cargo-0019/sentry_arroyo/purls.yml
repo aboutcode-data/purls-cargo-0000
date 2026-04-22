@@ -67,3 +67,4 @@
 - pkg:cargo/sentry_arroyo@2.38.5
 - pkg:cargo/sentry_arroyo@2.38.6
 - pkg:cargo/sentry_arroyo@2.38.7
+- pkg:cargo/sentry_arroyo@2.39.0
