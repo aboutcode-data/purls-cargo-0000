@@ -67,6 +67,7 @@
 - pkg:cargo/ic-utils@0.46.2
 - pkg:cargo/ic-utils@0.47.0
 - pkg:cargo/ic-utils@0.47.1
+- pkg:cargo/ic-utils@0.47.2
 - pkg:cargo/ic-utils@0.5.0
 - pkg:cargo/ic-utils@0.6.0
 - pkg:cargo/ic-utils@0.7.0

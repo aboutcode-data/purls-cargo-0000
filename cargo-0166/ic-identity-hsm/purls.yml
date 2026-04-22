@@ -68,3 +68,4 @@
 - pkg:cargo/ic-identity-hsm@0.46.2
 - pkg:cargo/ic-identity-hsm@0.47.0
 - pkg:cargo/ic-identity-hsm@0.47.1
+- pkg:cargo/ic-identity-hsm@0.47.2
