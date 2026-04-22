@@ -30,3 +30,6 @@
 - pkg:cargo/ibflex@1.3.1
 - pkg:cargo/ibflex@1.4.0
 - pkg:cargo/ibflex@1.4.1
+- pkg:cargo/ibflex@1.4.2
+- pkg:cargo/ibflex@1.4.3
+- pkg:cargo/ibflex@1.5.0
