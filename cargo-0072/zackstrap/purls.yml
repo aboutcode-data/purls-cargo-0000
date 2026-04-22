@@ -8,3 +8,5 @@
 - pkg:cargo/zackstrap@1.1.0
 - pkg:cargo/zackstrap@1.1.1
 - pkg:cargo/zackstrap@1.2.1
+- pkg:cargo/zackstrap@1.5.0
+- pkg:cargo/zackstrap@1.6.0
