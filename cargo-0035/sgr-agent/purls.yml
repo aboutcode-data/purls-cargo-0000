@@ -19,3 +19,4 @@
 - pkg:cargo/sgr-agent@0.7.3
 - pkg:cargo/sgr-agent@0.7.4
 - pkg:cargo/sgr-agent@0.7.6
+- pkg:cargo/sgr-agent@0.7.7
