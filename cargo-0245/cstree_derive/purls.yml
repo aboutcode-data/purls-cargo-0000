@@ -3,3 +3,4 @@
 - pkg:cargo/cstree_derive@0.12.1
 - pkg:cargo/cstree_derive@0.12.2
 - pkg:cargo/cstree_derive@0.13.0
+- pkg:cargo/cstree_derive@0.14.0
