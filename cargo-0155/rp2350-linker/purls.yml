@@ -2,3 +2,5 @@
 - pkg:cargo/rp2350-linker@0.1.1
 - pkg:cargo/rp2350-linker@0.2.0
 - pkg:cargo/rp2350-linker@0.2.1
+- pkg:cargo/rp2350-linker@0.2.2
+- pkg:cargo/rp2350-linker@0.2.3
