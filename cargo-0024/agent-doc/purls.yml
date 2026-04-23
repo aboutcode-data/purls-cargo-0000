@@ -160,6 +160,7 @@
 - pkg:cargo/agent-doc@0.33.1
 - pkg:cargo/agent-doc@0.33.10
 - pkg:cargo/agent-doc@0.33.11
+- pkg:cargo/agent-doc@0.33.12
 - pkg:cargo/agent-doc@0.33.2
 - pkg:cargo/agent-doc@0.33.3
 - pkg:cargo/agent-doc@0.33.7
