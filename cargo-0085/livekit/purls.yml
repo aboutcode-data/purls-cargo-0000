@@ -39,6 +39,7 @@
 - pkg:cargo/livekit@0.7.33
 - pkg:cargo/livekit@0.7.34
 - pkg:cargo/livekit@0.7.36
+- pkg:cargo/livekit@0.7.37
 - pkg:cargo/livekit@0.7.4
 - pkg:cargo/livekit@0.7.5
 - pkg:cargo/livekit@0.7.6
