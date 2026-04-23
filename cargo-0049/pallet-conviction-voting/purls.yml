@@ -44,6 +44,7 @@
 - pkg:cargo/pallet-conviction-voting@43.0.1
 - pkg:cargo/pallet-conviction-voting@44.0.0
 - pkg:cargo/pallet-conviction-voting@45.0.0
+- pkg:cargo/pallet-conviction-voting@45.0.1
 - pkg:cargo/pallet-conviction-voting@46.0.0
 - pkg:cargo/pallet-conviction-voting@5.0.0
 - pkg:cargo/pallet-conviction-voting@6.0.0
