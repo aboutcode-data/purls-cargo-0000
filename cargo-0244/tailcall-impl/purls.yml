@@ -10,3 +10,4 @@
 - pkg:cargo/tailcall-impl@2.0.4
 - pkg:cargo/tailcall-impl@2.1.0
 - pkg:cargo/tailcall-impl@2.2.0
+- pkg:cargo/tailcall-impl@2.2.1

@@ -13,3 +13,4 @@
 - pkg:cargo/tailcall@2.0.4
 - pkg:cargo/tailcall@2.1.0
 - pkg:cargo/tailcall@2.2.0
+- pkg:cargo/tailcall@2.2.1
