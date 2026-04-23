@@ -3,6 +3,7 @@
 - pkg:cargo/barretenberg-rs@0.0.1-commit.03b9a845c
 - pkg:cargo/barretenberg-rs@0.0.1-commit.04852196a
 - pkg:cargo/barretenberg-rs@0.0.1-commit.0658669b3
+- pkg:cargo/barretenberg-rs@0.0.1-commit.0dc957cde
 - pkg:cargo/barretenberg-rs@0.0.1-commit.10bd49492
 - pkg:cargo/barretenberg-rs@0.0.1-commit.11bf3dd6e
 - pkg:cargo/barretenberg-rs@0.0.1-commit.125b3452
@@ -99,6 +100,7 @@
 - pkg:cargo/barretenberg-rs@0.0.1-commit.f504929
 - pkg:cargo/barretenberg-rs@0.0.1-commit.f5d02921e
 - pkg:cargo/barretenberg-rs@0.0.1-commit.f650c0a5c
+- pkg:cargo/barretenberg-rs@0.0.1-commit.f7ea82942
 - pkg:cargo/barretenberg-rs@0.0.1-commit.f81dbcf
 - pkg:cargo/barretenberg-rs@0.0.1-commit.ff7989d6c
 - pkg:cargo/barretenberg-rs@0.0.1-commit.ffe5b04ea
