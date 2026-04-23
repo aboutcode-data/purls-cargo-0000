@@ -22,6 +22,7 @@
 - pkg:cargo/winvd@0.0.45
 - pkg:cargo/winvd@0.0.46
 - pkg:cargo/winvd@0.0.48
+- pkg:cargo/winvd@0.0.49
 - pkg:cargo/winvd@0.0.5
 - pkg:cargo/winvd@0.0.6
 - pkg:cargo/winvd@0.0.7
