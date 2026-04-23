@@ -192,3 +192,5 @@
 - pkg:cargo/stablebond-sdk@2.2.0
 - pkg:cargo/stablebond-sdk@2.2.1
 - pkg:cargo/stablebond-sdk@3.0.0
+- pkg:cargo/stablebond-sdk@3.0.1
+- pkg:cargo/stablebond-sdk@3.0.2
