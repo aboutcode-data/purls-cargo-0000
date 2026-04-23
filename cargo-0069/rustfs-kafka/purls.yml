@@ -3,3 +3,4 @@
 - pkg:cargo/rustfs-kafka@0.22.0
 - pkg:cargo/rustfs-kafka@1.0.0
 - pkg:cargo/rustfs-kafka@1.1.0
+- pkg:cargo/rustfs-kafka@1.2.0
