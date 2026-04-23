@@ -33,6 +33,7 @@
 - pkg:cargo/rb-sys@0.9.124
 - pkg:cargo/rb-sys@0.9.125
 - pkg:cargo/rb-sys@0.9.126
+- pkg:cargo/rb-sys@0.9.127
 - pkg:cargo/rb-sys@0.9.13
 - pkg:cargo/rb-sys@0.9.14
 - pkg:cargo/rb-sys@0.9.15
