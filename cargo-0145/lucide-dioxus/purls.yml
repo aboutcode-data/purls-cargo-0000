@@ -72,3 +72,5 @@
 - pkg:cargo/lucide-dioxus@2.7.0
 - pkg:cargo/lucide-dioxus@2.8.0
 - pkg:cargo/lucide-dioxus@2.9.0
+- pkg:cargo/lucide-dioxus@3.0.0
+- pkg:cargo/lucide-dioxus@3.0.1
