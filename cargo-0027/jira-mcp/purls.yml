@@ -4,5 +4,6 @@
 - pkg:cargo/jira-mcp@0.13.0
 - pkg:cargo/jira-mcp@0.14.0
 - pkg:cargo/jira-mcp@0.15.1
+- pkg:cargo/jira-mcp@0.15.3
 - pkg:cargo/jira-mcp@0.8.1
 - pkg:cargo/jira-mcp@0.9.0
