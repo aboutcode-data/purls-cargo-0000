@@ -14,3 +14,4 @@
 - pkg:cargo/converge-domain@3.2.1
 - pkg:cargo/converge-domain@3.7.0
 - pkg:cargo/converge-domain@3.7.2
+- pkg:cargo/converge-domain@3.7.3
