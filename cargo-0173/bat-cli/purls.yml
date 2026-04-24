@@ -32,6 +32,8 @@
 - pkg:cargo/bat-cli@0.1.9
 - pkg:cargo/bat-cli@0.10.0
 - pkg:cargo/bat-cli@0.11.0
+- pkg:cargo/bat-cli@0.12.0
+- pkg:cargo/bat-cli@0.12.1
 - pkg:cargo/bat-cli@0.2.0
 - pkg:cargo/bat-cli@0.2.10
 - pkg:cargo/bat-cli@0.2.11
