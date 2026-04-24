@@ -37,6 +37,7 @@
 - pkg:cargo/golem-rust-macro@1.9.0
 - pkg:cargo/golem-rust-macro@1.9.1
 - pkg:cargo/golem-rust-macro@1.9.2
+- pkg:cargo/golem-rust-macro@2.0.0
 - pkg:cargo/golem-rust-macro@2.0.0-dev.1
 - pkg:cargo/golem-rust-macro@2.0.0-dev.2
 - pkg:cargo/golem-rust-macro@2.0.0-dev.3
