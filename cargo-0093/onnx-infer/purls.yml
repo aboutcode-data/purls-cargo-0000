@@ -1,4 +1,6 @@
 - pkg:cargo/onnx-infer@0.1.0
+- pkg:cargo/onnx-infer@0.4.10
+- pkg:cargo/onnx-infer@0.4.11
 - pkg:cargo/onnx-infer@0.4.2
 - pkg:cargo/onnx-infer@0.4.3
 - pkg:cargo/onnx-infer@0.4.4
