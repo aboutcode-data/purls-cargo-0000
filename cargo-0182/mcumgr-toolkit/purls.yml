@@ -8,6 +8,7 @@
 - pkg:cargo/mcumgr-toolkit@0.12.1
 - pkg:cargo/mcumgr-toolkit@0.13.0
 - pkg:cargo/mcumgr-toolkit@0.13.1
+- pkg:cargo/mcumgr-toolkit@0.13.2
 - pkg:cargo/mcumgr-toolkit@0.8.0
 - pkg:cargo/mcumgr-toolkit@0.8.1
 - pkg:cargo/mcumgr-toolkit@0.9.0

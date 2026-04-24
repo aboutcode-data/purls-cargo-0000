@@ -9,3 +9,6 @@
 - pkg:cargo/luck@1.5.1
 - pkg:cargo/luck@1.5.2
 - pkg:cargo/luck@2.0.0
+- pkg:cargo/luck@3.0.0
+- pkg:cargo/luck@3.0.1
+- pkg:cargo/luck@3.1.0
