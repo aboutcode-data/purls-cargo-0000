@@ -97,3 +97,4 @@
 - pkg:cargo/op-alloy-rpc-jsonrpsee@0.9.1
 - pkg:cargo/op-alloy-rpc-jsonrpsee@0.9.2
 - pkg:cargo/op-alloy-rpc-jsonrpsee@0.9.6
+- pkg:cargo/op-alloy-rpc-jsonrpsee@2.0.0
