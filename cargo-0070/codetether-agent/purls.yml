@@ -27,3 +27,4 @@
 - pkg:cargo/codetether-agent@4.5.7
 - pkg:cargo/codetether-agent@4.6.0
 - pkg:cargo/codetether-agent@4.6.1
+- pkg:cargo/codetether-agent@4.6.2
