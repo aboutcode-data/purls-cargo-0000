@@ -1,2 +1,3 @@
 - pkg:cargo/orion-accessor@0.5.4
 - pkg:cargo/orion-accessor@0.6.0
+- pkg:cargo/orion-accessor@0.7.0
