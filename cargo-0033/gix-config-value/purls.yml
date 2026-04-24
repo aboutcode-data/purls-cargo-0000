@@ -29,3 +29,4 @@
 - pkg:cargo/gix-config-value@0.16.0
 - pkg:cargo/gix-config-value@0.17.0
 - pkg:cargo/gix-config-value@0.17.1
+- pkg:cargo/gix-config-value@0.17.2
