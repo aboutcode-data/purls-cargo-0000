@@ -30,3 +30,4 @@
 - pkg:cargo/cucumber-codegen@0.21.1
 - pkg:cargo/cucumber-codegen@0.22.0
 - pkg:cargo/cucumber-codegen@0.22.1
+- pkg:cargo/cucumber-codegen@0.23.0
