@@ -37,3 +37,4 @@
 - pkg:cargo/uzor-backend-vello-gpu@1.0.7
 - pkg:cargo/uzor-backend-vello-gpu@1.0.8
 - pkg:cargo/uzor-backend-vello-gpu@1.0.9
+- pkg:cargo/uzor-backend-vello-gpu@1.1.0
