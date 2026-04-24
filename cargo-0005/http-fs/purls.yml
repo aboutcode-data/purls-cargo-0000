@@ -9,3 +9,4 @@
 - pkg:cargo/http-fs@2.0.0-alpha.1
 - pkg:cargo/http-fs@2.0.0-alpha.2
 - pkg:cargo/http-fs@2.0.1
+- pkg:cargo/http-fs@2.1.0
