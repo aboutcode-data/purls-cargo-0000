@@ -1,5 +1,8 @@
 - pkg:cargo/openlatch-client@0.0.0
 - pkg:cargo/openlatch-client@0.0.1
+- pkg:cargo/openlatch-client@0.1.12
+- pkg:cargo/openlatch-client@0.1.13
+- pkg:cargo/openlatch-client@0.1.14
 - pkg:cargo/openlatch-client@0.1.5
 - pkg:cargo/openlatch-client@0.1.6
 - pkg:cargo/openlatch-client@0.1.7

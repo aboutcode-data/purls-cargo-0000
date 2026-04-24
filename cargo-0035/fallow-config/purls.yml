@@ -103,6 +103,7 @@
 - pkg:cargo/fallow-config@2.46.0
 - pkg:cargo/fallow-config@2.47.0
 - pkg:cargo/fallow-config@2.47.1
+- pkg:cargo/fallow-config@2.48.0
 - pkg:cargo/fallow-config@2.5.0
 - pkg:cargo/fallow-config@2.5.1
 - pkg:cargo/fallow-config@2.5.2
