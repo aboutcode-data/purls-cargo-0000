@@ -3,4 +3,5 @@
 - pkg:cargo/vastlint-cli@0.3.0
 - pkg:cargo/vastlint-cli@0.3.1
 - pkg:cargo/vastlint-cli@0.3.3
+- pkg:cargo/vastlint-cli@0.3.6
 - pkg:cargo/vastlint-cli@1.0.0
