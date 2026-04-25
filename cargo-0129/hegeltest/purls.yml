@@ -53,3 +53,4 @@
 - pkg:cargo/hegeltest@0.7.5
 - pkg:cargo/hegeltest@0.7.6
 - pkg:cargo/hegeltest@0.8.0
+- pkg:cargo/hegeltest@0.8.1
