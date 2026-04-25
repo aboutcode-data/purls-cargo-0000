@@ -16,3 +16,4 @@
 - pkg:cargo/nils-test-support@0.6.2
 - pkg:cargo/nils-test-support@0.6.3
 - pkg:cargo/nils-test-support@0.6.5
+- pkg:cargo/nils-test-support@0.7.2
