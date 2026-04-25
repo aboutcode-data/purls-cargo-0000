@@ -1,1 +1,2 @@
 - pkg:cargo/pdk-ldap-lib@1.8.0
+- pkg:cargo/pdk-ldap-lib@1.9.0-alpha.0
