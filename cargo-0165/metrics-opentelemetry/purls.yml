@@ -1,1 +1,2 @@
 - pkg:cargo/metrics-opentelemetry@0.24.0
+- pkg:cargo/metrics-opentelemetry@0.24.1
