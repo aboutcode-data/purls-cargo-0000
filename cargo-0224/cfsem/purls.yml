@@ -16,3 +16,4 @@
 - pkg:cargo/cfsem@5.3.0
 - pkg:cargo/cfsem@5.3.1
 - pkg:cargo/cfsem@5.4.0
+- pkg:cargo/cfsem@6.0.0
