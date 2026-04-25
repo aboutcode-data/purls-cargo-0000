@@ -11,3 +11,4 @@
 - pkg:cargo/cmakefmt-rust@0.9.0
 - pkg:cargo/cmakefmt-rust@1.0.0
 - pkg:cargo/cmakefmt-rust@1.1.0
+- pkg:cargo/cmakefmt-rust@1.2.0
