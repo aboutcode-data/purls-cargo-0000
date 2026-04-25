@@ -4,3 +4,4 @@
 - pkg:cargo/ftui-pty@0.2.2
 - pkg:cargo/ftui-pty@0.3.0
 - pkg:cargo/ftui-pty@0.3.1
+- pkg:cargo/ftui-pty@0.4.0

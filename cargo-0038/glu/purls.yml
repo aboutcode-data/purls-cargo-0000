@@ -6,3 +6,4 @@
 - pkg:cargo/glu@0.7.26
 - pkg:cargo/glu@0.7.8
 - pkg:cargo/glu@0.7.9
+- pkg:cargo/glu@26.4.24
