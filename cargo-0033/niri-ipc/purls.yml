@@ -5,3 +5,4 @@
 - pkg:cargo/niri-ipc@25.5.0
 - pkg:cargo/niri-ipc@25.5.1
 - pkg:cargo/niri-ipc@25.8.0
+- pkg:cargo/niri-ipc@26.4.0
