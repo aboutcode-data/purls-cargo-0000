@@ -13,3 +13,4 @@
 - pkg:cargo/transip-execute@0.3.8
 - pkg:cargo/transip-execute@0.4.0
 - pkg:cargo/transip-execute@0.4.5
+- pkg:cargo/transip-execute@0.4.7
