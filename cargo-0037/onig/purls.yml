@@ -52,3 +52,4 @@
 - pkg:cargo/onig@6.4.0
 - pkg:cargo/onig@6.5.0
 - pkg:cargo/onig@6.5.1
+- pkg:cargo/onig@6.5.2
