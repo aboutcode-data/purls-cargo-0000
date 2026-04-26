@@ -3,3 +3,4 @@
 - pkg:cargo/tree-sitter-dart@0.0.3
 - pkg:cargo/tree-sitter-dart@0.0.4
 - pkg:cargo/tree-sitter-dart@0.1.0
+- pkg:cargo/tree-sitter-dart@0.2.0
