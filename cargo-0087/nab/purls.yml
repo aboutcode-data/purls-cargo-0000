@@ -1,4 +1,5 @@
 - pkg:cargo/nab@0.10.1
+- pkg:cargo/nab@0.10.3
 - pkg:cargo/nab@0.3.0
 - pkg:cargo/nab@0.4.0
 - pkg:cargo/nab@0.6.0
