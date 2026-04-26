@@ -19,3 +19,4 @@
 - pkg:cargo/tpm2-device@0.5.5
 - pkg:cargo/tpm2-device@0.5.6
 - pkg:cargo/tpm2-device@0.5.7
+- pkg:cargo/tpm2-device@0.5.8
