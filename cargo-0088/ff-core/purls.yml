@@ -12,3 +12,4 @@
 - pkg:cargo/ff-core@0.6.1
 - pkg:cargo/ff-core@0.8.0
 - pkg:cargo/ff-core@0.8.1
+- pkg:cargo/ff-core@0.9.0
