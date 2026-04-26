@@ -39,6 +39,7 @@
 - pkg:cargo/velesdb-cli@1.12.0
 - pkg:cargo/velesdb-cli@1.13.0
 - pkg:cargo/velesdb-cli@1.13.1
+- pkg:cargo/velesdb-cli@1.13.2
 - pkg:cargo/velesdb-cli@1.4.4
 - pkg:cargo/velesdb-cli@1.4.5
 - pkg:cargo/velesdb-cli@1.5.1
