@@ -1,3 +1,4 @@
+- pkg:cargo/ff-observability-http@0.10.0
 - pkg:cargo/ff-observability-http@0.5.0
 - pkg:cargo/ff-observability-http@0.6.0
 - pkg:cargo/ff-observability-http@0.6.1
