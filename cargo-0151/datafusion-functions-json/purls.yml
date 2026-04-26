@@ -19,3 +19,4 @@
 - pkg:cargo/datafusion-functions-json@0.51.1
 - pkg:cargo/datafusion-functions-json@0.52.0
 - pkg:cargo/datafusion-functions-json@0.53.0
+- pkg:cargo/datafusion-functions-json@0.53.1
