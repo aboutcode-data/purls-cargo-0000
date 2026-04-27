@@ -9,3 +9,4 @@
 - pkg:cargo/squire-sqlite3-src@3.52.0-alpha.1
 - pkg:cargo/squire-sqlite3-src@3.53.0-alpha.1
 - pkg:cargo/squire-sqlite3-src@3.53.0-alpha.2
+- pkg:cargo/squire-sqlite3-src@3.53.0-alpha.4
