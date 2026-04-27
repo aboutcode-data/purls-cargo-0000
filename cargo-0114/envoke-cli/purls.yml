@@ -26,3 +26,4 @@
 - pkg:cargo/envoke-cli@1.9.0
 - pkg:cargo/envoke-cli@2.0.0
 - pkg:cargo/envoke-cli@2.0.1
+- pkg:cargo/envoke-cli@2.0.2
