@@ -8,3 +8,4 @@
 - pkg:cargo/rdf_config@0.1.95
 - pkg:cargo/rdf_config@0.2.14
 - pkg:cargo/rdf_config@0.2.15
+- pkg:cargo/rdf_config@0.2.17-rc.1
