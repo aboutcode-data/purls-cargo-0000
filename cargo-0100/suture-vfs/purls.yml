@@ -1,2 +1,3 @@
 - pkg:cargo/suture-vfs@0.2.0
 - pkg:cargo/suture-vfs@5.0.0
+- pkg:cargo/suture-vfs@5.0.1

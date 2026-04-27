@@ -1,2 +1,3 @@
 - pkg:cargo/suture-driver-ical@1.2.0
 - pkg:cargo/suture-driver-ical@5.0.0
+- pkg:cargo/suture-driver-ical@5.0.1
