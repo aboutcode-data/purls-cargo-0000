@@ -1,0 +1,2 @@
+- pkg:cargo/fastqc-rust@1.0.0
+- pkg:cargo/fastqc-rust@1.0.1
