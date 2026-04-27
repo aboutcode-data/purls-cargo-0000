@@ -15,3 +15,6 @@
 - pkg:cargo/insights@0.14.3
 - pkg:cargo/insights@0.14.4
 - pkg:cargo/insights@0.14.5
+- pkg:cargo/insights@0.14.6
+- pkg:cargo/insights@0.14.7
+- pkg:cargo/insights@0.14.8
