@@ -6,4 +6,5 @@
 - pkg:cargo/astral-tokio-tar@0.5.5
 - pkg:cargo/astral-tokio-tar@0.5.6
 - pkg:cargo/astral-tokio-tar@0.6.0
+- pkg:cargo/astral-tokio-tar@0.6.1
 - pkg:cargo/astral-tokio-tar@0.6.1-rc1
