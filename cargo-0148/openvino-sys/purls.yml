@@ -6,6 +6,7 @@
 - pkg:cargo/openvino-sys@0.1.5
 - pkg:cargo/openvino-sys@0.1.7
 - pkg:cargo/openvino-sys@0.1.8
+- pkg:cargo/openvino-sys@0.10.0
 - pkg:cargo/openvino-sys@0.2.0
 - pkg:cargo/openvino-sys@0.3.0
 - pkg:cargo/openvino-sys@0.3.1
