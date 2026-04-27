@@ -1,1 +1,2 @@
 - pkg:cargo/genshi-emit-solana@0.2.1
+- pkg:cargo/genshi-emit-solana@0.3.0
