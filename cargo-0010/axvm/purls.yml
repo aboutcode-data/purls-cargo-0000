@@ -9,3 +9,4 @@
 - pkg:cargo/axvm@0.5.2
 - pkg:cargo/axvm@0.5.4
 - pkg:cargo/axvm@0.5.5
+- pkg:cargo/axvm@0.5.6
