@@ -10,3 +10,4 @@
 - pkg:cargo/riscv_vcpu@0.5.2
 - pkg:cargo/riscv_vcpu@0.5.4
 - pkg:cargo/riscv_vcpu@0.5.5
+- pkg:cargo/riscv_vcpu@0.5.6
