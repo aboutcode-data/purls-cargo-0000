@@ -123,3 +123,4 @@
 - pkg:cargo/clap_complete@4.6.0
 - pkg:cargo/clap_complete@4.6.1
 - pkg:cargo/clap_complete@4.6.2
+- pkg:cargo/clap_complete@4.6.3
