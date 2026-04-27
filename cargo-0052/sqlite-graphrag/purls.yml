@@ -9,6 +9,7 @@
 - pkg:cargo/sqlite-graphrag@1.0.18
 - pkg:cargo/sqlite-graphrag@1.0.19
 - pkg:cargo/sqlite-graphrag@1.0.2
+- pkg:cargo/sqlite-graphrag@1.0.21
 - pkg:cargo/sqlite-graphrag@1.0.3
 - pkg:cargo/sqlite-graphrag@1.0.4
 - pkg:cargo/sqlite-graphrag@1.0.5
