@@ -46,6 +46,7 @@
 - pkg:cargo/weave-image@0.2.5
 - pkg:cargo/weave-image@0.2.50
 - pkg:cargo/weave-image@0.2.51
+- pkg:cargo/weave-image@0.2.52
 - pkg:cargo/weave-image@0.2.6
 - pkg:cargo/weave-image@0.2.7
 - pkg:cargo/weave-image@0.2.8
