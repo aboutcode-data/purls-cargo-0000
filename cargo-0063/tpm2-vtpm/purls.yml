@@ -27,3 +27,4 @@
 - pkg:cargo/tpm2-vtpm@0.6.1
 - pkg:cargo/tpm2-vtpm@0.6.2
 - pkg:cargo/tpm2-vtpm@0.6.3
+- pkg:cargo/tpm2-vtpm@0.6.4
