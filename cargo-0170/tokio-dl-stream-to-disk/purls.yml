@@ -4,3 +4,4 @@
 - pkg:cargo/tokio-dl-stream-to-disk@0.3.0
 - pkg:cargo/tokio-dl-stream-to-disk@1.0.0
 - pkg:cargo/tokio-dl-stream-to-disk@1.0.1
+- pkg:cargo/tokio-dl-stream-to-disk@1.0.2
