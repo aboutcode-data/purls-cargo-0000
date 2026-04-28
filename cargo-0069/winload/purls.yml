@@ -30,6 +30,9 @@
 - pkg:cargo/winload@0.1.8-rc.14
 - pkg:cargo/winload@0.1.8-rc.15
 - pkg:cargo/winload@0.1.8-rc.16
+- pkg:cargo/winload@0.1.8-rc.17
+- pkg:cargo/winload@0.1.8-rc.18
+- pkg:cargo/winload@0.1.8-rc.20
 - pkg:cargo/winload@0.1.8-rc.3
 - pkg:cargo/winload@0.1.8-rc.4
 - pkg:cargo/winload@0.1.8-rc.5
