@@ -2,3 +2,4 @@
 - pkg:cargo/surrealdb-librocksdb-sys@0.18.0%2B11.0.0
 - pkg:cargo/surrealdb-librocksdb-sys@0.18.1%2B11.0.0-2
 - pkg:cargo/surrealdb-librocksdb-sys@0.18.2%2B11.0.0-3
+- pkg:cargo/surrealdb-librocksdb-sys@0.18.3%2B11.0.0-4
