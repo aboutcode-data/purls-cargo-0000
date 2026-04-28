@@ -3,6 +3,7 @@
 - pkg:cargo/fakecloud-bedrock@0.11.0
 - pkg:cargo/fakecloud-bedrock@0.12.0
 - pkg:cargo/fakecloud-bedrock@0.13.0
+- pkg:cargo/fakecloud-bedrock@0.13.1
 - pkg:cargo/fakecloud-bedrock@0.8.0
 - pkg:cargo/fakecloud-bedrock@0.8.1
 - pkg:cargo/fakecloud-bedrock@0.9.0
