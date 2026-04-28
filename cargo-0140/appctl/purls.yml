@@ -4,6 +4,9 @@
 - pkg:cargo/appctl@0.12.0
 - pkg:cargo/appctl@0.12.1
 - pkg:cargo/appctl@0.13.0
+- pkg:cargo/appctl@0.14.0
+- pkg:cargo/appctl@0.15.0
+- pkg:cargo/appctl@0.16.0
 - pkg:cargo/appctl@0.2.0
 - pkg:cargo/appctl@0.2.1
 - pkg:cargo/appctl@0.3.0

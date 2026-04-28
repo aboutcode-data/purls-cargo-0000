@@ -9,3 +9,4 @@
 - pkg:cargo/ed448@0.5.0-rc.2
 - pkg:cargo/ed448@0.5.0-rc.3
 - pkg:cargo/ed448@0.5.0-rc.5
+- pkg:cargo/ed448@0.5.0-rc.6
