@@ -11,3 +11,4 @@
 - pkg:cargo/mace-kv@0.0.28
 - pkg:cargo/mace-kv@0.0.29
 - pkg:cargo/mace-kv@0.0.30
+- pkg:cargo/mace-kv@0.0.31
