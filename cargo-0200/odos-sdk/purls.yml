@@ -58,3 +58,4 @@
 - pkg:cargo/odos-sdk@4.0.0
 - pkg:cargo/odos-sdk@4.0.1
 - pkg:cargo/odos-sdk@4.0.2
+- pkg:cargo/odos-sdk@5.0.0
