@@ -12,6 +12,7 @@
 - pkg:cargo/cf-oagw@0.2.18
 - pkg:cargo/cf-oagw@0.2.19
 - pkg:cargo/cf-oagw@0.2.2
+- pkg:cargo/cf-oagw@0.2.20
 - pkg:cargo/cf-oagw@0.2.3
 - pkg:cargo/cf-oagw@0.2.4
 - pkg:cargo/cf-oagw@0.2.5
