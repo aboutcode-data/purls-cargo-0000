@@ -21,5 +21,6 @@
 - pkg:cargo/jira-mcp@0.20.0
 - pkg:cargo/jira-mcp@0.21.0
 - pkg:cargo/jira-mcp@0.21.1
+- pkg:cargo/jira-mcp@0.21.2
 - pkg:cargo/jira-mcp@0.8.1
 - pkg:cargo/jira-mcp@0.9.0
