@@ -30,3 +30,5 @@
 - pkg:cargo/blit-fonts@0.28.2
 - pkg:cargo/blit-fonts@0.28.3
 - pkg:cargo/blit-fonts@0.29.0
+- pkg:cargo/blit-fonts@0.30.0
+- pkg:cargo/blit-fonts@0.30.1
