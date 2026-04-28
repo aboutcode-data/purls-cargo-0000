@@ -12,3 +12,4 @@
 - pkg:cargo/ic-dbms-macros@0.8.0
 - pkg:cargo/ic-dbms-macros@0.8.1
 - pkg:cargo/ic-dbms-macros@0.8.2
+- pkg:cargo/ic-dbms-macros@0.9.0
