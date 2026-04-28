@@ -37,3 +37,4 @@
 - pkg:cargo/mainline@6.0.1
 - pkg:cargo/mainline@6.1.0
 - pkg:cargo/mainline@6.1.1
+- pkg:cargo/mainline@6.1.2
