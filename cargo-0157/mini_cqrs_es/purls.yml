@@ -1,3 +1,4 @@
+- pkg:cargo/mini_cqrs_es@0.10.0
 - pkg:cargo/mini_cqrs_es@0.6.0
 - pkg:cargo/mini_cqrs_es@0.7.0
 - pkg:cargo/mini_cqrs_es@0.9.0
