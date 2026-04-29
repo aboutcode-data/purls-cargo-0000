@@ -33,3 +33,4 @@
 - pkg:cargo/rig-surrealdb@0.2.2
 - pkg:cargo/rig-surrealdb@0.2.3
 - pkg:cargo/rig-surrealdb@0.2.4
+- pkg:cargo/rig-surrealdb@0.2.5

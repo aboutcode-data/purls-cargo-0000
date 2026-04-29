@@ -36,3 +36,4 @@
 - pkg:cargo/rig-postgres@0.2.2
 - pkg:cargo/rig-postgres@0.2.3
 - pkg:cargo/rig-postgres@0.2.4
+- pkg:cargo/rig-postgres@0.2.5
