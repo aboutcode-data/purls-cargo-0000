@@ -9,3 +9,4 @@
 - pkg:cargo/libaprs-engine@0.6.0
 - pkg:cargo/libaprs-engine@1.0.0
 - pkg:cargo/libaprs-engine@1.0.0-rc.1
+- pkg:cargo/libaprs-engine@1.1.0
