@@ -6,4 +6,5 @@
 - pkg:cargo/vastlint-core@0.3.6
 - pkg:cargo/vastlint-core@0.3.7
 - pkg:cargo/vastlint-core@0.4.0
+- pkg:cargo/vastlint-core@0.4.2
 - pkg:cargo/vastlint-core@1.0.0
