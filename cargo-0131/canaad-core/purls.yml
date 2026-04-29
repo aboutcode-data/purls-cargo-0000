@@ -7,3 +7,5 @@
 - pkg:cargo/canaad-core@0.3.0
 - pkg:cargo/canaad-core@0.4.0
 - pkg:cargo/canaad-core@1.0.0
+- pkg:cargo/canaad-core@1.0.1
+- pkg:cargo/canaad-core@2.0.0
