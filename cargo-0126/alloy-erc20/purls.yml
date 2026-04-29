@@ -6,3 +6,5 @@
 - pkg:cargo/alloy-erc20@0.5.0
 - pkg:cargo/alloy-erc20@1.0.0
 - pkg:cargo/alloy-erc20@1.1.0
+- pkg:cargo/alloy-erc20@1.2.0
+- pkg:cargo/alloy-erc20@2.0.0
