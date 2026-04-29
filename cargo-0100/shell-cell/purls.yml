@@ -18,3 +18,4 @@
 - pkg:cargo/shell-cell@1.6.1
 - pkg:cargo/shell-cell@1.6.2
 - pkg:cargo/shell-cell@1.6.3
+- pkg:cargo/shell-cell@1.6.4
