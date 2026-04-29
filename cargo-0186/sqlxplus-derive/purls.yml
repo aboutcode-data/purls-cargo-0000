@@ -14,3 +14,4 @@
 - pkg:cargo/sqlxplus-derive@0.2.4
 - pkg:cargo/sqlxplus-derive@0.2.5
 - pkg:cargo/sqlxplus-derive@0.2.6
+- pkg:cargo/sqlxplus-derive@0.2.7

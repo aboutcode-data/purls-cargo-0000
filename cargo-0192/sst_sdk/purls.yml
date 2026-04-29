@@ -8,6 +8,10 @@
 - pkg:cargo/sst_sdk@4.12.2
 - pkg:cargo/sst_sdk@4.12.3
 - pkg:cargo/sst_sdk@4.12.4
+- pkg:cargo/sst_sdk@4.12.5
+- pkg:cargo/sst_sdk@4.12.7
+- pkg:cargo/sst_sdk@4.12.8
+- pkg:cargo/sst_sdk@4.12.9
 - pkg:cargo/sst_sdk@4.6.10
 - pkg:cargo/sst_sdk@4.6.11
 - pkg:cargo/sst_sdk@4.6.6
