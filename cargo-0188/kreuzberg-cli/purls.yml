@@ -30,6 +30,7 @@
 - pkg:cargo/kreuzberg-cli@4.1.0
 - pkg:cargo/kreuzberg-cli@4.1.1
 - pkg:cargo/kreuzberg-cli@4.1.2
+- pkg:cargo/kreuzberg-cli@4.10.0-rc.9
 - pkg:cargo/kreuzberg-cli@4.2.0
 - pkg:cargo/kreuzberg-cli@4.2.1
 - pkg:cargo/kreuzberg-cli@4.2.10
