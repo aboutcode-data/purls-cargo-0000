@@ -7,3 +7,5 @@
 - pkg:cargo/libaprs-engine@0.4.0
 - pkg:cargo/libaprs-engine@0.5.0
 - pkg:cargo/libaprs-engine@0.6.0
+- pkg:cargo/libaprs-engine@1.0.0
+- pkg:cargo/libaprs-engine@1.0.0-rc.1
