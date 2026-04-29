@@ -199,5 +199,6 @@
 - pkg:cargo/c2pa@0.80.0
 - pkg:cargo/c2pa@0.80.1
 - pkg:cargo/c2pa@0.80.2
+- pkg:cargo/c2pa@0.80.3
 - pkg:cargo/c2pa@0.9.1
 - pkg:cargo/c2pa@1.0.0
