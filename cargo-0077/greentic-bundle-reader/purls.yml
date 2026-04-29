@@ -27,5 +27,6 @@
 - pkg:cargo/greentic-bundle-reader@0.5.2
 - pkg:cargo/greentic-bundle-reader@0.5.4
 - pkg:cargo/greentic-bundle-reader@0.6.0-dev.25041968453
+- pkg:cargo/greentic-bundle-reader@0.6.0-dev.25100909754
 - pkg:cargo/greentic-bundle-reader@0.6.24953030172
 - pkg:cargo/greentic-bundle-reader@0.6.24983481391
