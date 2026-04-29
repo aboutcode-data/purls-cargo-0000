@@ -1,0 +1,4 @@
+- pkg:cargo/vterm-protocol@0.1.0
+- pkg:cargo/vterm-protocol@0.7.22
+- pkg:cargo/vterm-protocol@0.7.23
+- pkg:cargo/vterm-protocol@0.7.24
