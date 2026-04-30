@@ -43,5 +43,6 @@
 - pkg:cargo/dctap@0.2.15
 - pkg:cargo/dctap@0.2.17
 - pkg:cargo/dctap@0.2.17-rc.1
+- pkg:cargo/dctap@0.2.18
 - pkg:cargo/dctap@0.2.8
 - pkg:cargo/dctap@0.2.9
