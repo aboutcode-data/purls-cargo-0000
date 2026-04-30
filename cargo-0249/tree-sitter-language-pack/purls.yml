@@ -40,6 +40,11 @@
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.15
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.16
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.17
+- pkg:cargo/tree-sitter-language-pack@1.8.0-rc.18
+- pkg:cargo/tree-sitter-language-pack@1.8.0-rc.19
+- pkg:cargo/tree-sitter-language-pack@1.8.0-rc.20
+- pkg:cargo/tree-sitter-language-pack@1.8.0-rc.21
+- pkg:cargo/tree-sitter-language-pack@1.8.0-rc.22
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.4
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.5
 - pkg:cargo/tree-sitter-language-pack@1.8.0-rc.6
