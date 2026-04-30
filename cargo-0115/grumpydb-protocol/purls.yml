@@ -1,1 +1,2 @@
 - pkg:cargo/grumpydb-protocol@1.0.0
+- pkg:cargo/grumpydb-protocol@5.0.0

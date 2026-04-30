@@ -1,1 +1,2 @@
 - pkg:cargo/grumpy-repl@4.1.0
+- pkg:cargo/grumpy-repl@5.0.0
