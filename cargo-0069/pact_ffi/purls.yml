@@ -69,3 +69,4 @@
 - pkg:cargo/pact_ffi@0.5.1
 - pkg:cargo/pact_ffi@0.5.2
 - pkg:cargo/pact_ffi@0.5.3
+- pkg:cargo/pact_ffi@0.5.4
