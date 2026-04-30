@@ -2,3 +2,4 @@
 - pkg:cargo/prax-typegen@0.7.0
 - pkg:cargo/prax-typegen@0.7.3
 - pkg:cargo/prax-typegen@0.8.0
+- pkg:cargo/prax-typegen@0.8.2

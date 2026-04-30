@@ -12,3 +12,4 @@
 - pkg:cargo/allsource@0.19.1
 - pkg:cargo/allsource@0.19.2
 - pkg:cargo/allsource@0.20.0
+- pkg:cargo/allsource@0.20.1
