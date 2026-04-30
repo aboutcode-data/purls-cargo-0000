@@ -1,3 +1,4 @@
+- pkg:cargo/ai_tokenopt@0.5.10
 - pkg:cargo/ai_tokenopt@0.5.5
 - pkg:cargo/ai_tokenopt@0.5.6
 - pkg:cargo/ai_tokenopt@0.5.7
