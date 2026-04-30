@@ -10,3 +10,4 @@
 - pkg:cargo/runar-compiler-rust@0.4.2
 - pkg:cargo/runar-compiler-rust@0.4.3
 - pkg:cargo/runar-compiler-rust@0.4.4
+- pkg:cargo/runar-compiler-rust@0.4.5
