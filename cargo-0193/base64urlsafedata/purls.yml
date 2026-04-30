@@ -7,4 +7,5 @@
 - pkg:cargo/base64urlsafedata@0.5.2
 - pkg:cargo/base64urlsafedata@0.5.3
 - pkg:cargo/base64urlsafedata@0.5.4
+- pkg:cargo/base64urlsafedata@0.5.5
 - pkg:cargo/base64urlsafedata@0.6.0-dev
