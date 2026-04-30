@@ -35,6 +35,7 @@
 - pkg:cargo/koda-cli@0.2.21
 - pkg:cargo/koda-cli@0.2.22
 - pkg:cargo/koda-cli@0.2.23
+- pkg:cargo/koda-cli@0.2.24
 - pkg:cargo/koda-cli@0.2.7
 - pkg:cargo/koda-cli@0.2.8
 - pkg:cargo/koda-cli@0.2.9
