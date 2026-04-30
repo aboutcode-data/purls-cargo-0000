@@ -1,1 +1,2 @@
 - pkg:cargo/perl-test-generators@0.12.2
+- pkg:cargo/perl-test-generators@0.13.0-rc1
