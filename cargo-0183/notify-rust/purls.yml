@@ -55,6 +55,7 @@
 - pkg:cargo/notify-rust@4.14.0
 - pkg:cargo/notify-rust@4.15.0
 - pkg:cargo/notify-rust@4.16.0
+- pkg:cargo/notify-rust@4.16.1
 - pkg:cargo/notify-rust@4.2.0
 - pkg:cargo/notify-rust@4.2.1
 - pkg:cargo/notify-rust@4.2.2
