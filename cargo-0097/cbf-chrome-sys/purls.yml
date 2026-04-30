@@ -3,3 +3,4 @@
 - pkg:cargo/cbf-chrome-sys@146.1.0-alpha.3
 - pkg:cargo/cbf-chrome-sys@146.1.0-alpha.4
 - pkg:cargo/cbf-chrome-sys@146.1.0-alpha.5
+- pkg:cargo/cbf-chrome-sys@148.0.0-alpha.1
