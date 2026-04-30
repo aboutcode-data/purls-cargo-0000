@@ -1,4 +1,5 @@
 - pkg:cargo/tsink-server@0.10.0
 - pkg:cargo/tsink-server@0.10.1
+- pkg:cargo/tsink-server@0.10.2
 - pkg:cargo/tsink-server@0.8.1
 - pkg:cargo/tsink-server@0.9.0
