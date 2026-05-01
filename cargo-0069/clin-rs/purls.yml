@@ -4,3 +4,5 @@
 - pkg:cargo/clin-rs@0.3.4-1
 - pkg:cargo/clin-rs@0.3.4-2
 - pkg:cargo/clin-rs@0.3.6
+- pkg:cargo/clin-rs@0.4.4
+- pkg:cargo/clin-rs@0.4.5
