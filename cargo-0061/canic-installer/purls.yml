@@ -81,3 +81,5 @@
 - pkg:cargo/canic-installer@0.29.5
 - pkg:cargo/canic-installer@0.29.6
 - pkg:cargo/canic-installer@0.29.7
+- pkg:cargo/canic-installer@0.29.8
+- pkg:cargo/canic-installer@0.29.9
