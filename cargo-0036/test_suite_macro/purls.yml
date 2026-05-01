@@ -1,1 +1,2 @@
 - pkg:cargo/test_suite_macro@0.1.0
+- pkg:cargo/test_suite_macro@0.1.1

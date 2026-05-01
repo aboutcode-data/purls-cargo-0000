@@ -11,3 +11,5 @@
 - pkg:cargo/teamctl@0.2.7
 - pkg:cargo/teamctl@0.2.8
 - pkg:cargo/teamctl@0.2.9
+- pkg:cargo/teamctl@0.3.0
+- pkg:cargo/teamctl@0.4.0
