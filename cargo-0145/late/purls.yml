@@ -100,6 +100,7 @@
 - pkg:cargo/late@0.0.199
 - pkg:cargo/late@0.0.200
 - pkg:cargo/late@0.0.201
+- pkg:cargo/late@0.0.202
 - pkg:cargo/late@0.0.39
 - pkg:cargo/late@0.0.40
 - pkg:cargo/late@0.0.41
