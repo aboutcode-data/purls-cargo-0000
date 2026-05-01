@@ -25,3 +25,4 @@
 - pkg:cargo/postmark@0.9.1
 - pkg:cargo/postmark@0.9.2
 - pkg:cargo/postmark@1.0.0
+- pkg:cargo/postmark@2.0.0
