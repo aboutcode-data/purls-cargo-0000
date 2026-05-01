@@ -1,3 +1,4 @@
 - pkg:cargo/bootc-internal-mount@0.1.0
 - pkg:cargo/bootc-internal-mount@1.15.0
 - pkg:cargo/bootc-internal-mount@1.15.1
+- pkg:cargo/bootc-internal-mount@1.15.2

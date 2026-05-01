@@ -1,1 +1,2 @@
 - pkg:cargo/simd-normalizer@0.1.0
+- pkg:cargo/simd-normalizer@0.1.1
