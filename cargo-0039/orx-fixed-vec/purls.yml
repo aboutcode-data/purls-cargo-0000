@@ -49,6 +49,7 @@
 - pkg:cargo/orx-fixed-vec@3.21.0
 - pkg:cargo/orx-fixed-vec@3.22.0
 - pkg:cargo/orx-fixed-vec@3.23.0
+- pkg:cargo/orx-fixed-vec@3.24.0
 - pkg:cargo/orx-fixed-vec@3.3.0
 - pkg:cargo/orx-fixed-vec@3.4.0
 - pkg:cargo/orx-fixed-vec@3.5.0
