@@ -14,9 +14,11 @@
 - pkg:cargo/mdwatch@0.1.21
 - pkg:cargo/mdwatch@0.1.22
 - pkg:cargo/mdwatch@0.1.24
+- pkg:cargo/mdwatch@0.1.25
 - pkg:cargo/mdwatch@0.1.3
 - pkg:cargo/mdwatch@0.1.4
 - pkg:cargo/mdwatch@0.1.5
 - pkg:cargo/mdwatch@0.1.6
 - pkg:cargo/mdwatch@0.1.8
 - pkg:cargo/mdwatch@0.1.9
+- pkg:cargo/mdwatch@0.2.0
