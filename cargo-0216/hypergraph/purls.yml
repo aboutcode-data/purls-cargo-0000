@@ -33,3 +33,4 @@
 - pkg:cargo/hypergraph@2.1.1
 - pkg:cargo/hypergraph@2.1.2
 - pkg:cargo/hypergraph@2.2.0
+- pkg:cargo/hypergraph@3.0.0
