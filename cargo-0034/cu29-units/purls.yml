@@ -1,3 +1,4 @@
 - pkg:cargo/cu29-units@0.13.0
 - pkg:cargo/cu29-units@0.14.0
 - pkg:cargo/cu29-units@0.15.0
+- pkg:cargo/cu29-units@1.0.0-rc1

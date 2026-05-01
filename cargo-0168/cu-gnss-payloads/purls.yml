@@ -1,3 +1,4 @@
 - pkg:cargo/cu-gnss-payloads@0.13.0
 - pkg:cargo/cu-gnss-payloads@0.14.0
 - pkg:cargo/cu-gnss-payloads@0.15.0
+- pkg:cargo/cu-gnss-payloads@1.0.0-rc1

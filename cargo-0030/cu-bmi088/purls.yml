@@ -2,3 +2,4 @@
 - pkg:cargo/cu-bmi088@0.13.0
 - pkg:cargo/cu-bmi088@0.14.0
 - pkg:cargo/cu-bmi088@0.15.0
+- pkg:cargo/cu-bmi088@1.0.0-rc1
