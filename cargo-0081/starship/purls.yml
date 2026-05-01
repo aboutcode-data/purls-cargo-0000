@@ -129,6 +129,7 @@
 - pkg:cargo/starship@1.24.1
 - pkg:cargo/starship@1.24.2
 - pkg:cargo/starship@1.25.0
+- pkg:cargo/starship@1.25.1
 - pkg:cargo/starship@1.3.0
 - pkg:cargo/starship@1.4.0
 - pkg:cargo/starship@1.4.2
