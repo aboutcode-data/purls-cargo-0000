@@ -1,1 +1,2 @@
 - pkg:cargo/git-lfs-creds@0.2.0
+- pkg:cargo/git-lfs-creds@0.3.0
