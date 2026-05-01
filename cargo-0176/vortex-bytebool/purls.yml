@@ -72,4 +72,5 @@
 - pkg:cargo/vortex-bytebool@0.68.0
 - pkg:cargo/vortex-bytebool@0.69.0
 - pkg:cargo/vortex-bytebool@0.7.0
+- pkg:cargo/vortex-bytebool@0.70.0
 - pkg:cargo/vortex-bytebool@0.9.0
