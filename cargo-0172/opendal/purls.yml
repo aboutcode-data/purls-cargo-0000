@@ -137,6 +137,7 @@
 - pkg:cargo/opendal@0.54.0
 - pkg:cargo/opendal@0.54.1
 - pkg:cargo/opendal@0.55.0
+- pkg:cargo/opendal@0.56.0
 - pkg:cargo/opendal@0.6.0
 - pkg:cargo/opendal@0.6.1
 - pkg:cargo/opendal@0.6.2
