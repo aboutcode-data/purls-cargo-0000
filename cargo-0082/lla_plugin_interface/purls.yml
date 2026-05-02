@@ -23,3 +23,4 @@
 - pkg:cargo/lla_plugin_interface@0.5.2
 - pkg:cargo/lla_plugin_interface@0.5.3
 - pkg:cargo/lla_plugin_interface@0.5.4
+- pkg:cargo/lla_plugin_interface@0.5.5
