@@ -8,3 +8,4 @@
 - pkg:cargo/tree-sitter-gram@0.3.2
 - pkg:cargo/tree-sitter-gram@0.3.3
 - pkg:cargo/tree-sitter-gram@0.3.6
+- pkg:cargo/tree-sitter-gram@0.3.7
