@@ -7,3 +7,4 @@
 - pkg:cargo/minigraf@0.23.0
 - pkg:cargo/minigraf@0.24.0
 - pkg:cargo/minigraf@0.25.0
+- pkg:cargo/minigraf@1.0.0
