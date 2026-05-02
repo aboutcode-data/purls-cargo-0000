@@ -5,3 +5,4 @@
 - pkg:cargo/s3util-rs@0.2.3
 - pkg:cargo/s3util-rs@1.0.0
 - pkg:cargo/s3util-rs@1.1.0
+- pkg:cargo/s3util-rs@1.1.1
