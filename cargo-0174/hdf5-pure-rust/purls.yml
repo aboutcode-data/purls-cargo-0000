@@ -1,3 +1,4 @@
 - pkg:cargo/hdf5-pure-rust@0.2.0
 - pkg:cargo/hdf5-pure-rust@0.2.2
 - pkg:cargo/hdf5-pure-rust@0.3.0
+- pkg:cargo/hdf5-pure-rust@0.3.1
