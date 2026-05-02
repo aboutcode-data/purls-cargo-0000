@@ -1,2 +1,3 @@
+- pkg:cargo/rustango-macros@0.14.2
 - pkg:cargo/rustango-macros@0.7.0
 - pkg:cargo/rustango-macros@0.8.0
