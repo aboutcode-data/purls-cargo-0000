@@ -60,3 +60,4 @@
 - pkg:cargo/wgpu@29.0.0
 - pkg:cargo/wgpu@29.0.1
 - pkg:cargo/wgpu@29.0.2
+- pkg:cargo/wgpu@29.0.3
