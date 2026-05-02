@@ -9,3 +9,5 @@
 - pkg:cargo/discordrs@1.2.1
 - pkg:cargo/discordrs@1.2.2
 - pkg:cargo/discordrs@2.0.0
+- pkg:cargo/discordrs@2.0.1
+- pkg:cargo/discordrs@2.0.2
