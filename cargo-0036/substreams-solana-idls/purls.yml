@@ -19,3 +19,4 @@
 - pkg:cargo/substreams-solana-idls@1.0.0
 - pkg:cargo/substreams-solana-idls@1.1.0
 - pkg:cargo/substreams-solana-idls@1.1.1
+- pkg:cargo/substreams-solana-idls@1.1.3
