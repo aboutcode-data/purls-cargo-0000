@@ -25,3 +25,4 @@
 - pkg:cargo/zebra-script@4.0.0
 - pkg:cargo/zebra-script@5.0.0
 - pkg:cargo/zebra-script@5.0.1
+- pkg:cargo/zebra-script@6.0.0
