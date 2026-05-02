@@ -27,6 +27,7 @@
 - pkg:cargo/raftcli@1.15.2
 - pkg:cargo/raftcli@1.15.5
 - pkg:cargo/raftcli@1.15.7
+- pkg:cargo/raftcli@1.15.8
 - pkg:cargo/raftcli@1.2.0
 - pkg:cargo/raftcli@1.2.1
 - pkg:cargo/raftcli@1.2.2
