@@ -20,3 +20,4 @@
 - pkg:cargo/dnstracer@1.2.4
 - pkg:cargo/dnstracer@1.2.5
 - pkg:cargo/dnstracer@1.2.6
+- pkg:cargo/dnstracer@1.2.7
