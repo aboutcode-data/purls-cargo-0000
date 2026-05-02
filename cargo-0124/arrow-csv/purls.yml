@@ -52,3 +52,4 @@
 - pkg:cargo/arrow-csv@57.3.0
 - pkg:cargo/arrow-csv@58.0.0
 - pkg:cargo/arrow-csv@58.1.0
+- pkg:cargo/arrow-csv@58.2.0
