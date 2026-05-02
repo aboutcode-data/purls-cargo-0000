@@ -2,3 +2,4 @@
 - pkg:cargo/tuirealm_derive@2.0.0
 - pkg:cargo/tuirealm_derive@2.0.1
 - pkg:cargo/tuirealm_derive@4.0.0
+- pkg:cargo/tuirealm_derive@4.1.0
