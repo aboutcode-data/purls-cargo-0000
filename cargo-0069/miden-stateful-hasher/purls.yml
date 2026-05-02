@@ -1,1 +1,2 @@
 - pkg:cargo/miden-stateful-hasher@0.24.0
+- pkg:cargo/miden-stateful-hasher@0.25.0
