@@ -2,3 +2,4 @@
 - pkg:cargo/hydro_deploy_integration@0.13.0
 - pkg:cargo/hydro_deploy_integration@0.14.0
 - pkg:cargo/hydro_deploy_integration@0.15.0
+- pkg:cargo/hydro_deploy_integration@0.16.0
