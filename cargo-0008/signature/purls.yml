@@ -41,6 +41,7 @@
 - pkg:cargo/signature@2.3.0-pre.5
 - pkg:cargo/signature@2.3.0-pre.6
 - pkg:cargo/signature@2.3.0-pre.7
+- pkg:cargo/signature@3.0.0
 - pkg:cargo/signature@3.0.0-rc.0
 - pkg:cargo/signature@3.0.0-rc.1
 - pkg:cargo/signature@3.0.0-rc.10
