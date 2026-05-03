@@ -1,4 +1,6 @@
 - pkg:cargo/rustango@0.14.2
 - pkg:cargo/rustango@0.17.4
+- pkg:cargo/rustango@0.22.0
+- pkg:cargo/rustango@0.22.1
 - pkg:cargo/rustango@0.7.0
 - pkg:cargo/rustango@0.8.0
