@@ -14,6 +14,10 @@
 - pkg:cargo/agtop@2.3.9
 - pkg:cargo/agtop@2.4.0
 - pkg:cargo/agtop@2.4.1
+- pkg:cargo/agtop@2.4.10
+- pkg:cargo/agtop@2.4.11
+- pkg:cargo/agtop@2.4.12
+- pkg:cargo/agtop@2.4.13
 - pkg:cargo/agtop@2.4.2
 - pkg:cargo/agtop@2.4.3
 - pkg:cargo/agtop@2.4.4
@@ -21,3 +25,4 @@
 - pkg:cargo/agtop@2.4.6
 - pkg:cargo/agtop@2.4.7
 - pkg:cargo/agtop@2.4.8
+- pkg:cargo/agtop@2.4.9

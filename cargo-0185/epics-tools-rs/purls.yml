@@ -5,3 +5,5 @@
 - pkg:cargo/epics-tools-rs@0.13.1
 - pkg:cargo/epics-tools-rs@0.13.2
 - pkg:cargo/epics-tools-rs@0.13.4
+- pkg:cargo/epics-tools-rs@0.13.5
+- pkg:cargo/epics-tools-rs@0.13.6
