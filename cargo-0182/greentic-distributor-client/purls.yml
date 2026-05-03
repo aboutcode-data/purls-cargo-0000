@@ -37,6 +37,7 @@
 - pkg:cargo/greentic-distributor-client@0.5.24983467078
 - pkg:cargo/greentic-distributor-client@0.5.24984109344
 - pkg:cargo/greentic-distributor-client@0.5.24985620455
+- pkg:cargo/greentic-distributor-client@0.5.3
 - pkg:cargo/greentic-distributor-client@0.6.0-dev.24989814172
 - pkg:cargo/greentic-distributor-client@0.6.0-dev.24998869539
 - pkg:cargo/greentic-distributor-client@0.6.0-dev.25254099356
