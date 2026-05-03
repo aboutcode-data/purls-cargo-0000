@@ -11,3 +11,6 @@
 - pkg:cargo/truce-shim-types@0.19.2
 - pkg:cargo/truce-shim-types@0.19.3
 - pkg:cargo/truce-shim-types@0.20.0
+- pkg:cargo/truce-shim-types@0.22.0
+- pkg:cargo/truce-shim-types@0.22.1
+- pkg:cargo/truce-shim-types@0.22.2
