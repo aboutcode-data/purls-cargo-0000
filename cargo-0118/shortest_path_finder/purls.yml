@@ -2,3 +2,4 @@
 - pkg:cargo/shortest_path_finder@0.1.1
 - pkg:cargo/shortest_path_finder@0.2.0
 - pkg:cargo/shortest_path_finder@0.3.0
+- pkg:cargo/shortest_path_finder@0.3.1

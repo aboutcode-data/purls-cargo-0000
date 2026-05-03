@@ -20,6 +20,9 @@
 - pkg:cargo/insights@0.14.8
 - pkg:cargo/insights@0.14.9
 - pkg:cargo/insights@0.16.0-dev.1
+- pkg:cargo/insights@0.16.0-dev.10
+- pkg:cargo/insights@0.16.0-dev.11
+- pkg:cargo/insights@0.16.0-dev.12
 - pkg:cargo/insights@0.16.0-dev.2
 - pkg:cargo/insights@0.16.0-dev.3
 - pkg:cargo/insights@0.16.0-dev.4
@@ -27,3 +30,4 @@
 - pkg:cargo/insights@0.16.0-dev.6
 - pkg:cargo/insights@0.16.0-dev.7
 - pkg:cargo/insights@0.16.0-dev.8
+- pkg:cargo/insights@0.16.0-dev.9
