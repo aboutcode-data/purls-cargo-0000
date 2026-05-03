@@ -15,3 +15,4 @@
 - pkg:cargo/qubit-value@0.6.2
 - pkg:cargo/qubit-value@0.7.0
 - pkg:cargo/qubit-value@0.7.1
+- pkg:cargo/qubit-value@0.7.2
