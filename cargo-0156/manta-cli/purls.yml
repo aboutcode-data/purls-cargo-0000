@@ -63,3 +63,4 @@
 - pkg:cargo/manta-cli@1.62.7
 - pkg:cargo/manta-cli@1.62.8
 - pkg:cargo/manta-cli@1.62.9
+- pkg:cargo/manta-cli@1.63.0
