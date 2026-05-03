@@ -1,2 +1,3 @@
 - pkg:cargo/heliosdb-nano@3.22.2
 - pkg:cargo/heliosdb-nano@3.22.3
+- pkg:cargo/heliosdb-nano@3.23.0
