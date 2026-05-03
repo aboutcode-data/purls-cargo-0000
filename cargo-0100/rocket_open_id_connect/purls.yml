@@ -1,1 +1,2 @@
 - pkg:cargo/rocket_open_id_connect@0.2.17
+- pkg:cargo/rocket_open_id_connect@0.2.18
