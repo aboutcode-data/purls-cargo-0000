@@ -1,2 +1,3 @@
 - pkg:cargo/pulumi_gestalt_rust_language_server@0.0.0-DEV
+- pkg:cargo/pulumi_gestalt_rust_language_server@0.0.10
 - pkg:cargo/pulumi_gestalt_rust_language_server@0.0.9
