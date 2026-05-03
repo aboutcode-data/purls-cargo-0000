@@ -11,3 +11,5 @@
 - pkg:cargo/rusnel@0.3.8
 - pkg:cargo/rusnel@0.4.0
 - pkg:cargo/rusnel@0.5.0
+- pkg:cargo/rusnel@0.6.0
+- pkg:cargo/rusnel@0.6.1
