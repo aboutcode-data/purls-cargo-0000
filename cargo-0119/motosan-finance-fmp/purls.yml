@@ -14,3 +14,5 @@
 - pkg:cargo/motosan-finance-fmp@0.3.0
 - pkg:cargo/motosan-finance-fmp@0.4.0
 - pkg:cargo/motosan-finance-fmp@0.5.0
+- pkg:cargo/motosan-finance-fmp@0.5.1
+- pkg:cargo/motosan-finance-fmp@0.5.2
