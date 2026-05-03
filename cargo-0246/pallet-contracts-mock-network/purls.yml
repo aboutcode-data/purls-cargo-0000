@@ -15,6 +15,7 @@
 - pkg:cargo/pallet-contracts-mock-network@22.0.0
 - pkg:cargo/pallet-contracts-mock-network@23.0.0
 - pkg:cargo/pallet-contracts-mock-network@24.0.0
+- pkg:cargo/pallet-contracts-mock-network@25.0.0
 - pkg:cargo/pallet-contracts-mock-network@3.0.0
 - pkg:cargo/pallet-contracts-mock-network@4.0.0
 - pkg:cargo/pallet-contracts-mock-network@5.0.0
