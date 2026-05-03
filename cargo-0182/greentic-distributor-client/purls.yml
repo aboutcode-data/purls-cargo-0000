@@ -33,6 +33,7 @@
 - pkg:cargo/greentic-distributor-client@0.4.9
 - pkg:cargo/greentic-distributor-client@0.5.0
 - pkg:cargo/greentic-distributor-client@0.5.1
+- pkg:cargo/greentic-distributor-client@0.5.2
 - pkg:cargo/greentic-distributor-client@0.5.24983467078
 - pkg:cargo/greentic-distributor-client@0.5.24984109344
 - pkg:cargo/greentic-distributor-client@0.5.24985620455
