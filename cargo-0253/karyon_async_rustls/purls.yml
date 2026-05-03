@@ -19,3 +19,4 @@
 - pkg:cargo/karyon_async_rustls@0.6.1
 - pkg:cargo/karyon_async_rustls@0.6.2
 - pkg:cargo/karyon_async_rustls@0.6.3
+- pkg:cargo/karyon_async_rustls@1.0.0-alpha.1

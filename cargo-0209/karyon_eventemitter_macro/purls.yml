@@ -4,3 +4,4 @@
 - pkg:cargo/karyon_eventemitter_macro@0.6.1
 - pkg:cargo/karyon_eventemitter_macro@0.6.2
 - pkg:cargo/karyon_eventemitter_macro@0.6.3
+- pkg:cargo/karyon_eventemitter_macro@1.0.0-alpha.1
