@@ -1,4 +1,5 @@
 - pkg:cargo/sqlx-json@0.10.0
+- pkg:cargo/sqlx-json@0.10.1
 - pkg:cargo/sqlx-json@0.7.0
 - pkg:cargo/sqlx-json@0.8.0
 - pkg:cargo/sqlx-json@0.9.0
