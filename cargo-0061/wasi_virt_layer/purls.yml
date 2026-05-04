@@ -22,3 +22,5 @@
 - pkg:cargo/wasi_virt_layer@0.2.7
 - pkg:cargo/wasi_virt_layer@0.2.8
 - pkg:cargo/wasi_virt_layer@0.2.9
+- pkg:cargo/wasi_virt_layer@0.3.0
+- pkg:cargo/wasi_virt_layer@0.3.1
