@@ -29,6 +29,7 @@
 - pkg:cargo/hudsucker@0.22.0
 - pkg:cargo/hudsucker@0.23.0
 - pkg:cargo/hudsucker@0.24.0
+- pkg:cargo/hudsucker@0.24.1
 - pkg:cargo/hudsucker@0.3.0
 - pkg:cargo/hudsucker@0.3.1
 - pkg:cargo/hudsucker@0.4.0
