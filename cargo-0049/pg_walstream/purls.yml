@@ -10,3 +10,4 @@
 - pkg:cargo/pg_walstream@0.6.0
 - pkg:cargo/pg_walstream@0.6.1
 - pkg:cargo/pg_walstream@0.6.2
+- pkg:cargo/pg_walstream@0.6.3
