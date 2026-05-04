@@ -4,8 +4,11 @@
 - pkg:cargo/canic-macros@0.29.8
 - pkg:cargo/canic-macros@0.29.9
 - pkg:cargo/canic-macros@0.30.0
+- pkg:cargo/canic-macros@0.30.12
+- pkg:cargo/canic-macros@0.30.14
 - pkg:cargo/canic-macros@0.30.4
 - pkg:cargo/canic-macros@0.30.6
+- pkg:cargo/canic-macros@0.30.9
 - pkg:cargo/canic-macros@0.5.10
 - pkg:cargo/canic-macros@0.5.11
 - pkg:cargo/canic-macros@0.5.12
