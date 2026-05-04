@@ -23,6 +23,7 @@
 - pkg:cargo/polkadot-node-core-runtime-api@29.0.0
 - pkg:cargo/polkadot-node-core-runtime-api@3.0.0
 - pkg:cargo/polkadot-node-core-runtime-api@3.0.0-dev.1
+- pkg:cargo/polkadot-node-core-runtime-api@30.0.0
 - pkg:cargo/polkadot-node-core-runtime-api@4.0.0
 - pkg:cargo/polkadot-node-core-runtime-api@5.0.0
 - pkg:cargo/polkadot-node-core-runtime-api@6.0.0

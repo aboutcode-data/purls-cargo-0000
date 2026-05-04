@@ -29,6 +29,7 @@
 - pkg:cargo/polkadot-node-network-protocol@29.0.1
 - pkg:cargo/polkadot-node-network-protocol@3.0.0
 - pkg:cargo/polkadot-node-network-protocol@3.0.0-dev.1
+- pkg:cargo/polkadot-node-network-protocol@30.0.0
 - pkg:cargo/polkadot-node-network-protocol@4.0.0
 - pkg:cargo/polkadot-node-network-protocol@5.0.0
 - pkg:cargo/polkadot-node-network-protocol@6.0.0

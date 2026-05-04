@@ -28,6 +28,7 @@
 - pkg:cargo/polkadot-approval-distribution@29.0.0
 - pkg:cargo/polkadot-approval-distribution@3.0.0
 - pkg:cargo/polkadot-approval-distribution@3.0.0-dev.1
+- pkg:cargo/polkadot-approval-distribution@30.0.0
 - pkg:cargo/polkadot-approval-distribution@4.0.0
 - pkg:cargo/polkadot-approval-distribution@5.0.0
 - pkg:cargo/polkadot-approval-distribution@6.0.0
