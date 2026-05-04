@@ -33,3 +33,4 @@
 - pkg:cargo/insights@0.16.0-dev.8
 - pkg:cargo/insights@0.16.0-dev.9
 - pkg:cargo/insights@0.16.1
+- pkg:cargo/insights@0.17.0
