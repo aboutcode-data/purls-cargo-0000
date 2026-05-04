@@ -73,3 +73,4 @@
 - pkg:cargo/c2pa-c-ffi@0.80.3
 - pkg:cargo/c2pa-c-ffi@0.81.0
 - pkg:cargo/c2pa-c-ffi@0.82.0
+- pkg:cargo/c2pa-c-ffi@0.82.1
