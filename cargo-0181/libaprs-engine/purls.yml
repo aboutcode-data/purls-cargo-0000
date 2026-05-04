@@ -17,3 +17,4 @@
 - pkg:cargo/libaprs-engine@2.0.0-rc.2
 - pkg:cargo/libaprs-engine@2.5.0
 - pkg:cargo/libaprs-engine@2.6.0
+- pkg:cargo/libaprs-engine@3.0.0-rc.1
