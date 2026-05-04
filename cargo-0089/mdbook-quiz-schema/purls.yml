@@ -11,3 +11,4 @@
 - pkg:cargo/mdbook-quiz-schema@0.3.8
 - pkg:cargo/mdbook-quiz-schema@0.3.9
 - pkg:cargo/mdbook-quiz-schema@0.4.0
+- pkg:cargo/mdbook-quiz-schema@0.5.0
