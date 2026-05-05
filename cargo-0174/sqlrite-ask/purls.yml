@@ -8,3 +8,4 @@
 - pkg:cargo/sqlrite-ask@0.1.25
 - pkg:cargo/sqlrite-ask@0.2.0
 - pkg:cargo/sqlrite-ask@0.3.0
+- pkg:cargo/sqlrite-ask@0.4.0
