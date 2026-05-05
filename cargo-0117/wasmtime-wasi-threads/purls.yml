@@ -82,6 +82,7 @@
 - pkg:cargo/wasmtime-wasi-threads@36.0.6
 - pkg:cargo/wasmtime-wasi-threads@36.0.7
 - pkg:cargo/wasmtime-wasi-threads@36.0.8
+- pkg:cargo/wasmtime-wasi-threads@36.0.9
 - pkg:cargo/wasmtime-wasi-threads@37.0.0
 - pkg:cargo/wasmtime-wasi-threads@37.0.1
 - pkg:cargo/wasmtime-wasi-threads@37.0.2
