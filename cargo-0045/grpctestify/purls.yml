@@ -27,3 +27,4 @@
 - pkg:cargo/grpctestify@1.5.3
 - pkg:cargo/grpctestify@1.6.0
 - pkg:cargo/grpctestify@1.6.1
+- pkg:cargo/grpctestify@1.6.2
