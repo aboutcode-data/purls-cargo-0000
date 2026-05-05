@@ -1,5 +1,6 @@
 - pkg:cargo/bundle-standard-core@0.5.5
 - pkg:cargo/bundle-standard-core@0.5.6
+- pkg:cargo/bundle-standard-core@0.5.7
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25041968453
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25100909754
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25143300335
@@ -8,5 +9,6 @@
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25197054515
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25199303002
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25311918310
+- pkg:cargo/bundle-standard-core@0.6.0-dev.25368581762
 - pkg:cargo/bundle-standard-core@0.6.24953030172
 - pkg:cargo/bundle-standard-core@0.7.0-dev.25202823346
