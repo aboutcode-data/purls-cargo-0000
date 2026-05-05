@@ -25,6 +25,7 @@
 - pkg:cargo/kasl@0.2.26
 - pkg:cargo/kasl@0.2.27
 - pkg:cargo/kasl@0.2.28
+- pkg:cargo/kasl@0.2.29
 - pkg:cargo/kasl@0.2.3
 - pkg:cargo/kasl@0.2.4
 - pkg:cargo/kasl@0.2.5
