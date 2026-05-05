@@ -1,6 +1,8 @@
 - pkg:cargo/rusnel@0.1.0
 - pkg:cargo/rusnel@0.1.1
 - pkg:cargo/rusnel@0.1.2
+- pkg:cargo/rusnel@0.10.0
+- pkg:cargo/rusnel@0.10.1
 - pkg:cargo/rusnel@0.3.0
 - pkg:cargo/rusnel@0.3.1
 - pkg:cargo/rusnel@0.3.2
@@ -14,3 +16,7 @@
 - pkg:cargo/rusnel@0.6.0
 - pkg:cargo/rusnel@0.6.1
 - pkg:cargo/rusnel@0.8.0
+- pkg:cargo/rusnel@0.8.1
+- pkg:cargo/rusnel@0.8.2
+- pkg:cargo/rusnel@0.9.0
+- pkg:cargo/rusnel@0.9.1
