@@ -93,3 +93,4 @@
 - pkg:cargo/hyperlane_bootstrap@21.0.9
 - pkg:cargo/hyperlane_bootstrap@21.1.0
 - pkg:cargo/hyperlane_bootstrap@21.2.0
+- pkg:cargo/hyperlane_bootstrap@21.3.0

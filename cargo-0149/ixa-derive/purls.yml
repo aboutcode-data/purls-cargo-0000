@@ -5,3 +5,4 @@
 - pkg:cargo/ixa-derive@1.0.0
 - pkg:cargo/ixa-derive@2.0.0-beta
 - pkg:cargo/ixa-derive@2.0.0-beta.1
+- pkg:cargo/ixa-derive@2.0.0-beta.2
