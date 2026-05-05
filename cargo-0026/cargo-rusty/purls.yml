@@ -2,3 +2,4 @@
 - pkg:cargo/cargo-rusty@0.6.3
 - pkg:cargo/cargo-rusty@0.7.0
 - pkg:cargo/cargo-rusty@0.8.0
+- pkg:cargo/cargo-rusty@0.9.0
