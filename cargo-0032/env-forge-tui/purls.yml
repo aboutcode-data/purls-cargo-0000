@@ -15,3 +15,4 @@
 - pkg:cargo/env-forge-tui@0.6.2
 - pkg:cargo/env-forge-tui@0.7.0
 - pkg:cargo/env-forge-tui@0.7.1
+- pkg:cargo/env-forge-tui@0.7.2
