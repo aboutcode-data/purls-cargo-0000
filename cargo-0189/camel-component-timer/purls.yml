@@ -19,3 +19,4 @@
 - pkg:cargo/camel-component-timer@0.7.5
 - pkg:cargo/camel-component-timer@0.7.6
 - pkg:cargo/camel-component-timer@0.7.7
+- pkg:cargo/camel-component-timer@0.7.8
