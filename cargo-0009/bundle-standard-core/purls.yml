@@ -12,3 +12,4 @@
 - pkg:cargo/bundle-standard-core@0.6.0-dev.25368581762
 - pkg:cargo/bundle-standard-core@0.6.24953030172
 - pkg:cargo/bundle-standard-core@0.7.0-dev.25202823346
+- pkg:cargo/bundle-standard-core@1.1.0-dev.25421559538
