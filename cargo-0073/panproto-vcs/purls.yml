@@ -52,6 +52,7 @@
 - pkg:cargo/panproto-vcs@0.43.2
 - pkg:cargo/panproto-vcs@0.43.3
 - pkg:cargo/panproto-vcs@0.44.0
+- pkg:cargo/panproto-vcs@0.45.0
 - pkg:cargo/panproto-vcs@0.5.0
 - pkg:cargo/panproto-vcs@0.5.1
 - pkg:cargo/panproto-vcs@0.6.0
