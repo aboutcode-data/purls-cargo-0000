@@ -13,3 +13,4 @@
 - pkg:cargo/axhash-core@0.6.9
 - pkg:cargo/axhash-core@0.7.9
 - pkg:cargo/axhash-core@0.8.0
+- pkg:cargo/axhash-core@0.8.1
