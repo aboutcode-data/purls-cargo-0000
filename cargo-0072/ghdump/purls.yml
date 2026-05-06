@@ -1,3 +1,5 @@
 - pkg:cargo/ghdump@0.0.2
 - pkg:cargo/ghdump@0.1.1
 - pkg:cargo/ghdump@0.1.2
+- pkg:cargo/ghdump@0.2.0
+- pkg:cargo/ghdump@0.2.2
