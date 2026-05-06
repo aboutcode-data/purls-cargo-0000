@@ -1,3 +1,5 @@
 - pkg:cargo/pg_ripple_http@0.93.0
 - pkg:cargo/pg_ripple_http@0.94.0
 - pkg:cargo/pg_ripple_http@0.96.0
+- pkg:cargo/pg_ripple_http@0.97.0
+- pkg:cargo/pg_ripple_http@0.98.0
