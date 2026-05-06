@@ -111,3 +111,4 @@
 - pkg:cargo/canic-installer@0.30.6
 - pkg:cargo/canic-installer@0.30.9
 - pkg:cargo/canic-installer@0.31.0
+- pkg:cargo/canic-installer@0.31.1
