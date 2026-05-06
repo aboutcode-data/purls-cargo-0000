@@ -43,6 +43,7 @@
 - pkg:cargo/header-plz@0.0.48
 - pkg:cargo/header-plz@0.0.49
 - pkg:cargo/header-plz@0.0.5
+- pkg:cargo/header-plz@0.0.50
 - pkg:cargo/header-plz@0.0.6
 - pkg:cargo/header-plz@0.0.7
 - pkg:cargo/header-plz@0.0.8

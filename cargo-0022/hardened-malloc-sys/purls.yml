@@ -18,3 +18,4 @@
 - pkg:cargo/hardened-malloc-sys@16.0.2026040800
 - pkg:cargo/hardened-malloc-sys@16.0.2026040801
 - pkg:cargo/hardened-malloc-sys@16.0.2026040802
+- pkg:cargo/hardened-malloc-sys@16.0.2026050400
