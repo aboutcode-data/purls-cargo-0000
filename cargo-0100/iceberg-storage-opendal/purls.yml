@@ -1,1 +1,2 @@
 - pkg:cargo/iceberg-storage-opendal@0.9.0
+- pkg:cargo/iceberg-storage-opendal@0.9.1
