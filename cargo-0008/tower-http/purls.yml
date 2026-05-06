@@ -25,6 +25,7 @@
 - pkg:cargo/tower-http@0.5.2
 - pkg:cargo/tower-http@0.6.0
 - pkg:cargo/tower-http@0.6.1
+- pkg:cargo/tower-http@0.6.10
 - pkg:cargo/tower-http@0.6.2
 - pkg:cargo/tower-http@0.6.3
 - pkg:cargo/tower-http@0.6.4
