@@ -38,6 +38,7 @@
 - pkg:cargo/reflectapi@0.16.6
 - pkg:cargo/reflectapi@0.16.7
 - pkg:cargo/reflectapi@0.16.8
+- pkg:cargo/reflectapi@0.17.0
 - pkg:cargo/reflectapi@0.2.0
 - pkg:cargo/reflectapi@0.3.0
 - pkg:cargo/reflectapi@0.4.0
