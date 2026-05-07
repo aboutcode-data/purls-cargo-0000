@@ -56,3 +56,9 @@
 - pkg:cargo/lib_tsalign@0.9.1
 - pkg:cargo/lib_tsalign@1.0.0
 - pkg:cargo/lib_tsalign@1.0.1
+- pkg:cargo/lib_tsalign@2.0.0
+- pkg:cargo/lib_tsalign@2.0.1
+- pkg:cargo/lib_tsalign@2.0.2
+- pkg:cargo/lib_tsalign@2.0.3
+- pkg:cargo/lib_tsalign@2.0.4
+- pkg:cargo/lib_tsalign@2.0.5
