@@ -32,3 +32,6 @@
 - pkg:cargo/zen@3.3.7
 - pkg:cargo/zen@3.3.8
 - pkg:cargo/zen@3.3.9
+- pkg:cargo/zen@3.4.0
+- pkg:cargo/zen@3.4.1
+- pkg:cargo/zen@3.4.2
