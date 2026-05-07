@@ -11,3 +11,4 @@
 - pkg:cargo/dep3@0.1.29
 - pkg:cargo/dep3@0.2.0
 - pkg:cargo/dep3@0.2.1
+- pkg:cargo/dep3@0.2.2
