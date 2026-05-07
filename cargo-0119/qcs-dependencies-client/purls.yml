@@ -2,3 +2,4 @@
 - pkg:cargo/qcs-dependencies-client@0.1.2-dev.1
 - pkg:cargo/qcs-dependencies-client@0.1.2-dev.2
 - pkg:cargo/qcs-dependencies-client@0.1.2-init.0
+- pkg:cargo/qcs-dependencies-client@0.1.2-init.1
