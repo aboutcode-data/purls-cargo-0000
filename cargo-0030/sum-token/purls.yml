@@ -1,3 +1,4 @@
 - pkg:cargo/sum-token@0.0.0
 - pkg:cargo/sum-token@0.0.1
 - pkg:cargo/sum-token@0.0.2
+- pkg:cargo/sum-token@0.0.3
