@@ -14,3 +14,4 @@
 - pkg:cargo/mimium-language-server@4.0.1
 - pkg:cargo/mimium-language-server@4.0.2
 - pkg:cargo/mimium-language-server@4.1.0
+- pkg:cargo/mimium-language-server@4.1.1
