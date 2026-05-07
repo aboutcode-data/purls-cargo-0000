@@ -10,6 +10,8 @@
 - pkg:cargo/openloaf-saas@0.3.15
 - pkg:cargo/openloaf-saas@0.3.16
 - pkg:cargo/openloaf-saas@0.3.17
+- pkg:cargo/openloaf-saas@0.3.18
+- pkg:cargo/openloaf-saas@0.3.19
 - pkg:cargo/openloaf-saas@0.3.2
 - pkg:cargo/openloaf-saas@0.3.3
 - pkg:cargo/openloaf-saas@0.3.4
