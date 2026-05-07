@@ -19,3 +19,4 @@
 - pkg:cargo/facet-format@0.44.7
 - pkg:cargo/facet-format@0.46.0
 - pkg:cargo/facet-format@0.47.0
+- pkg:cargo/facet-format@0.47.1
