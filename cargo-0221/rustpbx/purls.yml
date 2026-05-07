@@ -34,3 +34,4 @@
 - pkg:cargo/rustpbx@0.3.8
 - pkg:cargo/rustpbx@0.4.0
 - pkg:cargo/rustpbx@0.4.2
+- pkg:cargo/rustpbx@0.4.3
