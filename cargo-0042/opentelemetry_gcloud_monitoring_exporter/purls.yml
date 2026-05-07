@@ -23,3 +23,4 @@
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.21.0
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.22.0
 - pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.22.1
+- pkg:cargo/opentelemetry_gcloud_monitoring_exporter@0.23.0

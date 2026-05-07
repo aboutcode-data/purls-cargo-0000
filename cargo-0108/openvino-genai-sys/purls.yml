@@ -1,1 +1,2 @@
 - pkg:cargo/openvino-genai-sys@0.10.0
+- pkg:cargo/openvino-genai-sys@0.11.0
