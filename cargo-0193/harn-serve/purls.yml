@@ -37,3 +37,4 @@
 - pkg:cargo/harn-serve@0.7.59
 - pkg:cargo/harn-serve@0.7.60
 - pkg:cargo/harn-serve@0.7.61
+- pkg:cargo/harn-serve@0.7.62
