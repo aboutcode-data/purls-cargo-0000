@@ -46,6 +46,10 @@
 - pkg:cargo/alef-publish@0.14.26
 - pkg:cargo/alef-publish@0.14.27
 - pkg:cargo/alef-publish@0.14.28
+- pkg:cargo/alef-publish@0.14.29
+- pkg:cargo/alef-publish@0.14.30
+- pkg:cargo/alef-publish@0.14.32
+- pkg:cargo/alef-publish@0.14.33
 - pkg:cargo/alef-publish@0.7.2
 - pkg:cargo/alef-publish@0.9.0
 - pkg:cargo/alef-publish@0.9.1
