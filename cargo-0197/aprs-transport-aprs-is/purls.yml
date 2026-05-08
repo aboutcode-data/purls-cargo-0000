@@ -18,3 +18,4 @@
 - pkg:cargo/aprs-transport-aprs-is@2.5.0
 - pkg:cargo/aprs-transport-aprs-is@2.6.0
 - pkg:cargo/aprs-transport-aprs-is@3.0.0-rc.1
+- pkg:cargo/aprs-transport-aprs-is@3.0.0-rc.2
