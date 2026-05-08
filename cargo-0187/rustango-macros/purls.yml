@@ -8,5 +8,7 @@
 - pkg:cargo/rustango-macros@0.24.0
 - pkg:cargo/rustango-macros@0.24.1
 - pkg:cargo/rustango-macros@0.25.0
+- pkg:cargo/rustango-macros@0.27.0
+- pkg:cargo/rustango-macros@0.27.1
 - pkg:cargo/rustango-macros@0.7.0
 - pkg:cargo/rustango-macros@0.8.0
