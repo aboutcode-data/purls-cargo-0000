@@ -195,3 +195,4 @@
 - pkg:cargo/glean-core@67.0.0
 - pkg:cargo/glean-core@67.1.0
 - pkg:cargo/glean-core@67.2.0
+- pkg:cargo/glean-core@67.3.0
