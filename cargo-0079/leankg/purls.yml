@@ -32,6 +32,7 @@
 - pkg:cargo/leankg@0.16.6
 - pkg:cargo/leankg@0.16.7
 - pkg:cargo/leankg@0.16.9
+- pkg:cargo/leankg@0.17.0
 - pkg:cargo/leankg@0.2.0
 - pkg:cargo/leankg@0.2.1
 - pkg:cargo/leankg@0.2.11
