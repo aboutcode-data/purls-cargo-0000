@@ -13,3 +13,4 @@
 - pkg:cargo/signet-orders@0.16.2
 - pkg:cargo/signet-orders@0.16.3
 - pkg:cargo/signet-orders@0.17.0
+- pkg:cargo/signet-orders@0.17.1
