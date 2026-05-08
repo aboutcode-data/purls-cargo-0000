@@ -1,4 +1,5 @@
 - pkg:cargo/burn-flex@0.0.1
+- pkg:cargo/burn-flex@0.21.0
 - pkg:cargo/burn-flex@0.21.0-pre.3
 - pkg:cargo/burn-flex@0.21.0-pre.4
 - pkg:cargo/burn-flex@0.21.0-pre.5
