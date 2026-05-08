@@ -10,3 +10,4 @@
 - pkg:cargo/botan-src@0.30701.2
 - pkg:cargo/botan-src@0.30900.1
 - pkg:cargo/botan-src@0.30900.2
+- pkg:cargo/botan-src@0.31200.0
