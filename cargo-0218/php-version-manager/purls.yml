@@ -3,3 +3,4 @@
 - pkg:cargo/php-version-manager@1.1.0
 - pkg:cargo/php-version-manager@1.1.1
 - pkg:cargo/php-version-manager@1.1.2
+- pkg:cargo/php-version-manager@1.2.0
