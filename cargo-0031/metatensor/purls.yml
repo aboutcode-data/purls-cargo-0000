@@ -13,3 +13,4 @@
 - pkg:cargo/metatensor@0.2.3
 - pkg:cargo/metatensor@0.2.4
 - pkg:cargo/metatensor@0.3.0-rc1
+- pkg:cargo/metatensor@0.3.0-rc2
