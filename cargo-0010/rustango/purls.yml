@@ -9,9 +9,15 @@
 - pkg:cargo/rustango@0.25.0
 - pkg:cargo/rustango@0.27.0
 - pkg:cargo/rustango@0.27.1
+- pkg:cargo/rustango@0.27.10
 - pkg:cargo/rustango@0.27.2
 - pkg:cargo/rustango@0.27.3
 - pkg:cargo/rustango@0.27.4
 - pkg:cargo/rustango@0.27.5
+- pkg:cargo/rustango@0.27.6
+- pkg:cargo/rustango@0.27.7
+- pkg:cargo/rustango@0.27.8
+- pkg:cargo/rustango@0.27.9
+- pkg:cargo/rustango@0.28.0
 - pkg:cargo/rustango@0.7.0
 - pkg:cargo/rustango@0.8.0
