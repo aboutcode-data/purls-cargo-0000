@@ -9,3 +9,5 @@
 - pkg:cargo/currust@1.2.3
 - pkg:cargo/currust@1.2.4
 - pkg:cargo/currust@1.3.4
+- pkg:cargo/currust@1.4.0
+- pkg:cargo/currust@1.4.1

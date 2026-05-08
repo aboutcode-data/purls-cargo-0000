@@ -16,3 +16,5 @@
 - pkg:cargo/protosocket-rpc@1.0.0-pre.2
 - pkg:cargo/protosocket-rpc@1.0.0-pre.3
 - pkg:cargo/protosocket-rpc@1.0.1
+- pkg:cargo/protosocket-rpc@1.0.2
+- pkg:cargo/protosocket-rpc@1.0.3
