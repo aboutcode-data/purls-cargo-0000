@@ -13,3 +13,4 @@
 - pkg:cargo/bsalign_sys@0.6.8
 - pkg:cargo/bsalign_sys@0.6.9
 - pkg:cargo/bsalign_sys@0.7.0
+- pkg:cargo/bsalign_sys@0.8.0
