@@ -10,3 +10,5 @@
 - pkg:cargo/tray-wrapper@0.3.0
 - pkg:cargo/tray-wrapper@0.3.1
 - pkg:cargo/tray-wrapper@0.3.2
+- pkg:cargo/tray-wrapper@0.4.0
+- pkg:cargo/tray-wrapper@0.4.1
