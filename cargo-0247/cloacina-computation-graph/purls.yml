@@ -1,3 +1,4 @@
 - pkg:cargo/cloacina-computation-graph@0.5.0
 - pkg:cargo/cloacina-computation-graph@0.5.1
 - pkg:cargo/cloacina-computation-graph@0.6.0
+- pkg:cargo/cloacina-computation-graph@0.6.1
