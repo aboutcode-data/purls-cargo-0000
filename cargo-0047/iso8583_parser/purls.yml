@@ -11,3 +11,4 @@
 - pkg:cargo/iso8583_parser@0.2.3
 - pkg:cargo/iso8583_parser@0.2.4
 - pkg:cargo/iso8583_parser@0.2.5
+- pkg:cargo/iso8583_parser@0.2.6

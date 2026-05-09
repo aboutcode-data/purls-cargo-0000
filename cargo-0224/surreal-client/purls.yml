@@ -1,1 +1,2 @@
 - pkg:cargo/surreal-client@0.4.0
+- pkg:cargo/surreal-client@0.4.2
