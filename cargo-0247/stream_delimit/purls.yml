@@ -28,3 +28,4 @@
 - pkg:cargo/stream_delimit@0.5.4
 - pkg:cargo/stream_delimit@0.5.5
 - pkg:cargo/stream_delimit@0.5.6
+- pkg:cargo/stream_delimit@0.5.7
