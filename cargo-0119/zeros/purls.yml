@@ -54,6 +54,7 @@
 - pkg:cargo/zeros@18.0.2
 - pkg:cargo/zeros@18.0.3
 - pkg:cargo/zeros@19.0.0
+- pkg:cargo/zeros@19.0.1
 - pkg:cargo/zeros@2.0.0
 - pkg:cargo/zeros@2.1.0
 - pkg:cargo/zeros@2.2.0

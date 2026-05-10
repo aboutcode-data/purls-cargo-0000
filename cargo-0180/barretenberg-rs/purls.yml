@@ -194,6 +194,7 @@
 - pkg:cargo/barretenberg-rs@4.3.0-nightly.20260506
 - pkg:cargo/barretenberg-rs@4.3.0-nightly.20260508
 - pkg:cargo/barretenberg-rs@4.3.0-nightly.20260509
+- pkg:cargo/barretenberg-rs@4.3.0-nightly.20260510
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260220
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260221
 - pkg:cargo/barretenberg-rs@5.0.0-nightly.20260222
