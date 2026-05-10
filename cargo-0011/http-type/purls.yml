@@ -49,6 +49,8 @@
 - pkg:cargo/http-type@17.4.0
 - pkg:cargo/http-type@17.5.0
 - pkg:cargo/http-type@17.5.1
+- pkg:cargo/http-type@17.6.0
+- pkg:cargo/http-type@17.7.0
 - pkg:cargo/http-type@2.0.0
 - pkg:cargo/http-type@2.0.1
 - pkg:cargo/http-type@2.0.10
