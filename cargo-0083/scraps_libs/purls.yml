@@ -58,3 +58,4 @@
 - pkg:cargo/scraps_libs@0.31.1
 - pkg:cargo/scraps_libs@0.32.0
 - pkg:cargo/scraps_libs@0.33.0
+- pkg:cargo/scraps_libs@1.0.0
