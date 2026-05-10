@@ -3,3 +3,4 @@
 - pkg:cargo/nanoctrl@0.0.5
 - pkg:cargo/nanoctrl@0.0.6
 - pkg:cargo/nanoctrl@0.0.7
+- pkg:cargo/nanoctrl@0.1.0
