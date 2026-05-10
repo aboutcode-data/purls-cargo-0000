@@ -2,3 +2,4 @@
 - pkg:cargo/awaken-agent@0.2.0
 - pkg:cargo/awaken-agent@0.2.1
 - pkg:cargo/awaken-agent@0.4.0
+- pkg:cargo/awaken-agent@0.5.0
