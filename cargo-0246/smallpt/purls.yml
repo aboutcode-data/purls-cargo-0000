@@ -20,3 +20,5 @@
 - pkg:cargo/smallpt@0.4.0
 - pkg:cargo/smallpt@0.4.1
 - pkg:cargo/smallpt@0.4.2
+- pkg:cargo/smallpt@1.0.0
+- pkg:cargo/smallpt@1.0.1
