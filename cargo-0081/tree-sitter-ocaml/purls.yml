@@ -13,3 +13,4 @@
 - pkg:cargo/tree-sitter-ocaml@0.23.2
 - pkg:cargo/tree-sitter-ocaml@0.24.0
 - pkg:cargo/tree-sitter-ocaml@0.24.2
+- pkg:cargo/tree-sitter-ocaml@0.25.0
