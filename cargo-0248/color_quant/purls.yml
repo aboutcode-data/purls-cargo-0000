@@ -1,3 +1,4 @@
 - pkg:cargo/color_quant@1.0.0
 - pkg:cargo/color_quant@1.0.1
 - pkg:cargo/color_quant@1.1.0
+- pkg:cargo/color_quant@2.0.0
