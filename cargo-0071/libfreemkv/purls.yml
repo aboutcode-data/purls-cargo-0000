@@ -85,6 +85,7 @@
 - pkg:cargo/libfreemkv@0.18.2
 - pkg:cargo/libfreemkv@0.18.3
 - pkg:cargo/libfreemkv@0.18.4
+- pkg:cargo/libfreemkv@0.18.6
 - pkg:cargo/libfreemkv@0.2.0
 - pkg:cargo/libfreemkv@0.2.1
 - pkg:cargo/libfreemkv@0.3.0
