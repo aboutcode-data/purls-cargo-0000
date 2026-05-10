@@ -4,3 +4,4 @@
 - pkg:cargo/strontium@0.5.4
 - pkg:cargo/strontium@0.5.5
 - pkg:cargo/strontium@0.6.0
+- pkg:cargo/strontium@0.8.0
