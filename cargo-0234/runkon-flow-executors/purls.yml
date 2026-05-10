@@ -1,3 +1,4 @@
 - pkg:cargo/runkon-flow-executors@0.1.0-alpha
 - pkg:cargo/runkon-flow-executors@0.2.0-alpha
 - pkg:cargo/runkon-flow-executors@0.4.0-alpha
+- pkg:cargo/runkon-flow-executors@0.5.0-alpha
