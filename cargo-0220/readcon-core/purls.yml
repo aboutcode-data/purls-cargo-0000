@@ -5,3 +5,4 @@
 - pkg:cargo/readcon-core@0.3.2
 - pkg:cargo/readcon-core@0.4.0
 - pkg:cargo/readcon-core@0.4.3
+- pkg:cargo/readcon-core@0.9.0
