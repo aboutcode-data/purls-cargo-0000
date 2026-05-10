@@ -28,3 +28,4 @@
 - pkg:cargo/pco@1.0.0
 - pkg:cargo/pco@1.0.0-rc
 - pkg:cargo/pco@1.0.1
+- pkg:cargo/pco@1.0.2
