@@ -8,6 +8,7 @@
 - pkg:cargo/thetadatadx@1.2.2
 - pkg:cargo/thetadatadx@1.2.3
 - pkg:cargo/thetadatadx@1.2.4
+- pkg:cargo/thetadatadx@10.0.0
 - pkg:cargo/thetadatadx@2.0.0
 - pkg:cargo/thetadatadx@3.1.0
 - pkg:cargo/thetadatadx@3.2.0
@@ -69,3 +70,4 @@
 - pkg:cargo/thetadatadx@8.0.9
 - pkg:cargo/thetadatadx@9.0.0
 - pkg:cargo/thetadatadx@9.0.1
+- pkg:cargo/thetadatadx@9.1.0
