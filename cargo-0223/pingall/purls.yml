@@ -16,3 +16,5 @@
 - pkg:cargo/pingall@0.5.1
 - pkg:cargo/pingall@1.0.0
 - pkg:cargo/pingall@1.0.1
+- pkg:cargo/pingall@1.0.2
+- pkg:cargo/pingall@2.0.0
