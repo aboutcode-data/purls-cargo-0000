@@ -4,3 +4,4 @@
 - pkg:cargo/rmpfit@0.3.0
 - pkg:cargo/rmpfit@0.4.0
 - pkg:cargo/rmpfit@1.0.0
+- pkg:cargo/rmpfit@1.0.1
