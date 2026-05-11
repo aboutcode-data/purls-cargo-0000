@@ -25,3 +25,4 @@
 - pkg:cargo/tor-metrics-aggregator@1.1.5
 - pkg:cargo/tor-metrics-aggregator@1.1.6
 - pkg:cargo/tor-metrics-aggregator@1.1.7
+- pkg:cargo/tor-metrics-aggregator@1.1.8

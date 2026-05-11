@@ -4,3 +4,6 @@
 - pkg:cargo/daemon8-parse@0.2.2
 - pkg:cargo/daemon8-parse@0.2.3
 - pkg:cargo/daemon8-parse@0.2.4
+- pkg:cargo/daemon8-parse@0.3.1
+- pkg:cargo/daemon8-parse@0.3.2
+- pkg:cargo/daemon8-parse@0.3.3
