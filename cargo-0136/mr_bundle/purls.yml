@@ -112,3 +112,4 @@
 - pkg:cargo/mr_bundle@0.6.1-rc.0
 - pkg:cargo/mr_bundle@0.7.0-dev.0
 - pkg:cargo/mr_bundle@0.7.0-dev.1
+- pkg:cargo/mr_bundle@0.7.0-dev.2
