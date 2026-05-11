@@ -92,13 +92,16 @@
 - pkg:cargo/arrow@56.0.0
 - pkg:cargo/arrow@56.1.0
 - pkg:cargo/arrow@56.2.0
+- pkg:cargo/arrow@56.2.1
 - pkg:cargo/arrow@57.0.0
 - pkg:cargo/arrow@57.1.0
 - pkg:cargo/arrow@57.2.0
 - pkg:cargo/arrow@57.3.0
+- pkg:cargo/arrow@57.3.1
 - pkg:cargo/arrow@58.0.0
 - pkg:cargo/arrow@58.1.0
 - pkg:cargo/arrow@58.2.0
+- pkg:cargo/arrow@58.3.0
 - pkg:cargo/arrow@6.0.0
 - pkg:cargo/arrow@6.1.0
 - pkg:cargo/arrow@6.2.0
