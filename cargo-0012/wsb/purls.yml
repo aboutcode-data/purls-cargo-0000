@@ -35,6 +35,7 @@
 - pkg:cargo/wsb@0.195.4199
 - pkg:cargo/wsb@0.196.4203
 - pkg:cargo/wsb@0.198.4255
+- pkg:cargo/wsb@0.199.4355
 - pkg:cargo/wsb@0.70.193581
 - pkg:cargo/wsb@0.75.194064
 - pkg:cargo/wsb@0.76.226710

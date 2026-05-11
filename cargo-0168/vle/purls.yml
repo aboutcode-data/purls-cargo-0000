@@ -13,6 +13,7 @@
 - pkg:cargo/vle@1.16.1
 - pkg:cargo/vle@1.17.0
 - pkg:cargo/vle@1.18.0
+- pkg:cargo/vle@1.19.0
 - pkg:cargo/vle@1.2.0
 - pkg:cargo/vle@1.4.0
 - pkg:cargo/vle@1.4.1
