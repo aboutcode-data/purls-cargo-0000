@@ -87,3 +87,4 @@
 - pkg:cargo/dylint_driver@4.1.1
 - pkg:cargo/dylint_driver@4.1.2
 - pkg:cargo/dylint_driver@5.0.0
+- pkg:cargo/dylint_driver@6.0.0
