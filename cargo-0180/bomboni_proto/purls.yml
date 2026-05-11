@@ -60,3 +60,5 @@
 - pkg:cargo/bomboni_proto@0.1.8
 - pkg:cargo/bomboni_proto@0.1.9
 - pkg:cargo/bomboni_proto@0.2.0
+- pkg:cargo/bomboni_proto@0.3.0
+- pkg:cargo/bomboni_proto@0.3.1

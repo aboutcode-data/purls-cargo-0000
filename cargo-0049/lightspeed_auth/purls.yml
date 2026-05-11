@@ -108,6 +108,7 @@
 - pkg:cargo/lightspeed_auth@0.64.1
 - pkg:cargo/lightspeed_auth@0.64.2
 - pkg:cargo/lightspeed_auth@0.64.3
+- pkg:cargo/lightspeed_auth@0.66.0
 - pkg:cargo/lightspeed_auth@0.7.0
 - pkg:cargo/lightspeed_auth@0.8.0
 - pkg:cargo/lightspeed_auth@0.8.1
