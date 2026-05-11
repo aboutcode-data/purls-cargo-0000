@@ -11,3 +11,4 @@
 - pkg:cargo/irithyll-core@0.9.0
 - pkg:cargo/irithyll-core@0.9.1
 - pkg:cargo/irithyll-core@0.9.2
+- pkg:cargo/irithyll-core@1.0.0
