@@ -1,1 +1,2 @@
 - pkg:cargo/bitwarden-error@2.0.0
+- pkg:cargo/bitwarden-error@3.0.0

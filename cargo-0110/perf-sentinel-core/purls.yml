@@ -42,3 +42,4 @@
 - pkg:cargo/perf-sentinel-core@0.5.9
 - pkg:cargo/perf-sentinel-core@0.6.0
 - pkg:cargo/perf-sentinel-core@0.6.1
+- pkg:cargo/perf-sentinel-core@0.6.2
