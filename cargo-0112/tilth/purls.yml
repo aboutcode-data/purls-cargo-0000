@@ -25,3 +25,4 @@
 - pkg:cargo/tilth@0.6.3
 - pkg:cargo/tilth@0.7.0
 - pkg:cargo/tilth@0.8.0
+- pkg:cargo/tilth@0.8.1
