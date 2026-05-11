@@ -1,4 +1,5 @@
 - pkg:cargo/npcsh@0.0.1
+- pkg:cargo/npcsh@1.2.10
 - pkg:cargo/npcsh@1.2.3
 - pkg:cargo/npcsh@1.2.4
 - pkg:cargo/npcsh@1.2.5
