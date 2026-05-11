@@ -25,5 +25,9 @@
 - pkg:cargo/rustango-macros@0.30.20
 - pkg:cargo/rustango-macros@0.30.21
 - pkg:cargo/rustango-macros@0.30.25
+- pkg:cargo/rustango-macros@0.30.26
+- pkg:cargo/rustango-macros@0.31.0
+- pkg:cargo/rustango-macros@0.31.1
+- pkg:cargo/rustango-macros@0.31.2
 - pkg:cargo/rustango-macros@0.7.0
 - pkg:cargo/rustango-macros@0.8.0
