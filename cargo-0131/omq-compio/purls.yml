@@ -1,4 +1,5 @@
 - pkg:cargo/omq-compio@0.2.11
+- pkg:cargo/omq-compio@0.2.12
 - pkg:cargo/omq-compio@0.2.5
 - pkg:cargo/omq-compio@0.2.6
 - pkg:cargo/omq-compio@0.2.7
