@@ -59,6 +59,7 @@
 - pkg:cargo/http-type@18.4.0
 - pkg:cargo/http-type@18.4.1
 - pkg:cargo/http-type@19.0.0
+- pkg:cargo/http-type@19.0.1
 - pkg:cargo/http-type@2.0.0
 - pkg:cargo/http-type@2.0.1
 - pkg:cargo/http-type@2.0.10
