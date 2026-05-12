@@ -31,7 +31,15 @@
 - pkg:cargo/gam@0.3.20
 - pkg:cargo/gam@0.3.21
 - pkg:cargo/gam@0.3.22
+- pkg:cargo/gam@0.3.24
+- pkg:cargo/gam@0.3.25
+- pkg:cargo/gam@0.3.28
+- pkg:cargo/gam@0.3.29
 - pkg:cargo/gam@0.3.3
+- pkg:cargo/gam@0.3.30
+- pkg:cargo/gam@0.3.31
+- pkg:cargo/gam@0.3.33
+- pkg:cargo/gam@0.3.34
 - pkg:cargo/gam@0.3.4
 - pkg:cargo/gam@0.3.5
 - pkg:cargo/gam@0.3.6
