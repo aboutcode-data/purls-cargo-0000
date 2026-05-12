@@ -5,3 +5,4 @@
 - pkg:cargo/qubit-lock@0.3.2
 - pkg:cargo/qubit-lock@0.4.0
 - pkg:cargo/qubit-lock@0.4.1
+- pkg:cargo/qubit-lock@0.5.0
