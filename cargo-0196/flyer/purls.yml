@@ -63,9 +63,12 @@
 - pkg:cargo/flyer@2.0.0
 - pkg:cargo/flyer@2.1.0
 - pkg:cargo/flyer@2.1.1
+- pkg:cargo/flyer@2.1.10
 - pkg:cargo/flyer@2.1.2
 - pkg:cargo/flyer@2.1.3
 - pkg:cargo/flyer@2.1.4
 - pkg:cargo/flyer@2.1.5
 - pkg:cargo/flyer@2.1.6
 - pkg:cargo/flyer@2.1.7
+- pkg:cargo/flyer@2.1.8
+- pkg:cargo/flyer@2.1.9
