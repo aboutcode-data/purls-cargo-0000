@@ -46,6 +46,7 @@
 - pkg:cargo/thalex_rust_sdk@0.1.52
 - pkg:cargo/thalex_rust_sdk@0.1.53
 - pkg:cargo/thalex_rust_sdk@0.1.54
+- pkg:cargo/thalex_rust_sdk@0.1.55
 - pkg:cargo/thalex_rust_sdk@0.1.6
 - pkg:cargo/thalex_rust_sdk@0.1.7
 - pkg:cargo/thalex_rust_sdk@0.1.8
