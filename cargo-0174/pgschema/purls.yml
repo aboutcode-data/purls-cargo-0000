@@ -13,3 +13,4 @@
 - pkg:cargo/pgschema@0.2.20
 - pkg:cargo/pgschema@0.2.20-rc.1
 - pkg:cargo/pgschema@0.2.9
+- pkg:cargo/pgschema@0.3.1
