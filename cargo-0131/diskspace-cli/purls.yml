@@ -1,1 +1,2 @@
+- pkg:cargo/diskspace-cli@0.10.0
 - pkg:cargo/diskspace-cli@0.9.0
