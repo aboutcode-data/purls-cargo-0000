@@ -1,2 +1,3 @@
 - pkg:cargo/ghpascon-rust@0.2.4
 - pkg:cargo/ghpascon-rust@0.2.5
+- pkg:cargo/ghpascon-rust@0.3.0
