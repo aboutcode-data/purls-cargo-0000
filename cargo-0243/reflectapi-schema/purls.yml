@@ -39,6 +39,7 @@
 - pkg:cargo/reflectapi-schema@0.16.7
 - pkg:cargo/reflectapi-schema@0.16.8
 - pkg:cargo/reflectapi-schema@0.17.0
+- pkg:cargo/reflectapi-schema@0.17.2
 - pkg:cargo/reflectapi-schema@0.17.2-alpha.1
 - pkg:cargo/reflectapi-schema@0.17.2-alpha.2
 - pkg:cargo/reflectapi-schema@0.17.2-alpha.3
