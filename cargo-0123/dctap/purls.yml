@@ -49,3 +49,4 @@
 - pkg:cargo/dctap@0.2.20-rc.1
 - pkg:cargo/dctap@0.2.8
 - pkg:cargo/dctap@0.2.9
+- pkg:cargo/dctap@0.3.1
