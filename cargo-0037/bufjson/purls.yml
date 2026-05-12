@@ -22,3 +22,4 @@
 - pkg:cargo/bufjson@0.7.3
 - pkg:cargo/bufjson@0.7.4
 - pkg:cargo/bufjson@1.0.0
+- pkg:cargo/bufjson@1.0.1
