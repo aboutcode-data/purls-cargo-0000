@@ -5,3 +5,4 @@
 - pkg:cargo/rustio-admin-cli@0.3.0
 - pkg:cargo/rustio-admin-cli@0.4.0
 - pkg:cargo/rustio-admin-cli@0.8.0
+- pkg:cargo/rustio-admin-cli@0.8.1
