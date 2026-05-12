@@ -16,6 +16,9 @@
 - pkg:cargo/sst_sdk@4.12.9
 - pkg:cargo/sst_sdk@4.13.0
 - pkg:cargo/sst_sdk@4.13.1
+- pkg:cargo/sst_sdk@4.13.2
+- pkg:cargo/sst_sdk@4.14.0
+- pkg:cargo/sst_sdk@4.14.1
 - pkg:cargo/sst_sdk@4.6.10
 - pkg:cargo/sst_sdk@4.6.11
 - pkg:cargo/sst_sdk@4.6.6
