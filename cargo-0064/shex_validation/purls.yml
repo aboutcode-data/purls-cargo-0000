@@ -57,3 +57,4 @@
 - pkg:cargo/shex_validation@0.2.6
 - pkg:cargo/shex_validation@0.2.8
 - pkg:cargo/shex_validation@0.2.9
+- pkg:cargo/shex_validation@0.3.1
