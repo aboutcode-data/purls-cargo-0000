@@ -10,3 +10,4 @@
 - pkg:cargo/gitway@0.8.1
 - pkg:cargo/gitway@0.9.0
 - pkg:cargo/gitway@1.0.0
+- pkg:cargo/gitway@1.0.1
