@@ -7,3 +7,4 @@
 - pkg:cargo/libcrux-digest@0.0.6-pre.2
 - pkg:cargo/libcrux-digest@0.0.7
 - pkg:cargo/libcrux-digest@0.0.7-rc.1
+- pkg:cargo/libcrux-digest@0.0.8-rc.1
