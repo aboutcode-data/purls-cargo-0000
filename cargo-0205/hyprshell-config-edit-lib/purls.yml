@@ -1,4 +1,5 @@
 - pkg:cargo/hyprshell-config-edit-lib@4.10.0
+- pkg:cargo/hyprshell-config-edit-lib@4.10.2
 - pkg:cargo/hyprshell-config-edit-lib@4.8.0
 - pkg:cargo/hyprshell-config-edit-lib@4.8.1
 - pkg:cargo/hyprshell-config-edit-lib@4.8.2
