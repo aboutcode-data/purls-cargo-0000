@@ -33,3 +33,4 @@
 - pkg:cargo/reqrio@0.2.0-alpha4
 - pkg:cargo/reqrio@0.2.0-beta1
 - pkg:cargo/reqrio@0.2.0-beta2
+- pkg:cargo/reqrio@0.3.0-alpha1

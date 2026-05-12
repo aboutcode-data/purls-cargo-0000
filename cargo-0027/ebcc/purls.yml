@@ -1,1 +1,2 @@
 - pkg:cargo/ebcc@0.1.0
+- pkg:cargo/ebcc@0.2.0%2Bebcc.0.1.3
