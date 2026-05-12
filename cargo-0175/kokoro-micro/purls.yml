@@ -1,1 +1,2 @@
 - pkg:cargo/kokoro-micro@1.0.0
+- pkg:cargo/kokoro-micro@1.0.1
