@@ -14,3 +14,4 @@
 - pkg:cargo/bphelper-cli@0.7.5
 - pkg:cargo/bphelper-cli@0.7.6
 - pkg:cargo/bphelper-cli@0.8.0
+- pkg:cargo/bphelper-cli@0.8.1
