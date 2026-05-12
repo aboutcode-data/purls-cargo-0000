@@ -13,3 +13,4 @@
 - pkg:cargo/libkrun-sys@0.9.1
 - pkg:cargo/libkrun-sys@0.9.2
 - pkg:cargo/libkrun-sys@0.9.3
+- pkg:cargo/libkrun-sys@0.9.4
