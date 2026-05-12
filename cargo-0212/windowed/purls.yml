@@ -5,3 +5,4 @@
 - pkg:cargo/windowed@0.2.2
 - pkg:cargo/windowed@0.2.3
 - pkg:cargo/windowed@0.2.5
+- pkg:cargo/windowed@0.3.1
