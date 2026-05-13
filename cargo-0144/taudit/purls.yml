@@ -23,5 +23,8 @@
 - pkg:cargo/taudit@1.0.3
 - pkg:cargo/taudit@1.0.8
 - pkg:cargo/taudit@1.0.9
+- pkg:cargo/taudit@1.1.0
 - pkg:cargo/taudit@1.1.0-rc.3
 - pkg:cargo/taudit@1.1.0-rc.6
+- pkg:cargo/taudit@1.1.1
+- pkg:cargo/taudit@1.1.2
