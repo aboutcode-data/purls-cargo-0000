@@ -5,3 +5,4 @@
 - pkg:cargo/hyperlane-process-guard@0.2.3
 - pkg:cargo/hyperlane-process-guard@0.2.4
 - pkg:cargo/hyperlane-process-guard@0.2.5
+- pkg:cargo/hyperlane-process-guard@0.3.0
