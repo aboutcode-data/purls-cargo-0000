@@ -5,3 +5,4 @@
 - pkg:cargo/oxide-sloc@1.4.0
 - pkg:cargo/oxide-sloc@1.4.3
 - pkg:cargo/oxide-sloc@1.5.0
+- pkg:cargo/oxide-sloc@1.5.1
