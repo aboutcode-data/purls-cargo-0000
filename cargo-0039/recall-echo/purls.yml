@@ -4,6 +4,7 @@
 - pkg:cargo/recall-echo@0.5.0
 - pkg:cargo/recall-echo@0.5.1
 - pkg:cargo/recall-echo@3.1.0
+- pkg:cargo/recall-echo@3.10.0
 - pkg:cargo/recall-echo@3.2.0
 - pkg:cargo/recall-echo@3.3.0
 - pkg:cargo/recall-echo@3.4.1
