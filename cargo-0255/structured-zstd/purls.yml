@@ -9,6 +9,7 @@
 - pkg:cargo/structured-zstd@0.0.17
 - pkg:cargo/structured-zstd@0.0.18
 - pkg:cargo/structured-zstd@0.0.19
+- pkg:cargo/structured-zstd@0.0.20
 - pkg:cargo/structured-zstd@0.0.3
 - pkg:cargo/structured-zstd@0.0.4
 - pkg:cargo/structured-zstd@0.0.5
