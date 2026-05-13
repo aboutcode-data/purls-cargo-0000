@@ -10,6 +10,7 @@
 - pkg:cargo/allsorts@0.15.1
 - pkg:cargo/allsorts@0.16.0
 - pkg:cargo/allsorts@0.16.1
+- pkg:cargo/allsorts@0.17.0
 - pkg:cargo/allsorts@0.2.0
 - pkg:cargo/allsorts@0.3.0
 - pkg:cargo/allsorts@0.4.0
