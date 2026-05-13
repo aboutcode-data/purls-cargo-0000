@@ -1,1 +1,2 @@
 - pkg:cargo/protowire-sbe@0.70.0
+- pkg:cargo/protowire-sbe@0.75.0
