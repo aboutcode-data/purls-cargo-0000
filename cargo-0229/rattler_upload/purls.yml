@@ -44,3 +44,4 @@
 - pkg:cargo/rattler_upload@0.5.8
 - pkg:cargo/rattler_upload@0.6.0
 - pkg:cargo/rattler_upload@0.6.1
+- pkg:cargo/rattler_upload@0.7.0
