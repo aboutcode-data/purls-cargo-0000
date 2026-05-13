@@ -127,6 +127,7 @@
 - pkg:cargo/http-type@2.7.0
 - pkg:cargo/http-type@2.8.0
 - pkg:cargo/http-type@2.9.0
+- pkg:cargo/http-type@20.0.0
 - pkg:cargo/http-type@3.0.0
 - pkg:cargo/http-type@3.0.1
 - pkg:cargo/http-type@3.0.2
