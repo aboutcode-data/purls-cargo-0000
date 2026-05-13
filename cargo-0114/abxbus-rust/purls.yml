@@ -1,1 +1,2 @@
 - pkg:cargo/abxbus-rust@2.4.32
+- pkg:cargo/abxbus-rust@2.5.0
