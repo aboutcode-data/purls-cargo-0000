@@ -4,3 +4,4 @@
 - pkg:cargo/kuest-client-sdk@0.5.1
 - pkg:cargo/kuest-client-sdk@2.0.0
 - pkg:cargo/kuest-client-sdk@2.0.1
+- pkg:cargo/kuest-client-sdk@2.0.2
