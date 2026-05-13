@@ -1,1 +1,2 @@
 - pkg:cargo/smolfile@0.6.2
+- pkg:cargo/smolfile@0.6.3

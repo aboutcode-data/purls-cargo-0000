@@ -44,3 +44,4 @@
 - pkg:cargo/cctp-rs@3.3.0
 - pkg:cargo/cctp-rs@4.0.0
 - pkg:cargo/cctp-rs@5.0.0
+- pkg:cargo/cctp-rs@5.1.0
