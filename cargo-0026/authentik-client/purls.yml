@@ -36,6 +36,7 @@
 - pkg:cargo/authentik-client@2025.12.2
 - pkg:cargo/authentik-client@2025.12.3
 - pkg:cargo/authentik-client@2025.12.4
+- pkg:cargo/authentik-client@2025.12.5
 - pkg:cargo/authentik-client@2025.2.0
 - pkg:cargo/authentik-client@2025.2.0-rc1
 - pkg:cargo/authentik-client@2025.2.0-rc2
@@ -72,6 +73,13 @@
 - pkg:cargo/authentik-client@2026.2.0-rc5
 - pkg:cargo/authentik-client@2026.2.1
 - pkg:cargo/authentik-client@2026.2.1-rc1
+- pkg:cargo/authentik-client@2026.2.2
+- pkg:cargo/authentik-client@2026.2.2-rc1
+- pkg:cargo/authentik-client@2026.2.2-rc2
+- pkg:cargo/authentik-client@2026.2.2-rc3
+- pkg:cargo/authentik-client@2026.2.3
+- pkg:cargo/authentik-client@2026.2.3-rc1
+- pkg:cargo/authentik-client@2026.5.0-rc1
 - pkg:cargo/authentik-client@2026.5.0-rc1.1770775923
 - pkg:cargo/authentik-client@2026.5.0-rc1.1770841240
 - pkg:cargo/authentik-client@2026.5.0-rc1.1770991396
@@ -84,6 +92,7 @@
 - pkg:cargo/authentik-client@2026.5.0-rc1.1773684799
 - pkg:cargo/authentik-client@2026.5.0-rc1.1773774381
 - pkg:cargo/authentik-client@2026.5.0-rc1.1774287363
+- pkg:cargo/authentik-client@2026.5.0-rc2
 - pkg:cargo/authentik-client@3.2024083.0
 - pkg:cargo/authentik-client@3.2024083.1
 - pkg:cargo/authentik-client@3.2024083.10
