@@ -152,6 +152,7 @@
 - pkg:cargo/dwctl@8.46.4
 - pkg:cargo/dwctl@8.47.0
 - pkg:cargo/dwctl@8.48.0
+- pkg:cargo/dwctl@8.49.0
 - pkg:cargo/dwctl@8.5.0
 - pkg:cargo/dwctl@8.6.0
 - pkg:cargo/dwctl@8.7.1
