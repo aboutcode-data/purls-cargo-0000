@@ -15,3 +15,4 @@
 - pkg:cargo/phylo@1.2.2
 - pkg:cargo/phylo@2.0.0
 - pkg:cargo/phylo@2.0.1
+- pkg:cargo/phylo@3.0.1
