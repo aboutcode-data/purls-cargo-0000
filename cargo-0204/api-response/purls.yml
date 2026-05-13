@@ -21,6 +21,7 @@
 - pkg:cargo/api-response@0.16.1
 - pkg:cargo/api-response@0.16.2
 - pkg:cargo/api-response@0.16.3
+- pkg:cargo/api-response@0.17.0
 - pkg:cargo/api-response@0.6.0
 - pkg:cargo/api-response@0.6.1
 - pkg:cargo/api-response@0.6.2
