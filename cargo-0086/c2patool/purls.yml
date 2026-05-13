@@ -91,6 +91,7 @@
 - pkg:cargo/c2patool@0.26.56
 - pkg:cargo/c2patool@0.26.57
 - pkg:cargo/c2patool@0.26.58
+- pkg:cargo/c2patool@0.26.59
 - pkg:cargo/c2patool@0.26.6
 - pkg:cargo/c2patool@0.26.7
 - pkg:cargo/c2patool@0.26.8
