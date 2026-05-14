@@ -107,3 +107,4 @@
 - pkg:cargo/cef@147.0.0%2B147.0.9
 - pkg:cargo/cef@147.1.0%2B147.0.10
 - pkg:cargo/cef@148.0.0%2B147.0.10
+- pkg:cargo/cef@148.1.0%2B147.0.14
