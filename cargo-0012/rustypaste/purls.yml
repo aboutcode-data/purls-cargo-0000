@@ -17,6 +17,7 @@
 - pkg:cargo/rustypaste@0.15.1
 - pkg:cargo/rustypaste@0.16.0
 - pkg:cargo/rustypaste@0.16.1
+- pkg:cargo/rustypaste@0.17.0
 - pkg:cargo/rustypaste@0.2.0
 - pkg:cargo/rustypaste@0.3.1
 - pkg:cargo/rustypaste@0.4.0
