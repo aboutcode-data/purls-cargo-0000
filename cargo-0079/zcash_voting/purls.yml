@@ -22,3 +22,4 @@
 - pkg:cargo/zcash_voting@0.5.8
 - pkg:cargo/zcash_voting@0.5.9
 - pkg:cargo/zcash_voting@0.6.0
+- pkg:cargo/zcash_voting@0.7.0
