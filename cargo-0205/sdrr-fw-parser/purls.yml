@@ -18,6 +18,7 @@
 - pkg:cargo/sdrr-fw-parser@0.6.0
 - pkg:cargo/sdrr-fw-parser@0.6.1
 - pkg:cargo/sdrr-fw-parser@0.6.10
+- pkg:cargo/sdrr-fw-parser@0.6.12
 - pkg:cargo/sdrr-fw-parser@0.6.2
 - pkg:cargo/sdrr-fw-parser@0.6.3
 - pkg:cargo/sdrr-fw-parser@0.6.4
