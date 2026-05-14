@@ -67,6 +67,8 @@
 - pkg:cargo/surge-core@1.0.0-beta.24
 - pkg:cargo/surge-core@1.0.0-beta.25
 - pkg:cargo/surge-core@1.0.0-beta.26
+- pkg:cargo/surge-core@1.0.0-beta.27
+- pkg:cargo/surge-core@1.0.0-beta.28
 - pkg:cargo/surge-core@1.0.0-beta.3
 - pkg:cargo/surge-core@1.0.0-beta.4
 - pkg:cargo/surge-core@1.0.0-beta.6
