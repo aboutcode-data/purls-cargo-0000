@@ -53,3 +53,4 @@
 - pkg:cargo/alloy-sol-macro-input@1.5.5
 - pkg:cargo/alloy-sol-macro-input@1.5.6
 - pkg:cargo/alloy-sol-macro-input@1.5.7
+- pkg:cargo/alloy-sol-macro-input@1.6.0
