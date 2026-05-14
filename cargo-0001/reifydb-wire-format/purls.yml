@@ -2,3 +2,4 @@
 - pkg:cargo/reifydb-wire-format@0.4.12
 - pkg:cargo/reifydb-wire-format@0.4.13
 - pkg:cargo/reifydb-wire-format@0.5.0
+- pkg:cargo/reifydb-wire-format@0.5.6
