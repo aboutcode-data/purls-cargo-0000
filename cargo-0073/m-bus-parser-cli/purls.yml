@@ -11,3 +11,4 @@
 - pkg:cargo/m-bus-parser-cli@0.0.7
 - pkg:cargo/m-bus-parser-cli@0.0.8
 - pkg:cargo/m-bus-parser-cli@0.1.0
+- pkg:cargo/m-bus-parser-cli@0.1.1
