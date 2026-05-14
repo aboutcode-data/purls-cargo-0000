@@ -5,3 +5,4 @@
 - pkg:cargo/ax-exchange-sdk@13.1.0
 - pkg:cargo/ax-exchange-sdk@13.32.1
 - pkg:cargo/ax-exchange-sdk@13.35.0
+- pkg:cargo/ax-exchange-sdk@14.2.0
