@@ -1,4 +1,5 @@
 - pkg:cargo/meerkat-live@0.6.10
+- pkg:cargo/meerkat-live@0.6.11
 - pkg:cargo/meerkat-live@0.6.5
 - pkg:cargo/meerkat-live@0.6.6
 - pkg:cargo/meerkat-live@0.6.7

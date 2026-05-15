@@ -120,6 +120,9 @@
 - pkg:cargo/libfreemkv@0.21.1
 - pkg:cargo/libfreemkv@0.21.10
 - pkg:cargo/libfreemkv@0.21.11
+- pkg:cargo/libfreemkv@0.21.12
+- pkg:cargo/libfreemkv@0.21.13
+- pkg:cargo/libfreemkv@0.21.14
 - pkg:cargo/libfreemkv@0.21.2
 - pkg:cargo/libfreemkv@0.21.4
 - pkg:cargo/libfreemkv@0.21.5
