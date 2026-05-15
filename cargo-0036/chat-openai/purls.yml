@@ -5,3 +5,4 @@
 - pkg:cargo/chat-openai@0.0.7
 - pkg:cargo/chat-openai@0.1.0
 - pkg:cargo/chat-openai@0.1.1
+- pkg:cargo/chat-openai@0.1.2
