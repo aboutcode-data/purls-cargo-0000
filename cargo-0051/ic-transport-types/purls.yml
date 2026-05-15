@@ -34,3 +34,4 @@
 - pkg:cargo/ic-transport-types@0.47.0
 - pkg:cargo/ic-transport-types@0.47.1
 - pkg:cargo/ic-transport-types@0.47.2
+- pkg:cargo/ic-transport-types@0.47.3
