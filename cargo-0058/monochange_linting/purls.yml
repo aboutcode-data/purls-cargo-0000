@@ -1,3 +1,4 @@
 - pkg:cargo/monochange_linting@0.0.0
 - pkg:cargo/monochange_linting@0.3.3
 - pkg:cargo/monochange_linting@0.4.2
+- pkg:cargo/monochange_linting@0.5.1
