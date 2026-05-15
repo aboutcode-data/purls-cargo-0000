@@ -81,4 +81,5 @@
 - pkg:cargo/tokensave@4.3.7
 - pkg:cargo/tokensave@4.3.8
 - pkg:cargo/tokensave@4.3.9
+- pkg:cargo/tokensave@4.5.0
 - pkg:cargo/tokensave@4.5.0-beta.1
