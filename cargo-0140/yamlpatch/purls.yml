@@ -15,3 +15,4 @@
 - pkg:cargo/yamlpatch@1.24.0
 - pkg:cargo/yamlpatch@1.24.0-rc3
 - pkg:cargo/yamlpatch@1.24.1
+- pkg:cargo/yamlpatch@1.25.0
