@@ -9,6 +9,7 @@
 - pkg:cargo/mirui-macros@0.11.0
 - pkg:cargo/mirui-macros@0.11.1
 - pkg:cargo/mirui-macros@0.11.2
+- pkg:cargo/mirui-macros@0.11.3
 - pkg:cargo/mirui-macros@0.2.0
 - pkg:cargo/mirui-macros@0.3.0
 - pkg:cargo/mirui-macros@0.3.1
