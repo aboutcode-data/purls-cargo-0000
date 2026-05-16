@@ -7,3 +7,4 @@
 - pkg:cargo/ras-llm-oci@2.6.0
 - pkg:cargo/ras-llm-oci@2.7.0
 - pkg:cargo/ras-llm-oci@2.8.0
+- pkg:cargo/ras-llm-oci@3.0.0
