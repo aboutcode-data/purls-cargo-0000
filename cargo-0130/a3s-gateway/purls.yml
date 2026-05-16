@@ -3,3 +3,4 @@
 - pkg:cargo/a3s-gateway@0.2.5
 - pkg:cargo/a3s-gateway@1.0.0
 - pkg:cargo/a3s-gateway@1.0.1
+- pkg:cargo/a3s-gateway@1.0.2
