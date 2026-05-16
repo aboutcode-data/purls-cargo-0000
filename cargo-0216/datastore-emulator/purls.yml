@@ -1,1 +1,2 @@
 - pkg:cargo/datastore-emulator@0.1.0
+- pkg:cargo/datastore-emulator@0.1.1
