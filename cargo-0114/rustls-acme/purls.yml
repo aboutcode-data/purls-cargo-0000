@@ -16,6 +16,7 @@
 - pkg:cargo/rustls-acme@0.14.1
 - pkg:cargo/rustls-acme@0.15.0
 - pkg:cargo/rustls-acme@0.15.1
+- pkg:cargo/rustls-acme@0.15.2
 - pkg:cargo/rustls-acme@0.2.0
 - pkg:cargo/rustls-acme@0.3.0
 - pkg:cargo/rustls-acme@0.3.0-beta.1
