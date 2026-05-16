@@ -31,3 +31,4 @@
 - pkg:cargo/hjkl-buffer@0.6.0
 - pkg:cargo/hjkl-buffer@0.6.1
 - pkg:cargo/hjkl-buffer@0.6.2
+- pkg:cargo/hjkl-buffer@0.7.0
