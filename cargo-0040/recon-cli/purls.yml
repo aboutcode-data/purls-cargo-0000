@@ -1,1 +1,2 @@
 - pkg:cargo/recon-cli@0.77.13
+- pkg:cargo/recon-cli@0.80.6
