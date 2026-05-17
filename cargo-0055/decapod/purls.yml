@@ -211,7 +211,14 @@
 - pkg:cargo/decapod@0.47.25
 - pkg:cargo/decapod@0.47.26
 - pkg:cargo/decapod@0.47.27
+- pkg:cargo/decapod@0.47.28
+- pkg:cargo/decapod@0.47.29
 - pkg:cargo/decapod@0.47.3
+- pkg:cargo/decapod@0.47.30
+- pkg:cargo/decapod@0.47.31
+- pkg:cargo/decapod@0.47.32
+- pkg:cargo/decapod@0.47.33
+- pkg:cargo/decapod@0.47.34
 - pkg:cargo/decapod@0.47.4
 - pkg:cargo/decapod@0.47.5
 - pkg:cargo/decapod@0.47.6
