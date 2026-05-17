@@ -2,3 +2,4 @@
 - pkg:cargo/car-runtime@0.13.0
 - pkg:cargo/car-runtime@0.14.0
 - pkg:cargo/car-runtime@0.15.0
+- pkg:cargo/car-runtime@0.15.1
