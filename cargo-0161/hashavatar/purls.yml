@@ -5,3 +5,6 @@
 - pkg:cargo/hashavatar@0.4.1
 - pkg:cargo/hashavatar@0.4.2
 - pkg:cargo/hashavatar@0.5.0
+- pkg:cargo/hashavatar@0.6.0
+- pkg:cargo/hashavatar@0.7.0
+- pkg:cargo/hashavatar@0.8.0
