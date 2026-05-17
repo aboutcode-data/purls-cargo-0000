@@ -30,3 +30,4 @@
 - pkg:cargo/rsenv@5.1.2
 - pkg:cargo/rsenv@5.2.0
 - pkg:cargo/rsenv@5.2.2
+- pkg:cargo/rsenv@5.2.3
