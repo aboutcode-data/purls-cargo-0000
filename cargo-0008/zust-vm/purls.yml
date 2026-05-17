@@ -4,3 +4,5 @@
 - pkg:cargo/zust-vm@0.9.4
 - pkg:cargo/zust-vm@0.9.5
 - pkg:cargo/zust-vm@0.9.6
+- pkg:cargo/zust-vm@0.9.7
+- pkg:cargo/zust-vm@0.9.8
