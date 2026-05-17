@@ -1,1 +1,2 @@
 - pkg:cargo/dns_proxy@1.0.0%2B20260423V2
+- pkg:cargo/dns_proxy@1.0.1%2B20260517
