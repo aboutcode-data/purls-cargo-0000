@@ -6,3 +6,5 @@
 - pkg:cargo/decimal-scaled@0.2.3
 - pkg:cargo/decimal-scaled@0.2.4
 - pkg:cargo/decimal-scaled@0.2.5
+- pkg:cargo/decimal-scaled@0.3.0
+- pkg:cargo/decimal-scaled@0.3.1
