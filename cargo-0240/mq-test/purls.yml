@@ -2,3 +2,4 @@
 - pkg:cargo/mq-test@0.5.27
 - pkg:cargo/mq-test@0.5.28
 - pkg:cargo/mq-test@0.5.29
+- pkg:cargo/mq-test@0.5.30

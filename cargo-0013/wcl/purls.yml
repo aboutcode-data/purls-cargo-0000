@@ -1,5 +1,6 @@
 - pkg:cargo/wcl@0.10.0-alpha
 - pkg:cargo/wcl@0.11.0-alpha
+- pkg:cargo/wcl@0.11.1-alpha
 - pkg:cargo/wcl@0.2.4-alpha
 - pkg:cargo/wcl@0.2.5-alpha
 - pkg:cargo/wcl@0.2.6-alpha
