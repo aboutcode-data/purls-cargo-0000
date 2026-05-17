@@ -48,6 +48,7 @@
 - pkg:cargo/triblespace-core@0.41.2
 - pkg:cargo/triblespace-core@0.41.3
 - pkg:cargo/triblespace-core@0.41.4
+- pkg:cargo/triblespace-core@0.42.0
 - pkg:cargo/triblespace-core@0.6.0
 - pkg:cargo/triblespace-core@0.7.0
 - pkg:cargo/triblespace-core@0.8.0
