@@ -4,3 +4,4 @@
 - pkg:cargo/hyperfuel-schema@2.0.0
 - pkg:cargo/hyperfuel-schema@3.0.0
 - pkg:cargo/hyperfuel-schema@4.0.0
+- pkg:cargo/hyperfuel-schema@4.1.0
