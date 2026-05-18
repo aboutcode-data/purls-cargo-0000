@@ -30,5 +30,6 @@
 - pkg:cargo/rustango@0.31.2
 - pkg:cargo/rustango@0.34.0
 - pkg:cargo/rustango@0.38.0
+- pkg:cargo/rustango@0.40.0
 - pkg:cargo/rustango@0.7.0
 - pkg:cargo/rustango@0.8.0
