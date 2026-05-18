@@ -28,6 +28,7 @@
 - pkg:cargo/netwatch-tui@0.15.8
 - pkg:cargo/netwatch-tui@0.15.9
 - pkg:cargo/netwatch-tui@0.16.0
+- pkg:cargo/netwatch-tui@0.16.1
 - pkg:cargo/netwatch-tui@0.2.0
 - pkg:cargo/netwatch-tui@0.3.0
 - pkg:cargo/netwatch-tui@0.3.1
