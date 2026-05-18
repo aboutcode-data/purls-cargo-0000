@@ -2,6 +2,10 @@
 - pkg:cargo/starpc@0.49.1
 - pkg:cargo/starpc@0.49.10
 - pkg:cargo/starpc@0.49.11
+- pkg:cargo/starpc@0.49.12
+- pkg:cargo/starpc@0.49.13
+- pkg:cargo/starpc@0.49.14
+- pkg:cargo/starpc@0.49.15
 - pkg:cargo/starpc@0.49.2
 - pkg:cargo/starpc@0.49.3
 - pkg:cargo/starpc@0.49.4
