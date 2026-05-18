@@ -8,6 +8,8 @@
 - pkg:cargo/biosynth@0.1.17
 - pkg:cargo/biosynth@0.1.18
 - pkg:cargo/biosynth@0.1.19
+- pkg:cargo/biosynth@0.1.20
+- pkg:cargo/biosynth@0.1.21
 - pkg:cargo/biosynth@0.1.6
 - pkg:cargo/biosynth@0.1.7
 - pkg:cargo/biosynth@0.1.8
