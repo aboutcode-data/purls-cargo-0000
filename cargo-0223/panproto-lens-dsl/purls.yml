@@ -38,3 +38,4 @@
 - pkg:cargo/panproto-lens-dsl@0.47.2
 - pkg:cargo/panproto-lens-dsl@0.47.3
 - pkg:cargo/panproto-lens-dsl@0.48.0
+- pkg:cargo/panproto-lens-dsl@0.48.1
