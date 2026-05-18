@@ -1,2 +1,5 @@
+- pkg:cargo/firkin-vmm@0.0.1
 - pkg:cargo/firkin-vmm@0.0.1-alpha
 - pkg:cargo/firkin-vmm@0.0.1-alpha.1
+- pkg:cargo/firkin-vmm@0.0.2
+- pkg:cargo/firkin-vmm@0.0.3

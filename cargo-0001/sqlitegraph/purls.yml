@@ -56,3 +56,5 @@
 - pkg:cargo/sqlitegraph@2.2.4
 - pkg:cargo/sqlitegraph@2.2.5
 - pkg:cargo/sqlitegraph@2.4.0
+- pkg:cargo/sqlitegraph@3.0.0
+- pkg:cargo/sqlitegraph@3.0.1
