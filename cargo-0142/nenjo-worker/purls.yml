@@ -1,5 +1,6 @@
 - pkg:cargo/nenjo-worker@0.10.0
 - pkg:cargo/nenjo-worker@0.11.0
+- pkg:cargo/nenjo-worker@0.12.0
 - pkg:cargo/nenjo-worker@0.7.0
 - pkg:cargo/nenjo-worker@0.7.1
 - pkg:cargo/nenjo-worker@0.8.0
