@@ -1,2 +1,3 @@
 - pkg:cargo/sexpr_parse@1.0.0
 - pkg:cargo/sexpr_parse@2.0.0
+- pkg:cargo/sexpr_parse@2.0.1
