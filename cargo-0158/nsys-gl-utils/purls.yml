@@ -9,3 +9,4 @@
 - pkg:cargo/nsys-gl-utils@0.11.8
 - pkg:cargo/nsys-gl-utils@0.11.9
 - pkg:cargo/nsys-gl-utils@0.12.0
+- pkg:cargo/nsys-gl-utils@0.13.0
