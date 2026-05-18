@@ -2,3 +2,4 @@
 - pkg:cargo/taudit-parse-bitbucket@1.1.0-rc.6
 - pkg:cargo/taudit-parse-bitbucket@2.0.0
 - pkg:cargo/taudit-parse-bitbucket@3.0.0
+- pkg:cargo/taudit-parse-bitbucket@3.0.1
