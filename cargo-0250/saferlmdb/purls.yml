@@ -11,3 +11,4 @@
 - pkg:cargo/saferlmdb@0.2.7
 - pkg:cargo/saferlmdb@0.2.8
 - pkg:cargo/saferlmdb@0.2.9
+- pkg:cargo/saferlmdb@0.9.35
