@@ -55,3 +55,4 @@
 - pkg:cargo/databend-driver-core@0.33.5
 - pkg:cargo/databend-driver-core@0.33.6
 - pkg:cargo/databend-driver-core@0.33.7
+- pkg:cargo/databend-driver-core@0.34.0

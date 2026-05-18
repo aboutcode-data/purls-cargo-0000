@@ -56,3 +56,4 @@
 - pkg:cargo/rvimage@0.6.3
 - pkg:cargo/rvimage@0.6.4
 - pkg:cargo/rvimage@0.6.5
+- pkg:cargo/rvimage@0.6.7
