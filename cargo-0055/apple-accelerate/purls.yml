@@ -2,3 +2,5 @@
 - pkg:cargo/apple-accelerate@0.2.0
 - pkg:cargo/apple-accelerate@0.2.1
 - pkg:cargo/apple-accelerate@0.2.4
+- pkg:cargo/apple-accelerate@0.3.0
+- pkg:cargo/apple-accelerate@0.3.1
