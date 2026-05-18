@@ -13,3 +13,4 @@
 - pkg:cargo/quickmatch@0.3.2
 - pkg:cargo/quickmatch@0.4.0
 - pkg:cargo/quickmatch@0.4.1
+- pkg:cargo/quickmatch@0.5.0
