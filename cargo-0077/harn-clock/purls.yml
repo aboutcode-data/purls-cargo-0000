@@ -13,6 +13,7 @@
 - pkg:cargo/harn-clock@0.8.22
 - pkg:cargo/harn-clock@0.8.23
 - pkg:cargo/harn-clock@0.8.24
+- pkg:cargo/harn-clock@0.8.25
 - pkg:cargo/harn-clock@0.8.5
 - pkg:cargo/harn-clock@0.8.6
 - pkg:cargo/harn-clock@0.8.7
