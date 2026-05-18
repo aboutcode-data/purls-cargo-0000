@@ -24,3 +24,4 @@
 - pkg:cargo/ecolog-lsp@0.4.5
 - pkg:cargo/ecolog-lsp@0.4.6
 - pkg:cargo/ecolog-lsp@0.5.0
+- pkg:cargo/ecolog-lsp@0.5.1
