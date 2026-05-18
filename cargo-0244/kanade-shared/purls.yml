@@ -18,6 +18,11 @@
 - pkg:cargo/kanade-shared@0.13.3
 - pkg:cargo/kanade-shared@0.14.0
 - pkg:cargo/kanade-shared@0.14.1
+- pkg:cargo/kanade-shared@0.15.0
+- pkg:cargo/kanade-shared@0.16.0
+- pkg:cargo/kanade-shared@0.16.1
+- pkg:cargo/kanade-shared@0.17.0
+- pkg:cargo/kanade-shared@0.17.1
 - pkg:cargo/kanade-shared@0.2.0
 - pkg:cargo/kanade-shared@0.3.0
 - pkg:cargo/kanade-shared@0.3.1
