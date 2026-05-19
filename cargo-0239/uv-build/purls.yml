@@ -19,6 +19,7 @@
 - pkg:cargo/uv-build@0.11.12
 - pkg:cargo/uv-build@0.11.13
 - pkg:cargo/uv-build@0.11.14
+- pkg:cargo/uv-build@0.11.15
 - pkg:cargo/uv-build@0.11.2
 - pkg:cargo/uv-build@0.11.3
 - pkg:cargo/uv-build@0.11.4
