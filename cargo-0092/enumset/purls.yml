@@ -48,6 +48,7 @@
 - pkg:cargo/enumset@1.1.10
 - pkg:cargo/enumset@1.1.11
 - pkg:cargo/enumset@1.1.12
+- pkg:cargo/enumset@1.1.13
 - pkg:cargo/enumset@1.1.2
 - pkg:cargo/enumset@1.1.3
 - pkg:cargo/enumset@1.1.4
