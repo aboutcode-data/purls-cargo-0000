@@ -41,6 +41,7 @@
 - pkg:cargo/zksync_kzg@0.153.0
 - pkg:cargo/zksync_kzg@0.153.1
 - pkg:cargo/zksync_kzg@0.153.10
+- pkg:cargo/zksync_kzg@0.153.11
 - pkg:cargo/zksync_kzg@0.153.2
 - pkg:cargo/zksync_kzg@0.153.3
 - pkg:cargo/zksync_kzg@0.153.4
