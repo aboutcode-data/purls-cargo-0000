@@ -19,3 +19,4 @@
 - pkg:cargo/nwc@0.43.0
 - pkg:cargo/nwc@0.43.1
 - pkg:cargo/nwc@0.44.0
+- pkg:cargo/nwc@0.45.0-alpha.1
