@@ -54,6 +54,7 @@
 - pkg:cargo/odos-sdk@10.0.0
 - pkg:cargo/odos-sdk@10.0.1
 - pkg:cargo/odos-sdk@11.0.0
+- pkg:cargo/odos-sdk@11.0.1
 - pkg:cargo/odos-sdk@2.0.0
 - pkg:cargo/odos-sdk@3.0.0
 - pkg:cargo/odos-sdk@3.0.1
