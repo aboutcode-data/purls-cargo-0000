@@ -1,3 +1,4 @@
 - pkg:cargo/llama-rs@0.14.0
 - pkg:cargo/llama-rs@0.15.0
 - pkg:cargo/llama-rs@0.15.1
+- pkg:cargo/llama-rs@0.16.0
