@@ -31,3 +31,4 @@
 - pkg:cargo/icydb-config-build@0.158.2
 - pkg:cargo/icydb-config-build@0.158.3
 - pkg:cargo/icydb-config-build@0.158.4
+- pkg:cargo/icydb-config-build@0.158.5
