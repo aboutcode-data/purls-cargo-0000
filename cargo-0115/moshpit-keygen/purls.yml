@@ -1,2 +1,4 @@
 - pkg:cargo/moshpit-keygen@0.2.0
 - pkg:cargo/moshpit-keygen@0.8.1
+- pkg:cargo/moshpit-keygen@0.8.2
+- pkg:cargo/moshpit-keygen@0.8.3
