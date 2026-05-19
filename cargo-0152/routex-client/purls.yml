@@ -4,3 +4,4 @@
 - pkg:cargo/routex-client@0.15.0
 - pkg:cargo/routex-client@0.16.0
 - pkg:cargo/routex-client@0.17.0
+- pkg:cargo/routex-client@0.18.0
