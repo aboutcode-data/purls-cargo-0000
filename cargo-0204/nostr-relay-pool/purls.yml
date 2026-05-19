@@ -26,3 +26,4 @@
 - pkg:cargo/nostr-relay-pool@0.43.0
 - pkg:cargo/nostr-relay-pool@0.43.1
 - pkg:cargo/nostr-relay-pool@0.44.0
+- pkg:cargo/nostr-relay-pool@0.44.1

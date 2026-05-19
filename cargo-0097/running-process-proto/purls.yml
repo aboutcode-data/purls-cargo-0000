@@ -4,3 +4,4 @@
 - pkg:cargo/running-process-proto@3.0.16
 - pkg:cargo/running-process-proto@3.0.17
 - pkg:cargo/running-process-proto@3.1.0
+- pkg:cargo/running-process-proto@3.2.0
