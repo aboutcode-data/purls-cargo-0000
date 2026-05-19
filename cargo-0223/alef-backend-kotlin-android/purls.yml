@@ -36,3 +36,4 @@
 - pkg:cargo/alef-backend-kotlin-android@0.16.67
 - pkg:cargo/alef-backend-kotlin-android@0.16.69
 - pkg:cargo/alef-backend-kotlin-android@0.16.71
+- pkg:cargo/alef-backend-kotlin-android@0.17.0

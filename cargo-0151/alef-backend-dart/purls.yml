@@ -151,3 +151,4 @@
 - pkg:cargo/alef-backend-dart@0.16.69
 - pkg:cargo/alef-backend-dart@0.16.71
 - pkg:cargo/alef-backend-dart@0.16.8
+- pkg:cargo/alef-backend-dart@0.17.0
