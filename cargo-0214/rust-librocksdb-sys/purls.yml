@@ -34,3 +34,5 @@
 - pkg:cargo/rust-librocksdb-sys@0.42.0%2B10.10.1
 - pkg:cargo/rust-librocksdb-sys@0.43.0%2B11.0.4
 - pkg:cargo/rust-librocksdb-sys@0.44.0%2B11.1.1
+- pkg:cargo/rust-librocksdb-sys@0.45.0%2B11.1.1
+- pkg:cargo/rust-librocksdb-sys@0.45.1%2B11.1.1
