@@ -11,6 +11,7 @@
 - pkg:cargo/suricata@7.0.13
 - pkg:cargo/suricata@7.0.14
 - pkg:cargo/suricata@7.0.15
+- pkg:cargo/suricata@7.0.16
 - pkg:cargo/suricata@7.0.5
 - pkg:cargo/suricata@7.0.8
 - pkg:cargo/suricata@8.0.0
@@ -23,4 +24,5 @@
 - pkg:cargo/suricata@8.0.2
 - pkg:cargo/suricata@8.0.3
 - pkg:cargo/suricata@8.0.4
+- pkg:cargo/suricata@8.0.5
 - pkg:cargo/suricata@9.0.0-alpha.20260210
