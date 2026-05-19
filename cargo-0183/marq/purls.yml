@@ -3,3 +3,4 @@
 - pkg:cargo/marq@2.0.0
 - pkg:cargo/marq@2.1.0
 - pkg:cargo/marq@2.2.0
+- pkg:cargo/marq@2.2.1
