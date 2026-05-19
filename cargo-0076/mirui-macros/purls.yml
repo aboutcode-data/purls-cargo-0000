@@ -21,6 +21,7 @@
 - pkg:cargo/mirui-macros@0.14.0
 - pkg:cargo/mirui-macros@0.14.2
 - pkg:cargo/mirui-macros@0.15.0
+- pkg:cargo/mirui-macros@0.15.1
 - pkg:cargo/mirui-macros@0.2.0
 - pkg:cargo/mirui-macros@0.3.0
 - pkg:cargo/mirui-macros@0.3.1

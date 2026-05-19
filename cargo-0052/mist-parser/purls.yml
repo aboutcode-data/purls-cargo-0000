@@ -1,2 +1,5 @@
 - pkg:cargo/mist-parser@0.1.0
 - pkg:cargo/mist-parser@0.1.1
+- pkg:cargo/mist-parser@0.1.2
+- pkg:cargo/mist-parser@0.1.2-patch0
+- pkg:cargo/mist-parser@0.1.3
