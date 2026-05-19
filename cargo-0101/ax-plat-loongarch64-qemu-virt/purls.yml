@@ -2,3 +2,4 @@
 - pkg:cargo/ax-plat-loongarch64-qemu-virt@0.5.2
 - pkg:cargo/ax-plat-loongarch64-qemu-virt@0.5.7
 - pkg:cargo/ax-plat-loongarch64-qemu-virt@0.5.8
+- pkg:cargo/ax-plat-loongarch64-qemu-virt@0.5.9
