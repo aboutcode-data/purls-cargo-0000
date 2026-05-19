@@ -1,4 +1,6 @@
 - pkg:cargo/smooai-file@2.2.10
+- pkg:cargo/smooai-file@2.2.11
+- pkg:cargo/smooai-file@2.2.12
 - pkg:cargo/smooai-file@2.2.4
 - pkg:cargo/smooai-file@2.2.5
 - pkg:cargo/smooai-file@2.2.6
