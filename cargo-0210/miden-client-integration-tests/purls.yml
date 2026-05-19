@@ -29,3 +29,4 @@
 - pkg:cargo/miden-client-integration-tests@0.14.6
 - pkg:cargo/miden-client-integration-tests@0.14.7
 - pkg:cargo/miden-client-integration-tests@0.14.8
+- pkg:cargo/miden-client-integration-tests@0.14.9
