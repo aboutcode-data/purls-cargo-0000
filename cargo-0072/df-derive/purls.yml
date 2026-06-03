@@ -3,3 +3,4 @@
 - pkg:cargo/df-derive@0.1.2
 - pkg:cargo/df-derive@0.2.0
 - pkg:cargo/df-derive@0.3.0
+- pkg:cargo/df-derive@0.3.1
