@@ -8,6 +8,8 @@
 - pkg:cargo/sequoia-wot@0.13.3
 - pkg:cargo/sequoia-wot@0.14.0
 - pkg:cargo/sequoia-wot@0.15.0
+- pkg:cargo/sequoia-wot@0.15.1
+- pkg:cargo/sequoia-wot@0.15.2
 - pkg:cargo/sequoia-wot@0.16.0-pqc.1
 - pkg:cargo/sequoia-wot@0.2.0
 - pkg:cargo/sequoia-wot@0.3.0
