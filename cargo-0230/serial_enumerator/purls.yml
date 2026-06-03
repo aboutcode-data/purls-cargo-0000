@@ -7,3 +7,4 @@
 - pkg:cargo/serial_enumerator@0.2.5
 - pkg:cargo/serial_enumerator@0.2.6
 - pkg:cargo/serial_enumerator@0.2.8
+- pkg:cargo/serial_enumerator@0.3.0
