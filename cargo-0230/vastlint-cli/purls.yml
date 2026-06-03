@@ -10,7 +10,10 @@
 - pkg:cargo/vastlint-cli@0.4.14
 - pkg:cargo/vastlint-cli@0.4.16
 - pkg:cargo/vastlint-cli@0.4.17
+- pkg:cargo/vastlint-cli@0.4.19
 - pkg:cargo/vastlint-cli@0.4.2
+- pkg:cargo/vastlint-cli@0.4.20
+- pkg:cargo/vastlint-cli@0.4.21
 - pkg:cargo/vastlint-cli@0.4.3
 - pkg:cargo/vastlint-cli@0.4.7
 - pkg:cargo/vastlint-cli@0.4.8
