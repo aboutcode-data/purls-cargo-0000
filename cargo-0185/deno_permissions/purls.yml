@@ -7,6 +7,9 @@
 - pkg:cargo/deno_permissions@0.104.0
 - pkg:cargo/deno_permissions@0.105.0
 - pkg:cargo/deno_permissions@0.106.0
+- pkg:cargo/deno_permissions@0.107.0
+- pkg:cargo/deno_permissions@0.108.0
+- pkg:cargo/deno_permissions@0.109.0
 - pkg:cargo/deno_permissions@0.11.0
 - pkg:cargo/deno_permissions@0.12.0
 - pkg:cargo/deno_permissions@0.13.0
