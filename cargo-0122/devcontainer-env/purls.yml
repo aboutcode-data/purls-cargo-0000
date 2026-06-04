@@ -2,3 +2,4 @@
 - pkg:cargo/devcontainer-env@0.2.0
 - pkg:cargo/devcontainer-env@0.3.1
 - pkg:cargo/devcontainer-env@0.3.2
+- pkg:cargo/devcontainer-env@0.4.0
