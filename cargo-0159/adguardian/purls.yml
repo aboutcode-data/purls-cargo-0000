@@ -6,3 +6,7 @@
 - pkg:cargo/adguardian@1.4.0
 - pkg:cargo/adguardian@1.5.0
 - pkg:cargo/adguardian@1.6.0
+- pkg:cargo/adguardian@1.6.1
+- pkg:cargo/adguardian@1.6.2
+- pkg:cargo/adguardian@1.6.3
+- pkg:cargo/adguardian@1.7.0
