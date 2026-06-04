@@ -28,6 +28,7 @@
 - pkg:cargo/arborium-gleam@2.15.0
 - pkg:cargo/arborium-gleam@2.16.0
 - pkg:cargo/arborium-gleam@2.17.0
+- pkg:cargo/arborium-gleam@2.18.0
 - pkg:cargo/arborium-gleam@2.2.0
 - pkg:cargo/arborium-gleam@2.3.0
 - pkg:cargo/arborium-gleam@2.3.1
