@@ -24,6 +24,14 @@
 - pkg:cargo/arai@0.2.19
 - pkg:cargo/arai@0.2.2
 - pkg:cargo/arai@0.2.20
+- pkg:cargo/arai@0.2.21
+- pkg:cargo/arai@0.2.22
+- pkg:cargo/arai@0.2.23
+- pkg:cargo/arai@0.2.24
+- pkg:cargo/arai@0.2.25
+- pkg:cargo/arai@0.2.26
+- pkg:cargo/arai@0.2.27
+- pkg:cargo/arai@0.2.28
 - pkg:cargo/arai@0.2.3
 - pkg:cargo/arai@0.2.4
 - pkg:cargo/arai@0.2.5
@@ -31,3 +39,5 @@
 - pkg:cargo/arai@0.2.7
 - pkg:cargo/arai@0.2.8
 - pkg:cargo/arai@0.2.9
+- pkg:cargo/arai@1.0.0
+- pkg:cargo/arai@1.0.1
