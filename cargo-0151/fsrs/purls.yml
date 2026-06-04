@@ -64,3 +64,5 @@
 - pkg:cargo/fsrs@5.2.0
 - pkg:cargo/fsrs@6.0.0
 - pkg:cargo/fsrs@6.1.0
+- pkg:cargo/fsrs@6.2.0
+- pkg:cargo/fsrs@6.3.0
