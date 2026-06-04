@@ -5,3 +5,4 @@
 - pkg:cargo/secretenv-backend-conjur@0.15.0
 - pkg:cargo/secretenv-backend-conjur@0.16.0
 - pkg:cargo/secretenv-backend-conjur@0.17.0
+- pkg:cargo/secretenv-backend-conjur@0.18.0
