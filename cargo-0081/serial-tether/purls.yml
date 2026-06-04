@@ -10,3 +10,4 @@
 - pkg:cargo/serial-tether@0.9.1
 - pkg:cargo/serial-tether@0.9.2
 - pkg:cargo/serial-tether@0.9.3
+- pkg:cargo/serial-tether@0.9.5
