@@ -1,1 +1,2 @@
 - pkg:cargo/converge-embassy-scb@0.1.0
+- pkg:cargo/converge-embassy-scb@1.3.1
