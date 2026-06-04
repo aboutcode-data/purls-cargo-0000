@@ -97,3 +97,4 @@
 - pkg:cargo/web-sys@0.3.95
 - pkg:cargo/web-sys@0.3.97
 - pkg:cargo/web-sys@0.3.98
+- pkg:cargo/web-sys@0.3.99
