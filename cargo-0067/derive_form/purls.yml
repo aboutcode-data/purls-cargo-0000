@@ -15,3 +15,5 @@
 - pkg:cargo/derive_form@2.0.1
 - pkg:cargo/derive_form@2.0.2
 - pkg:cargo/derive_form@2.1.2
+- pkg:cargo/derive_form@2.1.6
+- pkg:cargo/derive_form@2.1.7
