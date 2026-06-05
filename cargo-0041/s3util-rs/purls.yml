@@ -9,3 +9,6 @@
 - pkg:cargo/s3util-rs@1.2.0
 - pkg:cargo/s3util-rs@1.3.0
 - pkg:cargo/s3util-rs@1.4.0
+- pkg:cargo/s3util-rs@1.5.0
+- pkg:cargo/s3util-rs@1.5.1
+- pkg:cargo/s3util-rs@1.5.2
