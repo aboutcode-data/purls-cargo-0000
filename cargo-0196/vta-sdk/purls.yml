@@ -13,3 +13,5 @@
 - pkg:cargo/vta-sdk@0.9.4
 - pkg:cargo/vta-sdk@0.9.6
 - pkg:cargo/vta-sdk@0.9.7
+- pkg:cargo/vta-sdk@0.9.8
+- pkg:cargo/vta-sdk@0.9.9
