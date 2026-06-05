@@ -12,3 +12,4 @@
 - pkg:cargo/bridgestan@2.6.1
 - pkg:cargo/bridgestan@2.6.2
 - pkg:cargo/bridgestan@2.7.0
+- pkg:cargo/bridgestan@2.8.0
