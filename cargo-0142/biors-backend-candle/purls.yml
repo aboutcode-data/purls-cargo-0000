@@ -13,7 +13,13 @@
 - pkg:cargo/biors-backend-candle@0.47.13
 - pkg:cargo/biors-backend-candle@0.47.14
 - pkg:cargo/biors-backend-candle@0.47.15
+- pkg:cargo/biors-backend-candle@0.47.16
 - pkg:cargo/biors-backend-candle@0.47.2
 - pkg:cargo/biors-backend-candle@0.47.3
 - pkg:cargo/biors-backend-candle@0.47.4
 - pkg:cargo/biors-backend-candle@0.47.9
+- pkg:cargo/biors-backend-candle@0.48.0
+- pkg:cargo/biors-backend-candle@0.49.0
+- pkg:cargo/biors-backend-candle@0.50.0
+- pkg:cargo/biors-backend-candle@0.51.0
+- pkg:cargo/biors-backend-candle@0.52.0
