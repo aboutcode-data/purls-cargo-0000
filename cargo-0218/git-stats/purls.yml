@@ -22,3 +22,5 @@
 - pkg:cargo/git-stats@0.1.7
 - pkg:cargo/git-stats@0.1.8
 - pkg:cargo/git-stats@0.1.9
+- pkg:cargo/git-stats@0.2.0
+- pkg:cargo/git-stats@0.2.1
