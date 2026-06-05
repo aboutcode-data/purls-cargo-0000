@@ -7,3 +7,5 @@
 - pkg:cargo/gitsync@0.1.7
 - pkg:cargo/gitsync@0.1.8
 - pkg:cargo/gitsync@0.1.9
+- pkg:cargo/gitsync@0.2.0
+- pkg:cargo/gitsync@0.2.1
