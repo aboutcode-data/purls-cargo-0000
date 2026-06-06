@@ -3,6 +3,10 @@
 - pkg:cargo/egui-elegance@0.1.5
 - pkg:cargo/egui-elegance@0.1.6
 - pkg:cargo/egui-elegance@0.1.9
+- pkg:cargo/egui-elegance@0.10.0
+- pkg:cargo/egui-elegance@0.10.1
+- pkg:cargo/egui-elegance@0.11.0
+- pkg:cargo/egui-elegance@0.11.1
 - pkg:cargo/egui-elegance@0.2.0
 - pkg:cargo/egui-elegance@0.3.0
 - pkg:cargo/egui-elegance@0.4.0
@@ -22,3 +26,6 @@
 - pkg:cargo/egui-elegance@0.7.9
 - pkg:cargo/egui-elegance@0.8.0
 - pkg:cargo/egui-elegance@0.8.1
+- pkg:cargo/egui-elegance@0.8.2
+- pkg:cargo/egui-elegance@0.8.3
+- pkg:cargo/egui-elegance@0.9.0
