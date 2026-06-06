@@ -8,6 +8,7 @@
 - pkg:cargo/shore-daemon@13.0.0
 - pkg:cargo/shore-daemon@13.0.1
 - pkg:cargo/shore-daemon@14.0.0
+- pkg:cargo/shore-daemon@15.0.0
 - pkg:cargo/shore-daemon@2.0.0
 - pkg:cargo/shore-daemon@2.0.1
 - pkg:cargo/shore-daemon@2.0.2
