@@ -48,6 +48,7 @@
 - pkg:cargo/vtcode@0.121.0
 - pkg:cargo/vtcode@0.121.1
 - pkg:cargo/vtcode@0.122.0
+- pkg:cargo/vtcode@0.123.0
 - pkg:cargo/vtcode@0.13.0
 - pkg:cargo/vtcode@0.13.1
 - pkg:cargo/vtcode@0.13.3
