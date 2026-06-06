@@ -1,1 +1,2 @@
 - pkg:cargo/kmod-loader@0.2.0
+- pkg:cargo/kmod-loader@0.2.1
