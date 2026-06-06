@@ -1,3 +1,5 @@
 - pkg:cargo/yoa-ai-agent-sdk@6.2.1
 - pkg:cargo/yoa-ai-agent-sdk@6.2.2
 - pkg:cargo/yoa-ai-agent-sdk@6.2.3
+- pkg:cargo/yoa-ai-agent-sdk@7.0.0
+- pkg:cargo/yoa-ai-agent-sdk@8.0.0
