@@ -9,3 +9,4 @@
 - pkg:cargo/adk-rust-macros@0.8.4
 - pkg:cargo/adk-rust-macros@0.9.0
 - pkg:cargo/adk-rust-macros@0.9.1
+- pkg:cargo/adk-rust-macros@1.0.0
