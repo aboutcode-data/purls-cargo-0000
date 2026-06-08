@@ -1,3 +1,5 @@
 - pkg:cargo/bison-db@0.4.0
 - pkg:cargo/bison-db@0.5.0
 - pkg:cargo/bison-db@0.6.0
+- pkg:cargo/bison-db@0.7.0
+- pkg:cargo/bison-db@1.0.0
