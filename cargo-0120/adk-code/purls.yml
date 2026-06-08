@@ -9,3 +9,4 @@
 - pkg:cargo/adk-code@0.8.4
 - pkg:cargo/adk-code@0.9.0
 - pkg:cargo/adk-code@0.9.1
+- pkg:cargo/adk-code@1.0.0
