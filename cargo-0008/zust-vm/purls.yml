@@ -55,6 +55,12 @@
 - pkg:cargo/zust-vm@0.9.59
 - pkg:cargo/zust-vm@0.9.6
 - pkg:cargo/zust-vm@0.9.60
+- pkg:cargo/zust-vm@0.9.61
+- pkg:cargo/zust-vm@0.9.62
+- pkg:cargo/zust-vm@0.9.63
+- pkg:cargo/zust-vm@0.9.64
+- pkg:cargo/zust-vm@0.9.65
+- pkg:cargo/zust-vm@0.9.66
 - pkg:cargo/zust-vm@0.9.7
 - pkg:cargo/zust-vm@0.9.8
 - pkg:cargo/zust-vm@0.9.9
