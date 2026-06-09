@@ -23,6 +23,7 @@
 - pkg:cargo/birli@0.18.0
 - pkg:cargo/birli@0.18.1
 - pkg:cargo/birli@0.18.2
+- pkg:cargo/birli@0.19.0
 - pkg:cargo/birli@0.2.0
 - pkg:cargo/birli@0.2.1
 - pkg:cargo/birli@0.3.0
