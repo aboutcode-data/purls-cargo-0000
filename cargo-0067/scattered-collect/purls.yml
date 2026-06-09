@@ -4,5 +4,6 @@
 - pkg:cargo/scattered-collect@0.12.0
 - pkg:cargo/scattered-collect@0.2.0
 - pkg:cargo/scattered-collect@0.2.1
+- pkg:cargo/scattered-collect@0.20.0
 - pkg:cargo/scattered-collect@0.3.0
 - pkg:cargo/scattered-collect@0.4.0
