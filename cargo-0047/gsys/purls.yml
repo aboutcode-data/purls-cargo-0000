@@ -46,6 +46,7 @@
 - pkg:cargo/gsys@1.1.1
 - pkg:cargo/gsys@1.1.1-rc.0
 - pkg:cargo/gsys@1.10.0
+- pkg:cargo/gsys@1.10.0-600576ccacommit
 - pkg:cargo/gsys@1.2.0
 - pkg:cargo/gsys@1.2.0-pre.2
 - pkg:cargo/gsys@1.2.0-pre.3
