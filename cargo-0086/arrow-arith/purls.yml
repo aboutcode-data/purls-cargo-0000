@@ -53,3 +53,4 @@
 - pkg:cargo/arrow-arith@58.1.0
 - pkg:cargo/arrow-arith@58.2.0
 - pkg:cargo/arrow-arith@58.3.0
+- pkg:cargo/arrow-arith@59.0.0
