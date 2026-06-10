@@ -1,1 +1,2 @@
 - pkg:cargo/sanitization-derive@1.0.0
+- pkg:cargo/sanitization-derive@1.0.1
