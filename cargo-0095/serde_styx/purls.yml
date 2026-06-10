@@ -6,3 +6,4 @@
 - pkg:cargo/serde_styx@3.0.1
 - pkg:cargo/serde_styx@3.0.2
 - pkg:cargo/serde_styx@4.0.0
+- pkg:cargo/serde_styx@5.0.0-rc.0
