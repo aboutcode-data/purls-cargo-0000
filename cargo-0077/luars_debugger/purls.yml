@@ -6,3 +6,7 @@
 - pkg:cargo/luars_debugger@0.19.0
 - pkg:cargo/luars_debugger@0.20.0
 - pkg:cargo/luars_debugger@0.21.1
+- pkg:cargo/luars_debugger@0.23.0
+- pkg:cargo/luars_debugger@0.24.0
+- pkg:cargo/luars_debugger@0.25.0
+- pkg:cargo/luars_debugger@0.26.0
