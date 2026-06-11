@@ -55,7 +55,17 @@
 - pkg:cargo/calcit@0.12.33
 - pkg:cargo/calcit@0.12.34
 - pkg:cargo/calcit@0.12.35
+- pkg:cargo/calcit@0.12.36
+- pkg:cargo/calcit@0.12.37
+- pkg:cargo/calcit@0.12.38
+- pkg:cargo/calcit@0.12.39
 - pkg:cargo/calcit@0.12.4
+- pkg:cargo/calcit@0.12.40
+- pkg:cargo/calcit@0.12.41
+- pkg:cargo/calcit@0.12.42
+- pkg:cargo/calcit@0.12.43
+- pkg:cargo/calcit@0.12.44
+- pkg:cargo/calcit@0.12.45
 - pkg:cargo/calcit@0.12.5
 - pkg:cargo/calcit@0.12.6
 - pkg:cargo/calcit@0.12.7
