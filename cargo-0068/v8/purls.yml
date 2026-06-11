@@ -186,4 +186,5 @@
 - pkg:cargo/v8@149.1.0
 - pkg:cargo/v8@149.2.0
 - pkg:cargo/v8@149.3.0
+- pkg:cargo/v8@149.4.0
 - pkg:cargo/v8@150.0.0
