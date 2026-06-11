@@ -8,3 +8,4 @@
 - pkg:cargo/turbojpeg-sys@1.0.1
 - pkg:cargo/turbojpeg-sys@1.1.0
 - pkg:cargo/turbojpeg-sys@1.1.1
+- pkg:cargo/turbojpeg-sys@1.2.0
