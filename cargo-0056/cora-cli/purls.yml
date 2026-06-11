@@ -16,3 +16,4 @@
 - pkg:cargo/cora-cli@0.4.4
 - pkg:cargo/cora-cli@0.4.5
 - pkg:cargo/cora-cli@0.4.6
+- pkg:cargo/cora-cli@0.5.0
