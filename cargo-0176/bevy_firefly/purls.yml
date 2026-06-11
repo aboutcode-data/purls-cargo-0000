@@ -10,3 +10,4 @@
 - pkg:cargo/bevy_firefly@0.18.1
 - pkg:cargo/bevy_firefly@0.18.1-alpha
 - pkg:cargo/bevy_firefly@0.18.2
+- pkg:cargo/bevy_firefly@0.18.3
