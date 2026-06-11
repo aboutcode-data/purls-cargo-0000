@@ -3,3 +3,4 @@
 - pkg:cargo/bcore-mutation@0.7.0
 - pkg:cargo/bcore-mutation@0.8.0
 - pkg:cargo/bcore-mutation@1.0.0
+- pkg:cargo/bcore-mutation@1.1.0
