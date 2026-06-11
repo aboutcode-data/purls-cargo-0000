@@ -5,6 +5,7 @@
 - pkg:cargo/sabiql@1.12.1
 - pkg:cargo/sabiql@1.12.2
 - pkg:cargo/sabiql@1.12.3
+- pkg:cargo/sabiql@1.12.4
 - pkg:cargo/sabiql@1.6.2
 - pkg:cargo/sabiql@1.7.0
 - pkg:cargo/sabiql@1.8.0
