@@ -20,6 +20,7 @@
 - pkg:cargo/xmpp-parsers@0.20.0
 - pkg:cargo/xmpp-parsers@0.21.0
 - pkg:cargo/xmpp-parsers@0.22.0
+- pkg:cargo/xmpp-parsers@0.23.0
 - pkg:cargo/xmpp-parsers@0.3.0
 - pkg:cargo/xmpp-parsers@0.4.0
 - pkg:cargo/xmpp-parsers@0.5.0
