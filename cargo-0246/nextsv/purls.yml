@@ -33,6 +33,7 @@
 - pkg:cargo/nextsv@0.19.29
 - pkg:cargo/nextsv@0.19.3
 - pkg:cargo/nextsv@0.19.30
+- pkg:cargo/nextsv@0.19.31
 - pkg:cargo/nextsv@0.19.4
 - pkg:cargo/nextsv@0.19.5
 - pkg:cargo/nextsv@0.19.6
