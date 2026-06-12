@@ -1,3 +1,5 @@
 - pkg:cargo/surrealql-language-server@0.1.1
 - pkg:cargo/surrealql-language-server@0.1.2
 - pkg:cargo/surrealql-language-server@0.1.3
+- pkg:cargo/surrealql-language-server@0.1.4
+- pkg:cargo/surrealql-language-server@0.1.6
