@@ -11,3 +11,5 @@
 - pkg:cargo/suricata-lua-sys@5.4.8001-alpha.1
 - pkg:cargo/suricata-lua-sys@5.4.8002
 - pkg:cargo/suricata-lua-sys@5.4.8002-alpha.1
+- pkg:cargo/suricata-lua-sys@5.4.8002-alpha.2
+- pkg:cargo/suricata-lua-sys@5.4.8003-alpha.1
