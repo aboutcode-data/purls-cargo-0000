@@ -47,3 +47,5 @@
 - pkg:cargo/vespertide-loader@0.1.57
 - pkg:cargo/vespertide-loader@0.1.58
 - pkg:cargo/vespertide-loader@0.1.61
+- pkg:cargo/vespertide-loader@0.2.0
+- pkg:cargo/vespertide-loader@0.2.1
