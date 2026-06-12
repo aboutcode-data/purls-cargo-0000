@@ -5,3 +5,4 @@
 - pkg:cargo/camel-component-opensearch@0.13.0
 - pkg:cargo/camel-component-opensearch@0.14.0
 - pkg:cargo/camel-component-opensearch@0.15.0
+- pkg:cargo/camel-component-opensearch@0.16.0
