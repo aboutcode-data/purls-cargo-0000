@@ -3,3 +3,4 @@
 - pkg:cargo/k8s-crds-cloud-native-pg@1.28.0
 - pkg:cargo/k8s-crds-cloud-native-pg@1.28.1
 - pkg:cargo/k8s-crds-cloud-native-pg@1.29.0
+- pkg:cargo/k8s-crds-cloud-native-pg@1.29.1
