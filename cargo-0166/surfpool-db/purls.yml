@@ -6,3 +6,5 @@
 - pkg:cargo/surfpool-db@1.2.0
 - pkg:cargo/surfpool-db@1.2.0-beta.0
 - pkg:cargo/surfpool-db@1.2.1
+- pkg:cargo/surfpool-db@1.3.0
+- pkg:cargo/surfpool-db@1.3.1
