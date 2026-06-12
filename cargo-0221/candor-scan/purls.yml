@@ -5,3 +5,4 @@
 - pkg:cargo/candor-scan@0.3.4
 - pkg:cargo/candor-scan@0.3.5
 - pkg:cargo/candor-scan@0.3.6
+- pkg:cargo/candor-scan@0.4.0
