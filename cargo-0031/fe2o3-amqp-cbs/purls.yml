@@ -16,5 +16,6 @@
 - pkg:cargo/fe2o3-amqp-cbs@0.12.0
 - pkg:cargo/fe2o3-amqp-cbs@0.13.0
 - pkg:cargo/fe2o3-amqp-cbs@0.14.0
+- pkg:cargo/fe2o3-amqp-cbs@0.15.0
 - pkg:cargo/fe2o3-amqp-cbs@0.2.0
 - pkg:cargo/fe2o3-amqp-cbs@0.9.0
