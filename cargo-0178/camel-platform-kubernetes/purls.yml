@@ -6,6 +6,7 @@
 - pkg:cargo/camel-platform-kubernetes@0.14.0
 - pkg:cargo/camel-platform-kubernetes@0.15.0
 - pkg:cargo/camel-platform-kubernetes@0.16.0
+- pkg:cargo/camel-platform-kubernetes@0.17.0
 - pkg:cargo/camel-platform-kubernetes@0.6.3
 - pkg:cargo/camel-platform-kubernetes@0.7.0
 - pkg:cargo/camel-platform-kubernetes@0.7.1
