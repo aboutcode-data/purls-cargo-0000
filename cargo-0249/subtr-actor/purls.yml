@@ -58,3 +58,5 @@
 - pkg:cargo/subtr-actor@0.9.1
 - pkg:cargo/subtr-actor@0.9.2
 - pkg:cargo/subtr-actor@1.0.0
+- pkg:cargo/subtr-actor@1.0.1
+- pkg:cargo/subtr-actor@1.0.2
