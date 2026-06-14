@@ -91,3 +91,5 @@
 - pkg:cargo/soroban-spec-rust@25.3.1
 - pkg:cargo/soroban-spec-rust@26.0.0
 - pkg:cargo/soroban-spec-rust@26.0.0-rc.1
+- pkg:cargo/soroban-spec-rust@26.0.1
+- pkg:cargo/soroban-spec-rust@26.1.0
