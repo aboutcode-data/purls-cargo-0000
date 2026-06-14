@@ -8,3 +8,4 @@
 - pkg:cargo/solana-address@2.4.0
 - pkg:cargo/solana-address@2.5.0
 - pkg:cargo/solana-address@2.6.0
+- pkg:cargo/solana-address@2.6.1
