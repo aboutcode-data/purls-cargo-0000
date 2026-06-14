@@ -4,3 +4,5 @@
 - pkg:cargo/sochdb-kernel@2.0.0
 - pkg:cargo/sochdb-kernel@2.0.1
 - pkg:cargo/sochdb-kernel@2.0.2
+- pkg:cargo/sochdb-kernel@2.0.3
+- pkg:cargo/sochdb-kernel@2.0.4
