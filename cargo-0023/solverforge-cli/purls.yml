@@ -5,3 +5,5 @@
 - pkg:cargo/solverforge-cli@2.0.2
 - pkg:cargo/solverforge-cli@2.0.3
 - pkg:cargo/solverforge-cli@2.0.4
+- pkg:cargo/solverforge-cli@2.2.0
+- pkg:cargo/solverforge-cli@2.2.2
