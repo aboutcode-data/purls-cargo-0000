@@ -80,3 +80,5 @@
 - pkg:cargo/harper-html@1.8.0
 - pkg:cargo/harper-html@1.9.0
 - pkg:cargo/harper-html@2.0.0
+- pkg:cargo/harper-html@2.4.0
+- pkg:cargo/harper-html@2.5.0
