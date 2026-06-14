@@ -13,3 +13,4 @@
 - pkg:cargo/glpk-rust@0.1.7
 - pkg:cargo/glpk-rust@0.1.8
 - pkg:cargo/glpk-rust@0.1.9
+- pkg:cargo/glpk-rust@0.2.1
