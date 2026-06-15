@@ -21,6 +21,7 @@
 - pkg:cargo/cargo-rullst@1.0.9
 - pkg:cargo/cargo-rullst@2.0.0
 - pkg:cargo/cargo-rullst@2.0.1
+- pkg:cargo/cargo-rullst@2.0.10
 - pkg:cargo/cargo-rullst@2.0.2
 - pkg:cargo/cargo-rullst@2.0.3
 - pkg:cargo/cargo-rullst@2.0.4
