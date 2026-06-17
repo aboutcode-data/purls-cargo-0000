@@ -15,3 +15,4 @@
 - pkg:cargo/wolfram-library-link-sys@0.5.0
 - pkg:cargo/wolfram-library-link-sys@0.5.0-alpha.1
 - pkg:cargo/wolfram-library-link-sys@0.6.0-alpha.2
+- pkg:cargo/wolfram-library-link-sys@0.6.0-alpha.3
