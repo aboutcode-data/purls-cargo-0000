@@ -4,3 +4,4 @@
 - pkg:cargo/dogma-rust@0.2.2
 - pkg:cargo/dogma-rust@0.3.0
 - pkg:cargo/dogma-rust@0.3.1
+- pkg:cargo/dogma-rust@1.0.0
