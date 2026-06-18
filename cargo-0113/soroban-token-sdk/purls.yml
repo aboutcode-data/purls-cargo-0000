@@ -100,3 +100,4 @@
 - pkg:cargo/soroban-token-sdk@26.0.0-rc.1
 - pkg:cargo/soroban-token-sdk@26.0.1
 - pkg:cargo/soroban-token-sdk@26.1.0
+- pkg:cargo/soroban-token-sdk@27.0.0-rc.1
