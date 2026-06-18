@@ -24,6 +24,7 @@
 - pkg:cargo/cadrum@0.8.1-alpha.1
 - pkg:cargo/cadrum@0.8.10
 - pkg:cargo/cadrum@0.8.11
+- pkg:cargo/cadrum@0.8.12
 - pkg:cargo/cadrum@0.8.2
 - pkg:cargo/cadrum@0.8.3
 - pkg:cargo/cadrum@0.8.4
