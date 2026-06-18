@@ -67,3 +67,4 @@
 - pkg:cargo/velesdb-server@1.9.3
 - pkg:cargo/velesdb-server@2.0.0
 - pkg:cargo/velesdb-server@3.0.0
+- pkg:cargo/velesdb-server@3.0.1
