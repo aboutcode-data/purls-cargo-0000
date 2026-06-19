@@ -18,3 +18,4 @@
 - pkg:cargo/ferrotunnel-protocol@1.0.7
 - pkg:cargo/ferrotunnel-protocol@1.0.8
 - pkg:cargo/ferrotunnel-protocol@1.1.0
+- pkg:cargo/ferrotunnel-protocol@1.2.0
