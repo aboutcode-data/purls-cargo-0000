@@ -67,6 +67,7 @@
 - pkg:cargo/calcit@0.12.44
 - pkg:cargo/calcit@0.12.45
 - pkg:cargo/calcit@0.12.46
+- pkg:cargo/calcit@0.12.47
 - pkg:cargo/calcit@0.12.5
 - pkg:cargo/calcit@0.12.6
 - pkg:cargo/calcit@0.12.7
