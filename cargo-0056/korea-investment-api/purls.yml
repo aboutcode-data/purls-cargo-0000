@@ -37,3 +37,6 @@
 - pkg:cargo/korea-investment-api@5.0.2
 - pkg:cargo/korea-investment-api@5.0.3
 - pkg:cargo/korea-investment-api@5.1.0
+- pkg:cargo/korea-investment-api@5.2.0
+- pkg:cargo/korea-investment-api@5.2.1
+- pkg:cargo/korea-investment-api@5.3.0
