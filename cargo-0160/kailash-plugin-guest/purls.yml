@@ -60,6 +60,7 @@
 - pkg:cargo/kailash-plugin-guest@3.9.0
 - pkg:cargo/kailash-plugin-guest@4.0.0
 - pkg:cargo/kailash-plugin-guest@4.1.0
+- pkg:cargo/kailash-plugin-guest@4.10.0
 - pkg:cargo/kailash-plugin-guest@4.2.0
 - pkg:cargo/kailash-plugin-guest@4.2.1
 - pkg:cargo/kailash-plugin-guest@4.2.2
@@ -71,3 +72,5 @@
 - pkg:cargo/kailash-plugin-guest@4.5.0
 - pkg:cargo/kailash-plugin-guest@4.6.0
 - pkg:cargo/kailash-plugin-guest@4.7.0
+- pkg:cargo/kailash-plugin-guest@4.8.0
+- pkg:cargo/kailash-plugin-guest@4.9.0
