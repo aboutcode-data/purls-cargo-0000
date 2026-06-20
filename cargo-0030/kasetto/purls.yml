@@ -7,6 +7,7 @@
 - pkg:cargo/kasetto@2.1.0
 - pkg:cargo/kasetto@2.10.0
 - pkg:cargo/kasetto@2.11.0
+- pkg:cargo/kasetto@2.12.0
 - pkg:cargo/kasetto@2.2.0
 - pkg:cargo/kasetto@2.3.0
 - pkg:cargo/kasetto@2.4.0
@@ -18,3 +19,8 @@
 - pkg:cargo/kasetto@2.8.1
 - pkg:cargo/kasetto@2.9.0
 - pkg:cargo/kasetto@2.9.1
+- pkg:cargo/kasetto@3.0.0
+- pkg:cargo/kasetto@3.1.0
+- pkg:cargo/kasetto@3.2.0
+- pkg:cargo/kasetto@3.3.0
+- pkg:cargo/kasetto@3.3.1
