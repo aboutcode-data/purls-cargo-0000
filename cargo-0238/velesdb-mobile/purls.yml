@@ -51,3 +51,5 @@
 - pkg:cargo/velesdb-mobile@3.0.0
 - pkg:cargo/velesdb-mobile@3.0.1
 - pkg:cargo/velesdb-mobile@3.1.0
+- pkg:cargo/velesdb-mobile@3.2.0
+- pkg:cargo/velesdb-mobile@3.2.1
