@@ -5,3 +5,5 @@
 - pkg:cargo/vizier-derive@0.10.4
 - pkg:cargo/vizier-derive@0.10.5
 - pkg:cargo/vizier-derive@0.10.6
+- pkg:cargo/vizier-derive@0.10.7
+- pkg:cargo/vizier-derive@0.10.8
