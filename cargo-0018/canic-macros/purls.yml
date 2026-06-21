@@ -371,3 +371,5 @@
 - pkg:cargo/canic-macros@0.7.9
 - pkg:cargo/canic-macros@0.70.0
 - pkg:cargo/canic-macros@0.70.1
+- pkg:cargo/canic-macros@0.70.2
+- pkg:cargo/canic-macros@0.70.3
