@@ -31,3 +31,4 @@
 - pkg:cargo/cargo-rullst@2.0.8
 - pkg:cargo/cargo-rullst@2.0.9
 - pkg:cargo/cargo-rullst@3.0.0
+- pkg:cargo/cargo-rullst@4.0.0
