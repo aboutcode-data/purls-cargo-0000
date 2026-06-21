@@ -9,3 +9,5 @@
 - pkg:cargo/subfeature@1.25.0
 - pkg:cargo/subfeature@1.25.1
 - pkg:cargo/subfeature@1.25.2
+- pkg:cargo/subfeature@1.26.0
+- pkg:cargo/subfeature@1.26.1
