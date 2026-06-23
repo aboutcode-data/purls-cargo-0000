@@ -13,3 +13,4 @@
 - pkg:cargo/gitlab-runner@0.3.0
 - pkg:cargo/gitlab-runner@0.3.0-rc1
 - pkg:cargo/gitlab-runner@0.3.1
+- pkg:cargo/gitlab-runner@0.3.2
