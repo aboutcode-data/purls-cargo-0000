@@ -16,3 +16,6 @@
 - pkg:cargo/dogma-rust@1.5.2
 - pkg:cargo/dogma-rust@1.5.3
 - pkg:cargo/dogma-rust@1.5.4
+- pkg:cargo/dogma-rust@1.6.0
+- pkg:cargo/dogma-rust@1.7.0
+- pkg:cargo/dogma-rust@1.8.0
