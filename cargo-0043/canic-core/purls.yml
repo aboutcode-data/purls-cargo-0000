@@ -545,6 +545,8 @@
 - pkg:cargo/canic-core@0.71.4
 - pkg:cargo/canic-core@0.71.5
 - pkg:cargo/canic-core@0.71.6
+- pkg:cargo/canic-core@0.71.7
+- pkg:cargo/canic-core@0.71.8
 - pkg:cargo/canic-core@0.8.0
 - pkg:cargo/canic-core@0.8.1
 - pkg:cargo/canic-core@0.8.2
