@@ -5,3 +5,4 @@
 - pkg:cargo/sumtype-macro@0.2.4
 - pkg:cargo/sumtype-macro@0.2.5
 - pkg:cargo/sumtype-macro@0.2.6
+- pkg:cargo/sumtype-macro@0.4.0
