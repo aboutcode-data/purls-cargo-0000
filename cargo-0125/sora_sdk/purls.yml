@@ -1,6 +1,7 @@
 - pkg:cargo/sora_sdk@2026.1.0-canary.0
 - pkg:cargo/sora_sdk@2026.1.0-canary.1
 - pkg:cargo/sora_sdk@2026.1.0-canary.10
+- pkg:cargo/sora_sdk@2026.1.0-canary.11
 - pkg:cargo/sora_sdk@2026.1.0-canary.2
 - pkg:cargo/sora_sdk@2026.1.0-canary.3
 - pkg:cargo/sora_sdk@2026.1.0-canary.4
