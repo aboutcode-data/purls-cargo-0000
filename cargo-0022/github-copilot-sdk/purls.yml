@@ -13,3 +13,4 @@
 - pkg:cargo/github-copilot-sdk@1.0.1
 - pkg:cargo/github-copilot-sdk@1.0.2
 - pkg:cargo/github-copilot-sdk@1.0.3
+- pkg:cargo/github-copilot-sdk@1.0.4
