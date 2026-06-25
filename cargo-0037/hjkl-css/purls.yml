@@ -7,4 +7,6 @@
 - pkg:cargo/hjkl-css@0.30.0
 - pkg:cargo/hjkl-css@0.31.0
 - pkg:cargo/hjkl-css@0.32.0
+- pkg:cargo/hjkl-css@0.33.1
+- pkg:cargo/hjkl-css@0.33.2
 - pkg:cargo/hjkl-css@0.4.0
