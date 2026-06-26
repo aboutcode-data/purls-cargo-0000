@@ -254,6 +254,7 @@
 - pkg:cargo/vize_carton@0.260.0
 - pkg:cargo/vize_carton@0.261.0
 - pkg:cargo/vize_carton@0.262.0
+- pkg:cargo/vize_carton@0.263.0
 - pkg:cargo/vize_carton@0.28.0
 - pkg:cargo/vize_carton@0.29.0
 - pkg:cargo/vize_carton@0.3.0
