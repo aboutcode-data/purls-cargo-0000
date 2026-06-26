@@ -23,6 +23,7 @@
 - pkg:cargo/harumi@1.16.0
 - pkg:cargo/harumi@1.17.0
 - pkg:cargo/harumi@1.18.0
+- pkg:cargo/harumi@1.19.0
 - pkg:cargo/harumi@1.2.0
 - pkg:cargo/harumi@1.3.0
 - pkg:cargo/harumi@1.3.1
