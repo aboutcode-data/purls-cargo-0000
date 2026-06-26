@@ -34,3 +34,5 @@
 - pkg:cargo/harn-glob@0.8.138
 - pkg:cargo/harn-glob@0.8.139
 - pkg:cargo/harn-glob@0.8.140
+- pkg:cargo/harn-glob@0.8.141
+- pkg:cargo/harn-glob@0.8.142
