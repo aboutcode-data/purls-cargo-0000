@@ -13,6 +13,7 @@
 - pkg:cargo/nenjo@0.2.1
 - pkg:cargo/nenjo@0.20.0
 - pkg:cargo/nenjo@0.21.0
+- pkg:cargo/nenjo@0.22.0
 - pkg:cargo/nenjo@0.3.0
 - pkg:cargo/nenjo@0.3.2
 - pkg:cargo/nenjo@0.4.0
