@@ -3,6 +3,7 @@
 - pkg:cargo/soar-dl@0.1.1
 - pkg:cargo/soar-dl@0.1.2
 - pkg:cargo/soar-dl@0.10.0
+- pkg:cargo/soar-dl@0.10.1
 - pkg:cargo/soar-dl@0.3.0
 - pkg:cargo/soar-dl@0.3.1
 - pkg:cargo/soar-dl@0.3.2
