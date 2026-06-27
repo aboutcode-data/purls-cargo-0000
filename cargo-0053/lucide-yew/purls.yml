@@ -86,7 +86,12 @@
 - pkg:cargo/lucide-yew@3.14.0
 - pkg:cargo/lucide-yew@3.15.0
 - pkg:cargo/lucide-yew@3.16.0
+- pkg:cargo/lucide-yew@3.17.0
+- pkg:cargo/lucide-yew@3.18.0
+- pkg:cargo/lucide-yew@3.19.0
 - pkg:cargo/lucide-yew@3.2.0
+- pkg:cargo/lucide-yew@3.20.0
+- pkg:cargo/lucide-yew@3.21.0
 - pkg:cargo/lucide-yew@3.3.0
 - pkg:cargo/lucide-yew@3.4.0
 - pkg:cargo/lucide-yew@3.5.0
