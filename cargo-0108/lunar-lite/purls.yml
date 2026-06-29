@@ -5,3 +5,6 @@
 - pkg:cargo/lunar-lite@0.3.2
 - pkg:cargo/lunar-lite@0.3.3
 - pkg:cargo/lunar-lite@1.0.0
+- pkg:cargo/lunar-lite@1.1.0
+- pkg:cargo/lunar-lite@1.2.0
+- pkg:cargo/lunar-lite@1.2.1
