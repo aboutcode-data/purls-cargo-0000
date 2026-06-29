@@ -12,3 +12,5 @@
 - pkg:cargo/abtop@0.4.6
 - pkg:cargo/abtop@0.4.7
 - pkg:cargo/abtop@0.4.8
+- pkg:cargo/abtop@0.5.0
+- pkg:cargo/abtop@0.5.1
