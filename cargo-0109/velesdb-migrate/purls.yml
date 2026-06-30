@@ -58,3 +58,4 @@
 - pkg:cargo/velesdb-migrate@3.2.0
 - pkg:cargo/velesdb-migrate@3.2.1
 - pkg:cargo/velesdb-migrate@3.3.0
+- pkg:cargo/velesdb-migrate@3.4.0
