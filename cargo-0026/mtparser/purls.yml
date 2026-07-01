@@ -2,3 +2,4 @@
 - pkg:cargo/mtparser@0.1.1
 - pkg:cargo/mtparser@0.2.0
 - pkg:cargo/mtparser@0.2.1
+- pkg:cargo/mtparser@0.2.2
