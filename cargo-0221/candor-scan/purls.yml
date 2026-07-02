@@ -39,3 +39,5 @@
 - pkg:cargo/candor-scan@0.7.4
 - pkg:cargo/candor-scan@0.7.5
 - pkg:cargo/candor-scan@0.8.0
+- pkg:cargo/candor-scan@0.8.1
+- pkg:cargo/candor-scan@0.8.2
