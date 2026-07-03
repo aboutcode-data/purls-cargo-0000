@@ -661,6 +661,12 @@
 - pkg:cargo/canic@0.80.1
 - pkg:cargo/canic@0.80.2
 - pkg:cargo/canic@0.80.3
+- pkg:cargo/canic@0.80.4
+- pkg:cargo/canic@0.80.5
+- pkg:cargo/canic@0.80.6
+- pkg:cargo/canic@0.80.7
+- pkg:cargo/canic@0.80.8
+- pkg:cargo/canic@0.80.9
 - pkg:cargo/canic@0.9.1
 - pkg:cargo/canic@0.9.10
 - pkg:cargo/canic@0.9.11
