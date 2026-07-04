@@ -14,3 +14,4 @@
 - pkg:cargo/egui_ltreeview@0.6.1
 - pkg:cargo/egui_ltreeview@0.7.0
 - pkg:cargo/egui_ltreeview@0.7.1
+- pkg:cargo/egui_ltreeview@0.8.0
