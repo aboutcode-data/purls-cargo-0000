@@ -9,3 +9,5 @@
 - pkg:cargo/nenjo-harness@0.20.0
 - pkg:cargo/nenjo-harness@0.21.0
 - pkg:cargo/nenjo-harness@0.22.0
+- pkg:cargo/nenjo-harness@0.23.0
+- pkg:cargo/nenjo-harness@0.24.0
