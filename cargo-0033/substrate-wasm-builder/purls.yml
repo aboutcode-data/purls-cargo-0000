@@ -54,6 +54,7 @@
 - pkg:cargo/substrate-wasm-builder@31.1.0
 - pkg:cargo/substrate-wasm-builder@32.0.0
 - pkg:cargo/substrate-wasm-builder@33.0.0
+- pkg:cargo/substrate-wasm-builder@34.0.0
 - pkg:cargo/substrate-wasm-builder@4.0.0
 - pkg:cargo/substrate-wasm-builder@5.0.0
 - pkg:cargo/substrate-wasm-builder@6.0.0

@@ -1,6 +1,8 @@
 - pkg:cargo/substrate-build-script-utils@10.0.0
 - pkg:cargo/substrate-build-script-utils@11.0.0
 - pkg:cargo/substrate-build-script-utils@11.0.1
+- pkg:cargo/substrate-build-script-utils@11.0.2
+- pkg:cargo/substrate-build-script-utils@11.0.3
 - pkg:cargo/substrate-build-script-utils@2.0.0
 - pkg:cargo/substrate-build-script-utils@2.0.0-alpha.3
 - pkg:cargo/substrate-build-script-utils@2.0.0-alpha.5
