@@ -46,3 +46,4 @@
 - pkg:cargo/rmcp-macros@1.7.0
 - pkg:cargo/rmcp-macros@1.8.0
 - pkg:cargo/rmcp-macros@2.0.0
+- pkg:cargo/rmcp-macros@2.1.0
