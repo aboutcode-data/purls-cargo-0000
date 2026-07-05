@@ -5,3 +5,6 @@
 - pkg:cargo/vcs-github@0.3.1
 - pkg:cargo/vcs-github@0.4.0
 - pkg:cargo/vcs-github@0.5.0
+- pkg:cargo/vcs-github@0.6.0
+- pkg:cargo/vcs-github@0.7.0
+- pkg:cargo/vcs-github@0.8.0
