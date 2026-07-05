@@ -88,3 +88,5 @@
 - pkg:cargo/zust-vm@0.9.89
 - pkg:cargo/zust-vm@0.9.9
 - pkg:cargo/zust-vm@0.9.90
+- pkg:cargo/zust-vm@0.9.91
+- pkg:cargo/zust-vm@0.9.92
