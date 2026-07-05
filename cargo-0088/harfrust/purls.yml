@@ -2,6 +2,8 @@
 - pkg:cargo/harfrust@0.1.1
 - pkg:cargo/harfrust@0.1.2
 - pkg:cargo/harfrust@0.10.0
+- pkg:cargo/harfrust@0.11.0
+- pkg:cargo/harfrust@0.12.0
 - pkg:cargo/harfrust@0.2.0
 - pkg:cargo/harfrust@0.2.1
 - pkg:cargo/harfrust@0.3.0
