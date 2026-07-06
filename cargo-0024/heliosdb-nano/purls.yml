@@ -56,3 +56,4 @@
 - pkg:cargo/heliosdb-nano@3.60.8
 - pkg:cargo/heliosdb-nano@3.60.9
 - pkg:cargo/heliosdb-nano@4.0.0
+- pkg:cargo/heliosdb-nano@4.1.0
