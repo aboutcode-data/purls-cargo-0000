@@ -168,6 +168,8 @@
 - pkg:cargo/kanade-backend@0.44.5
 - pkg:cargo/kanade-backend@0.44.6
 - pkg:cargo/kanade-backend@0.44.7
+- pkg:cargo/kanade-backend@0.44.8
+- pkg:cargo/kanade-backend@0.44.9
 - pkg:cargo/kanade-backend@0.5.1
 - pkg:cargo/kanade-backend@0.6.0
 - pkg:cargo/kanade-backend@0.6.1
