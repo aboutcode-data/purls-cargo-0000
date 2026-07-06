@@ -46,3 +46,4 @@
 - pkg:cargo/feldera-buffer-cache@0.314.0
 - pkg:cargo/feldera-buffer-cache@0.315.0
 - pkg:cargo/feldera-buffer-cache@0.316.0
+- pkg:cargo/feldera-buffer-cache@0.317.0
