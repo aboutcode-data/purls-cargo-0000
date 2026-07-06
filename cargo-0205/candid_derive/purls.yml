@@ -17,6 +17,7 @@
 - pkg:cargo/candid_derive@0.10.29
 - pkg:cargo/candid_derive@0.10.30
 - pkg:cargo/candid_derive@0.10.31
+- pkg:cargo/candid_derive@0.10.32
 - pkg:cargo/candid_derive@0.2.0
 - pkg:cargo/candid_derive@0.2.1
 - pkg:cargo/candid_derive@0.2.2
