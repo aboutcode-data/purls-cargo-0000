@@ -24,6 +24,8 @@
 - pkg:cargo/npcsh@1.2.31
 - pkg:cargo/npcsh@1.2.32
 - pkg:cargo/npcsh@1.2.33
+- pkg:cargo/npcsh@1.2.34
+- pkg:cargo/npcsh@1.2.35
 - pkg:cargo/npcsh@1.2.4
 - pkg:cargo/npcsh@1.2.5
 - pkg:cargo/npcsh@1.2.6
