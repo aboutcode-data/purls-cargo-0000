@@ -244,7 +244,10 @@
 - pkg:cargo/vize_musea@0.275.0
 - pkg:cargo/vize_musea@0.276.0
 - pkg:cargo/vize_musea@0.277.0
+- pkg:cargo/vize_musea@0.279.0
 - pkg:cargo/vize_musea@0.28.0
+- pkg:cargo/vize_musea@0.280.0
+- pkg:cargo/vize_musea@0.281.0
 - pkg:cargo/vize_musea@0.29.0
 - pkg:cargo/vize_musea@0.3.0
 - pkg:cargo/vize_musea@0.33.0
