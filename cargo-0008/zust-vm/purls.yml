@@ -1,5 +1,8 @@
 - pkg:cargo/zust-vm@0.9.0
 - pkg:cargo/zust-vm@0.9.10
+- pkg:cargo/zust-vm@0.9.100
+- pkg:cargo/zust-vm@0.9.101
+- pkg:cargo/zust-vm@0.9.102
 - pkg:cargo/zust-vm@0.9.11
 - pkg:cargo/zust-vm@0.9.12
 - pkg:cargo/zust-vm@0.9.13
