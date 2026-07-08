@@ -224,6 +224,7 @@
 - pkg:cargo/hermes-core@1.8.35
 - pkg:cargo/hermes-core@1.8.36
 - pkg:cargo/hermes-core@1.8.37
+- pkg:cargo/hermes-core@1.8.38
 - pkg:cargo/hermes-core@1.8.4
 - pkg:cargo/hermes-core@1.8.5
 - pkg:cargo/hermes-core@1.8.6
