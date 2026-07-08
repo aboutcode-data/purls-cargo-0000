@@ -1,6 +1,8 @@
+- pkg:cargo/heddle-wire@0.10.0
 - pkg:cargo/heddle-wire@0.4.0
 - pkg:cargo/heddle-wire@0.5.0
 - pkg:cargo/heddle-wire@0.5.1
 - pkg:cargo/heddle-wire@0.6.0
 - pkg:cargo/heddle-wire@0.7.0
 - pkg:cargo/heddle-wire@0.8.0
+- pkg:cargo/heddle-wire@0.9.0
