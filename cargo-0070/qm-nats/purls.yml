@@ -30,3 +30,4 @@
 - pkg:cargo/qm-nats@0.0.77
 - pkg:cargo/qm-nats@0.0.78
 - pkg:cargo/qm-nats@0.0.79
+- pkg:cargo/qm-nats@0.0.80
