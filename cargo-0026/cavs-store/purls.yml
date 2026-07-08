@@ -8,3 +8,4 @@
 - pkg:cargo/cavs-store@0.7.0
 - pkg:cargo/cavs-store@0.8.0
 - pkg:cargo/cavs-store@0.9.0
+- pkg:cargo/cavs-store@1.0.0
