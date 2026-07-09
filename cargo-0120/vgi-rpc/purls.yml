@@ -1,4 +1,6 @@
 - pkg:cargo/vgi-rpc@0.1.0
+- pkg:cargo/vgi-rpc@0.10.0
+- pkg:cargo/vgi-rpc@0.11.0
 - pkg:cargo/vgi-rpc@0.2.0
 - pkg:cargo/vgi-rpc@0.3.0
 - pkg:cargo/vgi-rpc@0.4.0
