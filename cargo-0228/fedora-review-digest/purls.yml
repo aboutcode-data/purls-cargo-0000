@@ -2,3 +2,4 @@
 - pkg:cargo/fedora-review-digest@0.15.2
 - pkg:cargo/fedora-review-digest@0.15.3
 - pkg:cargo/fedora-review-digest@0.16.0
+- pkg:cargo/fedora-review-digest@0.17.0
