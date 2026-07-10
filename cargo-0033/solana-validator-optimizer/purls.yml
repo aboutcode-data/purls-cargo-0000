@@ -9,3 +9,4 @@
 - pkg:cargo/solana-validator-optimizer@2.1.1
 - pkg:cargo/solana-validator-optimizer@2.1.2
 - pkg:cargo/solana-validator-optimizer@2.2.0
+- pkg:cargo/solana-validator-optimizer@2.2.1
