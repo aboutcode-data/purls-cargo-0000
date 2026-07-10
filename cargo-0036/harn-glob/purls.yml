@@ -1,4 +1,11 @@
 - pkg:cargo/harn-glob@0.10.0
+- pkg:cargo/harn-glob@0.10.1
+- pkg:cargo/harn-glob@0.10.2
+- pkg:cargo/harn-glob@0.10.3
+- pkg:cargo/harn-glob@0.10.4
+- pkg:cargo/harn-glob@0.10.5
+- pkg:cargo/harn-glob@0.10.6
+- pkg:cargo/harn-glob@0.10.7
 - pkg:cargo/harn-glob@0.8.105
 - pkg:cargo/harn-glob@0.8.106
 - pkg:cargo/harn-glob@0.8.107
