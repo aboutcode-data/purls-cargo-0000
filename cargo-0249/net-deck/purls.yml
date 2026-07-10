@@ -20,3 +20,4 @@
 - pkg:cargo/net-deck@0.27.7
 - pkg:cargo/net-deck@0.28.0
 - pkg:cargo/net-deck@0.29.1
+- pkg:cargo/net-deck@0.31.0
