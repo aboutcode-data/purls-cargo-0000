@@ -1,1 +1,2 @@
 - pkg:cargo/neptune-rpc-api@0.0.0
+- pkg:cargo/neptune-rpc-api@0.14.0
