@@ -53,3 +53,4 @@
 - pkg:cargo/necessist@2.1.3
 - pkg:cargo/necessist@2.2.0
 - pkg:cargo/necessist@3.0.0
+- pkg:cargo/necessist@3.1.0
