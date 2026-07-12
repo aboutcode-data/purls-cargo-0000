@@ -1,3 +1,4 @@
+- pkg:cargo/candor-scan@0.10.0
 - pkg:cargo/candor-scan@0.3.0
 - pkg:cargo/candor-scan@0.3.1
 - pkg:cargo/candor-scan@0.3.2
