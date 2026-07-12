@@ -14,3 +14,4 @@
 - pkg:cargo/rmqtt-session-storage@0.2.1
 - pkg:cargo/rmqtt-session-storage@0.20.0
 - pkg:cargo/rmqtt-session-storage@0.21.0
+- pkg:cargo/rmqtt-session-storage@0.22.0
