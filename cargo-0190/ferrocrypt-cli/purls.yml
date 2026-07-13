@@ -7,3 +7,4 @@
 - pkg:cargo/ferrocrypt-cli@0.3.0-beta.2
 - pkg:cargo/ferrocrypt-cli@0.3.0-beta.3
 - pkg:cargo/ferrocrypt-cli@0.3.0-rc.1
+- pkg:cargo/ferrocrypt-cli@0.3.0-rc.2
