@@ -9,3 +9,5 @@
 - pkg:cargo/docling-pdf@0.28.0
 - pkg:cargo/docling-pdf@0.29.0
 - pkg:cargo/docling-pdf@0.30.0
+- pkg:cargo/docling-pdf@0.31.0
+- pkg:cargo/docling-pdf@0.32.0
