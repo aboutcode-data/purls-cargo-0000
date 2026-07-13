@@ -1,6 +1,7 @@
 - pkg:cargo/turbo-html2pdf-mcp@0.2.10
 - pkg:cargo/turbo-html2pdf-mcp@0.2.11
 - pkg:cargo/turbo-html2pdf-mcp@0.2.12
+- pkg:cargo/turbo-html2pdf-mcp@0.2.13
 - pkg:cargo/turbo-html2pdf-mcp@0.2.3
 - pkg:cargo/turbo-html2pdf-mcp@0.2.4
 - pkg:cargo/turbo-html2pdf-mcp@0.2.6
