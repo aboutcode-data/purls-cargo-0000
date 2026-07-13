@@ -7,3 +7,4 @@
 - pkg:cargo/egui-graph-edit@0.7.1
 - pkg:cargo/egui-graph-edit@0.8.0
 - pkg:cargo/egui-graph-edit@0.9.0
+- pkg:cargo/egui-graph-edit@0.9.1
