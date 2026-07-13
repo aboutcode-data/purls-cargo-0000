@@ -2,3 +2,4 @@
 - pkg:cargo/hadb-changeset@0.3.0
 - pkg:cargo/hadb-changeset@0.3.1
 - pkg:cargo/hadb-changeset@0.3.2
+- pkg:cargo/hadb-changeset@0.5.0
