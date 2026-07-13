@@ -777,6 +777,8 @@
 - pkg:cargo/canic@0.86.6
 - pkg:cargo/canic@0.86.7
 - pkg:cargo/canic@0.86.8
+- pkg:cargo/canic@0.87.0
+- pkg:cargo/canic@0.87.1
 - pkg:cargo/canic@0.9.1
 - pkg:cargo/canic@0.9.10
 - pkg:cargo/canic@0.9.11
