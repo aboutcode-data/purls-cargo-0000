@@ -17,6 +17,7 @@
 - pkg:cargo/cargo-c@0.10.21%2Bcargo-0.95.0
 - pkg:cargo/cargo-c@0.10.22%2Bcargo-0.96.0
 - pkg:cargo/cargo-c@0.10.23%2Bcargo-0.97.1
+- pkg:cargo/cargo-c@0.10.24%2Bcargo-0.98.0
 - pkg:cargo/cargo-c@0.10.3%2Bcargo-0.81.0
 - pkg:cargo/cargo-c@0.10.4%2Bcargo-0.82.0
 - pkg:cargo/cargo-c@0.10.5%2Bcargo-0.83.0
