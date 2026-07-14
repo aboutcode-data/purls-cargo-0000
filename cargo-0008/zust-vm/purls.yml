@@ -7,6 +7,7 @@
 - pkg:cargo/zust-vm@0.9.104
 - pkg:cargo/zust-vm@0.9.105
 - pkg:cargo/zust-vm@0.9.106
+- pkg:cargo/zust-vm@0.9.107
 - pkg:cargo/zust-vm@0.9.11
 - pkg:cargo/zust-vm@0.9.12
 - pkg:cargo/zust-vm@0.9.13
