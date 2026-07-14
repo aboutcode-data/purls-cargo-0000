@@ -20,3 +20,4 @@
 - pkg:cargo/github-actions-expressions@1.25.1
 - pkg:cargo/github-actions-expressions@1.25.2
 - pkg:cargo/github-actions-expressions@1.26.1
+- pkg:cargo/github-actions-expressions@1.27.0
