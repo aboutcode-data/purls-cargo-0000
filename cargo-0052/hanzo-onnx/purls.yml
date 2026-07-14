@@ -1,1 +1,2 @@
 - pkg:cargo/hanzo-onnx@0.10.2
+- pkg:cargo/hanzo-onnx@0.11.8
