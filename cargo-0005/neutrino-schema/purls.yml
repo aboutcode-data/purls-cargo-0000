@@ -21,3 +21,5 @@
 - pkg:cargo/neutrino-schema@0.5.0
 - pkg:cargo/neutrino-schema@0.5.1
 - pkg:cargo/neutrino-schema@0.5.3
+- pkg:cargo/neutrino-schema@0.5.4
+- pkg:cargo/neutrino-schema@0.5.5
