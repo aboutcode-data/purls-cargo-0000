@@ -1,1 +1,2 @@
 - pkg:cargo/vite-static-actix-web@0.4.0
+- pkg:cargo/vite-static-actix-web@0.5.0
