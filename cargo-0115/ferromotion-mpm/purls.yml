@@ -1,4 +1,5 @@
 - pkg:cargo/ferromotion-mpm@0.10.0
 - pkg:cargo/ferromotion-mpm@0.11.0
+- pkg:cargo/ferromotion-mpm@0.12.0
 - pkg:cargo/ferromotion-mpm@0.8.0
 - pkg:cargo/ferromotion-mpm@0.9.0
