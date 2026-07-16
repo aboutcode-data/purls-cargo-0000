@@ -1,4 +1,7 @@
 - pkg:cargo/jay-ash@0.1.0%2B1.4.341
+- pkg:cargo/jay-ash@0.10.0%2B1.4.354
+- pkg:cargo/jay-ash@0.11.0%2B1.4.355
+- pkg:cargo/jay-ash@0.12.0%2B1.4.356
 - pkg:cargo/jay-ash@0.2.0%2B1.4.341
 - pkg:cargo/jay-ash@0.3.0%2B1.4.344
 - pkg:cargo/jay-ash@0.4.0%2B1.4.348
@@ -6,3 +9,4 @@
 - pkg:cargo/jay-ash@0.6.0%2B1.4.350
 - pkg:cargo/jay-ash@0.7.0%2B1.4.351
 - pkg:cargo/jay-ash@0.8.0%2B1.4.352
+- pkg:cargo/jay-ash@0.9.0%2B1.4.353
