@@ -1,4 +1,5 @@
 - pkg:cargo/theater-handler-loop@0.3.10
+- pkg:cargo/theater-handler-loop@0.3.11
 - pkg:cargo/theater-handler-loop@0.3.5
 - pkg:cargo/theater-handler-loop@0.3.6
 - pkg:cargo/theater-handler-loop@0.3.7

@@ -1,4 +1,5 @@
 - pkg:cargo/theater-handler-rpc@0.3.10
+- pkg:cargo/theater-handler-rpc@0.3.11
 - pkg:cargo/theater-handler-rpc@0.3.6
 - pkg:cargo/theater-handler-rpc@0.3.7
 - pkg:cargo/theater-handler-rpc@0.3.8
