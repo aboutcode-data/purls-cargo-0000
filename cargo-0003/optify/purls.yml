@@ -20,3 +20,7 @@
 - pkg:cargo/optify@0.9.0
 - pkg:cargo/optify@1.0.0
 - pkg:cargo/optify@1.1.0
+- pkg:cargo/optify@1.2.0
+- pkg:cargo/optify@1.3.0
+- pkg:cargo/optify@1.3.1
+- pkg:cargo/optify@1.3.2
