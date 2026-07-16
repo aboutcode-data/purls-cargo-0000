@@ -69,3 +69,5 @@
 - pkg:cargo/ore-cli@3.4.7
 - pkg:cargo/ore-cli@3.4.8
 - pkg:cargo/ore-cli@3.4.9
+- pkg:cargo/ore-cli@3.5.0
+- pkg:cargo/ore-cli@3.5.1
