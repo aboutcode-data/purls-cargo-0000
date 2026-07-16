@@ -1,4 +1,7 @@
 - pkg:cargo/tokie@0.0.1
+- pkg:cargo/tokie@0.0.10
+- pkg:cargo/tokie@0.0.10-alpha.1
+- pkg:cargo/tokie@0.0.10-alpha.2
 - pkg:cargo/tokie@0.0.2
 - pkg:cargo/tokie@0.0.3
 - pkg:cargo/tokie@0.0.4
