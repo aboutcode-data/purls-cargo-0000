@@ -58,3 +58,5 @@
 - pkg:cargo/openid-client@1.0.0-alpha.5
 - pkg:cargo/openid-client@1.0.0-alpha.6
 - pkg:cargo/openid-client@1.0.0-alpha.7
+- pkg:cargo/openid-client@1.0.0-alpha.8
+- pkg:cargo/openid-client@1.0.0-alpha.9
