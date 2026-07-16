@@ -5,3 +5,4 @@
 - pkg:cargo/ntp_usg-server@4.0.1
 - pkg:cargo/ntp_usg-server@4.1.0
 - pkg:cargo/ntp_usg-server@4.10.1
+- pkg:cargo/ntp_usg-server@5.0.0
