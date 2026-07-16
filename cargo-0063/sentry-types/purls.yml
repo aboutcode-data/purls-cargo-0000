@@ -73,6 +73,9 @@
 - pkg:cargo/sentry-types@0.48.0
 - pkg:cargo/sentry-types@0.48.1
 - pkg:cargo/sentry-types@0.48.2
+- pkg:cargo/sentry-types@0.48.3
+- pkg:cargo/sentry-types@0.48.4
+- pkg:cargo/sentry-types@0.48.5
 - pkg:cargo/sentry-types@0.5.0
 - pkg:cargo/sentry-types@0.5.1
 - pkg:cargo/sentry-types@0.5.2
