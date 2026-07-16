@@ -5,3 +5,7 @@
 - pkg:cargo/syster-cli@0.3.2-alpha
 - pkg:cargo/syster-cli@0.4.0-alpha
 - pkg:cargo/syster-cli@0.4.3-alpha
+- pkg:cargo/syster-cli@0.4.4-alpha
+- pkg:cargo/syster-cli@0.4.5-alpha
+- pkg:cargo/syster-cli@0.4.6-alpha
+- pkg:cargo/syster-cli@0.5.1-alpha
