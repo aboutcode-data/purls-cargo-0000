@@ -11,8 +11,15 @@
 - pkg:cargo/aedb@0.1.8
 - pkg:cargo/aedb@0.1.9
 - pkg:cargo/aedb@0.2.1
+- pkg:cargo/aedb@0.2.10
+- pkg:cargo/aedb@0.2.12
+- pkg:cargo/aedb@0.2.13
 - pkg:cargo/aedb@0.2.2
 - pkg:cargo/aedb@0.2.3
 - pkg:cargo/aedb@0.2.4
 - pkg:cargo/aedb@0.2.6
 - pkg:cargo/aedb@0.2.7
+- pkg:cargo/aedb@0.2.8
+- pkg:cargo/aedb@0.2.9
+- pkg:cargo/aedb@0.3.0
+- pkg:cargo/aedb@0.3.1
