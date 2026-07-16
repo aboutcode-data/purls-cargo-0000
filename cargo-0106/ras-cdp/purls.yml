@@ -8,3 +8,7 @@
 - pkg:cargo/ras-cdp@2.7.0
 - pkg:cargo/ras-cdp@2.8.0
 - pkg:cargo/ras-cdp@3.0.0
+- pkg:cargo/ras-cdp@3.1.0
+- pkg:cargo/ras-cdp@4.0.0
+- pkg:cargo/ras-cdp@4.1.0
+- pkg:cargo/ras-cdp@4.2.0
