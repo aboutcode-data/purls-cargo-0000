@@ -1,4 +1,5 @@
 - pkg:cargo/eksup@0.1.1-alpha
+- pkg:cargo/eksup@0.14.0
 - pkg:cargo/eksup@0.2.0-alpha
 - pkg:cargo/eksup@0.2.0-alpha1
 - pkg:cargo/eksup@0.2.0-alpha2
