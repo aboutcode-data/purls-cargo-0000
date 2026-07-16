@@ -8,6 +8,13 @@
 - pkg:cargo/symbi-dsl@1.12.0
 - pkg:cargo/symbi-dsl@1.13.0
 - pkg:cargo/symbi-dsl@1.14.1
+- pkg:cargo/symbi-dsl@1.14.2
+- pkg:cargo/symbi-dsl@1.14.3
+- pkg:cargo/symbi-dsl@1.15.0
+- pkg:cargo/symbi-dsl@1.15.1
+- pkg:cargo/symbi-dsl@1.15.2
+- pkg:cargo/symbi-dsl@1.16.0
+- pkg:cargo/symbi-dsl@1.17.0
 - pkg:cargo/symbi-dsl@1.4.0
 - pkg:cargo/symbi-dsl@1.5.0
 - pkg:cargo/symbi-dsl@1.6.0
