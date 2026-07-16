@@ -29,3 +29,4 @@
 - pkg:cargo/sequoia-sop@0.37.1
 - pkg:cargo/sequoia-sop@0.37.2
 - pkg:cargo/sequoia-sop@0.37.3
+- pkg:cargo/sequoia-sop@0.38.0
