@@ -37,6 +37,8 @@
 - pkg:cargo/blitzar-sys@1.114.0
 - pkg:cargo/blitzar-sys@1.115.0
 - pkg:cargo/blitzar-sys@1.115.1
+- pkg:cargo/blitzar-sys@1.115.2
+- pkg:cargo/blitzar-sys@1.115.3
 - pkg:cargo/blitzar-sys@1.12.0
 - pkg:cargo/blitzar-sys@1.13.0
 - pkg:cargo/blitzar-sys@1.14.0
