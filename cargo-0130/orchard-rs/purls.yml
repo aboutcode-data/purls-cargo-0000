@@ -29,6 +29,12 @@
 - pkg:cargo/orchard-rs@2026.4.5
 - pkg:cargo/orchard-rs@2026.5.1
 - pkg:cargo/orchard-rs@2026.5.10
+- pkg:cargo/orchard-rs@2026.5.11
+- pkg:cargo/orchard-rs@2026.5.12
+- pkg:cargo/orchard-rs@2026.5.13
+- pkg:cargo/orchard-rs@2026.5.14
+- pkg:cargo/orchard-rs@2026.5.15
+- pkg:cargo/orchard-rs@2026.5.16
 - pkg:cargo/orchard-rs@2026.5.2
 - pkg:cargo/orchard-rs@2026.5.3
 - pkg:cargo/orchard-rs@2026.5.4
@@ -37,3 +43,5 @@
 - pkg:cargo/orchard-rs@2026.5.7
 - pkg:cargo/orchard-rs@2026.5.8
 - pkg:cargo/orchard-rs@2026.5.9
+- pkg:cargo/orchard-rs@2026.6.1
+- pkg:cargo/orchard-rs@2026.6.2
