@@ -1,3 +1,5 @@
+- pkg:cargo/toner@0.10.0
+- pkg:cargo/toner@0.11.0
 - pkg:cargo/toner@0.2.10
 - pkg:cargo/toner@0.2.11
 - pkg:cargo/toner@0.2.14
@@ -44,3 +46,4 @@
 - pkg:cargo/toner@0.7.3
 - pkg:cargo/toner@0.7.4
 - pkg:cargo/toner@0.8.0
+- pkg:cargo/toner@0.9.0
