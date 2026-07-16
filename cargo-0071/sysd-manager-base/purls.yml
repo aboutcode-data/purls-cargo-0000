@@ -13,3 +13,6 @@
 - pkg:cargo/sysd-manager-base@2.18.0
 - pkg:cargo/sysd-manager-base@2.19.0
 - pkg:cargo/sysd-manager-base@2.19.4
+- pkg:cargo/sysd-manager-base@2.19.5
+- pkg:cargo/sysd-manager-base@2.20.0
+- pkg:cargo/sysd-manager-base@2.20.2

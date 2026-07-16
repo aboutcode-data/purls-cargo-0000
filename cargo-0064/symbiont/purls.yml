@@ -1,6 +1,14 @@
 - pkg:cargo/symbiont@0.1.0
+- pkg:cargo/symbiont@0.10.0
+- pkg:cargo/symbiont@0.10.1
+- pkg:cargo/symbiont@0.10.2
+- pkg:cargo/symbiont@0.11.0
+- pkg:cargo/symbiont@0.12.0
+- pkg:cargo/symbiont@0.14.0
+- pkg:cargo/symbiont@0.15.0
 - pkg:cargo/symbiont@0.2.0
 - pkg:cargo/symbiont@0.3.0
 - pkg:cargo/symbiont@0.4.0
 - pkg:cargo/symbiont@0.7.0
 - pkg:cargo/symbiont@0.8.0
+- pkg:cargo/symbiont@0.9.0

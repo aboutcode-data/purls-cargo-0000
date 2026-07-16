@@ -42,3 +42,5 @@
 - pkg:cargo/symbolica@1.4.0
 - pkg:cargo/symbolica@1.5.0
 - pkg:cargo/symbolica@1.5.1
+- pkg:cargo/symbolica@2.0.0
+- pkg:cargo/symbolica@2.1.0
