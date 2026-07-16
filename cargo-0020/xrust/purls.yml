@@ -20,3 +20,5 @@
 - pkg:cargo/xrust@2.0.1
 - pkg:cargo/xrust@2.0.2
 - pkg:cargo/xrust@2.0.3
+- pkg:cargo/xrust@2.1.0
+- pkg:cargo/xrust@2.2.0
