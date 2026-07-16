@@ -17,6 +17,9 @@
 - pkg:cargo/blockifier@0.18.0-dev.2
 - pkg:cargo/blockifier@0.18.0-rc.0
 - pkg:cargo/blockifier@0.18.0-rc.1
+- pkg:cargo/blockifier@0.19.0-rc.0
+- pkg:cargo/blockifier@0.19.0-rc.1
+- pkg:cargo/blockifier@0.19.0-rc.2
 - pkg:cargo/blockifier@0.2.0-rc0
 - pkg:cargo/blockifier@0.2.0-rc1
 - pkg:cargo/blockifier@0.3.0-rc0
