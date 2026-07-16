@@ -31,3 +31,5 @@
 - pkg:cargo/tor-async-utils@0.40.0
 - pkg:cargo/tor-async-utils@0.41.0
 - pkg:cargo/tor-async-utils@0.42.0
+- pkg:cargo/tor-async-utils@0.43.0
+- pkg:cargo/tor-async-utils@0.44.0
