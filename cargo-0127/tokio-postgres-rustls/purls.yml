@@ -4,6 +4,7 @@
 - pkg:cargo/tokio-postgres-rustls@0.11.1
 - pkg:cargo/tokio-postgres-rustls@0.12.0
 - pkg:cargo/tokio-postgres-rustls@0.13.0
+- pkg:cargo/tokio-postgres-rustls@0.14.0
 - pkg:cargo/tokio-postgres-rustls@0.2.0
 - pkg:cargo/tokio-postgres-rustls@0.3.0
 - pkg:cargo/tokio-postgres-rustls@0.3.1
