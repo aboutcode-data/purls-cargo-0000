@@ -1,5 +1,7 @@
 - pkg:cargo/sui-bigorna@0.1.100
 - pkg:cargo/sui-bigorna@0.1.101
+- pkg:cargo/sui-bigorna@0.1.102
+- pkg:cargo/sui-bigorna@0.1.103
 - pkg:cargo/sui-bigorna@0.1.17
 - pkg:cargo/sui-bigorna@0.1.18
 - pkg:cargo/sui-bigorna@0.1.19
