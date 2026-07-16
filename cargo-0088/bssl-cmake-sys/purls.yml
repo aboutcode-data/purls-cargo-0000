@@ -51,3 +51,5 @@
 - pkg:cargo/bssl-cmake-sys@0.1.2605263
 - pkg:cargo/bssl-cmake-sys@0.1.2605264
 - pkg:cargo/bssl-cmake-sys@0.1.2605265
+- pkg:cargo/bssl-cmake-sys@0.1.2606160
+- pkg:cargo/bssl-cmake-sys@0.1.2607130
