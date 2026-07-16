@@ -22,6 +22,13 @@
 - pkg:cargo/planar_geo@0.3.9
 - pkg:cargo/planar_geo@0.4.0
 - pkg:cargo/planar_geo@0.4.1
+- pkg:cargo/planar_geo@0.4.10
 - pkg:cargo/planar_geo@0.4.2
 - pkg:cargo/planar_geo@0.4.3
 - pkg:cargo/planar_geo@0.4.4
+- pkg:cargo/planar_geo@0.4.5
+- pkg:cargo/planar_geo@0.4.6
+- pkg:cargo/planar_geo@0.4.7
+- pkg:cargo/planar_geo@0.4.8
+- pkg:cargo/planar_geo@0.4.9
+- pkg:cargo/planar_geo@0.5.0

@@ -1,4 +1,11 @@
 - pkg:cargo/plc-comm-slmp-rust@0.1.0
 - pkg:cargo/plc-comm-slmp-rust@0.1.1
 - pkg:cargo/plc-comm-slmp-rust@0.1.10
+- pkg:cargo/plc-comm-slmp-rust@0.1.11
 - pkg:cargo/plc-comm-slmp-rust@0.1.9
+- pkg:cargo/plc-comm-slmp-rust@0.8.0
+- pkg:cargo/plc-comm-slmp-rust@1.0.0
+- pkg:cargo/plc-comm-slmp-rust@1.0.1
+- pkg:cargo/plc-comm-slmp-rust@1.1.0
+- pkg:cargo/plc-comm-slmp-rust@1.1.1
+- pkg:cargo/plc-comm-slmp-rust@1.2.0
