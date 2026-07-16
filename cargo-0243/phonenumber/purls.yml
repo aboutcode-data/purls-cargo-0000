@@ -6,6 +6,7 @@
 - pkg:cargo/phonenumber@0.2.5%2B8.11.3
 - pkg:cargo/phonenumber@0.3.0%2B8.12.9
 - pkg:cargo/phonenumber@0.3.1%2B8.12.9
+- pkg:cargo/phonenumber@0.3.10%2B9.0.33
 - pkg:cargo/phonenumber@0.3.2%2B8.13.9
 - pkg:cargo/phonenumber@0.3.3%2B8.13.9
 - pkg:cargo/phonenumber@0.3.4%2B8.13.34
