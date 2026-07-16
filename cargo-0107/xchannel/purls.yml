@@ -7,3 +7,8 @@
 - pkg:cargo/xchannel@2.1.0
 - pkg:cargo/xchannel@2.1.1
 - pkg:cargo/xchannel@2.2.0
+- pkg:cargo/xchannel@3.0.0
+- pkg:cargo/xchannel@3.0.1
+- pkg:cargo/xchannel@4.0.0
+- pkg:cargo/xchannel@4.1.0
+- pkg:cargo/xchannel@4.2.0
