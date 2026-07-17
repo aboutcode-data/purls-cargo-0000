@@ -1,0 +1,4 @@
+- pkg:cargo/textual-macros@1.0.0
+- pkg:cargo/textual-macros@1.0.0-dev
+- pkg:cargo/textual-macros@1.0.1
+- pkg:cargo/textual-macros@1.1.0
