@@ -76,3 +76,4 @@
 - pkg:cargo/rbdc-pg@4.9.3
 - pkg:cargo/rbdc-pg@4.9.4
 - pkg:cargo/rbdc-pg@4.9.5
+- pkg:cargo/rbdc-pg@4.9.6
