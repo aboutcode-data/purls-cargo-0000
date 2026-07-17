@@ -12,6 +12,9 @@
 - pkg:cargo/testnet-parachains-constants@19.0.0
 - pkg:cargo/testnet-parachains-constants@2.0.0
 - pkg:cargo/testnet-parachains-constants@20.0.0
+- pkg:cargo/testnet-parachains-constants@21.0.0
+- pkg:cargo/testnet-parachains-constants@22.0.0
+- pkg:cargo/testnet-parachains-constants@23.0.0
 - pkg:cargo/testnet-parachains-constants@3.0.0
 - pkg:cargo/testnet-parachains-constants@4.0.0
 - pkg:cargo/testnet-parachains-constants@5.0.0
