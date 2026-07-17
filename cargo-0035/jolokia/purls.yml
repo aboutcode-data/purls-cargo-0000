@@ -8,3 +8,4 @@
 - pkg:cargo/jolokia@0.6.0
 - pkg:cargo/jolokia@0.7.0
 - pkg:cargo/jolokia@0.8.0
+- pkg:cargo/jolokia@0.9.0
