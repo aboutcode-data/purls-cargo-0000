@@ -7,6 +7,7 @@
 - pkg:cargo/test-tube-inj@2.0.0
 - pkg:cargo/test-tube-inj@2.0.1
 - pkg:cargo/test-tube-inj@2.0.10
+- pkg:cargo/test-tube-inj@2.0.11
 - pkg:cargo/test-tube-inj@2.0.2
 - pkg:cargo/test-tube-inj@2.0.3
 - pkg:cargo/test-tube-inj@2.0.4
