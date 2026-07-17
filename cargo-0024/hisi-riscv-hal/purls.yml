@@ -1,0 +1,11 @@
+- pkg:cargo/hisi-riscv-hal@0.3.0
+- pkg:cargo/hisi-riscv-hal@0.3.1
+- pkg:cargo/hisi-riscv-hal@0.3.2
+- pkg:cargo/hisi-riscv-hal@0.4.0
+- pkg:cargo/hisi-riscv-hal@0.5.0
+- pkg:cargo/hisi-riscv-hal@0.5.1
+- pkg:cargo/hisi-riscv-hal@0.6.0
+- pkg:cargo/hisi-riscv-hal@0.6.0-alpha.1
+- pkg:cargo/hisi-riscv-hal@0.6.0-alpha.2
+- pkg:cargo/hisi-riscv-hal@0.6.0-rc.1
+- pkg:cargo/hisi-riscv-hal@0.6.1
