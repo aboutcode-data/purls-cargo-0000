@@ -6,6 +6,13 @@
 - pkg:cargo/octocode@0.13.0
 - pkg:cargo/octocode@0.14.0
 - pkg:cargo/octocode@0.14.1
+- pkg:cargo/octocode@0.15.0
+- pkg:cargo/octocode@0.16.0
+- pkg:cargo/octocode@0.16.1
+- pkg:cargo/octocode@0.17.0
+- pkg:cargo/octocode@0.17.1
+- pkg:cargo/octocode@0.18.0
+- pkg:cargo/octocode@0.18.1
 - pkg:cargo/octocode@0.6.0
 - pkg:cargo/octocode@0.7.0
 - pkg:cargo/octocode@0.7.1
