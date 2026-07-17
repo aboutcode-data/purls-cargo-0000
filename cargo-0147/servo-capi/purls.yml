@@ -1,1 +1,2 @@
 - pkg:cargo/servo-capi@0.0.1
+- pkg:cargo/servo-capi@0.4.0
