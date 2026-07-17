@@ -36,3 +36,5 @@
 - pkg:cargo/synth-backend-aarch64@0.45.1
 - pkg:cargo/synth-backend-aarch64@0.45.2
 - pkg:cargo/synth-backend-aarch64@0.46.0
+- pkg:cargo/synth-backend-aarch64@0.46.1
+- pkg:cargo/synth-backend-aarch64@0.47.0
