@@ -94,6 +94,9 @@
 - pkg:cargo/pgmold@0.34.0
 - pkg:cargo/pgmold@0.34.1
 - pkg:cargo/pgmold@0.34.11
+- pkg:cargo/pgmold@0.34.13
+- pkg:cargo/pgmold@0.34.14
+- pkg:cargo/pgmold@0.34.15
 - pkg:cargo/pgmold@0.34.4
 - pkg:cargo/pgmold@0.34.5
 - pkg:cargo/pgmold@0.34.8
