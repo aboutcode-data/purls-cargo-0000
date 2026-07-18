@@ -10,3 +10,4 @@
 - pkg:cargo/qp-rusty-crystals-hdwallet@2.3.0
 - pkg:cargo/qp-rusty-crystals-hdwallet@2.3.1
 - pkg:cargo/qp-rusty-crystals-hdwallet@2.4.0
+- pkg:cargo/qp-rusty-crystals-hdwallet@3.0.0
