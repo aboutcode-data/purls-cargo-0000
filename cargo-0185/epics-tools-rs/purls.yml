@@ -33,3 +33,4 @@
 - pkg:cargo/epics-tools-rs@0.22.1
 - pkg:cargo/epics-tools-rs@0.23.0
 - pkg:cargo/epics-tools-rs@0.24.0
+- pkg:cargo/epics-tools-rs@0.24.1
