@@ -4,3 +4,4 @@
 - pkg:cargo/ramqp@0.6.6
 - pkg:cargo/ramqp@0.7.2
 - pkg:cargo/ramqp@0.8.1
+- pkg:cargo/ramqp@0.8.2
