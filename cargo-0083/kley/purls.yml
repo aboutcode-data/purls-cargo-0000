@@ -1,5 +1,11 @@
 - pkg:cargo/kley@0.1.2
 - pkg:cargo/kley@0.1.3
+- pkg:cargo/kley@0.10.0
+- pkg:cargo/kley@0.11.0
+- pkg:cargo/kley@0.12.0
+- pkg:cargo/kley@0.13.0
+- pkg:cargo/kley@0.13.1
+- pkg:cargo/kley@0.14.0
 - pkg:cargo/kley@0.2.0
 - pkg:cargo/kley@0.3.0
 - pkg:cargo/kley@0.4.0
