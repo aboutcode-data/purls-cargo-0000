@@ -7,3 +7,4 @@
 - pkg:cargo/serde_core@1.0.226
 - pkg:cargo/serde_core@1.0.227
 - pkg:cargo/serde_core@1.0.228
+- pkg:cargo/serde_core@1.0.229
