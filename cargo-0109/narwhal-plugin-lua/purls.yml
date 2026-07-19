@@ -1,0 +1,4 @@
+- pkg:cargo/narwhal-plugin-lua@1.0.0
+- pkg:cargo/narwhal-plugin-lua@1.2.0
+- pkg:cargo/narwhal-plugin-lua@2.0.0
+- pkg:cargo/narwhal-plugin-lua@2.3.0
