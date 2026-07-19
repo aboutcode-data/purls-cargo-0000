@@ -53,7 +53,11 @@
 - pkg:cargo/hanzo-ml@0.11.66
 - pkg:cargo/hanzo-ml@0.11.67
 - pkg:cargo/hanzo-ml@0.11.68
+- pkg:cargo/hanzo-ml@0.11.69
 - pkg:cargo/hanzo-ml@0.11.7
+- pkg:cargo/hanzo-ml@0.11.70
+- pkg:cargo/hanzo-ml@0.11.71
+- pkg:cargo/hanzo-ml@0.11.72
 - pkg:cargo/hanzo-ml@0.11.8
 - pkg:cargo/hanzo-ml@0.11.9
 - pkg:cargo/hanzo-ml@0.9.2
