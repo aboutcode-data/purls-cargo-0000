@@ -5,6 +5,7 @@
 - pkg:cargo/sekejap-cli@0.11.2
 - pkg:cargo/sekejap-cli@0.11.3
 - pkg:cargo/sekejap-cli@0.12.0
+- pkg:cargo/sekejap-cli@0.12.1
 - pkg:cargo/sekejap-cli@0.5.1
 - pkg:cargo/sekejap-cli@0.5.2
 - pkg:cargo/sekejap-cli@0.5.3
