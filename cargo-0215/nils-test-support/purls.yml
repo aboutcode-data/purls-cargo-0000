@@ -24,4 +24,5 @@
 - pkg:cargo/nils-test-support@1.0.7
 - pkg:cargo/nils-test-support@1.12.0
 - pkg:cargo/nils-test-support@1.21.9
+- pkg:cargo/nils-test-support@1.25.4
 - pkg:cargo/nils-test-support@1.9.5
