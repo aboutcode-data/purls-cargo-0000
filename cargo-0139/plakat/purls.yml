@@ -72,6 +72,8 @@
 - pkg:cargo/plakat@2.6.0
 - pkg:cargo/plakat@2.7.0
 - pkg:cargo/plakat@2.8.0
+- pkg:cargo/plakat@3.10.0
 - pkg:cargo/plakat@3.2.0
 - pkg:cargo/plakat@3.7.0
 - pkg:cargo/plakat@3.8.0
+- pkg:cargo/plakat@3.9.0
