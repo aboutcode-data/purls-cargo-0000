@@ -23,3 +23,4 @@
 - pkg:cargo/pyroscope@2.0.5
 - pkg:cargo/pyroscope@2.0.6
 - pkg:cargo/pyroscope@2.1.0
+- pkg:cargo/pyroscope@2.1.1
