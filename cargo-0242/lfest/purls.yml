@@ -5,6 +5,7 @@
 - pkg:cargo/lfest@0.12.5
 - pkg:cargo/lfest@0.12.9
 - pkg:cargo/lfest@0.13.0
+- pkg:cargo/lfest@0.138.1
 - pkg:cargo/lfest@0.14.0
 - pkg:cargo/lfest@0.14.1
 - pkg:cargo/lfest@0.14.2
