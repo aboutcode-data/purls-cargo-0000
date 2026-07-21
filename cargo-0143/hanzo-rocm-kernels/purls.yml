@@ -9,6 +9,7 @@
 - pkg:cargo/hanzo-rocm-kernels@0.11.3
 - pkg:cargo/hanzo-rocm-kernels@0.11.33
 - pkg:cargo/hanzo-rocm-kernels@0.11.34
+- pkg:cargo/hanzo-rocm-kernels@0.11.35
 - pkg:cargo/hanzo-rocm-kernels@0.11.4
 - pkg:cargo/hanzo-rocm-kernels@0.11.5
 - pkg:cargo/hanzo-rocm-kernels@0.11.6
