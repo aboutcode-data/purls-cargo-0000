@@ -59,6 +59,7 @@
 - pkg:cargo/svg-dom@0.1.63
 - pkg:cargo/svg-dom@0.1.64
 - pkg:cargo/svg-dom@0.1.65
+- pkg:cargo/svg-dom@0.1.66
 - pkg:cargo/svg-dom@0.1.7
 - pkg:cargo/svg-dom@0.1.8
 - pkg:cargo/svg-dom@0.1.9
