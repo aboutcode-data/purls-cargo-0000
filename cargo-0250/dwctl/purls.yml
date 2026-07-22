@@ -240,3 +240,4 @@
 - pkg:cargo/dwctl@8.93.1
 - pkg:cargo/dwctl@8.94.0
 - pkg:cargo/dwctl@8.94.1
+- pkg:cargo/dwctl@8.94.2
