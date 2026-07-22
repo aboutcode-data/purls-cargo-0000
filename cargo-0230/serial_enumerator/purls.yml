@@ -8,3 +8,4 @@
 - pkg:cargo/serial_enumerator@0.2.6
 - pkg:cargo/serial_enumerator@0.2.8
 - pkg:cargo/serial_enumerator@0.3.0
+- pkg:cargo/serial_enumerator@0.3.1
