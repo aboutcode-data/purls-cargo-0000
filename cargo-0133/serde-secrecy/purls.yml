@@ -1,3 +1,4 @@
 - pkg:cargo/serde-secrecy@0.2.3
 - pkg:cargo/serde-secrecy@0.2.4
 - pkg:cargo/serde-secrecy@0.2.5
+- pkg:cargo/serde-secrecy@0.2.6
