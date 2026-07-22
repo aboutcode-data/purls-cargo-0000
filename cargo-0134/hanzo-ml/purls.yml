@@ -74,6 +74,8 @@
 - pkg:cargo/hanzo-ml@0.11.85
 - pkg:cargo/hanzo-ml@0.11.86
 - pkg:cargo/hanzo-ml@0.11.87
+- pkg:cargo/hanzo-ml@0.11.88
+- pkg:cargo/hanzo-ml@0.11.89
 - pkg:cargo/hanzo-ml@0.11.9
 - pkg:cargo/hanzo-ml@0.9.2
 - pkg:cargo/hanzo-ml@0.9.2-alpha.2
