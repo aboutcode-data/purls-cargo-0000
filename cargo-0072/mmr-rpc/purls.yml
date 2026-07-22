@@ -43,6 +43,7 @@
 - pkg:cargo/mmr-rpc@44.0.0
 - pkg:cargo/mmr-rpc@45.0.0
 - pkg:cargo/mmr-rpc@46.0.0
+- pkg:cargo/mmr-rpc@47.0.0
 - pkg:cargo/mmr-rpc@5.0.0
 - pkg:cargo/mmr-rpc@6.0.0
 - pkg:cargo/mmr-rpc@7.0.0
