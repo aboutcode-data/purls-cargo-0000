@@ -113,3 +113,5 @@
 - pkg:cargo/tokensave@7.4.0
 - pkg:cargo/tokensave@7.4.1
 - pkg:cargo/tokensave@7.4.2
+- pkg:cargo/tokensave@7.5.0
+- pkg:cargo/tokensave@7.6.0
