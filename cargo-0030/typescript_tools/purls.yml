@@ -108,6 +108,7 @@
 - pkg:cargo/typescript_tools@10.1.81
 - pkg:cargo/typescript_tools@10.1.82
 - pkg:cargo/typescript_tools@10.1.83
+- pkg:cargo/typescript_tools@10.1.84
 - pkg:cargo/typescript_tools@10.1.9
 - pkg:cargo/typescript_tools@4.3.0
 - pkg:cargo/typescript_tools@4.3.0-beta.2
