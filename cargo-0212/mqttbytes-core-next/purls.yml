@@ -7,3 +7,5 @@
 - pkg:cargo/mqttbytes-core-next@0.33.0
 - pkg:cargo/mqttbytes-core-next@0.33.1
 - pkg:cargo/mqttbytes-core-next@0.33.2
+- pkg:cargo/mqttbytes-core-next@0.33.3
+- pkg:cargo/mqttbytes-core-next@0.34.0-alpha
