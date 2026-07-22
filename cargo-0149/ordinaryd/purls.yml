@@ -1,4 +1,7 @@
 - pkg:cargo/ordinaryd@0.0.0
+- pkg:cargo/ordinaryd@0.10.0
+- pkg:cargo/ordinaryd@0.10.1
+- pkg:cargo/ordinaryd@0.10.2
 - pkg:cargo/ordinaryd@0.5.0
 - pkg:cargo/ordinaryd@0.5.1
 - pkg:cargo/ordinaryd@0.5.10
