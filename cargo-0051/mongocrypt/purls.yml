@@ -6,3 +6,4 @@
 - pkg:cargo/mongocrypt@0.2.1
 - pkg:cargo/mongocrypt@0.3.1
 - pkg:cargo/mongocrypt@0.3.2
+- pkg:cargo/mongocrypt@0.4.0
