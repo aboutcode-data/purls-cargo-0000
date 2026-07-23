@@ -1,1 +1,2 @@
 - pkg:cargo/plotine-backend-pgf@0.5.0
+- pkg:cargo/plotine-backend-pgf@0.5.1
