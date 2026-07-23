@@ -2,3 +2,5 @@
 - pkg:cargo/modular-agent-core@0.23.0
 - pkg:cargo/modular-agent-core@0.23.1
 - pkg:cargo/modular-agent-core@0.23.2
+- pkg:cargo/modular-agent-core@0.24.0
+- pkg:cargo/modular-agent-core@0.25.0
