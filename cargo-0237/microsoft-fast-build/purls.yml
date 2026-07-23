@@ -1,1 +1,3 @@
 - pkg:cargo/microsoft-fast-build@0.1.0
+- pkg:cargo/microsoft-fast-build@0.8.0
+- pkg:cargo/microsoft-fast-build@0.9.0
