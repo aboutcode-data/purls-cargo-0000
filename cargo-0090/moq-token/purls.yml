@@ -21,3 +21,7 @@
 - pkg:cargo/moq-token@0.5.8
 - pkg:cargo/moq-token@0.5.9
 - pkg:cargo/moq-token@0.6.0
+- pkg:cargo/moq-token@0.6.1
+- pkg:cargo/moq-token@0.6.2
+- pkg:cargo/moq-token@0.6.3
+- pkg:cargo/moq-token@0.7.0
