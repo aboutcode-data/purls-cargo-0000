@@ -60,3 +60,6 @@
 - pkg:cargo/shex_validation@0.3.1
 - pkg:cargo/shex_validation@0.3.2
 - pkg:cargo/shex_validation@0.3.3
+- pkg:cargo/shex_validation@0.3.4
+- pkg:cargo/shex_validation@0.3.5
+- pkg:cargo/shex_validation@0.3.6
