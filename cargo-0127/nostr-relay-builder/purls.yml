@@ -11,3 +11,5 @@
 - pkg:cargo/nostr-relay-builder@0.44.0
 - pkg:cargo/nostr-relay-builder@0.44.1
 - pkg:cargo/nostr-relay-builder@0.45.0-alpha.1
+- pkg:cargo/nostr-relay-builder@0.45.0-alpha.2
+- pkg:cargo/nostr-relay-builder@0.45.0-alpha.3

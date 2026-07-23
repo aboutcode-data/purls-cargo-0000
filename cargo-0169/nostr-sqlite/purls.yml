@@ -10,3 +10,6 @@
 - pkg:cargo/nostr-sqlite@0.34.0
 - pkg:cargo/nostr-sqlite@0.35.0
 - pkg:cargo/nostr-sqlite@0.45.0-alpha.1
+- pkg:cargo/nostr-sqlite@0.45.0-alpha.2
+- pkg:cargo/nostr-sqlite@0.45.0-alpha.3
+- pkg:cargo/nostr-sqlite@0.45.0-alpha.4
