@@ -20,10 +20,12 @@
 - pkg:cargo/nom-exif@2.0.0
 - pkg:cargo/nom-exif@2.0.1
 - pkg:cargo/nom-exif@2.0.2
+- pkg:cargo/nom-exif@2.0.3
 - pkg:cargo/nom-exif@2.1.0
 - pkg:cargo/nom-exif@2.1.1
 - pkg:cargo/nom-exif@2.2.0
 - pkg:cargo/nom-exif@2.2.1
+- pkg:cargo/nom-exif@2.2.2
 - pkg:cargo/nom-exif@2.3.0
 - pkg:cargo/nom-exif@2.3.1
 - pkg:cargo/nom-exif@2.4.0
@@ -46,3 +48,8 @@
 - pkg:cargo/nom-exif@3.3.0
 - pkg:cargo/nom-exif@3.4.0
 - pkg:cargo/nom-exif@3.4.1
+- pkg:cargo/nom-exif@3.4.2
+- pkg:cargo/nom-exif@3.5.0
+- pkg:cargo/nom-exif@3.5.1
+- pkg:cargo/nom-exif@3.6.0
+- pkg:cargo/nom-exif@3.6.1
