@@ -1,1 +1,3 @@
 - pkg:cargo/moo-transport@0.1.0
+- pkg:cargo/moo-transport@1.0.0
+- pkg:cargo/moo-transport@1.0.1
