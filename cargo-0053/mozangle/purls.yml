@@ -28,3 +28,4 @@
 - pkg:cargo/mozangle@0.5.3
 - pkg:cargo/mozangle@0.5.4
 - pkg:cargo/mozangle@0.5.5
+- pkg:cargo/mozangle@0.6.0
