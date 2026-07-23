@@ -20,6 +20,7 @@
 - pkg:cargo/ion-rs@0.7.0
 - pkg:cargo/ion-rs@0.8.0
 - pkg:cargo/ion-rs@0.9.0
+- pkg:cargo/ion-rs@1.0.0
 - pkg:cargo/ion-rs@1.0.0-rc.1
 - pkg:cargo/ion-rs@1.0.0-rc.10
 - pkg:cargo/ion-rs@1.0.0-rc.11
