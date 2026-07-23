@@ -5,3 +5,4 @@
 - pkg:cargo/node2vec-rs@0.1.4
 - pkg:cargo/node2vec-rs@0.1.5
 - pkg:cargo/node2vec-rs@0.1.6
+- pkg:cargo/node2vec-rs@0.2.0
