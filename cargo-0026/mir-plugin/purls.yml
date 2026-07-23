@@ -1,0 +1,4 @@
+- pkg:cargo/mir-plugin@0.59.1
+- pkg:cargo/mir-plugin@0.59.2
+- pkg:cargo/mir-plugin@0.60.0
+- pkg:cargo/mir-plugin@0.61.0
