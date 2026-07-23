@@ -90,6 +90,8 @@
 - pkg:cargo/holochain_metrics@0.6.1-rc.0
 - pkg:cargo/holochain_metrics@0.6.1-rc.1
 - pkg:cargo/holochain_metrics@0.6.1-rc.2
+- pkg:cargo/holochain_metrics@0.6.2
+- pkg:cargo/holochain_metrics@0.6.3
 - pkg:cargo/holochain_metrics@0.7.0-dev.0
 - pkg:cargo/holochain_metrics@0.7.0-dev.1
 - pkg:cargo/holochain_metrics@0.7.0-dev.2
@@ -97,3 +99,5 @@
 - pkg:cargo/holochain_metrics@0.7.0-dev.4
 - pkg:cargo/holochain_metrics@0.7.0-dev.5
 - pkg:cargo/holochain_metrics@0.7.0-dev.6
+- pkg:cargo/holochain_metrics@0.7.0-rc.0
+- pkg:cargo/holochain_metrics@0.7.0-rc.1
