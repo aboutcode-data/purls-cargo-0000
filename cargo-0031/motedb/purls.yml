@@ -6,3 +6,5 @@
 - pkg:cargo/motedb@0.1.5
 - pkg:cargo/motedb@0.1.6
 - pkg:cargo/motedb@0.2.0
+- pkg:cargo/motedb@0.5.1
+- pkg:cargo/motedb@0.5.2
