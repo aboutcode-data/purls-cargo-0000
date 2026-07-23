@@ -24,6 +24,7 @@
 - pkg:cargo/minicbor-derive@0.19.2
 - pkg:cargo/minicbor-derive@0.19.3
 - pkg:cargo/minicbor-derive@0.19.4
+- pkg:cargo/minicbor-derive@0.19.5
 - pkg:cargo/minicbor-derive@0.2.0
 - pkg:cargo/minicbor-derive@0.2.1
 - pkg:cargo/minicbor-derive@0.3.0
