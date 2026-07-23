@@ -14,3 +14,4 @@
 - pkg:cargo/carch-core@5.4.6
 - pkg:cargo/carch-core@5.4.7
 - pkg:cargo/carch-core@6.0.0
+- pkg:cargo/carch-core@6.1.0
