@@ -92,3 +92,4 @@
 - pkg:cargo/node_resolver@0.91.0
 - pkg:cargo/node_resolver@0.92.0
 - pkg:cargo/node_resolver@0.93.0
+- pkg:cargo/node_resolver@0.94.0
