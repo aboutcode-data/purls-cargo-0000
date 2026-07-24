@@ -5,6 +5,7 @@
 - pkg:cargo/nil-env@0.5.9
 - pkg:cargo/nil-env@0.6.0
 - pkg:cargo/nil-env@0.6.1
+- pkg:cargo/nil-env@0.6.10
 - pkg:cargo/nil-env@0.6.2
 - pkg:cargo/nil-env@0.6.3
 - pkg:cargo/nil-env@0.6.4
