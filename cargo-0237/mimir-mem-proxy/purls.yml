@@ -3,6 +3,7 @@
 - pkg:cargo/mimir-mem-proxy@0.13.0
 - pkg:cargo/mimir-mem-proxy@0.14.0
 - pkg:cargo/mimir-mem-proxy@0.15.0
+- pkg:cargo/mimir-mem-proxy@0.16.0
 - pkg:cargo/mimir-mem-proxy@0.8.0
 - pkg:cargo/mimir-mem-proxy@0.9.0
 - pkg:cargo/mimir-mem-proxy@0.9.1
