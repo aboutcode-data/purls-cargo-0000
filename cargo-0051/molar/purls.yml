@@ -27,3 +27,4 @@
 - pkg:cargo/molar@1.3.4
 - pkg:cargo/molar@1.4.0
 - pkg:cargo/molar@1.5.0
+- pkg:cargo/molar@2.0.0
