@@ -30,3 +30,7 @@
 - pkg:cargo/factorion-lib@6.0.1
 - pkg:cargo/factorion-lib@6.0.2
 - pkg:cargo/factorion-lib@6.0.3
+- pkg:cargo/factorion-lib@6.0.4
+- pkg:cargo/factorion-lib@6.0.5
+- pkg:cargo/factorion-lib@6.0.6
+- pkg:cargo/factorion-lib@7.0.0
