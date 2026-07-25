@@ -1,5 +1,9 @@
 - pkg:cargo/cfsem@1.0.0
 - pkg:cargo/cfsem@1.1.0
+- pkg:cargo/cfsem@10.0.0
+- pkg:cargo/cfsem@11.0.0
+- pkg:cargo/cfsem@11.1.0
+- pkg:cargo/cfsem@11.2.0
 - pkg:cargo/cfsem@2.0.0
 - pkg:cargo/cfsem@2.4.0
 - pkg:cargo/cfsem@2.4.1
@@ -22,3 +26,5 @@
 - pkg:cargo/cfsem@8.1.0
 - pkg:cargo/cfsem@8.2.0
 - pkg:cargo/cfsem@8.3.0
+- pkg:cargo/cfsem@9.0.0
+- pkg:cargo/cfsem@9.1.0
