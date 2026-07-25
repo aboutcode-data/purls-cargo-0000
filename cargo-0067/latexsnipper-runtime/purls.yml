@@ -1,0 +1,5 @@
+- pkg:cargo/latexsnipper-runtime@1.0.0
+- pkg:cargo/latexsnipper-runtime@2.0.0
+- pkg:cargo/latexsnipper-runtime@3.0.0
+- pkg:cargo/latexsnipper-runtime@3.0.1
+- pkg:cargo/latexsnipper-runtime@3.1.0

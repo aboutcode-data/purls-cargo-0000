@@ -10,3 +10,5 @@
 - pkg:cargo/lastfm-client@3.9.0
 - pkg:cargo/lastfm-client@4.0.0
 - pkg:cargo/lastfm-client@4.0.1
+- pkg:cargo/lastfm-client@4.0.2
+- pkg:cargo/lastfm-client@5.0.0

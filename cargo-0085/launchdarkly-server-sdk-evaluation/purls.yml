@@ -14,3 +14,4 @@
 - pkg:cargo/launchdarkly-server-sdk-evaluation@2.1.1
 - pkg:cargo/launchdarkly-server-sdk-evaluation@2.1.2
 - pkg:cargo/launchdarkly-server-sdk-evaluation@2.1.3
+- pkg:cargo/launchdarkly-server-sdk-evaluation@2.1.4
