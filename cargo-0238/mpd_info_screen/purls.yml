@@ -36,3 +36,8 @@
 - pkg:cargo/mpd_info_screen@0.6.0
 - pkg:cargo/mpd_info_screen@0.6.1
 - pkg:cargo/mpd_info_screen@0.6.2
+- pkg:cargo/mpd_info_screen@0.6.3
+- pkg:cargo/mpd_info_screen@0.7.0
+- pkg:cargo/mpd_info_screen@0.7.1
+- pkg:cargo/mpd_info_screen@0.7.2
+- pkg:cargo/mpd_info_screen@0.7.3
