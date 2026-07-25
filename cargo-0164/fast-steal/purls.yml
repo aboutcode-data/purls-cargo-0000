@@ -53,3 +53,5 @@
 - pkg:cargo/fast-steal@6.5.0
 - pkg:cargo/fast-steal@6.5.1
 - pkg:cargo/fast-steal@6.5.2
+- pkg:cargo/fast-steal@6.5.3
+- pkg:cargo/fast-steal@6.5.4
