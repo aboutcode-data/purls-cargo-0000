@@ -15,7 +15,14 @@
 - pkg:cargo/farben@0.17.3
 - pkg:cargo/farben@0.18.0
 - pkg:cargo/farben@0.18.1
+- pkg:cargo/farben@0.19.0
+- pkg:cargo/farben@0.19.0-beta.1
+- pkg:cargo/farben@0.19.0-beta.2
+- pkg:cargo/farben@0.19.0-beta.3
+- pkg:cargo/farben@0.19.0-beta.4
+- pkg:cargo/farben@0.19.1
 - pkg:cargo/farben@0.2.0
+- pkg:cargo/farben@0.20.0
 - pkg:cargo/farben@0.3.0
 - pkg:cargo/farben@0.3.1
 - pkg:cargo/farben@0.3.2
