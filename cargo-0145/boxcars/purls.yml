@@ -12,6 +12,10 @@
 - pkg:cargo/boxcars@0.10.9
 - pkg:cargo/boxcars@0.11.0
 - pkg:cargo/boxcars@0.11.1
+- pkg:cargo/boxcars@0.11.2
+- pkg:cargo/boxcars@0.11.3
+- pkg:cargo/boxcars@0.11.4
+- pkg:cargo/boxcars@0.11.5
 - pkg:cargo/boxcars@0.2.0
 - pkg:cargo/boxcars@0.2.1
 - pkg:cargo/boxcars@0.2.2

@@ -17,3 +17,4 @@
 - pkg:cargo/bounded-integer@0.5.8
 - pkg:cargo/bounded-integer@0.6.0
 - pkg:cargo/bounded-integer@0.6.1
+- pkg:cargo/bounded-integer@0.6.2
