@@ -1,1 +1,5 @@
 - pkg:cargo/lance-tokenizer@6.0.0
+- pkg:cargo/lance-tokenizer@6.0.1
+- pkg:cargo/lance-tokenizer@7.0.0
+- pkg:cargo/lance-tokenizer@8.0.0
+- pkg:cargo/lance-tokenizer@9.0.0
