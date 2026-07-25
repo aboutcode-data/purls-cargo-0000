@@ -3,3 +3,7 @@
 - pkg:cargo/lance-namespace-datafusion@4.0.0
 - pkg:cargo/lance-namespace-datafusion@4.0.1
 - pkg:cargo/lance-namespace-datafusion@6.0.0
+- pkg:cargo/lance-namespace-datafusion@6.0.1
+- pkg:cargo/lance-namespace-datafusion@7.0.0
+- pkg:cargo/lance-namespace-datafusion@8.0.0
+- pkg:cargo/lance-namespace-datafusion@9.0.0
