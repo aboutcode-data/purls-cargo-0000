@@ -1,2 +1,6 @@
 - pkg:cargo/effindom-native-packaging@0.1.0
+- pkg:cargo/effindom-native-packaging@0.1.1
 - pkg:cargo/effindom-native-packaging@0.1.1-alpha1
+- pkg:cargo/effindom-native-packaging@0.1.1-alpha2
+- pkg:cargo/effindom-native-packaging@0.1.2
+- pkg:cargo/effindom-native-packaging@0.1.2-alpha1
