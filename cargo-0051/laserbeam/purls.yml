@@ -1,4 +1,5 @@
 - pkg:cargo/laserbeam@0.0.1-main-001d5fd
+- pkg:cargo/laserbeam@0.0.1-main-04d3be5
 - pkg:cargo/laserbeam@0.0.1-main-30a1980
 - pkg:cargo/laserbeam@0.0.1-main-3430f6c
 - pkg:cargo/laserbeam@0.0.1-main-417de94
@@ -6,6 +7,7 @@
 - pkg:cargo/laserbeam@0.0.1-main-48ce392
 - pkg:cargo/laserbeam@0.0.1-main-496b794
 - pkg:cargo/laserbeam@0.0.1-main-5049e90
+- pkg:cargo/laserbeam@0.0.1-main-62345c7
 - pkg:cargo/laserbeam@0.0.1-main-66bd11c
 - pkg:cargo/laserbeam@0.0.1-main-699a6ad
 - pkg:cargo/laserbeam@0.0.1-main-6ee2d29
@@ -18,7 +20,9 @@
 - pkg:cargo/laserbeam@0.0.1-main-9a89a0b
 - pkg:cargo/laserbeam@0.0.1-main-a38d237
 - pkg:cargo/laserbeam@0.0.1-main-a8ca909
+- pkg:cargo/laserbeam@0.0.1-main-a91bca7
 - pkg:cargo/laserbeam@0.0.1-main-ac2e49e
+- pkg:cargo/laserbeam@0.0.1-main-ae2205e
 - pkg:cargo/laserbeam@0.0.1-main-ae50df9
 - pkg:cargo/laserbeam@0.0.1-main-b13c454
 - pkg:cargo/laserbeam@0.0.1-main-b61c63f
