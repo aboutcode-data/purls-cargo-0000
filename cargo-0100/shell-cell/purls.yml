@@ -22,3 +22,4 @@
 - pkg:cargo/shell-cell@1.6.5
 - pkg:cargo/shell-cell@1.7.0
 - pkg:cargo/shell-cell@1.7.1
+- pkg:cargo/shell-cell@1.8.0
