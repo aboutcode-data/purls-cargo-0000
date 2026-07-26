@@ -4,6 +4,7 @@
 - pkg:cargo/canic-core@0.10.5
 - pkg:cargo/canic-core@0.10.6
 - pkg:cargo/canic-core@0.10.7
+- pkg:cargo/canic-core@0.100.0
 - pkg:cargo/canic-core@0.11.1
 - pkg:cargo/canic-core@0.12.0
 - pkg:cargo/canic-core@0.13.0
@@ -905,6 +906,11 @@
 - pkg:cargo/canic-core@0.99.28
 - pkg:cargo/canic-core@0.99.29
 - pkg:cargo/canic-core@0.99.3
+- pkg:cargo/canic-core@0.99.30
+- pkg:cargo/canic-core@0.99.31
+- pkg:cargo/canic-core@0.99.32
+- pkg:cargo/canic-core@0.99.33
+- pkg:cargo/canic-core@0.99.34
 - pkg:cargo/canic-core@0.99.4
 - pkg:cargo/canic-core@0.99.5
 - pkg:cargo/canic-core@0.99.6
