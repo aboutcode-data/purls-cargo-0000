@@ -53,6 +53,7 @@
 - pkg:cargo/moq-relay@0.14.0
 - pkg:cargo/moq-relay@0.14.1
 - pkg:cargo/moq-relay@0.14.2
+- pkg:cargo/moq-relay@0.14.3
 - pkg:cargo/moq-relay@0.3.0
 - pkg:cargo/moq-relay@0.4.0
 - pkg:cargo/moq-relay@0.5.0
