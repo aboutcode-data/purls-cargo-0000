@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-qc@0.4.3
 - pkg:cargo/cargo-qc@0.4.5
 - pkg:cargo/cargo-qc@0.4.6
+- pkg:cargo/cargo-qc@0.5.0
