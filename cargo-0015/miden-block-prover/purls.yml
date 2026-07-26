@@ -36,6 +36,7 @@
 - pkg:cargo/miden-block-prover@0.16.0-alpha.2
 - pkg:cargo/miden-block-prover@0.16.0-alpha.3
 - pkg:cargo/miden-block-prover@0.16.0-alpha.4
+- pkg:cargo/miden-block-prover@0.16.0-alpha.5
 - pkg:cargo/miden-block-prover@0.16.0-beta.1
 - pkg:cargo/miden-block-prover@0.8.0
 - pkg:cargo/miden-block-prover@0.9.0
