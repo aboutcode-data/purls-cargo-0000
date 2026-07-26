@@ -23,3 +23,5 @@
 - pkg:cargo/hjkl-anvil@0.34.1
 - pkg:cargo/hjkl-anvil@0.34.2
 - pkg:cargo/hjkl-anvil@0.35.0
+- pkg:cargo/hjkl-anvil@0.36.0
+- pkg:cargo/hjkl-anvil@0.37.0
