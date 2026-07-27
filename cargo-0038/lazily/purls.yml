@@ -67,6 +67,7 @@
 - pkg:cargo/lazily@0.5.1
 - pkg:cargo/lazily@0.50.0
 - pkg:cargo/lazily@0.51.0
+- pkg:cargo/lazily@0.51.1
 - pkg:cargo/lazily@0.6.0
 - pkg:cargo/lazily@0.7.0
 - pkg:cargo/lazily@0.8.0
