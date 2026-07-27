@@ -1,1 +1,2 @@
 - pkg:cargo/minco-aws-worker@0.2.0
+- pkg:cargo/minco-aws-worker@0.3.0
