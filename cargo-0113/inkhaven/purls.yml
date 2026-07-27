@@ -150,6 +150,11 @@
 - pkg:cargo/inkhaven@1.8.2
 - pkg:cargo/inkhaven@1.8.20
 - pkg:cargo/inkhaven@1.8.21
+- pkg:cargo/inkhaven@1.8.22
+- pkg:cargo/inkhaven@1.8.23
+- pkg:cargo/inkhaven@1.8.24
+- pkg:cargo/inkhaven@1.8.25
+- pkg:cargo/inkhaven@1.8.26
 - pkg:cargo/inkhaven@1.8.3
 - pkg:cargo/inkhaven@1.8.4
 - pkg:cargo/inkhaven@1.8.5
