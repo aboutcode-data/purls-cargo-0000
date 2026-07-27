@@ -50,6 +50,7 @@
 - pkg:cargo/hjkl-buffer@0.35.0
 - pkg:cargo/hjkl-buffer@0.36.0
 - pkg:cargo/hjkl-buffer@0.37.0
+- pkg:cargo/hjkl-buffer@0.37.1
 - pkg:cargo/hjkl-buffer@0.5.0
 - pkg:cargo/hjkl-buffer@0.6.0
 - pkg:cargo/hjkl-buffer@0.6.1
