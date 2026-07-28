@@ -24,3 +24,4 @@
 - pkg:cargo/hooklistener-cli@1.7.2
 - pkg:cargo/hooklistener-cli@1.7.3
 - pkg:cargo/hooklistener-cli@1.8.4
+- pkg:cargo/hooklistener-cli@1.8.5
