@@ -111,3 +111,5 @@
 - pkg:cargo/sway-error@0.70.2
 - pkg:cargo/sway-error@0.70.3
 - pkg:cargo/sway-error@0.71.0
+- pkg:cargo/sway-error@0.71.2
+- pkg:cargo/sway-error@0.72.0

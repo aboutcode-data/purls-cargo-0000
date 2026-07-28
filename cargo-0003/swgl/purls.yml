@@ -1,1 +1,3 @@
 - pkg:cargo/swgl@0.68.0
+- pkg:cargo/swgl@0.69.0
+- pkg:cargo/swgl@0.70.0
