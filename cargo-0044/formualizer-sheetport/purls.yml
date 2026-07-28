@@ -12,3 +12,6 @@
 - pkg:cargo/formualizer-sheetport@0.5.7
 - pkg:cargo/formualizer-sheetport@0.5.8
 - pkg:cargo/formualizer-sheetport@0.5.9
+- pkg:cargo/formualizer-sheetport@0.6.0
+- pkg:cargo/formualizer-sheetport@0.7.0
+- pkg:cargo/formualizer-sheetport@0.7.1
