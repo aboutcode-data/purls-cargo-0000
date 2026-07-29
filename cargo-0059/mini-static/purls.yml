@@ -3,3 +3,4 @@
 - pkg:cargo/mini-static@0.6.2
 - pkg:cargo/mini-static@0.6.3
 - pkg:cargo/mini-static@0.7.0
+- pkg:cargo/mini-static@0.7.1
