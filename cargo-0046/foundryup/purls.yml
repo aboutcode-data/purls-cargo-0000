@@ -1,2 +1,3 @@
 - pkg:cargo/foundryup@0.0.0-reserved
 - pkg:cargo/foundryup@0.0.7
+- pkg:cargo/foundryup@0.0.8
