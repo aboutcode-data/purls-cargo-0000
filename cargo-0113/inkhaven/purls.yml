@@ -162,9 +162,13 @@
 - pkg:cargo/inkhaven@1.8.30
 - pkg:cargo/inkhaven@1.8.31
 - pkg:cargo/inkhaven@1.8.32
+- pkg:cargo/inkhaven@1.8.34
+- pkg:cargo/inkhaven@1.8.35
 - pkg:cargo/inkhaven@1.8.4
 - pkg:cargo/inkhaven@1.8.5
 - pkg:cargo/inkhaven@1.8.6
 - pkg:cargo/inkhaven@1.8.7
 - pkg:cargo/inkhaven@1.8.8
 - pkg:cargo/inkhaven@1.8.9
+- pkg:cargo/inkhaven@1.9.0
+- pkg:cargo/inkhaven@1.9.1
