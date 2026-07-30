@@ -1,3 +1,4 @@
 - pkg:cargo/cargo-judge@0.1.0
 - pkg:cargo/cargo-judge@0.2.0
 - pkg:cargo/cargo-judge@0.5.2
+- pkg:cargo/cargo-judge@0.6.0
