@@ -1,1 +1,2 @@
 - pkg:cargo/gproxy-transform@2.1.6
+- pkg:cargo/gproxy-transform@2.2.0
