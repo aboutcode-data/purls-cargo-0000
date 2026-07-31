@@ -1,3 +1,5 @@
+- pkg:cargo/inkhaven@1.10.0
+- pkg:cargo/inkhaven@1.10.1
 - pkg:cargo/inkhaven@1.2.0
 - pkg:cargo/inkhaven@1.2.10
 - pkg:cargo/inkhaven@1.2.11
