@@ -9,3 +9,4 @@
 - pkg:cargo/monkey-compiler@0.9.1
 - pkg:cargo/monkey-compiler@1.0.0
 - pkg:cargo/monkey-compiler@1.1.0
+- pkg:cargo/monkey-compiler@1.2.0
