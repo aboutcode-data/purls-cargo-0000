@@ -15,3 +15,4 @@
 - pkg:cargo/swc_allocator@3.0.1
 - pkg:cargo/swc_allocator@4.0.0
 - pkg:cargo/swc_allocator@4.0.1
+- pkg:cargo/swc_allocator@5.0.0

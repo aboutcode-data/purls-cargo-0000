@@ -1207,6 +1207,13 @@
 - pkg:cargo/swc_ecmascript@6.0.0
 - pkg:cargo/swc_ecmascript@60.0.0
 - pkg:cargo/swc_ecmascript@61.0.0
+- pkg:cargo/swc_ecmascript@62.0.0
+- pkg:cargo/swc_ecmascript@63.0.0
+- pkg:cargo/swc_ecmascript@64.0.0
+- pkg:cargo/swc_ecmascript@65.0.0
+- pkg:cargo/swc_ecmascript@66.0.0
+- pkg:cargo/swc_ecmascript@67.0.0
+- pkg:cargo/swc_ecmascript@68.0.0
 - pkg:cargo/swc_ecmascript@7.0.0
 - pkg:cargo/swc_ecmascript@8.0.0
 - pkg:cargo/swc_ecmascript@9.0.0
