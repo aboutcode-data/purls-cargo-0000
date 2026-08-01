@@ -55,3 +55,4 @@
 - pkg:cargo/swagger@7.0.0-rc1
 - pkg:cargo/swagger@7.0.0-rc2
 - pkg:cargo/swagger@7.0.0-rc3
+- pkg:cargo/swagger@7.0.1
