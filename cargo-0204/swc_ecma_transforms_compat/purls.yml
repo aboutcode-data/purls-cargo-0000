@@ -833,6 +833,14 @@
 - pkg:cargo/swc_ecma_transforms_compat@48.0.0
 - pkg:cargo/swc_ecma_transforms_compat@49.0.0
 - pkg:cargo/swc_ecma_transforms_compat@5.0.0
+- pkg:cargo/swc_ecma_transforms_compat@50.0.0
+- pkg:cargo/swc_ecma_transforms_compat@51.0.0
+- pkg:cargo/swc_ecma_transforms_compat@51.0.1
+- pkg:cargo/swc_ecma_transforms_compat@52.0.0
+- pkg:cargo/swc_ecma_transforms_compat@52.0.1
+- pkg:cargo/swc_ecma_transforms_compat@53.0.0
+- pkg:cargo/swc_ecma_transforms_compat@54.0.0
+- pkg:cargo/swc_ecma_transforms_compat@55.0.0
 - pkg:cargo/swc_ecma_transforms_compat@6.0.0
 - pkg:cargo/swc_ecma_transforms_compat@6.0.1
 - pkg:cargo/swc_ecma_transforms_compat@7.0.0
