@@ -92,7 +92,12 @@
 - pkg:cargo/canic@0.100.84
 - pkg:cargo/canic@0.100.85
 - pkg:cargo/canic@0.100.86
+- pkg:cargo/canic@0.100.87
+- pkg:cargo/canic@0.100.88
+- pkg:cargo/canic@0.100.89
 - pkg:cargo/canic@0.100.9
+- pkg:cargo/canic@0.100.90
+- pkg:cargo/canic@0.100.91
 - pkg:cargo/canic@0.11.1
 - pkg:cargo/canic@0.12.0
 - pkg:cargo/canic@0.13.0
