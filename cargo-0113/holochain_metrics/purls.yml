@@ -102,3 +102,4 @@
 - pkg:cargo/holochain_metrics@0.7.0-dev.6
 - pkg:cargo/holochain_metrics@0.7.0-rc.0
 - pkg:cargo/holochain_metrics@0.7.0-rc.1
+- pkg:cargo/holochain_metrics@0.8.0-dev.0
