@@ -3,5 +3,6 @@
 - pkg:cargo/invoic-checker@0.12.0
 - pkg:cargo/invoic-checker@0.13.0
 - pkg:cargo/invoic-checker@0.14.0
+- pkg:cargo/invoic-checker@0.15.0
 - pkg:cargo/invoic-checker@0.8.0
 - pkg:cargo/invoic-checker@0.9.0
