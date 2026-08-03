@@ -86,6 +86,7 @@
 - pkg:cargo/canic-macros@0.100.9
 - pkg:cargo/canic-macros@0.100.90
 - pkg:cargo/canic-macros@0.100.91
+- pkg:cargo/canic-macros@0.100.92
 - pkg:cargo/canic-macros@0.29.10
 - pkg:cargo/canic-macros@0.29.6
 - pkg:cargo/canic-macros@0.29.7
