@@ -119,3 +119,4 @@
 - pkg:cargo/holochain_conductor_config@0.7.0-rc.3
 - pkg:cargo/holochain_conductor_config@0.7.0-rc.4
 - pkg:cargo/holochain_conductor_config@0.7.0-rc.5
+- pkg:cargo/holochain_conductor_config@0.8.0-dev.0
