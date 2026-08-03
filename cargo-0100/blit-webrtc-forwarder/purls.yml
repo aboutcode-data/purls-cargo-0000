@@ -23,3 +23,4 @@
 - pkg:cargo/blit-webrtc-forwarder@0.28.1
 - pkg:cargo/blit-webrtc-forwarder@0.28.2
 - pkg:cargo/blit-webrtc-forwarder@0.28.3
+- pkg:cargo/blit-webrtc-forwarder@0.43.0
