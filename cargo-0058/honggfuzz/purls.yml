@@ -63,6 +63,7 @@
 - pkg:cargo/honggfuzz@0.5.6
 - pkg:cargo/honggfuzz@0.5.60
 - pkg:cargo/honggfuzz@0.5.61
+- pkg:cargo/honggfuzz@0.5.62
 - pkg:cargo/honggfuzz@0.5.7
 - pkg:cargo/honggfuzz@0.5.8
 - pkg:cargo/honggfuzz@0.5.9
