@@ -98,6 +98,8 @@
 - pkg:cargo/canic-core@0.100.95
 - pkg:cargo/canic-core@0.100.96
 - pkg:cargo/canic-core@0.100.97
+- pkg:cargo/canic-core@0.100.98
+- pkg:cargo/canic-core@0.100.99
 - pkg:cargo/canic-core@0.11.1
 - pkg:cargo/canic-core@0.12.0
 - pkg:cargo/canic-core@0.13.0
