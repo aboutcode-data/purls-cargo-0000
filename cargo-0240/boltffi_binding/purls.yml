@@ -10,3 +10,4 @@
 - pkg:cargo/boltffi_binding@0.28.0
 - pkg:cargo/boltffi_binding@0.29.0
 - pkg:cargo/boltffi_binding@0.29.1
+- pkg:cargo/boltffi_binding@0.29.2
