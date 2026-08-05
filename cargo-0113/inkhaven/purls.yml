@@ -178,3 +178,6 @@
 - pkg:cargo/inkhaven@2.0.1
 - pkg:cargo/inkhaven@2.1.0
 - pkg:cargo/inkhaven@2.2.0
+- pkg:cargo/inkhaven@2.3.0
+- pkg:cargo/inkhaven@2.4.0
+- pkg:cargo/inkhaven@2.5.0
