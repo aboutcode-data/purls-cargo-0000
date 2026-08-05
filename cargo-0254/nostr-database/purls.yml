@@ -20,6 +20,7 @@
 - pkg:cargo/nostr-database@0.42.0
 - pkg:cargo/nostr-database@0.43.0
 - pkg:cargo/nostr-database@0.44.0
+- pkg:cargo/nostr-database@0.45.0
 - pkg:cargo/nostr-database@0.45.0-alpha.1
 - pkg:cargo/nostr-database@0.45.0-alpha.2
 - pkg:cargo/nostr-database@0.45.0-alpha.3
