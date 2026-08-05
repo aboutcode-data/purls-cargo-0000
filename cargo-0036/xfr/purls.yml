@@ -18,7 +18,17 @@
 - pkg:cargo/xfr@0.9.12
 - pkg:cargo/xfr@0.9.13
 - pkg:cargo/xfr@0.9.14
+- pkg:cargo/xfr@0.9.16
+- pkg:cargo/xfr@0.9.17
+- pkg:cargo/xfr@0.9.18
+- pkg:cargo/xfr@0.9.19
 - pkg:cargo/xfr@0.9.2
+- pkg:cargo/xfr@0.9.20
+- pkg:cargo/xfr@0.9.21
+- pkg:cargo/xfr@0.9.22
+- pkg:cargo/xfr@0.9.23
+- pkg:cargo/xfr@0.9.24
+- pkg:cargo/xfr@0.9.25
 - pkg:cargo/xfr@0.9.3
 - pkg:cargo/xfr@0.9.4
 - pkg:cargo/xfr@0.9.5
