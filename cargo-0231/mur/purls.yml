@@ -8,6 +8,10 @@
 - pkg:cargo/mur@0.8.13
 - pkg:cargo/mur@0.8.14
 - pkg:cargo/mur@0.8.16
+- pkg:cargo/mur@0.8.18
+- pkg:cargo/mur@0.8.19
+- pkg:cargo/mur@0.8.20
+- pkg:cargo/mur@0.8.21
 - pkg:cargo/mur@0.8.5
 - pkg:cargo/mur@0.8.6
 - pkg:cargo/mur@0.8.7
