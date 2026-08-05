@@ -1,2 +1,6 @@
 - pkg:cargo/opx@0.0.0
+- pkg:cargo/opx@0.0.10
 - pkg:cargo/opx@0.0.6
+- pkg:cargo/opx@0.0.7
+- pkg:cargo/opx@0.0.8
+- pkg:cargo/opx@0.0.9
