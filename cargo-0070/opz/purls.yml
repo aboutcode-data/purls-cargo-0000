@@ -18,7 +18,10 @@
 - pkg:cargo/opz@2026.5.1
 - pkg:cargo/opz@2026.5.10
 - pkg:cargo/opz@2026.5.11
+- pkg:cargo/opz@2026.5.12
 - pkg:cargo/opz@2026.5.2
+- pkg:cargo/opz@2026.5.22
+- pkg:cargo/opz@2026.5.23
 - pkg:cargo/opz@2026.5.3
 - pkg:cargo/opz@2026.5.4
 - pkg:cargo/opz@2026.5.5
@@ -26,3 +29,8 @@
 - pkg:cargo/opz@2026.5.7
 - pkg:cargo/opz@2026.5.8
 - pkg:cargo/opz@2026.5.9
+- pkg:cargo/opz@2026.7.0
+- pkg:cargo/opz@2026.7.1
+- pkg:cargo/opz@2026.8.0
+- pkg:cargo/opz@2026.8.1
+- pkg:cargo/opz@2026.8.2
