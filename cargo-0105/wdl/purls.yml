@@ -28,6 +28,7 @@
 - pkg:cargo/wdl@0.23.1
 - pkg:cargo/wdl@0.23.2
 - pkg:cargo/wdl@0.23.3
+- pkg:cargo/wdl@0.23.4
 - pkg:cargo/wdl@0.3.0
 - pkg:cargo/wdl@0.4.0
 - pkg:cargo/wdl@0.5.0
