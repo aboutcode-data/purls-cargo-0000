@@ -31,3 +31,4 @@
 - pkg:cargo/udb@0.4.35
 - pkg:cargo/udb@0.4.36
 - pkg:cargo/udb@0.4.37
+- pkg:cargo/udb@0.5.0
