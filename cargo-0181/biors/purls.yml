@@ -82,6 +82,9 @@
 - pkg:cargo/biors@0.57.1
 - pkg:cargo/biors@0.57.2
 - pkg:cargo/biors@0.57.3
+- pkg:cargo/biors@0.57.4
+- pkg:cargo/biors@0.58.0
+- pkg:cargo/biors@0.58.1
 - pkg:cargo/biors@0.6.0
 - pkg:cargo/biors@0.7.0
 - pkg:cargo/biors@0.8.0
@@ -95,3 +98,4 @@
 - pkg:cargo/biors@0.9.6
 - pkg:cargo/biors@0.9.7
 - pkg:cargo/biors@0.9.8
+- pkg:cargo/biors@1.0.0
