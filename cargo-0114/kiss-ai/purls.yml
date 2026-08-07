@@ -35,3 +35,5 @@
 - pkg:cargo/kiss-ai@0.4.4
 - pkg:cargo/kiss-ai@0.4.5
 - pkg:cargo/kiss-ai@0.4.6
+- pkg:cargo/kiss-ai@0.4.8
+- pkg:cargo/kiss-ai@0.4.9
