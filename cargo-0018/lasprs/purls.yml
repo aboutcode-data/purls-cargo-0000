@@ -1,4 +1,8 @@
 - pkg:cargo/lasprs@0.1.0
+- pkg:cargo/lasprs@0.14.0
+- pkg:cargo/lasprs@0.14.1
+- pkg:cargo/lasprs@0.14.2
+- pkg:cargo/lasprs@0.14.3
 - pkg:cargo/lasprs@0.2.0
 - pkg:cargo/lasprs@0.2.1
 - pkg:cargo/lasprs@0.2.2
