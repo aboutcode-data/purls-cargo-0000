@@ -55,3 +55,5 @@
 - pkg:cargo/dora-node-api-c@0.4.1
 - pkg:cargo/dora-node-api-c@0.5.0
 - pkg:cargo/dora-node-api-c@0.5.0-rc0
+- pkg:cargo/dora-node-api-c@1.0.0-rc.2
+- pkg:cargo/dora-node-api-c@1.0.0-rc.4
