@@ -1,1 +1,2 @@
 - pkg:cargo/photon-ring-metrics@2.5.0
+- pkg:cargo/photon-ring-metrics@3.0.0
