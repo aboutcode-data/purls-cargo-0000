@@ -35,3 +35,4 @@
 - pkg:cargo/tor-rpcbase@0.42.0
 - pkg:cargo/tor-rpcbase@0.43.0
 - pkg:cargo/tor-rpcbase@0.44.0
+- pkg:cargo/tor-rpcbase@0.45.0
