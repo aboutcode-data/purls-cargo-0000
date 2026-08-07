@@ -45,3 +45,4 @@
 - pkg:cargo/encrypt_config_derive@1.0.9
 - pkg:cargo/encrypt_config_derive@2.0.0
 - pkg:cargo/encrypt_config_derive@2.0.1
+- pkg:cargo/encrypt_config_derive@2.0.2
