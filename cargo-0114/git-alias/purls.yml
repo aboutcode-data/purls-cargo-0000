@@ -6,6 +6,11 @@
 - pkg:cargo/git-alias@1.2.11
 - pkg:cargo/git-alias@1.2.12
 - pkg:cargo/git-alias@1.2.13
+- pkg:cargo/git-alias@1.2.19
+- pkg:cargo/git-alias@1.2.22
+- pkg:cargo/git-alias@1.2.24
+- pkg:cargo/git-alias@1.2.25
+- pkg:cargo/git-alias@1.2.26
 - pkg:cargo/git-alias@1.2.3
 - pkg:cargo/git-alias@1.2.4
 - pkg:cargo/git-alias@1.2.6
