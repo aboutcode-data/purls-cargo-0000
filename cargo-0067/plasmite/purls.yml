@@ -13,3 +13,7 @@
 - pkg:cargo/plasmite@0.5.1
 - pkg:cargo/plasmite@0.6.0
 - pkg:cargo/plasmite@0.6.1
+- pkg:cargo/plasmite@0.7.0
+- pkg:cargo/plasmite@0.7.1
+- pkg:cargo/plasmite@0.7.2
+- pkg:cargo/plasmite@0.8.0
