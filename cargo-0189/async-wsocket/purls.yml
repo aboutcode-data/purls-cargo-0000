@@ -8,6 +8,9 @@
 - pkg:cargo/async-wsocket@0.13.1
 - pkg:cargo/async-wsocket@0.13.2
 - pkg:cargo/async-wsocket@0.14.0
+- pkg:cargo/async-wsocket@0.15.0
+- pkg:cargo/async-wsocket@0.16.0
+- pkg:cargo/async-wsocket@0.17.0
 - pkg:cargo/async-wsocket@0.2.0
 - pkg:cargo/async-wsocket@0.3.0
 - pkg:cargo/async-wsocket@0.4.0
