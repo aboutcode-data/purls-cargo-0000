@@ -4,3 +4,5 @@
 - pkg:cargo/mongo-graphql@0.0.4
 - pkg:cargo/mongo-graphql@0.0.41
 - pkg:cargo/mongo-graphql@0.0.5
+- pkg:cargo/mongo-graphql@0.0.52
+- pkg:cargo/mongo-graphql@0.0.53
