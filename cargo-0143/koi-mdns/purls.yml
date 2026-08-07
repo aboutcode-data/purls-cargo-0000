@@ -18,3 +18,4 @@
 - pkg:cargo/koi-mdns@0.6.0
 - pkg:cargo/koi-mdns@0.7.0
 - pkg:cargo/koi-mdns@0.9.0
+- pkg:cargo/koi-mdns@1.0.0-rc.1
