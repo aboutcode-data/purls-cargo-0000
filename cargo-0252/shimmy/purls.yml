@@ -26,3 +26,4 @@
 - pkg:cargo/shimmy@2.3.3
 - pkg:cargo/shimmy@2.4.0
 - pkg:cargo/shimmy@2.4.2
+- pkg:cargo/shimmy@2.5.0
