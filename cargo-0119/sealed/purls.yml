@@ -13,3 +13,4 @@
 - pkg:cargo/sealed@0.6.0
 - pkg:cargo/sealed@0.6.0-rc1
 - pkg:cargo/sealed@0.6.0-rc3
+- pkg:cargo/sealed@0.7.0
