@@ -20,6 +20,7 @@
 - pkg:cargo/ezsp@13.0.0
 - pkg:cargo/ezsp@14.0.0
 - pkg:cargo/ezsp@14.1.0
+- pkg:cargo/ezsp@15.0.0
 - pkg:cargo/ezsp@5.0.0
 - pkg:cargo/ezsp@5.2.0
 - pkg:cargo/ezsp@5.2.1
