@@ -17,10 +17,16 @@
 - pkg:cargo/lance-namespace@2.0.1
 - pkg:cargo/lance-namespace@3.0.0
 - pkg:cargo/lance-namespace@3.0.1
+- pkg:cargo/lance-namespace@3.0.2
 - pkg:cargo/lance-namespace@4.0.0
 - pkg:cargo/lance-namespace@4.0.1
+- pkg:cargo/lance-namespace@4.0.2
 - pkg:cargo/lance-namespace@6.0.0
 - pkg:cargo/lance-namespace@6.0.1
+- pkg:cargo/lance-namespace@6.1.0
 - pkg:cargo/lance-namespace@7.0.0
+- pkg:cargo/lance-namespace@7.1.0
 - pkg:cargo/lance-namespace@8.0.0
+- pkg:cargo/lance-namespace@8.0.1
 - pkg:cargo/lance-namespace@9.0.0
+- pkg:cargo/lance-namespace@9.0.1
