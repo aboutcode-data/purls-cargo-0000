@@ -5,3 +5,4 @@
 - pkg:cargo/faucet-source-s3@1.4.0
 - pkg:cargo/faucet-source-s3@1.5.0
 - pkg:cargo/faucet-source-s3@1.6.0
+- pkg:cargo/faucet-source-s3@1.6.1
