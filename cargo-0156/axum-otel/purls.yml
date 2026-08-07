@@ -21,3 +21,7 @@
 - pkg:cargo/axum-otel@0.31.6
 - pkg:cargo/axum-otel@0.31.7
 - pkg:cargo/axum-otel@0.31.8
+- pkg:cargo/axum-otel@0.32.0
+- pkg:cargo/axum-otel@0.32.1
+- pkg:cargo/axum-otel@0.33.0
+- pkg:cargo/axum-otel@0.33.1
