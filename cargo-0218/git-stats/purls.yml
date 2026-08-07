@@ -28,3 +28,4 @@
 - pkg:cargo/git-stats@0.2.3
 - pkg:cargo/git-stats@0.2.4
 - pkg:cargo/git-stats@0.2.5
+- pkg:cargo/git-stats@0.2.6
