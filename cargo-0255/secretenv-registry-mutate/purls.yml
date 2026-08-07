@@ -1,3 +1,4 @@
 - pkg:cargo/secretenv-registry-mutate@0.17.0
 - pkg:cargo/secretenv-registry-mutate@0.18.0
 - pkg:cargo/secretenv-registry-mutate@0.19.0
+- pkg:cargo/secretenv-registry-mutate@0.20.0

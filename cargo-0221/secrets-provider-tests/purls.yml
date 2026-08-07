@@ -16,6 +16,7 @@
 - pkg:cargo/secrets-provider-tests@1.1.1
 - pkg:cargo/secrets-provider-tests@1.1.2
 - pkg:cargo/secrets-provider-tests@1.1.5
+- pkg:cargo/secrets-provider-tests@1.1.6
 - pkg:cargo/secrets-provider-tests@1.2.0
 - pkg:cargo/secrets-provider-tests@1.2.0-research.0
 - pkg:cargo/secrets-provider-tests@1.2.0-research.1
