@@ -30,3 +30,5 @@
 - pkg:cargo/hjkl-picker-tui@0.4.0
 - pkg:cargo/hjkl-picker-tui@0.40.0
 - pkg:cargo/hjkl-picker-tui@0.41.0
+- pkg:cargo/hjkl-picker-tui@0.41.1
+- pkg:cargo/hjkl-picker-tui@0.41.2
