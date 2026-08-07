@@ -11,3 +11,5 @@
 - pkg:cargo/clvm-fuzzing@0.17.5
 - pkg:cargo/clvm-fuzzing@0.17.6
 - pkg:cargo/clvm-fuzzing@0.17.7
+- pkg:cargo/clvm-fuzzing@0.18.0
+- pkg:cargo/clvm-fuzzing@0.19.0
