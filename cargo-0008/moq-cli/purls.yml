@@ -44,3 +44,4 @@
 - pkg:cargo/moq-cli@0.9.5
 - pkg:cargo/moq-cli@0.9.6
 - pkg:cargo/moq-cli@0.9.7
+- pkg:cargo/moq-cli@0.9.8
