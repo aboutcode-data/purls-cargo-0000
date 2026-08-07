@@ -7,6 +7,14 @@
 - pkg:cargo/yash-env@0.13.0
 - pkg:cargo/yash-env@0.13.1
 - pkg:cargo/yash-env@0.13.2
+- pkg:cargo/yash-env@0.14.0
+- pkg:cargo/yash-env@0.15.0
+- pkg:cargo/yash-env@0.15.1
+- pkg:cargo/yash-env@0.15.2
+- pkg:cargo/yash-env@0.15.3
+- pkg:cargo/yash-env@0.15.4
+- pkg:cargo/yash-env@0.15.5
+- pkg:cargo/yash-env@0.16.0
 - pkg:cargo/yash-env@0.2.0
 - pkg:cargo/yash-env@0.2.1
 - pkg:cargo/yash-env@0.3.0
