@@ -9,3 +9,8 @@
 - pkg:cargo/jh-s3@0.4.6
 - pkg:cargo/jh-s3@0.4.7
 - pkg:cargo/jh-s3@0.4.8
+- pkg:cargo/jh-s3@0.5.1
+- pkg:cargo/jh-s3@0.5.2
+- pkg:cargo/jh-s3@0.5.3
+- pkg:cargo/jh-s3@0.6.0
+- pkg:cargo/jh-s3@0.6.3
