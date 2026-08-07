@@ -16,3 +16,4 @@
 - pkg:cargo/binary_sv2@4.0.0
 - pkg:cargo/binary_sv2@5.0.0
 - pkg:cargo/binary_sv2@5.0.1
+- pkg:cargo/binary_sv2@6.0.0
