@@ -7,6 +7,8 @@
 - pkg:cargo/rgrc@0.6.10
 - pkg:cargo/rgrc@0.6.11
 - pkg:cargo/rgrc@0.6.12
+- pkg:cargo/rgrc@0.6.13
+- pkg:cargo/rgrc@0.6.14
 - pkg:cargo/rgrc@0.6.2
 - pkg:cargo/rgrc@0.6.3
 - pkg:cargo/rgrc@0.6.4
