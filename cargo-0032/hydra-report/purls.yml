@@ -1,0 +1,12 @@
+- pkg:cargo/hydra-report@2.2.0
+- pkg:cargo/hydra-report@2.2.1
+- pkg:cargo/hydra-report@2.3.0
+- pkg:cargo/hydra-report@3.0.0
+- pkg:cargo/hydra-report@4.0.0
+- pkg:cargo/hydra-report@4.0.1
+- pkg:cargo/hydra-report@5.0.0
+- pkg:cargo/hydra-report@5.1.0
+- pkg:cargo/hydra-report@6.0.0
+- pkg:cargo/hydra-report@7.0.0
+- pkg:cargo/hydra-report@7.0.1
+- pkg:cargo/hydra-report@8.0.0
