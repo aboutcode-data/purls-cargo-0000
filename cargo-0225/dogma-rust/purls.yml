@@ -28,3 +28,4 @@
 - pkg:cargo/dogma-rust@2.1.4
 - pkg:cargo/dogma-rust@2.1.5
 - pkg:cargo/dogma-rust@2.2.0
+- pkg:cargo/dogma-rust@3.0.0
