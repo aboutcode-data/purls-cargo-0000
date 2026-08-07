@@ -1,0 +1,5 @@
+- pkg:cargo/hydra-engines@5.1.0
+- pkg:cargo/hydra-engines@6.0.0
+- pkg:cargo/hydra-engines@7.0.0
+- pkg:cargo/hydra-engines@7.0.1
+- pkg:cargo/hydra-engines@8.0.0
