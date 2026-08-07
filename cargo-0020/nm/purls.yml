@@ -33,6 +33,10 @@
 - pkg:cargo/nm@0.1.38
 - pkg:cargo/nm@0.1.39
 - pkg:cargo/nm@0.1.4
+- pkg:cargo/nm@0.1.40
+- pkg:cargo/nm@0.1.41
+- pkg:cargo/nm@0.1.42
+- pkg:cargo/nm@0.1.43
 - pkg:cargo/nm@0.1.5
 - pkg:cargo/nm@0.1.6
 - pkg:cargo/nm@0.1.7
