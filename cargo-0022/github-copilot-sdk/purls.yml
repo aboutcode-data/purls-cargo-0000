@@ -20,7 +20,15 @@
 - pkg:cargo/github-copilot-sdk@1.0.6
 - pkg:cargo/github-copilot-sdk@1.0.6-preview.0
 - pkg:cargo/github-copilot-sdk@1.0.6-preview.1
+- pkg:cargo/github-copilot-sdk@1.0.7
 - pkg:cargo/github-copilot-sdk@1.0.7-preview.0
 - pkg:cargo/github-copilot-sdk@1.0.7-preview.1
 - pkg:cargo/github-copilot-sdk@1.0.7-preview.2
 - pkg:cargo/github-copilot-sdk@1.0.7-preview.3
+- pkg:cargo/github-copilot-sdk@1.0.8
+- pkg:cargo/github-copilot-sdk@1.0.8-preview.0
+- pkg:cargo/github-copilot-sdk@1.0.9
+- pkg:cargo/github-copilot-sdk@1.0.9-preview.0
+- pkg:cargo/github-copilot-sdk@1.0.9-preview.1
+- pkg:cargo/github-copilot-sdk@1.0.9-preview.2
+- pkg:cargo/github-copilot-sdk@1.0.9-preview.3

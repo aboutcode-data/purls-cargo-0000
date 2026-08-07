@@ -68,3 +68,5 @@
 - pkg:cargo/github-actions-models@1.26.0
 - pkg:cargo/github-actions-models@1.26.1
 - pkg:cargo/github-actions-models@1.27.0
+- pkg:cargo/github-actions-models@1.28.0
+- pkg:cargo/github-actions-models@1.29.0
