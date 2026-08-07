@@ -115,3 +115,4 @@
 - pkg:cargo/toml@1.1.1%2Bspec-1.1.0
 - pkg:cargo/toml@1.1.2%2Bspec-1.1.0
 - pkg:cargo/toml@1.1.3%2Bspec-1.1.0
+- pkg:cargo/toml@1.1.4%2Bspec-1.1.0
