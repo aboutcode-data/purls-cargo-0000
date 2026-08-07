@@ -19,3 +19,4 @@
 - pkg:cargo/cargo-rake@0.7.3
 - pkg:cargo/cargo-rake@0.7.4
 - pkg:cargo/cargo-rake@0.7.5
+- pkg:cargo/cargo-rake@0.8.2
