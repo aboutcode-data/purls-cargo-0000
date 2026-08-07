@@ -1,1 +1,3 @@
 - pkg:cargo/bws-tui@0.0.1
+- pkg:cargo/bws-tui@0.0.2
+- pkg:cargo/bws-tui@0.0.3
