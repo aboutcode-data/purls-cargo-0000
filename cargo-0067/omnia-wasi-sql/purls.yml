@@ -2,3 +2,6 @@
 - pkg:cargo/omnia-wasi-sql@0.29.0
 - pkg:cargo/omnia-wasi-sql@0.30.0
 - pkg:cargo/omnia-wasi-sql@0.31.0
+- pkg:cargo/omnia-wasi-sql@0.32.0
+- pkg:cargo/omnia-wasi-sql@0.33.0
+- pkg:cargo/omnia-wasi-sql@0.34.0
