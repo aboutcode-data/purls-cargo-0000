@@ -4,3 +4,4 @@
 - pkg:cargo/faucet-transform-sql@1.0.3
 - pkg:cargo/faucet-transform-sql@1.0.4
 - pkg:cargo/faucet-transform-sql@1.1.0
+- pkg:cargo/faucet-transform-sql@1.1.1
