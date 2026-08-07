@@ -1,0 +1,11 @@
+- pkg:cargo/nlink-macros@0.16.0
+- pkg:cargo/nlink-macros@0.17.0
+- pkg:cargo/nlink-macros@0.18.0
+- pkg:cargo/nlink-macros@0.19.0
+- pkg:cargo/nlink-macros@0.20.0
+- pkg:cargo/nlink-macros@0.20.1
+- pkg:cargo/nlink-macros@0.21.0
+- pkg:cargo/nlink-macros@0.22.0
+- pkg:cargo/nlink-macros@0.23.0
+- pkg:cargo/nlink-macros@0.24.0
+- pkg:cargo/nlink-macros@0.25.0
