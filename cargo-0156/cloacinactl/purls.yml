@@ -1,2 +1,6 @@
+- pkg:cargo/cloacinactl@0.10.0
 - pkg:cargo/cloacinactl@0.6.0
 - pkg:cargo/cloacinactl@0.6.1
+- pkg:cargo/cloacinactl@0.7.0
+- pkg:cargo/cloacinactl@0.8.0
+- pkg:cargo/cloacinactl@0.9.0
