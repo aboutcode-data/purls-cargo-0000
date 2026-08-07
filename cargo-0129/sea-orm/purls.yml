@@ -136,3 +136,4 @@
 - pkg:cargo/sea-orm@2.0.0-rc.7
 - pkg:cargo/sea-orm@2.0.0-rc.8
 - pkg:cargo/sea-orm@2.0.0-rc.9
+- pkg:cargo/sea-orm@2.0.1
