@@ -58,3 +58,4 @@
 - pkg:cargo/gitnu@0.7.6
 - pkg:cargo/gitnu@0.7.7
 - pkg:cargo/gitnu@0.7.8
+- pkg:cargo/gitnu@0.8.0
