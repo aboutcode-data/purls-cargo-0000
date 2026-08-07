@@ -2,3 +2,4 @@
 - pkg:cargo/doxygen-bindgen@0.1.1
 - pkg:cargo/doxygen-bindgen@0.1.2
 - pkg:cargo/doxygen-bindgen@0.1.3
+- pkg:cargo/doxygen-bindgen@0.1.4
