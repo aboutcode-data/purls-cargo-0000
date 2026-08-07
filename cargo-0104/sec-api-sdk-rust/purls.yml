@@ -6,3 +6,4 @@
 - pkg:cargo/sec-api-sdk-rust@1.0.1
 - pkg:cargo/sec-api-sdk-rust@1.0.2
 - pkg:cargo/sec-api-sdk-rust@1.0.3
+- pkg:cargo/sec-api-sdk-rust@2.0.0
