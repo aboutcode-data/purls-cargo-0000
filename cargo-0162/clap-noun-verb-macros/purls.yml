@@ -1,4 +1,7 @@
 - pkg:cargo/clap-noun-verb-macros@26.4.25
+- pkg:cargo/clap-noun-verb-macros@26.5.19
+- pkg:cargo/clap-noun-verb-macros@26.6.2
+- pkg:cargo/clap-noun-verb-macros@26.7.4
 - pkg:cargo/clap-noun-verb-macros@3.0.0
 - pkg:cargo/clap-noun-verb-macros@3.2.0
 - pkg:cargo/clap-noun-verb-macros@3.3.0
