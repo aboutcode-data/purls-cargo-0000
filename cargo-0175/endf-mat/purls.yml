@@ -7,3 +7,7 @@
 - pkg:cargo/endf-mat@0.1.6
 - pkg:cargo/endf-mat@0.1.7
 - pkg:cargo/endf-mat@0.1.8
+- pkg:cargo/endf-mat@0.2.0
+- pkg:cargo/endf-mat@0.2.1
+- pkg:cargo/endf-mat@0.2.2
+- pkg:cargo/endf-mat@0.3.0
