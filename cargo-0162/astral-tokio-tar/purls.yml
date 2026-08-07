@@ -9,3 +9,5 @@
 - pkg:cargo/astral-tokio-tar@0.6.1
 - pkg:cargo/astral-tokio-tar@0.6.1-rc1
 - pkg:cargo/astral-tokio-tar@0.6.2
+- pkg:cargo/astral-tokio-tar@0.6.3
+- pkg:cargo/astral-tokio-tar@0.6.4
