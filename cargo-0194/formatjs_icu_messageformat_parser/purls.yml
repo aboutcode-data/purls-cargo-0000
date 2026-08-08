@@ -5,3 +5,4 @@
 - pkg:cargo/formatjs_icu_messageformat_parser@0.2.4
 - pkg:cargo/formatjs_icu_messageformat_parser@0.2.6
 - pkg:cargo/formatjs_icu_messageformat_parser@0.2.7
+- pkg:cargo/formatjs_icu_messageformat_parser@0.3.0
