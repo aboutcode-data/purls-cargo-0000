@@ -12,3 +12,5 @@
 - pkg:cargo/bolivar-cli@1.6.1
 - pkg:cargo/bolivar-cli@1.7.0
 - pkg:cargo/bolivar-cli@1.8.0
+- pkg:cargo/bolivar-cli@1.9.0
+- pkg:cargo/bolivar-cli@1.9.1
