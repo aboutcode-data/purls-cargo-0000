@@ -21,3 +21,4 @@
 - pkg:cargo/gccjit_sys@1.6.0
 - pkg:cargo/gccjit_sys@1.7.0
 - pkg:cargo/gccjit_sys@2.0.0
+- pkg:cargo/gccjit_sys@3.0.0
