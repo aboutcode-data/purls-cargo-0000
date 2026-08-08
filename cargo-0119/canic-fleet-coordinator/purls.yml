@@ -3,3 +3,6 @@
 - pkg:cargo/canic-fleet-coordinator@0.101.19
 - pkg:cargo/canic-fleet-coordinator@0.101.20
 - pkg:cargo/canic-fleet-coordinator@0.101.21
+- pkg:cargo/canic-fleet-coordinator@0.101.22
+- pkg:cargo/canic-fleet-coordinator@0.101.23
+- pkg:cargo/canic-fleet-coordinator@0.101.24
