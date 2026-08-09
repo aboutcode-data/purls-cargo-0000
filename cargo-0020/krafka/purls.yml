@@ -8,6 +8,7 @@
 - pkg:cargo/krafka@0.15.0
 - pkg:cargo/krafka@0.16.0
 - pkg:cargo/krafka@0.17.0
+- pkg:cargo/krafka@0.18.0
 - pkg:cargo/krafka@0.2.0
 - pkg:cargo/krafka@0.2.1
 - pkg:cargo/krafka@0.3.0
