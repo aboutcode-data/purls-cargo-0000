@@ -20,6 +20,7 @@
 - pkg:cargo/molcrafts-molrs@0.12.1
 - pkg:cargo/molcrafts-molrs@0.12.2
 - pkg:cargo/molcrafts-molrs@0.12.3
+- pkg:cargo/molcrafts-molrs@0.13.0
 - pkg:cargo/molcrafts-molrs@0.5.1
 - pkg:cargo/molcrafts-molrs@0.6.0
 - pkg:cargo/molcrafts-molrs@0.7.0
