@@ -91,6 +91,7 @@
 - pkg:cargo/calcit@0.13.4
 - pkg:cargo/calcit@0.13.5
 - pkg:cargo/calcit@0.13.6
+- pkg:cargo/calcit@0.13.7
 - pkg:cargo/calcit@0.5.18
 - pkg:cargo/calcit@0.5.18-a2
 - pkg:cargo/calcit@0.5.18-a3
