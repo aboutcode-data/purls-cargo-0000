@@ -296,6 +296,7 @@
 - pkg:cargo/swc_css_prefixer@28.0.0
 - pkg:cargo/swc_css_prefixer@29.0.0
 - pkg:cargo/swc_css_prefixer@3.0.0
+- pkg:cargo/swc_css_prefixer@30.0.0
 - pkg:cargo/swc_css_prefixer@4.0.0
 - pkg:cargo/swc_css_prefixer@5.0.0
 - pkg:cargo/swc_css_prefixer@6.0.0

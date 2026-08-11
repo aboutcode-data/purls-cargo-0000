@@ -136,6 +136,7 @@
 - pkg:cargo/swc_relay@13.0.0
 - pkg:cargo/swc_relay@14.0.0
 - pkg:cargo/swc_relay@15.0.0
+- pkg:cargo/swc_relay@16.0.0
 - pkg:cargo/swc_relay@2.0.0
 - pkg:cargo/swc_relay@3.0.0
 - pkg:cargo/swc_relay@4.0.0
