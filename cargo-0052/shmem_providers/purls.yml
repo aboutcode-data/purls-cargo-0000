@@ -1,1 +1,2 @@
 - pkg:cargo/shmem_providers@0.15.4
+- pkg:cargo/shmem_providers@0.16.0
