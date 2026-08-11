@@ -591,6 +591,8 @@
 - pkg:cargo/late@0.0.662
 - pkg:cargo/late@0.0.663
 - pkg:cargo/late@0.0.664
+- pkg:cargo/late@0.0.665
+- pkg:cargo/late@0.0.666
 - pkg:cargo/late@0.0.67
 - pkg:cargo/late@0.0.68
 - pkg:cargo/late@0.0.69
