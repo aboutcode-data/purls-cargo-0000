@@ -42,6 +42,7 @@
 - pkg:cargo/laddu@0.2.6
 - pkg:cargo/laddu@0.20.0
 - pkg:cargo/laddu@0.21.0
+- pkg:cargo/laddu@0.21.1
 - pkg:cargo/laddu@0.3.0
 - pkg:cargo/laddu@0.4.0
 - pkg:cargo/laddu@0.4.1
