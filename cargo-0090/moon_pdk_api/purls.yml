@@ -37,3 +37,4 @@
 - pkg:cargo/moon_pdk_api@2.0.3
 - pkg:cargo/moon_pdk_api@2.0.4
 - pkg:cargo/moon_pdk_api@2.1.0
+- pkg:cargo/moon_pdk_api@2.1.1
