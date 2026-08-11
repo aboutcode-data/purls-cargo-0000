@@ -35,3 +35,4 @@
 - pkg:cargo/dxpdf@0.3.0
 - pkg:cargo/dxpdf@0.3.1
 - pkg:cargo/dxpdf@0.4.0
+- pkg:cargo/dxpdf@0.5.0
