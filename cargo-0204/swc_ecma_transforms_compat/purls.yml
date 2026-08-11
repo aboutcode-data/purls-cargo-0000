@@ -841,6 +841,7 @@
 - pkg:cargo/swc_ecma_transforms_compat@53.0.0
 - pkg:cargo/swc_ecma_transforms_compat@54.0.0
 - pkg:cargo/swc_ecma_transforms_compat@55.0.0
+- pkg:cargo/swc_ecma_transforms_compat@56.0.0
 - pkg:cargo/swc_ecma_transforms_compat@6.0.0
 - pkg:cargo/swc_ecma_transforms_compat@6.0.1
 - pkg:cargo/swc_ecma_transforms_compat@7.0.0

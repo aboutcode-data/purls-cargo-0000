@@ -155,6 +155,7 @@
 - pkg:cargo/swc_xml_parser@22.0.0
 - pkg:cargo/swc_xml_parser@23.0.0
 - pkg:cargo/swc_xml_parser@24.0.0
+- pkg:cargo/swc_xml_parser@25.0.0
 - pkg:cargo/swc_xml_parser@3.0.0
 - pkg:cargo/swc_xml_parser@4.0.0
 - pkg:cargo/swc_xml_parser@5.0.0
