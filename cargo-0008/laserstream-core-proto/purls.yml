@@ -1,6 +1,7 @@
 - pkg:cargo/laserstream-core-proto@10.0.0
 - pkg:cargo/laserstream-core-proto@10.0.1
 - pkg:cargo/laserstream-core-proto@11.0.0
+- pkg:cargo/laserstream-core-proto@11.1.0
 - pkg:cargo/laserstream-core-proto@9.0.1
 - pkg:cargo/laserstream-core-proto@9.0.2
 - pkg:cargo/laserstream-core-proto@9.1.0
