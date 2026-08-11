@@ -22,3 +22,4 @@
 - pkg:cargo/nostr-double-ratchet-pairwise-codec@0.0.162
 - pkg:cargo/nostr-double-ratchet-pairwise-codec@0.0.163
 - pkg:cargo/nostr-double-ratchet-pairwise-codec@0.0.164
+- pkg:cargo/nostr-double-ratchet-pairwise-codec@0.0.166
