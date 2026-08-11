@@ -1,3 +1,7 @@
 - pkg:cargo/gproxy-protocol-macros@2.3.0
 - pkg:cargo/gproxy-protocol-macros@2.3.1
 - pkg:cargo/gproxy-protocol-macros@2.3.2
+- pkg:cargo/gproxy-protocol-macros@2.4.0
+- pkg:cargo/gproxy-protocol-macros@2.4.1
+- pkg:cargo/gproxy-protocol-macros@2.4.2
+- pkg:cargo/gproxy-protocol-macros@2.4.3
