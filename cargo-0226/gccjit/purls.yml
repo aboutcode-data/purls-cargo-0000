@@ -24,3 +24,4 @@
 - pkg:cargo/gccjit@4.0.0
 - pkg:cargo/gccjit@4.1.0
 - pkg:cargo/gccjit@5.0.0
+- pkg:cargo/gccjit@6.0.0
