@@ -1,1 +1,2 @@
 - pkg:cargo/fast_rands@0.15.4
+- pkg:cargo/fast_rands@0.16.0
