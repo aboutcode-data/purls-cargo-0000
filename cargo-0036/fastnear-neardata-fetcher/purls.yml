@@ -32,3 +32,4 @@
 - pkg:cargo/fastnear-neardata-fetcher@0.37.0-rc.1
 - pkg:cargo/fastnear-neardata-fetcher@0.37.1
 - pkg:cargo/fastnear-neardata-fetcher@0.37.2
+- pkg:cargo/fastnear-neardata-fetcher@0.37.3
