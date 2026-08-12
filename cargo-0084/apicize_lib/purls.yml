@@ -91,6 +91,10 @@
 - pkg:cargo/apicize_lib@0.40.0
 - pkg:cargo/apicize_lib@0.40.1
 - pkg:cargo/apicize_lib@0.41.0
+- pkg:cargo/apicize_lib@0.42.0
+- pkg:cargo/apicize_lib@0.43.0
+- pkg:cargo/apicize_lib@0.44.0
+- pkg:cargo/apicize_lib@0.44.1
 - pkg:cargo/apicize_lib@0.8.1
 - pkg:cargo/apicize_lib@0.8.4
 - pkg:cargo/apicize_lib@0.9.0
