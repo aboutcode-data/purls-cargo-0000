@@ -2,7 +2,16 @@
 - pkg:cargo/beavuck-hermit@1.4.11
 - pkg:cargo/beavuck-hermit@1.4.12
 - pkg:cargo/beavuck-hermit@1.4.13
+- pkg:cargo/beavuck-hermit@1.4.14
+- pkg:cargo/beavuck-hermit@1.4.15
+- pkg:cargo/beavuck-hermit@1.4.16
+- pkg:cargo/beavuck-hermit@1.4.17
+- pkg:cargo/beavuck-hermit@1.4.18
+- pkg:cargo/beavuck-hermit@1.4.19
 - pkg:cargo/beavuck-hermit@1.4.2
+- pkg:cargo/beavuck-hermit@1.4.20
+- pkg:cargo/beavuck-hermit@1.4.21
+- pkg:cargo/beavuck-hermit@1.4.22
 - pkg:cargo/beavuck-hermit@1.4.3
 - pkg:cargo/beavuck-hermit@1.4.5
 - pkg:cargo/beavuck-hermit@1.4.6
