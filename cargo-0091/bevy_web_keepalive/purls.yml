@@ -9,3 +9,4 @@
 - pkg:cargo/bevy_web_keepalive@0.3.4
 - pkg:cargo/bevy_web_keepalive@0.3.5
 - pkg:cargo/bevy_web_keepalive@0.4.0
+- pkg:cargo/bevy_web_keepalive@0.6.2
