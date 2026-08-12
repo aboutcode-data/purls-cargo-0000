@@ -16,6 +16,10 @@
 - pkg:cargo/nu-lsp@0.111.0
 - pkg:cargo/nu-lsp@0.112.1
 - pkg:cargo/nu-lsp@0.112.2
+- pkg:cargo/nu-lsp@0.113.0
+- pkg:cargo/nu-lsp@0.113.1
+- pkg:cargo/nu-lsp@0.114.0
+- pkg:cargo/nu-lsp@0.114.1
 - pkg:cargo/nu-lsp@0.87.0
 - pkg:cargo/nu-lsp@0.87.1
 - pkg:cargo/nu-lsp@0.88.0
