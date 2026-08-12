@@ -12,3 +12,5 @@
 - pkg:cargo/bed2gtf@1.9.2
 - pkg:cargo/bed2gtf@1.9.3
 - pkg:cargo/bed2gtf@2.0.0
+- pkg:cargo/bed2gtf@2.1.0
+- pkg:cargo/bed2gtf@2.2.0
