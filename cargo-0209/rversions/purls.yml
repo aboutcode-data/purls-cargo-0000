@@ -21,3 +21,4 @@
 - pkg:cargo/rversions@1.4.1
 - pkg:cargo/rversions@2.0.0
 - pkg:cargo/rversions@2.0.1
+- pkg:cargo/rversions@2.0.2
