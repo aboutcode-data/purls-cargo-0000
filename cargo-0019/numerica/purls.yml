@@ -10,3 +10,6 @@
 - pkg:cargo/numerica@1.4.1
 - pkg:cargo/numerica@1.4.2
 - pkg:cargo/numerica@1.4.3
+- pkg:cargo/numerica@2.0.0
+- pkg:cargo/numerica@2.1.0
+- pkg:cargo/numerica@2.2.0
