@@ -1,3 +1,5 @@
 - pkg:cargo/upsft@0.0.1
 - pkg:cargo/upsft@0.0.2
 - pkg:cargo/upsft@0.0.3
+- pkg:cargo/upsft@1.0.0
+- pkg:cargo/upsft@1.1.1
