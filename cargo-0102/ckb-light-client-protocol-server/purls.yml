@@ -84,3 +84,5 @@
 - pkg:cargo/ckb-light-client-protocol-server@1.1.0
 - pkg:cargo/ckb-light-client-protocol-server@1.1.1
 - pkg:cargo/ckb-light-client-protocol-server@1.2.0
+- pkg:cargo/ckb-light-client-protocol-server@1.2.1
+- pkg:cargo/ckb-light-client-protocol-server@1.3.0
