@@ -68,6 +68,7 @@
 - pkg:cargo/xml-rs@0.8.26
 - pkg:cargo/xml-rs@0.8.27
 - pkg:cargo/xml-rs@0.8.28
+- pkg:cargo/xml-rs@0.8.29
 - pkg:cargo/xml-rs@0.8.3
 - pkg:cargo/xml-rs@0.8.4
 - pkg:cargo/xml-rs@0.8.5
