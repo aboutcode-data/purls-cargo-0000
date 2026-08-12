@@ -3,6 +3,10 @@
 - pkg:cargo/hydra-sdk@1.0.2
 - pkg:cargo/hydra-sdk@1.0.3
 - pkg:cargo/hydra-sdk@1.0.4
+- pkg:cargo/hydra-sdk@10.0.0
+- pkg:cargo/hydra-sdk@10.0.1
+- pkg:cargo/hydra-sdk@10.1.0
+- pkg:cargo/hydra-sdk@11.0.0
 - pkg:cargo/hydra-sdk@2.0.0
 - pkg:cargo/hydra-sdk@2.0.1
 - pkg:cargo/hydra-sdk@2.1.0
@@ -18,3 +22,5 @@
 - pkg:cargo/hydra-sdk@7.0.0
 - pkg:cargo/hydra-sdk@7.0.1
 - pkg:cargo/hydra-sdk@8.0.0
+- pkg:cargo/hydra-sdk@8.1.0
+- pkg:cargo/hydra-sdk@9.0.0
