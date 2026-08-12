@@ -1,1 +1,7 @@
 - pkg:cargo/bv-builder@0.1.18
+- pkg:cargo/bv-builder@0.1.30
+- pkg:cargo/bv-builder@0.1.36
+- pkg:cargo/bv-builder@0.1.37
+- pkg:cargo/bv-builder@0.1.38
+- pkg:cargo/bv-builder@0.1.39
+- pkg:cargo/bv-builder@0.1.40
