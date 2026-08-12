@@ -1,0 +1,5 @@
+- pkg:cargo/i8051-disassembler@0.20.0
+- pkg:cargo/i8051-disassembler@0.21.0
+- pkg:cargo/i8051-disassembler@0.22.0
+- pkg:cargo/i8051-disassembler@0.23.0
+- pkg:cargo/i8051-disassembler@0.24.0
