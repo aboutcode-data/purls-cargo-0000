@@ -24,4 +24,6 @@
 - pkg:cargo/usb-ids@1.2024.5
 - pkg:cargo/usb-ids@1.2025.1
 - pkg:cargo/usb-ids@1.2025.2
+- pkg:cargo/usb-ids@1.2026.6
+- pkg:cargo/usb-ids@1.2026.6-rc.1
 - pkg:cargo/usb-ids@2022.12.24
