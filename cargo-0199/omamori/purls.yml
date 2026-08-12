@@ -70,3 +70,7 @@
 - pkg:cargo/omamori@0.9.6
 - pkg:cargo/omamori@0.9.7
 - pkg:cargo/omamori@0.9.8
+- pkg:cargo/omamori@1.0.0
+- pkg:cargo/omamori@1.0.1
+- pkg:cargo/omamori@1.0.2
+- pkg:cargo/omamori@1.0.3
