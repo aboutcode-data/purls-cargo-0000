@@ -5,3 +5,6 @@
 - pkg:cargo/bevy_mod_gba@0.1.0-rc.4
 - pkg:cargo/bevy_mod_gba@0.1.0-rc.5
 - pkg:cargo/bevy_mod_gba@0.1.0-rc.6
+- pkg:cargo/bevy_mod_gba@0.1.1
+- pkg:cargo/bevy_mod_gba@0.2.0
+- pkg:cargo/bevy_mod_gba@0.3.0
