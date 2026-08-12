@@ -22,6 +22,7 @@
 - pkg:cargo/k256@0.13.2
 - pkg:cargo/k256@0.13.3
 - pkg:cargo/k256@0.13.4
+- pkg:cargo/k256@0.14.0
 - pkg:cargo/k256@0.14.0-pre.0
 - pkg:cargo/k256@0.14.0-pre.1
 - pkg:cargo/k256@0.14.0-pre.10
@@ -36,6 +37,12 @@
 - pkg:cargo/k256@0.14.0-pre.9
 - pkg:cargo/k256@0.14.0-rc.0
 - pkg:cargo/k256@0.14.0-rc.1
+- pkg:cargo/k256@0.14.0-rc.10
+- pkg:cargo/k256@0.14.0-rc.11
+- pkg:cargo/k256@0.14.0-rc.12
+- pkg:cargo/k256@0.14.0-rc.13
+- pkg:cargo/k256@0.14.0-rc.14
+- pkg:cargo/k256@0.14.0-rc.15
 - pkg:cargo/k256@0.14.0-rc.2
 - pkg:cargo/k256@0.14.0-rc.3
 - pkg:cargo/k256@0.14.0-rc.4
