@@ -35,6 +35,8 @@
 - pkg:cargo/yoa-strategy-management-sdk@0.40.0
 - pkg:cargo/yoa-strategy-management-sdk@0.41.0
 - pkg:cargo/yoa-strategy-management-sdk@0.42.0
+- pkg:cargo/yoa-strategy-management-sdk@0.43.0
+- pkg:cargo/yoa-strategy-management-sdk@0.44.0
 - pkg:cargo/yoa-strategy-management-sdk@0.8.4
 - pkg:cargo/yoa-strategy-management-sdk@0.8.5
 - pkg:cargo/yoa-strategy-management-sdk@0.8.6
