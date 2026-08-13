@@ -1,1 +1,6 @@
 - pkg:cargo/amqp-dds-endpoint@1.0.0-rc.1
+- pkg:cargo/amqp-dds-endpoint@1.0.0-rc.3
+- pkg:cargo/amqp-dds-endpoint@1.0.0-rc.3.1
+- pkg:cargo/amqp-dds-endpoint@1.0.0-rc.4
+- pkg:cargo/amqp-dds-endpoint@1.0.0-rc.5
+- pkg:cargo/amqp-dds-endpoint@1.0.0-rc.6
