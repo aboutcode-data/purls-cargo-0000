@@ -1,3 +1,6 @@
+- pkg:cargo/events-ledger@0.3.10
+- pkg:cargo/events-ledger@0.3.11
 - pkg:cargo/events-ledger@0.3.6
 - pkg:cargo/events-ledger@0.3.7
 - pkg:cargo/events-ledger@0.3.8
+- pkg:cargo/events-ledger@0.3.9
