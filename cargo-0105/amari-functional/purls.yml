@@ -9,3 +9,6 @@
 - pkg:cargo/amari-functional@0.20.0
 - pkg:cargo/amari-functional@0.21.0
 - pkg:cargo/amari-functional@0.22.0
+- pkg:cargo/amari-functional@0.23.0
+- pkg:cargo/amari-functional@0.24.0
+- pkg:cargo/amari-functional@0.24.1

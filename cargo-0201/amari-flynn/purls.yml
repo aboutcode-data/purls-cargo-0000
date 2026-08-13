@@ -18,3 +18,6 @@
 - pkg:cargo/amari-flynn@0.20.0
 - pkg:cargo/amari-flynn@0.21.0
 - pkg:cargo/amari-flynn@0.22.0
+- pkg:cargo/amari-flynn@0.23.0
+- pkg:cargo/amari-flynn@0.24.0
+- pkg:cargo/amari-flynn@0.24.1
