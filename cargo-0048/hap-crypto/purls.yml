@@ -1,2 +1,4 @@
 - pkg:cargo/hap-crypto@1.0.0
 - pkg:cargo/hap-crypto@1.1.0
+- pkg:cargo/hap-crypto@1.2.0
+- pkg:cargo/hap-crypto@1.4.0
