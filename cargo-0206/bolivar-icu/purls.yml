@@ -1,3 +1,4 @@
 - pkg:cargo/bolivar-icu@1.8.0
 - pkg:cargo/bolivar-icu@1.9.0
 - pkg:cargo/bolivar-icu@1.9.1
+- pkg:cargo/bolivar-icu@1.9.2
