@@ -7,3 +7,4 @@
 - pkg:cargo/lazydns@0.2.60
 - pkg:cargo/lazydns@0.2.63
 - pkg:cargo/lazydns@0.3.20
+- pkg:cargo/lazydns@0.3.22
