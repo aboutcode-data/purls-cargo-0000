@@ -35,3 +35,5 @@
 - pkg:cargo/bobcat-features@0.7.47
 - pkg:cargo/bobcat-features@0.7.48
 - pkg:cargo/bobcat-features@0.7.9
+- pkg:cargo/bobcat-features@0.8.1
+- pkg:cargo/bobcat-features@0.8.2
