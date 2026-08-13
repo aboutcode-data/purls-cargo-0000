@@ -19,3 +19,4 @@
 - pkg:cargo/hydracache-server@0.65.0
 - pkg:cargo/hydracache-server@0.66.0
 - pkg:cargo/hydracache-server@0.67.0
+- pkg:cargo/hydracache-server@0.68.0
