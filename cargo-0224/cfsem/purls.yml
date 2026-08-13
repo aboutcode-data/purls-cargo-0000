@@ -4,6 +4,7 @@
 - pkg:cargo/cfsem@11.0.0
 - pkg:cargo/cfsem@11.1.0
 - pkg:cargo/cfsem@11.2.0
+- pkg:cargo/cfsem@12.0.0
 - pkg:cargo/cfsem@2.0.0
 - pkg:cargo/cfsem@2.4.0
 - pkg:cargo/cfsem@2.4.1
