@@ -17,3 +17,4 @@
 - pkg:cargo/seatbelt@0.5.9
 - pkg:cargo/seatbelt@0.6.0
 - pkg:cargo/seatbelt@0.6.1
+- pkg:cargo/seatbelt@0.7.0
