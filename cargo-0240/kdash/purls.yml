@@ -44,3 +44,8 @@
 - pkg:cargo/kdash@1.1.0
 - pkg:cargo/kdash@1.1.1
 - pkg:cargo/kdash@1.1.2
+- pkg:cargo/kdash@2.0.0
+- pkg:cargo/kdash@2.0.1
+- pkg:cargo/kdash@2.0.2
+- pkg:cargo/kdash@2.1.0
+- pkg:cargo/kdash@2.1.1
