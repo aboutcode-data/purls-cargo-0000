@@ -40,3 +40,4 @@
 - pkg:cargo/zcash_voting@2.0.0-rc.5
 - pkg:cargo/zcash_voting@3.0.0-rc.1
 - pkg:cargo/zcash_voting@3.0.0-rc.2
+- pkg:cargo/zcash_voting@3.0.0-rc.3
