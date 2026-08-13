@@ -1,10 +1,14 @@
 - pkg:cargo/anda_db_hnsw@0.1.0
+- pkg:cargo/anda_db_hnsw@0.10.0
+- pkg:cargo/anda_db_hnsw@0.11.0
 - pkg:cargo/anda_db_hnsw@0.2.0
 - pkg:cargo/anda_db_hnsw@0.2.1
 - pkg:cargo/anda_db_hnsw@0.4.0
 - pkg:cargo/anda_db_hnsw@0.4.1
 - pkg:cargo/anda_db_hnsw@0.4.10
 - pkg:cargo/anda_db_hnsw@0.4.12
+- pkg:cargo/anda_db_hnsw@0.4.13
+- pkg:cargo/anda_db_hnsw@0.4.14
 - pkg:cargo/anda_db_hnsw@0.4.2
 - pkg:cargo/anda_db_hnsw@0.4.3
 - pkg:cargo/anda_db_hnsw@0.4.4
@@ -13,3 +17,7 @@
 - pkg:cargo/anda_db_hnsw@0.4.7
 - pkg:cargo/anda_db_hnsw@0.4.8
 - pkg:cargo/anda_db_hnsw@0.4.9
+- pkg:cargo/anda_db_hnsw@0.8.0
+- pkg:cargo/anda_db_hnsw@0.8.2
+- pkg:cargo/anda_db_hnsw@0.8.4
+- pkg:cargo/anda_db_hnsw@0.9.0
