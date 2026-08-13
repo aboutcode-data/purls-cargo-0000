@@ -135,3 +135,4 @@
 - pkg:cargo/sea-orm-cli@2.0.0-rc.8
 - pkg:cargo/sea-orm-cli@2.0.0-rc.9
 - pkg:cargo/sea-orm-cli@2.0.1
+- pkg:cargo/sea-orm-cli@2.0.2
