@@ -7,6 +7,7 @@
 - pkg:cargo/hydra-sdk@10.0.1
 - pkg:cargo/hydra-sdk@10.1.0
 - pkg:cargo/hydra-sdk@11.0.0
+- pkg:cargo/hydra-sdk@11.1.0
 - pkg:cargo/hydra-sdk@2.0.0
 - pkg:cargo/hydra-sdk@2.0.1
 - pkg:cargo/hydra-sdk@2.1.0
