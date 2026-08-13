@@ -47,3 +47,4 @@
 - pkg:cargo/openh264@0.9.3
 - pkg:cargo/openh264@0.9.5
 - pkg:cargo/openh264@0.9.7
+- pkg:cargo/openh264@0.9.8
