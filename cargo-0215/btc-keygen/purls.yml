@@ -1,3 +1,6 @@
 - pkg:cargo/btc-keygen@0.0.3
 - pkg:cargo/btc-keygen@0.0.4
 - pkg:cargo/btc-keygen@0.0.5
+- pkg:cargo/btc-keygen@0.1.0
+- pkg:cargo/btc-keygen@0.2.0
+- pkg:cargo/btc-keygen@0.3.0
