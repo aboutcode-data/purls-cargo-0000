@@ -22,6 +22,10 @@
 - pkg:cargo/sekejap@0.15.0
 - pkg:cargo/sekejap@0.16.0
 - pkg:cargo/sekejap@0.16.1
+- pkg:cargo/sekejap@0.16.2
+- pkg:cargo/sekejap@0.16.3
+- pkg:cargo/sekejap@0.16.4
+- pkg:cargo/sekejap@0.16.5
 - pkg:cargo/sekejap@0.2.0
 - pkg:cargo/sekejap@0.2.4
 - pkg:cargo/sekejap@0.3.0
