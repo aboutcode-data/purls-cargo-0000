@@ -8,3 +8,5 @@
 - pkg:cargo/mcproto@0.1.4-beta.1
 - pkg:cargo/mcproto@0.2.0
 - pkg:cargo/mcproto@0.2.1
+- pkg:cargo/mcproto@0.3.0
+- pkg:cargo/mcproto@0.4.0
