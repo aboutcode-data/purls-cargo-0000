@@ -4,3 +4,5 @@
 - pkg:cargo/lxmf-runtime@0.9.5
 - pkg:cargo/lxmf-runtime@0.9.6
 - pkg:cargo/lxmf-runtime@0.9.7
+- pkg:cargo/lxmf-runtime@0.9.8
+- pkg:cargo/lxmf-runtime@0.9.9
