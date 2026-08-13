@@ -113,3 +113,4 @@
 - pkg:cargo/harper-ls@2.0.0
 - pkg:cargo/harper-ls@2.4.0
 - pkg:cargo/harper-ls@2.5.0
+- pkg:cargo/harper-ls@2.7.0
