@@ -224,3 +224,4 @@
 - pkg:cargo/sentry-kafka-schemas@2.1.8
 - pkg:cargo/sentry-kafka-schemas@2.1.9
 - pkg:cargo/sentry-kafka-schemas@2.2.0
+- pkg:cargo/sentry-kafka-schemas@2.2.1
