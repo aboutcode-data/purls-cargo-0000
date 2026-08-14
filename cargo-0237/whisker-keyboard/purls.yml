@@ -12,6 +12,7 @@
 - pkg:cargo/whisker-keyboard@0.10.9
 - pkg:cargo/whisker-keyboard@0.11.0
 - pkg:cargo/whisker-keyboard@0.11.1
+- pkg:cargo/whisker-keyboard@0.11.2
 - pkg:cargo/whisker-keyboard@0.8.1
 - pkg:cargo/whisker-keyboard@0.8.2
 - pkg:cargo/whisker-keyboard@0.9.0
