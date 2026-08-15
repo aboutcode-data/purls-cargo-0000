@@ -26,6 +26,8 @@
 - pkg:cargo/zmij@1.0.2
 - pkg:cargo/zmij@1.0.20
 - pkg:cargo/zmij@1.0.21
+- pkg:cargo/zmij@1.0.22
+- pkg:cargo/zmij@1.0.23
 - pkg:cargo/zmij@1.0.3
 - pkg:cargo/zmij@1.0.4
 - pkg:cargo/zmij@1.0.5
