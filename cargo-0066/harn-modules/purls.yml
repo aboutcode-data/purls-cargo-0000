@@ -94,6 +94,8 @@
 - pkg:cargo/harn-modules@0.10.94
 - pkg:cargo/harn-modules@0.10.95
 - pkg:cargo/harn-modules@0.10.96
+- pkg:cargo/harn-modules@0.10.97
+- pkg:cargo/harn-modules@0.10.98
 - pkg:cargo/harn-modules@0.7.12
 - pkg:cargo/harn-modules@0.7.13
 - pkg:cargo/harn-modules@0.7.15

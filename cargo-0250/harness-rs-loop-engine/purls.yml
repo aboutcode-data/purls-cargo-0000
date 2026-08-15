@@ -27,3 +27,5 @@
 - pkg:cargo/harness-rs-loop-engine@0.0.41
 - pkg:cargo/harness-rs-loop-engine@0.0.42
 - pkg:cargo/harness-rs-loop-engine@0.0.43
+- pkg:cargo/harness-rs-loop-engine@0.0.44
+- pkg:cargo/harness-rs-loop-engine@0.0.45

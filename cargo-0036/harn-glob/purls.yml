@@ -94,6 +94,8 @@
 - pkg:cargo/harn-glob@0.10.94
 - pkg:cargo/harn-glob@0.10.95
 - pkg:cargo/harn-glob@0.10.96
+- pkg:cargo/harn-glob@0.10.97
+- pkg:cargo/harn-glob@0.10.98
 - pkg:cargo/harn-glob@0.8.105
 - pkg:cargo/harn-glob@0.8.106
 - pkg:cargo/harn-glob@0.8.107

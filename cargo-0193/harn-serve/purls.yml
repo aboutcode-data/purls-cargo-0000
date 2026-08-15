@@ -94,6 +94,8 @@
 - pkg:cargo/harn-serve@0.10.94
 - pkg:cargo/harn-serve@0.10.95
 - pkg:cargo/harn-serve@0.10.96
+- pkg:cargo/harn-serve@0.10.97
+- pkg:cargo/harn-serve@0.10.98
 - pkg:cargo/harn-serve@0.7.23
 - pkg:cargo/harn-serve@0.7.24
 - pkg:cargo/harn-serve@0.7.25
