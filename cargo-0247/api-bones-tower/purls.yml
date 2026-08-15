@@ -1,3 +1,4 @@
 - pkg:cargo/api-bones-tower@2.0.3
 - pkg:cargo/api-bones-tower@4.4.0
 - pkg:cargo/api-bones-tower@4.5.0
+- pkg:cargo/api-bones-tower@4.5.1
