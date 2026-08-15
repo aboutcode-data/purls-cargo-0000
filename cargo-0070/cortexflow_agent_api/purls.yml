@@ -2,3 +2,4 @@
 - pkg:cargo/cortexflow_agent_api@0.1.1
 - pkg:cargo/cortexflow_agent_api@0.1.1-beta.0
 - pkg:cargo/cortexflow_agent_api@0.1.1-beta.1
+- pkg:cargo/cortexflow_agent_api@0.1.2
