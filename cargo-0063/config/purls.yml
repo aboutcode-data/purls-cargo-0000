@@ -31,6 +31,8 @@
 - pkg:cargo/config@0.15.21
 - pkg:cargo/config@0.15.22
 - pkg:cargo/config@0.15.23
+- pkg:cargo/config@0.15.24
+- pkg:cargo/config@0.15.25
 - pkg:cargo/config@0.15.3
 - pkg:cargo/config@0.15.4
 - pkg:cargo/config@0.15.5
