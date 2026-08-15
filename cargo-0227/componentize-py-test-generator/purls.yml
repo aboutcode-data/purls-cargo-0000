@@ -1,1 +1,2 @@
 - pkg:cargo/componentize-py-test-generator@0.24.0
+- pkg:cargo/componentize-py-test-generator@0.25.0
