@@ -1,2 +1,12 @@
 - pkg:cargo/code-ranker-viewer@1.0.0
 - pkg:cargo/code-ranker-viewer@1.0.0-alpha.5
+- pkg:cargo/code-ranker-viewer@1.1.0
+- pkg:cargo/code-ranker-viewer@2.0.0
+- pkg:cargo/code-ranker-viewer@3.0.0
+- pkg:cargo/code-ranker-viewer@3.0.0-alpha.1
+- pkg:cargo/code-ranker-viewer@3.0.1
+- pkg:cargo/code-ranker-viewer@3.0.2
+- pkg:cargo/code-ranker-viewer@4.0.0
+- pkg:cargo/code-ranker-viewer@5.0.0
+- pkg:cargo/code-ranker-viewer@5.0.3
+- pkg:cargo/code-ranker-viewer@5.0.4
