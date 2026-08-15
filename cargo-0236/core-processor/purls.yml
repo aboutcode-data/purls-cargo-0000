@@ -31,3 +31,4 @@
 - pkg:cargo/core-processor@1.9.0
 - pkg:cargo/core-processor@1.9.1
 - pkg:cargo/core-processor@1.9.2
+- pkg:cargo/core-processor@2.0.0
