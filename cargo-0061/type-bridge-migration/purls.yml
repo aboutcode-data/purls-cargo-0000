@@ -1,3 +1,4 @@
 - pkg:cargo/type-bridge-migration@1.5.10
 - pkg:cargo/type-bridge-migration@1.5.11
 - pkg:cargo/type-bridge-migration@1.5.9
+- pkg:cargo/type-bridge-migration@2.0.1
