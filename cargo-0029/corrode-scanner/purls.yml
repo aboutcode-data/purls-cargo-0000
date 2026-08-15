@@ -5,3 +5,6 @@
 - pkg:cargo/corrode-scanner@0.3.2
 - pkg:cargo/corrode-scanner@0.3.3
 - pkg:cargo/corrode-scanner@0.3.4
+- pkg:cargo/corrode-scanner@0.4.0
+- pkg:cargo/corrode-scanner@0.5.0
+- pkg:cargo/corrode-scanner@0.5.1
