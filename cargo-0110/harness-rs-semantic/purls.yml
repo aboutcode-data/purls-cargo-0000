@@ -1,2 +1,3 @@
 - pkg:cargo/harness-rs-semantic@0.0.38
 - pkg:cargo/harness-rs-semantic@0.0.39
+- pkg:cargo/harness-rs-semantic@0.1.0
