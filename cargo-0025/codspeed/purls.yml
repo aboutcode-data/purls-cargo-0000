@@ -48,3 +48,5 @@
 - pkg:cargo/codspeed@4.5.0
 - pkg:cargo/codspeed@4.6.0
 - pkg:cargo/codspeed@4.7.0
+- pkg:cargo/codspeed@5.0.0
+- pkg:cargo/codspeed@5.0.1
