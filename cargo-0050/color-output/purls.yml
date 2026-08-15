@@ -1,7 +1,14 @@
 - pkg:cargo/color-output@10.0.0
 - pkg:cargo/color-output@10.0.1
+- pkg:cargo/color-output@10.0.10
 - pkg:cargo/color-output@10.0.2
 - pkg:cargo/color-output@10.0.3
+- pkg:cargo/color-output@10.0.4
+- pkg:cargo/color-output@10.0.5
+- pkg:cargo/color-output@10.0.6
+- pkg:cargo/color-output@10.0.7
+- pkg:cargo/color-output@10.0.8
+- pkg:cargo/color-output@10.0.9
 - pkg:cargo/color-output@3.0.0
 - pkg:cargo/color-output@3.0.1
 - pkg:cargo/color-output@4.0.0
