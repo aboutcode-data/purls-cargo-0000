@@ -17,6 +17,7 @@
 - pkg:cargo/openraft-memstore@0.10.0-alpha.31
 - pkg:cargo/openraft-memstore@0.10.0-alpha.32
 - pkg:cargo/openraft-memstore@0.10.0-alpha.33
+- pkg:cargo/openraft-memstore@0.10.0-alpha.34
 - pkg:cargo/openraft-memstore@0.6.6
 - pkg:cargo/openraft-memstore@0.6.8
 - pkg:cargo/openraft-memstore@0.6.9
