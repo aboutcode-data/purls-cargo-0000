@@ -1,2 +1,4 @@
 - pkg:cargo/dope-test@0.13.0
 - pkg:cargo/dope-test@0.14.0
+- pkg:cargo/dope-test@0.15.0
+- pkg:cargo/dope-test@0.15.1
