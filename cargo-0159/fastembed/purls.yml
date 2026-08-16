@@ -102,3 +102,4 @@
 - pkg:cargo/fastembed@5.8.0
 - pkg:cargo/fastembed@5.8.1
 - pkg:cargo/fastembed@5.9.0
+- pkg:cargo/fastembed@6.0.0
