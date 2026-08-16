@@ -2,3 +2,5 @@
 - pkg:cargo/openlogi-camera@0.6.25
 - pkg:cargo/openlogi-camera@0.6.26
 - pkg:cargo/openlogi-camera@0.6.27
+- pkg:cargo/openlogi-camera@0.7.0
+- pkg:cargo/openlogi-camera@0.7.1
