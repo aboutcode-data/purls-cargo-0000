@@ -1,3 +1,5 @@
 - pkg:cargo/openplanet-lsp@0.2.8
 - pkg:cargo/openplanet-lsp@0.3.3
 - pkg:cargo/openplanet-lsp@0.3.4
+- pkg:cargo/openplanet-lsp@0.4.0
+- pkg:cargo/openplanet-lsp@0.4.1
