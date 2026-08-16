@@ -66,6 +66,7 @@
 - pkg:cargo/rport@0.2.64
 - pkg:cargo/rport@0.2.65
 - pkg:cargo/rport@0.2.66
+- pkg:cargo/rport@0.2.67
 - pkg:cargo/rport@0.2.7
 - pkg:cargo/rport@0.2.8
 - pkg:cargo/rport@0.2.9
