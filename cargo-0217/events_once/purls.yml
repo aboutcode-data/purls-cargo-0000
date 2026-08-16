@@ -25,6 +25,7 @@
 - pkg:cargo/events_once@0.5.30
 - pkg:cargo/events_once@0.5.31
 - pkg:cargo/events_once@0.5.32
+- pkg:cargo/events_once@0.5.33
 - pkg:cargo/events_once@0.5.4
 - pkg:cargo/events_once@0.5.5
 - pkg:cargo/events_once@0.5.6
