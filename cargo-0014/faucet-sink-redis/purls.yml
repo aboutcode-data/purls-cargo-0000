@@ -9,3 +9,4 @@
 - pkg:cargo/faucet-sink-redis@1.2.3
 - pkg:cargo/faucet-sink-redis@1.2.4
 - pkg:cargo/faucet-sink-redis@1.2.5
+- pkg:cargo/faucet-sink-redis@1.3.0
