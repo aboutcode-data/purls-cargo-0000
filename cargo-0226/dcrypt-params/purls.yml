@@ -25,3 +25,4 @@
 - pkg:cargo/dcrypt-params@2.0.0
 - pkg:cargo/dcrypt-params@3.0.0
 - pkg:cargo/dcrypt-params@4.0.0
+- pkg:cargo/dcrypt-params@4.0.1
