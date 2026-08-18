@@ -9,7 +9,10 @@
 - pkg:cargo/fdars-core@0.15.0
 - pkg:cargo/fdars-core@0.16.0
 - pkg:cargo/fdars-core@0.17.0
+- pkg:cargo/fdars-core@0.19.0
 - pkg:cargo/fdars-core@0.2.0
+- pkg:cargo/fdars-core@0.20.0
+- pkg:cargo/fdars-core@0.21.0
 - pkg:cargo/fdars-core@0.3.0
 - pkg:cargo/fdars-core@0.3.1
 - pkg:cargo/fdars-core@0.3.2
