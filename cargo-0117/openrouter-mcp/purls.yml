@@ -8,3 +8,4 @@
 - pkg:cargo/openrouter-mcp@0.2.15
 - pkg:cargo/openrouter-mcp@0.2.17
 - pkg:cargo/openrouter-mcp@0.3.0
+- pkg:cargo/openrouter-mcp@0.4.3
