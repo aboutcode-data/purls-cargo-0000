@@ -1,1 +1,3 @@
 - pkg:cargo/kael_gpu_budget@0.2.0
+- pkg:cargo/kael_gpu_budget@0.3.0
+- pkg:cargo/kael_gpu_budget@0.3.1
