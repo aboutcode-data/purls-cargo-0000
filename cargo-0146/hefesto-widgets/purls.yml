@@ -12,3 +12,6 @@
 - pkg:cargo/hefesto-widgets@0.6.7
 - pkg:cargo/hefesto-widgets@0.6.8
 - pkg:cargo/hefesto-widgets@0.7.0
+- pkg:cargo/hefesto-widgets@0.7.1
+- pkg:cargo/hefesto-widgets@0.7.2
+- pkg:cargo/hefesto-widgets@0.7.3
