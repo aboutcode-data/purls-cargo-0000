@@ -7,3 +7,4 @@
 - pkg:cargo/picoalloc@5.0.0
 - pkg:cargo/picoalloc@5.1.0
 - pkg:cargo/picoalloc@5.2.0
+- pkg:cargo/picoalloc@5.2.1
