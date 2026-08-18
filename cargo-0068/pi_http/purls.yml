@@ -24,3 +24,7 @@
 - pkg:cargo/pi_http@0.3.9
 - pkg:cargo/pi_http@0.5.0
 - pkg:cargo/pi_http@0.6.0
+- pkg:cargo/pi_http@0.6.1
+- pkg:cargo/pi_http@0.6.2
+- pkg:cargo/pi_http@0.6.3
+- pkg:cargo/pi_http@0.7.0
