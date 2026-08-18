@@ -34,6 +34,9 @@
 - pkg:cargo/unleash-types@0.15.7
 - pkg:cargo/unleash-types@0.15.8
 - pkg:cargo/unleash-types@0.15.9
+- pkg:cargo/unleash-types@0.16.0
+- pkg:cargo/unleash-types@0.16.1
+- pkg:cargo/unleash-types@0.16.2
 - pkg:cargo/unleash-types@0.2.0
 - pkg:cargo/unleash-types@0.2.1
 - pkg:cargo/unleash-types@0.3.0
