@@ -1,1 +1,3 @@
 - pkg:cargo/pileup-hi@0.9.2
+- pkg:cargo/pileup-hi@0.9.3
+- pkg:cargo/pileup-hi@0.9.5
