@@ -1,5 +1,10 @@
 - pkg:cargo/ncmmiao@2.10.22
 - pkg:cargo/ncmmiao@2.10.23
+- pkg:cargo/ncmmiao@2.11.25
+- pkg:cargo/ncmmiao@2.12.25
+- pkg:cargo/ncmmiao@2.13.25
+- pkg:cargo/ncmmiao@2.13.27
+- pkg:cargo/ncmmiao@2.14.0
 - pkg:cargo/ncmmiao@2.3.7
 - pkg:cargo/ncmmiao@2.3.8
 - pkg:cargo/ncmmiao@2.5.11
