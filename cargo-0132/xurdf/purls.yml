@@ -4,3 +4,9 @@
 - pkg:cargo/xurdf@0.2.3
 - pkg:cargo/xurdf@0.2.5
 - pkg:cargo/xurdf@0.2.6
+- pkg:cargo/xurdf@0.3.0
+- pkg:cargo/xurdf@0.5.3
+- pkg:cargo/xurdf@0.5.4
+- pkg:cargo/xurdf@0.6.0
+- pkg:cargo/xurdf@0.6.1
+- pkg:cargo/xurdf@0.6.2

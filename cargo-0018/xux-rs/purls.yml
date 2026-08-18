@@ -49,7 +49,11 @@
 - pkg:cargo/xux-rs@0.1.53
 - pkg:cargo/xux-rs@0.1.54
 - pkg:cargo/xux-rs@0.1.55
+- pkg:cargo/xux-rs@0.1.56
+- pkg:cargo/xux-rs@0.1.57
+- pkg:cargo/xux-rs@0.1.58
 - pkg:cargo/xux-rs@0.1.6
 - pkg:cargo/xux-rs@0.1.7
 - pkg:cargo/xux-rs@0.1.8
 - pkg:cargo/xux-rs@0.1.9
+- pkg:cargo/xux-rs@0.2.1
