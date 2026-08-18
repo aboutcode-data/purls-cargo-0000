@@ -6,3 +6,6 @@
 - pkg:cargo/nmdbus@1.31.90
 - pkg:cargo/nmdbus@1.33.90
 - pkg:cargo/nmdbus@1.37.3
+- pkg:cargo/nmdbus@1.42.8
+- pkg:cargo/nmdbus@1.46.2
+- pkg:cargo/nmdbus@1.50.0
