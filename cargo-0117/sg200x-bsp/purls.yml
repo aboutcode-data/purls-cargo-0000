@@ -7,3 +7,6 @@
 - pkg:cargo/sg200x-bsp@0.5.2
 - pkg:cargo/sg200x-bsp@0.5.3
 - pkg:cargo/sg200x-bsp@0.5.4
+- pkg:cargo/sg200x-bsp@0.6.0
+- pkg:cargo/sg200x-bsp@0.7.0
+- pkg:cargo/sg200x-bsp@0.7.1
