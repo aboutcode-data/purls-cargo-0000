@@ -12,3 +12,4 @@
 - pkg:cargo/type_reflect@0.6.2
 - pkg:cargo/type_reflect@0.7.0
 - pkg:cargo/type_reflect@0.8.0
+- pkg:cargo/type_reflect@0.9.0
