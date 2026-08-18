@@ -21,3 +21,4 @@
 - pkg:cargo/apl-token@0.6.7
 - pkg:cargo/apl-token@0.6.8
 - pkg:cargo/apl-token@0.7.0
+- pkg:cargo/apl-token@0.8.0
