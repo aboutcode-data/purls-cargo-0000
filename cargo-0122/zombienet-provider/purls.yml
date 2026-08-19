@@ -54,6 +54,7 @@
 - pkg:cargo/zombienet-provider@0.4.13
 - pkg:cargo/zombienet-provider@0.4.14
 - pkg:cargo/zombienet-provider@0.4.15
+- pkg:cargo/zombienet-provider@0.4.16
 - pkg:cargo/zombienet-provider@0.4.2
 - pkg:cargo/zombienet-provider@0.4.3
 - pkg:cargo/zombienet-provider@0.4.4
