@@ -43,3 +43,4 @@
 - pkg:cargo/apollo-composition@0.5.5-rc.0
 - pkg:cargo/apollo-composition@0.5.5-rc.1
 - pkg:cargo/apollo-composition@0.5.6
+- pkg:cargo/apollo-composition@0.5.7
