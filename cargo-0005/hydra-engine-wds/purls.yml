@@ -10,6 +10,7 @@
 - pkg:cargo/hydra-engine-wds@11.1.0
 - pkg:cargo/hydra-engine-wds@12.0.0
 - pkg:cargo/hydra-engine-wds@12.1.0
+- pkg:cargo/hydra-engine-wds@13.0.0
 - pkg:cargo/hydra-engine-wds@2.0.0
 - pkg:cargo/hydra-engine-wds@2.0.1
 - pkg:cargo/hydra-engine-wds@2.1.0
