@@ -11,3 +11,4 @@
 - pkg:cargo/updatehub-package-schema@2.1.4
 - pkg:cargo/updatehub-package-schema@2.1.5
 - pkg:cargo/updatehub-package-schema@2.1.6
+- pkg:cargo/updatehub-package-schema@2.2.0
