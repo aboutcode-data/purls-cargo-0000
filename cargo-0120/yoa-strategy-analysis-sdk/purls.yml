@@ -32,6 +32,9 @@
 - pkg:cargo/yoa-strategy-analysis-sdk@25.1.0
 - pkg:cargo/yoa-strategy-analysis-sdk@25.2.0
 - pkg:cargo/yoa-strategy-analysis-sdk@25.3.0
+- pkg:cargo/yoa-strategy-analysis-sdk@25.4.0
+- pkg:cargo/yoa-strategy-analysis-sdk@25.5.0
+- pkg:cargo/yoa-strategy-analysis-sdk@25.6.0
 - pkg:cargo/yoa-strategy-analysis-sdk@3.3.3
 - pkg:cargo/yoa-strategy-analysis-sdk@3.3.4
 - pkg:cargo/yoa-strategy-analysis-sdk@3.4.0
