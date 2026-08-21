@@ -12,6 +12,7 @@
 - pkg:cargo/fflonk@0.32.0
 - pkg:cargo/fflonk@0.32.1
 - pkg:cargo/fflonk@0.32.10
+- pkg:cargo/fflonk@0.32.11
 - pkg:cargo/fflonk@0.32.2
 - pkg:cargo/fflonk@0.32.3
 - pkg:cargo/fflonk@0.32.4
