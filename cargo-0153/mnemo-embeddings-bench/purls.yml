@@ -1,1 +1,2 @@
 - pkg:cargo/mnemo-embeddings-bench@0.5.23
+- pkg:cargo/mnemo-embeddings-bench@0.5.25
