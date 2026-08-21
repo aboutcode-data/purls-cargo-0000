@@ -26,3 +26,6 @@
 - pkg:cargo/w-gui@0.22.31
 - pkg:cargo/w-gui@0.22.40
 - pkg:cargo/w-gui@0.22.41
+- pkg:cargo/w-gui@0.23.0
+- pkg:cargo/w-gui@0.23.1
+- pkg:cargo/w-gui@0.23.2
