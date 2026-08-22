@@ -1,1 +1,2 @@
 - pkg:cargo/sedona-libgpuspatial@0.4.0
+- pkg:cargo/sedona-libgpuspatial@0.4.1
