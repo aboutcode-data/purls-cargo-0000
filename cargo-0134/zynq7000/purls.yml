@@ -3,3 +3,4 @@
 - pkg:cargo/zynq7000@0.2.0
 - pkg:cargo/zynq7000@0.3.0
 - pkg:cargo/zynq7000@0.4.0
+- pkg:cargo/zynq7000@0.5.0
