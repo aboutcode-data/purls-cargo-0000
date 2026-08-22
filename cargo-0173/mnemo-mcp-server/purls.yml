@@ -7,3 +7,4 @@
 - pkg:cargo/mnemo-mcp-server@0.4.4
 - pkg:cargo/mnemo-mcp-server@0.5.23
 - pkg:cargo/mnemo-mcp-server@0.5.25
+- pkg:cargo/mnemo-mcp-server@0.5.26
