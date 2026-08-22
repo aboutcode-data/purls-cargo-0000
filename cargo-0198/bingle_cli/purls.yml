@@ -1,3 +1,4 @@
 - pkg:cargo/bingle_cli@0.2.8
 - pkg:cargo/bingle_cli@0.2.9
 - pkg:cargo/bingle_cli@0.3.0
+- pkg:cargo/bingle_cli@0.3.1
