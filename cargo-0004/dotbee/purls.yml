@@ -5,3 +5,5 @@
 - pkg:cargo/dotbee@0.6.2
 - pkg:cargo/dotbee@0.6.3
 - pkg:cargo/dotbee@0.7.0
+- pkg:cargo/dotbee@0.8.0
+- pkg:cargo/dotbee@0.9.0
