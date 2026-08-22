@@ -16,3 +16,4 @@
 - pkg:cargo/expr-lang@1.1.0
 - pkg:cargo/expr-lang@1.1.1
 - pkg:cargo/expr-lang@2.0.0
+- pkg:cargo/expr-lang@2.1.0
