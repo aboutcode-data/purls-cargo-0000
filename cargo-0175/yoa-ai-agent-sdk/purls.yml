@@ -44,6 +44,7 @@
 - pkg:cargo/yoa-ai-agent-sdk@33.2.0
 - pkg:cargo/yoa-ai-agent-sdk@34.0.0
 - pkg:cargo/yoa-ai-agent-sdk@35.0.0
+- pkg:cargo/yoa-ai-agent-sdk@36.0.0
 - pkg:cargo/yoa-ai-agent-sdk@6.2.1
 - pkg:cargo/yoa-ai-agent-sdk@6.2.2
 - pkg:cargo/yoa-ai-agent-sdk@6.2.3
