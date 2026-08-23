@@ -21,6 +21,7 @@
 - pkg:cargo/sem-core@0.22.0
 - pkg:cargo/sem-core@0.22.1
 - pkg:cargo/sem-core@0.23.0
+- pkg:cargo/sem-core@0.23.1
 - pkg:cargo/sem-core@0.3.10
 - pkg:cargo/sem-core@0.3.11
 - pkg:cargo/sem-core@0.3.12
