@@ -22,6 +22,7 @@
 - pkg:cargo/nu-cmd-base@0.114.0
 - pkg:cargo/nu-cmd-base@0.114.1
 - pkg:cargo/nu-cmd-base@0.115.0
+- pkg:cargo/nu-cmd-base@0.115.1
 - pkg:cargo/nu-cmd-base@0.82.0
 - pkg:cargo/nu-cmd-base@0.83.0
 - pkg:cargo/nu-cmd-base@0.83.1
