@@ -1,0 +1,2 @@
+- pkg:cargo/uniffi-runtime-wasm@0.31.0-4
+- pkg:cargo/uniffi-runtime-wasm@0.31.0-5
