@@ -10,3 +10,4 @@
 - pkg:cargo/faucet-state-postgres@1.2.3
 - pkg:cargo/faucet-state-postgres@1.2.4
 - pkg:cargo/faucet-state-postgres@1.2.5
+- pkg:cargo/faucet-state-postgres@1.2.6
