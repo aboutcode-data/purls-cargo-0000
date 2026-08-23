@@ -11,3 +11,4 @@
 - pkg:cargo/forensic-vfs@0.7.0
 - pkg:cargo/forensic-vfs@0.7.1
 - pkg:cargo/forensic-vfs@0.7.2
+- pkg:cargo/forensic-vfs@0.8.0
