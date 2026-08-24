@@ -1,1 +1,2 @@
 - pkg:cargo/knx-semantic@0.0.7
+- pkg:cargo/knx-semantic@0.0.8
