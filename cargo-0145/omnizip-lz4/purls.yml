@@ -119,6 +119,8 @@
 - pkg:cargo/omnizip-lz4@0.16.89
 - pkg:cargo/omnizip-lz4@0.16.9
 - pkg:cargo/omnizip-lz4@0.16.90
+- pkg:cargo/omnizip-lz4@0.16.91
+- pkg:cargo/omnizip-lz4@0.16.92
 - pkg:cargo/omnizip-lz4@0.2.0
 - pkg:cargo/omnizip-lz4@0.3.0
 - pkg:cargo/omnizip-lz4@0.4.0
