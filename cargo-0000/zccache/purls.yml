@@ -37,4 +37,6 @@
 - pkg:cargo/zccache@1.13.1
 - pkg:cargo/zccache@1.13.5
 - pkg:cargo/zccache@1.13.6
+- pkg:cargo/zccache@1.13.7
+- pkg:cargo/zccache@1.13.8
 - pkg:cargo/zccache@1.9.1
