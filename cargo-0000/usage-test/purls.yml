@@ -2,3 +2,5 @@
 - pkg:cargo/usage-test@6.0.0
 - pkg:cargo/usage-test@6.1.0
 - pkg:cargo/usage-test@6.1.1
+- pkg:cargo/usage-test@6.2.0
+- pkg:cargo/usage-test@6.3.0
