@@ -1,4 +1,5 @@
 - pkg:cargo/xaes-256-gcm@0.0.1-pre.0
+- pkg:cargo/xaes-256-gcm@0.1.0
 - pkg:cargo/xaes-256-gcm@0.1.0-rc.1
 - pkg:cargo/xaes-256-gcm@0.1.0-rc.2
 - pkg:cargo/xaes-256-gcm@0.1.0-rc.3
