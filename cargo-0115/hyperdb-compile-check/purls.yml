@@ -10,3 +10,4 @@
 - pkg:cargo/hyperdb-compile-check@0.6.1
 - pkg:cargo/hyperdb-compile-check@0.7.0
 - pkg:cargo/hyperdb-compile-check@0.7.1
+- pkg:cargo/hyperdb-compile-check@0.7.2
