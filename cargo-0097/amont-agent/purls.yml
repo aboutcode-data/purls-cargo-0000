@@ -3,3 +3,5 @@
 - pkg:cargo/amont-agent@1.18.0
 - pkg:cargo/amont-agent@1.18.1
 - pkg:cargo/amont-agent@1.18.2
+- pkg:cargo/amont-agent@2.0.0
+- pkg:cargo/amont-agent@2.0.1
