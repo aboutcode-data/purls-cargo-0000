@@ -9,6 +9,7 @@
 - pkg:cargo/hydra-engines@13.0.1
 - pkg:cargo/hydra-engines@13.1.0
 - pkg:cargo/hydra-engines@14.0.0
+- pkg:cargo/hydra-engines@15.0.0
 - pkg:cargo/hydra-engines@5.1.0
 - pkg:cargo/hydra-engines@6.0.0
 - pkg:cargo/hydra-engines@7.0.0
