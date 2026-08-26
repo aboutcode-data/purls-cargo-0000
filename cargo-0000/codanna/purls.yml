@@ -7,6 +7,7 @@
 - pkg:cargo/codanna@0.13.1
 - pkg:cargo/codanna@0.13.2
 - pkg:cargo/codanna@0.13.3
+- pkg:cargo/codanna@0.14.0
 - pkg:cargo/codanna@0.2.0
 - pkg:cargo/codanna@0.3.0
 - pkg:cargo/codanna@0.4.0
