@@ -7,3 +7,6 @@
 - pkg:cargo/codebase-graph@1.4.5
 - pkg:cargo/codebase-graph@1.4.6
 - pkg:cargo/codebase-graph@1.5.1
+- pkg:cargo/codebase-graph@1.5.2
+- pkg:cargo/codebase-graph@1.6.0
+- pkg:cargo/codebase-graph@1.7.0
