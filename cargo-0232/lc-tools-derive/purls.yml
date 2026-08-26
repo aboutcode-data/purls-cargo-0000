@@ -3,3 +3,5 @@
 - pkg:cargo/lc-tools-derive@0.13.0
 - pkg:cargo/lc-tools-derive@0.14.0
 - pkg:cargo/lc-tools-derive@0.15.0
+- pkg:cargo/lc-tools-derive@0.16.0
+- pkg:cargo/lc-tools-derive@0.17.0
