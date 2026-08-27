@@ -275,6 +275,9 @@
 - pkg:cargo/bestool@1.60.1
 - pkg:cargo/bestool@1.60.2
 - pkg:cargo/bestool@1.60.3
+- pkg:cargo/bestool@1.60.4
+- pkg:cargo/bestool@1.60.5
+- pkg:cargo/bestool@1.60.6
 - pkg:cargo/bestool@1.7.0
 - pkg:cargo/bestool@1.7.1
 - pkg:cargo/bestool@1.8.0
