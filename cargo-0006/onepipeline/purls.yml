@@ -29,6 +29,8 @@
 - pkg:cargo/onepipeline@0.15.0
 - pkg:cargo/onepipeline@0.15.1
 - pkg:cargo/onepipeline@0.15.2
+- pkg:cargo/onepipeline@0.16.1
+- pkg:cargo/onepipeline@0.16.2
 - pkg:cargo/onepipeline@0.2.0
 - pkg:cargo/onepipeline@0.3.0
 - pkg:cargo/onepipeline@0.3.1
