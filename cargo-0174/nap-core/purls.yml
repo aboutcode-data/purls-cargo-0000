@@ -21,6 +21,9 @@
 - pkg:cargo/nap-core@0.5.13
 - pkg:cargo/nap-core@0.5.14
 - pkg:cargo/nap-core@0.5.15
+- pkg:cargo/nap-core@0.5.16
+- pkg:cargo/nap-core@0.5.17
+- pkg:cargo/nap-core@0.5.18
 - pkg:cargo/nap-core@0.5.2
 - pkg:cargo/nap-core@0.5.3
 - pkg:cargo/nap-core@0.5.4
