@@ -90,3 +90,4 @@
 - pkg:cargo/seer-core@0.44.2
 - pkg:cargo/seer-core@0.45.0
 - pkg:cargo/seer-core@0.46.0
+- pkg:cargo/seer-core@0.47.0
