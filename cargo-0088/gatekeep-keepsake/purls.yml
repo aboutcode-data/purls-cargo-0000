@@ -4,3 +4,5 @@
 - pkg:cargo/gatekeep-keepsake@0.4.0
 - pkg:cargo/gatekeep-keepsake@1.0.0
 - pkg:cargo/gatekeep-keepsake@1.0.1
+- pkg:cargo/gatekeep-keepsake@1.1.0
+- pkg:cargo/gatekeep-keepsake@2.0.0
