@@ -104,3 +104,4 @@
 - pkg:cargo/forc-doc@0.71.0
 - pkg:cargo/forc-doc@0.71.2
 - pkg:cargo/forc-doc@0.72.0
+- pkg:cargo/forc-doc@0.72.1
