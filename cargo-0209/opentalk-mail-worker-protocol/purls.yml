@@ -32,3 +32,4 @@
 - pkg:cargo/opentalk-mail-worker-protocol@0.47.0
 - pkg:cargo/opentalk-mail-worker-protocol@0.48.0
 - pkg:cargo/opentalk-mail-worker-protocol@0.49.0
+- pkg:cargo/opentalk-mail-worker-protocol@0.50.0
