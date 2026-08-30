@@ -2,6 +2,7 @@
 - pkg:cargo/exeora-cli@0.11.0
 - pkg:cargo/exeora-cli@0.11.1
 - pkg:cargo/exeora-cli@0.12.0
+- pkg:cargo/exeora-cli@0.13.0
 - pkg:cargo/exeora-cli@0.8.0
 - pkg:cargo/exeora-cli@0.8.2
 - pkg:cargo/exeora-cli@0.8.3
