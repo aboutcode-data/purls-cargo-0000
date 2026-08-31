@@ -26,6 +26,7 @@
 - pkg:cargo/nu_plugin_highlight@1.4.14%2B0.112.2
 - pkg:cargo/nu_plugin_highlight@1.4.15%2B0.113.1
 - pkg:cargo/nu_plugin_highlight@1.4.16%2B0.114.1
+- pkg:cargo/nu_plugin_highlight@1.4.17%2B0.115.1
 - pkg:cargo/nu_plugin_highlight@1.4.2%2B0.101.0
 - pkg:cargo/nu_plugin_highlight@1.4.3%2B0.102.0
 - pkg:cargo/nu_plugin_highlight@1.4.4%2B0.103.0
