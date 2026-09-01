@@ -38,3 +38,5 @@
 - pkg:cargo/anda-config@0.8.3
 - pkg:cargo/anda-config@0.8.5
 - pkg:cargo/anda-config@0.8.7
+- pkg:cargo/anda-config@0.8.8
+- pkg:cargo/anda-config@0.8.9
