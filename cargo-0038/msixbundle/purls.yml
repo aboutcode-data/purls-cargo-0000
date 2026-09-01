@@ -5,6 +5,7 @@
 - pkg:cargo/msixbundle@1.1.1
 - pkg:cargo/msixbundle@1.1.10
 - pkg:cargo/msixbundle@1.1.11
+- pkg:cargo/msixbundle@1.1.12
 - pkg:cargo/msixbundle@1.1.2
 - pkg:cargo/msixbundle@1.1.4
 - pkg:cargo/msixbundle@1.1.5
