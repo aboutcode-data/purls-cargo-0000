@@ -8,3 +8,5 @@
 - pkg:cargo/gatekeep-axum@2.0.0
 - pkg:cargo/gatekeep-axum@2.0.1
 - pkg:cargo/gatekeep-axum@3.0.0
+- pkg:cargo/gatekeep-axum@3.0.1
+- pkg:cargo/gatekeep-axum@4.0.0
