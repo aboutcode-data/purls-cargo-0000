@@ -8,3 +8,6 @@
 - pkg:cargo/piper-phonemize@0.3.4
 - pkg:cargo/piper-phonemize@0.3.5
 - pkg:cargo/piper-phonemize@0.3.6
+- pkg:cargo/piper-phonemize@1.4.11
+- pkg:cargo/piper-phonemize@1.4.8
+- pkg:cargo/piper-phonemize@1.4.9
