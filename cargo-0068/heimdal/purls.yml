@@ -10,3 +10,5 @@
 - pkg:cargo/heimdal@3.0.1
 - pkg:cargo/heimdal@3.0.2
 - pkg:cargo/heimdal@3.1.0
+- pkg:cargo/heimdal@3.2.0
+- pkg:cargo/heimdal@3.3.0
