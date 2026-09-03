@@ -10,3 +10,6 @@
 - pkg:cargo/unicode-width-utils@0.2.4
 - pkg:cargo/unicode-width-utils@0.2.5
 - pkg:cargo/unicode-width-utils@0.2.6
+- pkg:cargo/unicode-width-utils@0.2.7
+- pkg:cargo/unicode-width-utils@0.3.0
+- pkg:cargo/unicode-width-utils@0.3.1
