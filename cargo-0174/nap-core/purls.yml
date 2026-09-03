@@ -39,3 +39,4 @@
 - pkg:cargo/nap-core@0.6.1
 - pkg:cargo/nap-core@0.6.2
 - pkg:cargo/nap-core@0.7.0
+- pkg:cargo/nap-core@0.8.0
