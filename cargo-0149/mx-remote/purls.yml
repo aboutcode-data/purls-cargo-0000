@@ -1,3 +1,5 @@
 - pkg:cargo/mx-remote@1.0.0
 - pkg:cargo/mx-remote@2.0.0
 - pkg:cargo/mx-remote@3.0.0
+- pkg:cargo/mx-remote@4.0.0
+- pkg:cargo/mx-remote@4.0.1
