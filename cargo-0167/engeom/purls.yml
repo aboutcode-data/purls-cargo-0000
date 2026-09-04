@@ -4,3 +4,4 @@
 - pkg:cargo/engeom@0.3.2
 - pkg:cargo/engeom@0.4.2
 - pkg:cargo/engeom@0.4.3
+- pkg:cargo/engeom@0.5.0
