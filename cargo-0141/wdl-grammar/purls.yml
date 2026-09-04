@@ -15,6 +15,10 @@
 - pkg:cargo/wdl-grammar@0.21.0
 - pkg:cargo/wdl-grammar@0.21.1
 - pkg:cargo/wdl-grammar@0.22.0
+- pkg:cargo/wdl-grammar@0.23.0
+- pkg:cargo/wdl-grammar@0.24.0
+- pkg:cargo/wdl-grammar@0.25.0
+- pkg:cargo/wdl-grammar@0.25.1
 - pkg:cargo/wdl-grammar@0.3.0
 - pkg:cargo/wdl-grammar@0.4.0
 - pkg:cargo/wdl-grammar@0.5.0
