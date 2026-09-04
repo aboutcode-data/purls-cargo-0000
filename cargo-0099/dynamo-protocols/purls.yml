@@ -15,3 +15,7 @@
 - pkg:cargo/dynamo-protocols@5.0.1
 - pkg:cargo/dynamo-protocols@5.1.0
 - pkg:cargo/dynamo-protocols@5.2.0
+- pkg:cargo/dynamo-protocols@5.3.0
+- pkg:cargo/dynamo-protocols@5.3.1
+- pkg:cargo/dynamo-protocols@5.4.0
+- pkg:cargo/dynamo-protocols@5.4.1
