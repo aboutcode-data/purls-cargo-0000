@@ -44,3 +44,4 @@
 - pkg:cargo/neva_macros@0.5.4
 - pkg:cargo/neva_macros@0.5.5
 - pkg:cargo/neva_macros@0.5.6
+- pkg:cargo/neva_macros@0.5.7
