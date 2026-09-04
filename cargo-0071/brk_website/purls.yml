@@ -9,6 +9,9 @@
 - pkg:cargo/brk_website@0.1.6
 - pkg:cargo/brk_website@0.1.7
 - pkg:cargo/brk_website@0.1.9
+- pkg:cargo/brk_website@0.11.0
+- pkg:cargo/brk_website@0.11.1
+- pkg:cargo/brk_website@0.11.2
 - pkg:cargo/brk_website@0.2.1
 - pkg:cargo/brk_website@0.2.2
 - pkg:cargo/brk_website@0.2.3
@@ -36,3 +39,6 @@
 - pkg:cargo/brk_website@0.3.1
 - pkg:cargo/brk_website@0.3.2
 - pkg:cargo/brk_website@0.3.3
+- pkg:cargo/brk_website@0.3.4
+- pkg:cargo/brk_website@0.3.5
+- pkg:cargo/brk_website@0.3.6

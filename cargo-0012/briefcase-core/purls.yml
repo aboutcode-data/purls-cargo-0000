@@ -43,3 +43,9 @@
 - pkg:cargo/briefcase-core@3.2.1
 - pkg:cargo/briefcase-core@3.2.2
 - pkg:cargo/briefcase-core@3.3.0
+- pkg:cargo/briefcase-core@4.0.0
+- pkg:cargo/briefcase-core@4.0.1
+- pkg:cargo/briefcase-core@4.1.0
+- pkg:cargo/briefcase-core@4.2.0
+- pkg:cargo/briefcase-core@4.3.0
+- pkg:cargo/briefcase-core@4.4.0
