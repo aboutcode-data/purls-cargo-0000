@@ -1,2 +1,13 @@
 - pkg:cargo/tsafe-agent@1.0.4
 - pkg:cargo/tsafe-agent@1.0.5
+- pkg:cargo/tsafe-agent@1.1.0
+- pkg:cargo/tsafe-agent@1.2.0
+- pkg:cargo/tsafe-agent@2.0.0
+- pkg:cargo/tsafe-agent@2.0.1
+- pkg:cargo/tsafe-agent@3.0.0
+- pkg:cargo/tsafe-agent@3.0.1
+- pkg:cargo/tsafe-agent@3.1.0
+- pkg:cargo/tsafe-agent@3.1.1
+- pkg:cargo/tsafe-agent@3.2.0
+- pkg:cargo/tsafe-agent@3.3.0
+- pkg:cargo/tsafe-agent@4.0.0
