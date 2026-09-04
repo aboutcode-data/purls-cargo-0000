@@ -32,11 +32,13 @@
 - pkg:cargo/raftcli@1.16.2
 - pkg:cargo/raftcli@1.17.1
 - pkg:cargo/raftcli@1.18.1
+- pkg:cargo/raftcli@1.19.1
 - pkg:cargo/raftcli@1.2.0
 - pkg:cargo/raftcli@1.2.1
 - pkg:cargo/raftcli@1.2.2
 - pkg:cargo/raftcli@1.2.3
 - pkg:cargo/raftcli@1.2.4
+- pkg:cargo/raftcli@1.20.1
 - pkg:cargo/raftcli@1.4.0
 - pkg:cargo/raftcli@1.4.1
 - pkg:cargo/raftcli@1.4.2
