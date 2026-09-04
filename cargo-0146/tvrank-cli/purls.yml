@@ -3,6 +3,7 @@
 - pkg:cargo/tvrank-cli@0.10.2
 - pkg:cargo/tvrank-cli@0.10.3
 - pkg:cargo/tvrank-cli@0.10.4
+- pkg:cargo/tvrank-cli@0.10.6
 - pkg:cargo/tvrank-cli@0.8.2
 - pkg:cargo/tvrank-cli@0.8.4
 - pkg:cargo/tvrank-cli@0.8.5
