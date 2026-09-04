@@ -17,5 +17,6 @@
 - pkg:cargo/brokk-mj-core@1.15.0
 - pkg:cargo/brokk-mj-core@1.16.0
 - pkg:cargo/brokk-mj-core@1.17.0
+- pkg:cargo/brokk-mj-core@2.0.0
 - pkg:cargo/brokk-mj-core@2.0.0-rc.2
 - pkg:cargo/brokk-mj-core@2.0.0-rc.3
