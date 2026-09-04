@@ -64,3 +64,4 @@
 - pkg:cargo/jira-mcp@2.3.3
 - pkg:cargo/jira-mcp@2.3.4
 - pkg:cargo/jira-mcp@2.3.5
+- pkg:cargo/jira-mcp@2.4.0
