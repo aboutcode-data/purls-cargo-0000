@@ -21,3 +21,6 @@
 - pkg:cargo/yamlpatch@1.26.1
 - pkg:cargo/yamlpatch@1.28.0
 - pkg:cargo/yamlpatch@1.29.0
+- pkg:cargo/yamlpatch@1.30.0
+- pkg:cargo/yamlpatch@1.30.0-rc1
+- pkg:cargo/yamlpatch@1.30.0-rc2
