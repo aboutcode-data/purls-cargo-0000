@@ -6,6 +6,17 @@
 - pkg:cargo/genegraph-storage@0.10.0
 - pkg:cargo/genegraph-storage@0.11.0
 - pkg:cargo/genegraph-storage@0.12.0
+- pkg:cargo/genegraph-storage@0.13.0
+- pkg:cargo/genegraph-storage@0.13.1
 - pkg:cargo/genegraph-storage@0.2.0
 - pkg:cargo/genegraph-storage@0.2.1
+- pkg:cargo/genegraph-storage@0.20.0
+- pkg:cargo/genegraph-storage@0.25.0
+- pkg:cargo/genegraph-storage@0.26.0
+- pkg:cargo/genegraph-storage@0.27.0
+- pkg:cargo/genegraph-storage@0.28.0
 - pkg:cargo/genegraph-storage@0.4.0
+- pkg:cargo/genegraph-storage@0.51.0
+- pkg:cargo/genegraph-storage@0.52.0
+- pkg:cargo/genegraph-storage@0.60.0
+- pkg:cargo/genegraph-storage@0.61.0
