@@ -29,6 +29,10 @@
 - pkg:cargo/rattler_sandbox@0.2.23
 - pkg:cargo/rattler_sandbox@0.2.24
 - pkg:cargo/rattler_sandbox@0.2.25
+- pkg:cargo/rattler_sandbox@0.2.26
+- pkg:cargo/rattler_sandbox@0.2.27
+- pkg:cargo/rattler_sandbox@0.2.28
+- pkg:cargo/rattler_sandbox@0.2.29
 - pkg:cargo/rattler_sandbox@0.2.3
 - pkg:cargo/rattler_sandbox@0.2.4
 - pkg:cargo/rattler_sandbox@0.2.5
