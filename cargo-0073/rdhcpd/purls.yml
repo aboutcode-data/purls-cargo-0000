@@ -1,1 +1,6 @@
+- pkg:cargo/rdhcpd@0.14.8
+- pkg:cargo/rdhcpd@0.15.0
+- pkg:cargo/rdhcpd@0.15.1
+- pkg:cargo/rdhcpd@0.16.0
+- pkg:cargo/rdhcpd@0.16.1
 - pkg:cargo/rdhcpd@0.8.0
