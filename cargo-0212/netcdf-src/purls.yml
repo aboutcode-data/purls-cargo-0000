@@ -18,3 +18,5 @@
 - pkg:cargo/netcdf-src@0.4.4
 - pkg:cargo/netcdf-src@0.5.0
 - pkg:cargo/netcdf-src@0.5.1
+- pkg:cargo/netcdf-src@0.5.2
+- pkg:cargo/netcdf-src@0.5.3
