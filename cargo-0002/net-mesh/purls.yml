@@ -26,3 +26,6 @@
 - pkg:cargo/net-mesh@0.31.0
 - pkg:cargo/net-mesh@0.32.0
 - pkg:cargo/net-mesh@0.33.0
+- pkg:cargo/net-mesh@0.34.0
+- pkg:cargo/net-mesh@0.35.0
+- pkg:cargo/net-mesh@0.36.0
