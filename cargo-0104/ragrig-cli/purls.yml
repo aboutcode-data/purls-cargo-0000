@@ -1,3 +1,6 @@
+- pkg:cargo/ragrig-cli@0.9.11
 - pkg:cargo/ragrig-cli@0.9.7
 - pkg:cargo/ragrig-cli@0.9.8
 - pkg:cargo/ragrig-cli@0.9.9
+- pkg:cargo/ragrig-cli@1.0.0
+- pkg:cargo/ragrig-cli@1.0.1
