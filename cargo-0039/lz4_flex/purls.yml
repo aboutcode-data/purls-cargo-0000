@@ -11,6 +11,7 @@
 - pkg:cargo/lz4_flex@0.12.2
 - pkg:cargo/lz4_flex@0.13.0
 - pkg:cargo/lz4_flex@0.13.1
+- pkg:cargo/lz4_flex@0.14.0
 - pkg:cargo/lz4_flex@0.3.0
 - pkg:cargo/lz4_flex@0.3.1
 - pkg:cargo/lz4_flex@0.3.2
