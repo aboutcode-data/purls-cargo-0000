@@ -6,6 +6,10 @@
 - pkg:cargo/tpm2-device@0.1.6
 - pkg:cargo/tpm2-device@0.2.0
 - pkg:cargo/tpm2-device@0.2.1
+- pkg:cargo/tpm2-device@0.20.0
+- pkg:cargo/tpm2-device@0.20.1
+- pkg:cargo/tpm2-device@0.20.2
+- pkg:cargo/tpm2-device@0.20.3
 - pkg:cargo/tpm2-device@0.3.0
 - pkg:cargo/tpm2-device@0.3.1
 - pkg:cargo/tpm2-device@0.3.2
@@ -20,3 +24,11 @@
 - pkg:cargo/tpm2-device@0.5.6
 - pkg:cargo/tpm2-device@0.5.7
 - pkg:cargo/tpm2-device@0.5.8
+- pkg:cargo/tpm2-device@0.5.9
+- pkg:cargo/tpm2-device@0.6.0
+- pkg:cargo/tpm2-device@0.6.1
+- pkg:cargo/tpm2-device@1.0.0
+- pkg:cargo/tpm2-device@1.0.2
+- pkg:cargo/tpm2-device@1.1.0
+- pkg:cargo/tpm2-device@1.1.1
+- pkg:cargo/tpm2-device@1.2.0

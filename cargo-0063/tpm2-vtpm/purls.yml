@@ -9,6 +9,9 @@
 - pkg:cargo/tpm2-vtpm@0.1.8
 - pkg:cargo/tpm2-vtpm@0.2.0
 - pkg:cargo/tpm2-vtpm@0.2.1
+- pkg:cargo/tpm2-vtpm@0.20.0
+- pkg:cargo/tpm2-vtpm@0.20.1
+- pkg:cargo/tpm2-vtpm@0.20.2
 - pkg:cargo/tpm2-vtpm@0.3.0
 - pkg:cargo/tpm2-vtpm@0.3.1
 - pkg:cargo/tpm2-vtpm@0.3.2
@@ -28,3 +31,10 @@
 - pkg:cargo/tpm2-vtpm@0.6.2
 - pkg:cargo/tpm2-vtpm@0.6.3
 - pkg:cargo/tpm2-vtpm@0.6.4
+- pkg:cargo/tpm2-vtpm@0.6.5
+- pkg:cargo/tpm2-vtpm@0.7.0
+- pkg:cargo/tpm2-vtpm@1.0.0
+- pkg:cargo/tpm2-vtpm@1.0.2
+- pkg:cargo/tpm2-vtpm@1.1.0
+- pkg:cargo/tpm2-vtpm@1.1.1
+- pkg:cargo/tpm2-vtpm@1.2.0
