@@ -2,3 +2,6 @@
 - pkg:cargo/yaml_serde@0.10.2
 - pkg:cargo/yaml_serde@0.10.3
 - pkg:cargo/yaml_serde@0.10.4
+- pkg:cargo/yaml_serde@0.10.5
+- pkg:cargo/yaml_serde@0.10.6
+- pkg:cargo/yaml_serde@0.10.7
