@@ -1,0 +1,4 @@
+- pkg:cargo/brickrust@0.0.2%2Bbr1.11.3
+- pkg:cargo/brickrust@0.0.3%2Bbr1.11.5
+- pkg:cargo/brickrust@1.11.2%2Bbrickrust-001
+- pkg:cargo/brickrust@1.11.3%2Bbrickrust-001
