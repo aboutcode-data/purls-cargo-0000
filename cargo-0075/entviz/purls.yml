@@ -5,3 +5,6 @@
 - pkg:cargo/entviz@0.15.1
 - pkg:cargo/entviz@0.17.0
 - pkg:cargo/entviz@0.17.1
+- pkg:cargo/entviz@0.17.2
+- pkg:cargo/entviz@0.17.3
+- pkg:cargo/entviz@0.18.0
