@@ -15,6 +15,7 @@
 - pkg:cargo/encointer-balances-tx-payment@22.1.0
 - pkg:cargo/encointer-balances-tx-payment@22.2.0
 - pkg:cargo/encointer-balances-tx-payment@22.3.0
+- pkg:cargo/encointer-balances-tx-payment@24.0.0
 - pkg:cargo/encointer-balances-tx-payment@3.0.0
 - pkg:cargo/encointer-balances-tx-payment@3.0.1
 - pkg:cargo/encointer-balances-tx-payment@3.0.2
