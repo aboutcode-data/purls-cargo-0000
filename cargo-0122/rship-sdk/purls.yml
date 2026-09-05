@@ -22,6 +22,7 @@
 - pkg:cargo/rship-sdk@3.0.0-canary.687
 - pkg:cargo/rship-sdk@3.0.0-canary.688
 - pkg:cargo/rship-sdk@4.0.0-canary.108
+- pkg:cargo/rship-sdk@4.0.0-canary.109
 - pkg:cargo/rship-sdk@4.0.0-canary.11
 - pkg:cargo/rship-sdk@4.0.0-canary.29
 - pkg:cargo/rship-sdk@4.0.0-canary.30
