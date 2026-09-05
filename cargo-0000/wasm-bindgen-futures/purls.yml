@@ -106,5 +106,6 @@
 - pkg:cargo/wasm-bindgen-futures@0.4.75
 - pkg:cargo/wasm-bindgen-futures@0.4.76
 - pkg:cargo/wasm-bindgen-futures@0.4.77
+- pkg:cargo/wasm-bindgen-futures@0.4.78
 - pkg:cargo/wasm-bindgen-futures@0.4.8
 - pkg:cargo/wasm-bindgen-futures@0.4.9
