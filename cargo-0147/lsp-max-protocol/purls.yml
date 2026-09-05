@@ -1,0 +1,4 @@
+- pkg:cargo/lsp-max-protocol@26.6.24
+- pkg:cargo/lsp-max-protocol@26.6.9
+- pkg:cargo/lsp-max-protocol@26.7.1
+- pkg:cargo/lsp-max-protocol@26.7.3
