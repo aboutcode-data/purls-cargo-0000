@@ -4,6 +4,7 @@
 - pkg:cargo/rproj@0.10.1
 - pkg:cargo/rproj@0.10.2
 - pkg:cargo/rproj@0.11.0
+- pkg:cargo/rproj@0.12.0
 - pkg:cargo/rproj@0.2.0
 - pkg:cargo/rproj@0.2.1
 - pkg:cargo/rproj@0.2.2
