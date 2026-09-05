@@ -1,1 +1,3 @@
 - pkg:cargo/meld-events@2.5.0
+- pkg:cargo/meld-events@2.6.0
+- pkg:cargo/meld-events@2.7.0
