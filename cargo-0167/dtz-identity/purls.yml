@@ -40,3 +40,5 @@
 - pkg:cargo/dtz-identity@2.1.4
 - pkg:cargo/dtz-identity@2.1.5
 - pkg:cargo/dtz-identity@2.1.6
+- pkg:cargo/dtz-identity@2.1.7
+- pkg:cargo/dtz-identity@2.1.8
