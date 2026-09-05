@@ -76,3 +76,4 @@
 - pkg:cargo/wasix@0.12.9
 - pkg:cargo/wasix@0.13.0
 - pkg:cargo/wasix@0.13.1
+- pkg:cargo/wasix@0.13.2
