@@ -91,6 +91,16 @@
 - pkg:cargo/wast@25.0.0
 - pkg:cargo/wast@25.0.1
 - pkg:cargo/wast@25.0.2
+- pkg:cargo/wast@250.0.0
+- pkg:cargo/wast@251.0.0
+- pkg:cargo/wast@252.0.0
+- pkg:cargo/wast@253.0.0
+- pkg:cargo/wast@254.0.0
+- pkg:cargo/wast@255.0.0
+- pkg:cargo/wast@256.0.0
+- pkg:cargo/wast@257.0.0
+- pkg:cargo/wast@257.0.1
+- pkg:cargo/wast@258.0.0
 - pkg:cargo/wast@26.0.0
 - pkg:cargo/wast@26.0.1
 - pkg:cargo/wast@27.0.0
