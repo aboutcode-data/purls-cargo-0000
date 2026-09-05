@@ -7,3 +7,5 @@
 - pkg:cargo/govmr@0.1.6
 - pkg:cargo/govmr@0.1.7
 - pkg:cargo/govmr@0.2.0
+- pkg:cargo/govmr@0.3.0
+- pkg:cargo/govmr@0.3.1
