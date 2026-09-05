@@ -22,3 +22,4 @@
 - pkg:cargo/warp10@1.1.1
 - pkg:cargo/warp10@1.2.0
 - pkg:cargo/warp10@2.0.0
+- pkg:cargo/warp10@3.0.0
