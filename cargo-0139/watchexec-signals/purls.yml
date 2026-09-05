@@ -7,3 +7,5 @@
 - pkg:cargo/watchexec-signals@4.0.1
 - pkg:cargo/watchexec-signals@5.0.0
 - pkg:cargo/watchexec-signals@5.0.1
+- pkg:cargo/watchexec-signals@5.1.0
+- pkg:cargo/watchexec-signals@5.1.1
