@@ -42,6 +42,10 @@
 - pkg:cargo/wasmtime-wasi-threads@23.0.3
 - pkg:cargo/wasmtime-wasi-threads@24.0.0
 - pkg:cargo/wasmtime-wasi-threads@24.0.1
+- pkg:cargo/wasmtime-wasi-threads@24.0.10
+- pkg:cargo/wasmtime-wasi-threads@24.0.11
+- pkg:cargo/wasmtime-wasi-threads@24.0.12
+- pkg:cargo/wasmtime-wasi-threads@24.0.13
 - pkg:cargo/wasmtime-wasi-threads@24.0.2
 - pkg:cargo/wasmtime-wasi-threads@24.0.3
 - pkg:cargo/wasmtime-wasi-threads@24.0.4
@@ -49,6 +53,7 @@
 - pkg:cargo/wasmtime-wasi-threads@24.0.6
 - pkg:cargo/wasmtime-wasi-threads@24.0.7
 - pkg:cargo/wasmtime-wasi-threads@24.0.8
+- pkg:cargo/wasmtime-wasi-threads@24.0.9
 - pkg:cargo/wasmtime-wasi-threads@25.0.0
 - pkg:cargo/wasmtime-wasi-threads@25.0.1
 - pkg:cargo/wasmtime-wasi-threads@25.0.2
@@ -75,6 +80,11 @@
 - pkg:cargo/wasmtime-wasi-threads@35.0.0
 - pkg:cargo/wasmtime-wasi-threads@36.0.0
 - pkg:cargo/wasmtime-wasi-threads@36.0.1
+- pkg:cargo/wasmtime-wasi-threads@36.0.10
+- pkg:cargo/wasmtime-wasi-threads@36.0.11
+- pkg:cargo/wasmtime-wasi-threads@36.0.12
+- pkg:cargo/wasmtime-wasi-threads@36.0.13
+- pkg:cargo/wasmtime-wasi-threads@36.0.14
 - pkg:cargo/wasmtime-wasi-threads@36.0.2
 - pkg:cargo/wasmtime-wasi-threads@36.0.3
 - pkg:cargo/wasmtime-wasi-threads@36.0.4
@@ -113,6 +123,16 @@
 - pkg:cargo/wasmtime-wasi-threads@43.0.2
 - pkg:cargo/wasmtime-wasi-threads@44.0.0
 - pkg:cargo/wasmtime-wasi-threads@44.0.1
+- pkg:cargo/wasmtime-wasi-threads@44.0.2
+- pkg:cargo/wasmtime-wasi-threads@44.0.3
+- pkg:cargo/wasmtime-wasi-threads@45.0.0
+- pkg:cargo/wasmtime-wasi-threads@45.0.1
+- pkg:cargo/wasmtime-wasi-threads@45.0.2
+- pkg:cargo/wasmtime-wasi-threads@45.0.3
+- pkg:cargo/wasmtime-wasi-threads@46.0.0
+- pkg:cargo/wasmtime-wasi-threads@46.0.1
+- pkg:cargo/wasmtime-wasi-threads@46.0.2
+- pkg:cargo/wasmtime-wasi-threads@46.0.3
 - pkg:cargo/wasmtime-wasi-threads@7.0.0
 - pkg:cargo/wasmtime-wasi-threads@7.0.1
 - pkg:cargo/wasmtime-wasi-threads@8.0.0
