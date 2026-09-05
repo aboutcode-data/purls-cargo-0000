@@ -5,3 +5,5 @@
 - pkg:cargo/mesh-sieve@1.2.4
 - pkg:cargo/mesh-sieve@2.0.0
 - pkg:cargo/mesh-sieve@3.2.0
+- pkg:cargo/mesh-sieve@4.0.1
+- pkg:cargo/mesh-sieve@4.0.2
