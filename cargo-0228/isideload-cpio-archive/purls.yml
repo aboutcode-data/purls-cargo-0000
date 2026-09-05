@@ -1,1 +1,3 @@
 - pkg:cargo/isideload-cpio-archive@0.10.0
+- pkg:cargo/isideload-cpio-archive@0.10.1
+- pkg:cargo/isideload-cpio-archive@0.10.2
