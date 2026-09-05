@@ -54,4 +54,8 @@
 - pkg:cargo/arrow-string@58.1.0
 - pkg:cargo/arrow-string@58.2.0
 - pkg:cargo/arrow-string@58.3.0
+- pkg:cargo/arrow-string@58.4.0
 - pkg:cargo/arrow-string@59.0.0
+- pkg:cargo/arrow-string@59.1.0
+- pkg:cargo/arrow-string@59.2.0
+- pkg:cargo/arrow-string@59.3.0
