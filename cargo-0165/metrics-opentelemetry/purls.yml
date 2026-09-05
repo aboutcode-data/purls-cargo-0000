@@ -1,3 +1,12 @@
 - pkg:cargo/metrics-opentelemetry@0.24.0
 - pkg:cargo/metrics-opentelemetry@0.24.1
 - pkg:cargo/metrics-opentelemetry@0.24032.0
+- pkg:cargo/metrics-opentelemetry@0.24032.1
+- pkg:cargo/metrics-opentelemetry@0.24032.2
+- pkg:cargo/metrics-opentelemetry@0.24032.3
+- pkg:cargo/metrics-opentelemetry@0.24032.4
+- pkg:cargo/metrics-opentelemetry@0.24032.5
+- pkg:cargo/metrics-opentelemetry@0.24032.6
+- pkg:cargo/metrics-opentelemetry@0.24032.7
+- pkg:cargo/metrics-opentelemetry@0.24032.8
+- pkg:cargo/metrics-opentelemetry@0.24032.9
