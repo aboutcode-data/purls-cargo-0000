@@ -8,3 +8,4 @@
 - pkg:cargo/wasmsh-testkit@0.6.2
 - pkg:cargo/wasmsh-testkit@0.6.3
 - pkg:cargo/wasmsh-testkit@0.7.0
+- pkg:cargo/wasmsh-testkit@0.8.0

@@ -1,0 +1,4 @@
+- pkg:cargo/wasm-fuse@1.0.0
+- pkg:cargo/wasm-fuse@2.0.0
+- pkg:cargo/wasm-fuse@3.0.0
+- pkg:cargo/wasm-fuse@4.0.0
