@@ -6,3 +6,6 @@
 - pkg:cargo/mt5-quant@1.32.4
 - pkg:cargo/mt5-quant@1.33.0
 - pkg:cargo/mt5-quant@1.34.0
+- pkg:cargo/mt5-quant@1.34.1
+- pkg:cargo/mt5-quant@1.34.2
+- pkg:cargo/mt5-quant@1.34.3
