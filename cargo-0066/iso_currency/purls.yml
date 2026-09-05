@@ -13,3 +13,5 @@
 - pkg:cargo/iso_currency@0.5.1
 - pkg:cargo/iso_currency@0.5.2
 - pkg:cargo/iso_currency@0.5.3
+- pkg:cargo/iso_currency@0.6.0
+- pkg:cargo/iso_currency@0.7.0
