@@ -151,3 +151,13 @@
 - pkg:cargo/wasmprinter@0.247.0
 - pkg:cargo/wasmprinter@0.248.0
 - pkg:cargo/wasmprinter@0.249.0
+- pkg:cargo/wasmprinter@0.250.0
+- pkg:cargo/wasmprinter@0.251.0
+- pkg:cargo/wasmprinter@0.252.0
+- pkg:cargo/wasmprinter@0.253.0
+- pkg:cargo/wasmprinter@0.254.0
+- pkg:cargo/wasmprinter@0.255.0
+- pkg:cargo/wasmprinter@0.256.0
+- pkg:cargo/wasmprinter@0.257.0
+- pkg:cargo/wasmprinter@0.257.1
+- pkg:cargo/wasmprinter@0.258.0
