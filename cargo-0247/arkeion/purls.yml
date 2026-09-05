@@ -1,2 +1,5 @@
 - pkg:cargo/arkeion@0.0.1
 - pkg:cargo/arkeion@0.10.0
+- pkg:cargo/arkeion@0.11.0
+- pkg:cargo/arkeion@0.12.0
+- pkg:cargo/arkeion@0.13.0
