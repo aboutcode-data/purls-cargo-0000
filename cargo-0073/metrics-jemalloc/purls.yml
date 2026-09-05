@@ -7,3 +7,4 @@
 - pkg:cargo/metrics-jemalloc@0.5.2
 - pkg:cargo/metrics-jemalloc@0.6.0
 - pkg:cargo/metrics-jemalloc@0.7.0
+- pkg:cargo/metrics-jemalloc@0.8.0

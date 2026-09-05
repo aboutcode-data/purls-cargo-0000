@@ -5,3 +5,6 @@
 - pkg:cargo/metricus_allocator@0.0.14
 - pkg:cargo/metricus_allocator@0.0.15
 - pkg:cargo/metricus_allocator@0.0.16
+- pkg:cargo/metricus_allocator@0.0.17
+- pkg:cargo/metricus_allocator@0.0.18
+- pkg:cargo/metricus_allocator@0.0.19
