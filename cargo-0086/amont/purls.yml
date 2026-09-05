@@ -27,6 +27,7 @@
 - pkg:cargo/amont@1.25.1
 - pkg:cargo/amont@1.26.0
 - pkg:cargo/amont@1.27.0
+- pkg:cargo/amont@1.28.0
 - pkg:cargo/amont@1.3.0
 - pkg:cargo/amont@1.4.0
 - pkg:cargo/amont@1.4.1
