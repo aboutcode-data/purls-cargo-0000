@@ -1,3 +1,5 @@
+- pkg:cargo/bellbook@0.10.0
+- pkg:cargo/bellbook@0.11.0
 - pkg:cargo/bellbook@0.2.0
 - pkg:cargo/bellbook@0.3.0
 - pkg:cargo/bellbook@0.4.0
