@@ -59,3 +59,4 @@
 - pkg:cargo/ntex-grpc@2.3.0
 - pkg:cargo/ntex-grpc@3.0.0-beta.0
 - pkg:cargo/ntex-grpc@3.0.0-beta.1
+- pkg:cargo/ntex-grpc@3.0.0-beta.2
