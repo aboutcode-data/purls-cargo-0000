@@ -19,3 +19,4 @@
 - pkg:cargo/garage_db@2.0.0
 - pkg:cargo/garage_db@2.1.0
 - pkg:cargo/garage_db@2.3.0
+- pkg:cargo/garage_db@2.4.0
