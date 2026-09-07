@@ -13,3 +13,5 @@
 - pkg:cargo/rapport@0.5.5
 - pkg:cargo/rapport@0.6.0
 - pkg:cargo/rapport@0.6.1
+- pkg:cargo/rapport@0.7.0
+- pkg:cargo/rapport@0.7.1
