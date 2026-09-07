@@ -1,5 +1,6 @@
 - pkg:cargo/am-fs-core@0.1.0
 - pkg:cargo/am-fs-core@0.2.0
+- pkg:cargo/am-fs-core@0.2.10
 - pkg:cargo/am-fs-core@0.2.2
 - pkg:cargo/am-fs-core@0.2.3
 - pkg:cargo/am-fs-core@0.2.4
@@ -7,3 +8,4 @@
 - pkg:cargo/am-fs-core@0.2.6
 - pkg:cargo/am-fs-core@0.2.7
 - pkg:cargo/am-fs-core@0.2.8
+- pkg:cargo/am-fs-core@0.2.9
