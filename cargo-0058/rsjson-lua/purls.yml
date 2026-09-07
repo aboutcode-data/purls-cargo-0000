@@ -22,3 +22,4 @@
 - pkg:cargo/rsjson-lua@0.6.4
 - pkg:cargo/rsjson-lua@0.6.5
 - pkg:cargo/rsjson-lua@0.6.6
+- pkg:cargo/rsjson-lua@0.7.0
