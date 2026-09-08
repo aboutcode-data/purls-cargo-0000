@@ -76,6 +76,7 @@
 - pkg:cargo/rto-spec@4.2.0
 - pkg:cargo/rto-spec@5.0.0
 - pkg:cargo/rto-spec@5.1.0
+- pkg:cargo/rto-spec@5.10.0
 - pkg:cargo/rto-spec@5.2.0
 - pkg:cargo/rto-spec@5.3.0
 - pkg:cargo/rto-spec@5.4.0

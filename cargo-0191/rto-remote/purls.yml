@@ -39,6 +39,7 @@
 - pkg:cargo/rto-remote@4.2.0
 - pkg:cargo/rto-remote@5.0.0
 - pkg:cargo/rto-remote@5.1.0
+- pkg:cargo/rto-remote@5.10.0
 - pkg:cargo/rto-remote@5.2.0
 - pkg:cargo/rto-remote@5.3.0
 - pkg:cargo/rto-remote@5.4.0
