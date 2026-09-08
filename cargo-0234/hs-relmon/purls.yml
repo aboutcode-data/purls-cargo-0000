@@ -31,6 +31,7 @@
 - pkg:cargo/hs-relmon@0.21.0
 - pkg:cargo/hs-relmon@0.22.0
 - pkg:cargo/hs-relmon@0.23.0
+- pkg:cargo/hs-relmon@0.23.1
 - pkg:cargo/hs-relmon@0.3.0
 - pkg:cargo/hs-relmon@0.4.0
 - pkg:cargo/hs-relmon@0.6.3
