@@ -5,6 +5,7 @@
 - pkg:cargo/csift@0.10.4
 - pkg:cargo/csift@0.10.5
 - pkg:cargo/csift@0.11.0
+- pkg:cargo/csift@0.11.1
 - pkg:cargo/csift@0.7.8
 - pkg:cargo/csift@0.8.0
 - pkg:cargo/csift@0.8.1
