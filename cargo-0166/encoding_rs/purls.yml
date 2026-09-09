@@ -56,6 +56,7 @@
 - pkg:cargo/encoding_rs@0.8.35
 - pkg:cargo/encoding_rs@0.8.4
 - pkg:cargo/encoding_rs@0.8.40
+- pkg:cargo/encoding_rs@0.8.41
 - pkg:cargo/encoding_rs@0.8.5
 - pkg:cargo/encoding_rs@0.8.6
 - pkg:cargo/encoding_rs@0.8.7
