@@ -88,6 +88,7 @@
 - pkg:cargo/vpin@0.30.0
 - pkg:cargo/vpin@0.31.0
 - pkg:cargo/vpin@0.31.1
+- pkg:cargo/vpin@0.32.0
 - pkg:cargo/vpin@0.4.0
 - pkg:cargo/vpin@0.5.0
 - pkg:cargo/vpin@0.6.0
