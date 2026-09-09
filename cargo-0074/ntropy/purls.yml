@@ -1,5 +1,8 @@
 - pkg:cargo/ntropy@1.1.0
 - pkg:cargo/ntropy@1.10.0
+- pkg:cargo/ntropy@1.11.0
+- pkg:cargo/ntropy@1.12.0
+- pkg:cargo/ntropy@1.12.1
 - pkg:cargo/ntropy@1.2.0
 - pkg:cargo/ntropy@1.3.0
 - pkg:cargo/ntropy@1.4.0
