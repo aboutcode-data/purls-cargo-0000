@@ -6,3 +6,6 @@
 - pkg:cargo/fhir-types@0.1.37
 - pkg:cargo/fhir-types@0.1.43
 - pkg:cargo/fhir-types@0.1.65
+- pkg:cargo/fhir-types@0.1.84
+- pkg:cargo/fhir-types@0.1.85
+- pkg:cargo/fhir-types@0.1.92
