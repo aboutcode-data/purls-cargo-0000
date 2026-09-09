@@ -34,6 +34,14 @@
 - pkg:cargo/memra-sampling@0.127.0
 - pkg:cargo/memra-sampling@0.128.0
 - pkg:cargo/memra-sampling@0.129.0
+- pkg:cargo/memra-sampling@0.130.0
+- pkg:cargo/memra-sampling@0.131.0
+- pkg:cargo/memra-sampling@0.132.0
+- pkg:cargo/memra-sampling@0.133.0
+- pkg:cargo/memra-sampling@0.134.0
+- pkg:cargo/memra-sampling@0.135.0
+- pkg:cargo/memra-sampling@0.136.0
+- pkg:cargo/memra-sampling@0.137.0
 - pkg:cargo/memra-sampling@0.69.0
 - pkg:cargo/memra-sampling@0.70.0
 - pkg:cargo/memra-sampling@0.71.0
