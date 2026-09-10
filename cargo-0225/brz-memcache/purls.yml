@@ -1,1 +1,2 @@
 - pkg:cargo/brz-memcache@0.0.3
+- pkg:cargo/brz-memcache@0.0.4
