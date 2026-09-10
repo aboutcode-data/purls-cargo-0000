@@ -7,3 +7,4 @@
 - pkg:cargo/wsx-core@0.22.2
 - pkg:cargo/wsx-core@0.22.3
 - pkg:cargo/wsx-core@0.23.0
+- pkg:cargo/wsx-core@0.24.0
