@@ -9,3 +9,4 @@
 - pkg:cargo/nlink-macros@0.23.0
 - pkg:cargo/nlink-macros@0.24.0
 - pkg:cargo/nlink-macros@0.25.0
+- pkg:cargo/nlink-macros@0.26.0
