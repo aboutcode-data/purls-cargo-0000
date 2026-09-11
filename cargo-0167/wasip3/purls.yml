@@ -11,3 +11,4 @@
 - pkg:cargo/wasip3@0.7.0%2Bwasi-0.3.0
 - pkg:cargo/wasip3@0.7.1%2Bwasi-0.3.0
 - pkg:cargo/wasip3@0.8.0%2Bwasi-0.3.0
+- pkg:cargo/wasip3@0.9.0%2Bwasi-0.3.0
