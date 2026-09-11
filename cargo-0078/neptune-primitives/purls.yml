@@ -5,3 +5,4 @@
 - pkg:cargo/neptune-primitives@0.15.0
 - pkg:cargo/neptune-primitives@0.15.1
 - pkg:cargo/neptune-primitives@0.16.0
+- pkg:cargo/neptune-primitives@0.17.0
