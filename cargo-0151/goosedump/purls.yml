@@ -85,6 +85,7 @@
 - pkg:cargo/goosedump@0.12.60
 - pkg:cargo/goosedump@0.12.61
 - pkg:cargo/goosedump@0.12.62
+- pkg:cargo/goosedump@0.12.63
 - pkg:cargo/goosedump@0.12.7
 - pkg:cargo/goosedump@0.12.8
 - pkg:cargo/goosedump@0.12.9
