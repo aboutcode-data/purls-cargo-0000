@@ -101,6 +101,7 @@
 - pkg:cargo/wast@257.0.0
 - pkg:cargo/wast@257.0.1
 - pkg:cargo/wast@258.0.0
+- pkg:cargo/wast@259.0.0
 - pkg:cargo/wast@26.0.0
 - pkg:cargo/wast@26.0.1
 - pkg:cargo/wast@27.0.0
