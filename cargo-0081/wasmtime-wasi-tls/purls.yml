@@ -14,6 +14,7 @@
 - pkg:cargo/wasmtime-wasi-tls@36.0.12
 - pkg:cargo/wasmtime-wasi-tls@36.0.13
 - pkg:cargo/wasmtime-wasi-tls@36.0.14
+- pkg:cargo/wasmtime-wasi-tls@36.0.15
 - pkg:cargo/wasmtime-wasi-tls@36.0.2
 - pkg:cargo/wasmtime-wasi-tls@36.0.3
 - pkg:cargo/wasmtime-wasi-tls@36.0.4
@@ -69,4 +70,5 @@
 - pkg:cargo/wasmtime-wasi-tls@47.0.4
 - pkg:cargo/wasmtime-wasi-tls@48.0.0
 - pkg:cargo/wasmtime-wasi-tls@48.0.1
+- pkg:cargo/wasmtime-wasi-tls@48.0.2
 - pkg:cargo/wasmtime-wasi-tls@49.0.0-rc.1
