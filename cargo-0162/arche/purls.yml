@@ -33,6 +33,7 @@
 - pkg:cargo/arche@4.17.0
 - pkg:cargo/arche@4.17.1
 - pkg:cargo/arche@4.17.2
+- pkg:cargo/arche@4.17.3
 - pkg:cargo/arche@4.2.0
 - pkg:cargo/arche@4.3.0
 - pkg:cargo/arche@4.3.1
