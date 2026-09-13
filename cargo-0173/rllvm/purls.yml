@@ -19,3 +19,4 @@
 - pkg:cargo/rllvm@0.4.6
 - pkg:cargo/rllvm@0.4.7
 - pkg:cargo/rllvm@0.4.8
+- pkg:cargo/rllvm@0.5.0
