@@ -4,3 +4,4 @@
 - pkg:cargo/oxanus-macros@0.9.0
 - pkg:cargo/oxanus-macros@1.0.0
 - pkg:cargo/oxanus-macros@1.0.1
+- pkg:cargo/oxanus-macros@2.0.0
