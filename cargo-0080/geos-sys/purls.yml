@@ -18,6 +18,7 @@
 - pkg:cargo/geos-sys@1.1.1
 - pkg:cargo/geos-sys@2.0.0
 - pkg:cargo/geos-sys@2.0.1
+- pkg:cargo/geos-sys@2.0.10
 - pkg:cargo/geos-sys@2.0.2
 - pkg:cargo/geos-sys@2.0.3
 - pkg:cargo/geos-sys@2.0.4
