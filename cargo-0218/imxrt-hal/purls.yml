@@ -25,3 +25,4 @@
 - pkg:cargo/imxrt-hal@0.5.7
 - pkg:cargo/imxrt-hal@0.5.8
 - pkg:cargo/imxrt-hal@0.5.9
+- pkg:cargo/imxrt-hal@0.6.0

@@ -8,6 +8,7 @@
 - pkg:cargo/imxrt-iomuxc@0.2.1
 - pkg:cargo/imxrt-iomuxc@0.2.10
 - pkg:cargo/imxrt-iomuxc@0.2.11
+- pkg:cargo/imxrt-iomuxc@0.2.12
 - pkg:cargo/imxrt-iomuxc@0.2.2
 - pkg:cargo/imxrt-iomuxc@0.2.3
 - pkg:cargo/imxrt-iomuxc@0.2.4
@@ -18,3 +19,4 @@
 - pkg:cargo/imxrt-iomuxc@0.2.9
 - pkg:cargo/imxrt-iomuxc@0.3.0
 - pkg:cargo/imxrt-iomuxc@0.3.1
+- pkg:cargo/imxrt-iomuxc@0.3.2
