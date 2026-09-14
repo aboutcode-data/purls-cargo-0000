@@ -11,4 +11,6 @@
 - pkg:cargo/sqlx-askama-template@0.3.7
 - pkg:cargo/sqlx-askama-template@0.3.8
 - pkg:cargo/sqlx-askama-template@0.3.9
+- pkg:cargo/sqlx-askama-template@0.4.0
 - pkg:cargo/sqlx-askama-template@0.4.0-alpha.1
+- pkg:cargo/sqlx-askama-template@0.4.1
