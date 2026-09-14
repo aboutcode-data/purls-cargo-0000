@@ -43,3 +43,11 @@
 - pkg:cargo/purecrypto@0.6.7
 - pkg:cargo/purecrypto@0.6.8
 - pkg:cargo/purecrypto@0.6.9
+- pkg:cargo/purecrypto@0.7.0
+- pkg:cargo/purecrypto@0.8.0
+- pkg:cargo/purecrypto@0.8.1
+- pkg:cargo/purecrypto@0.8.2
+- pkg:cargo/purecrypto@0.8.3
+- pkg:cargo/purecrypto@0.8.4
+- pkg:cargo/purecrypto@0.8.5
+- pkg:cargo/purecrypto@0.8.6
