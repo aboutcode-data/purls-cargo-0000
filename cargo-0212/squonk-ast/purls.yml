@@ -1,0 +1,3 @@
+- pkg:cargo/squonk-ast@1.0.0
+- pkg:cargo/squonk-ast@2.0.0
+- pkg:cargo/squonk-ast@3.0.0
