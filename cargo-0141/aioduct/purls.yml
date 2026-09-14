@@ -9,4 +9,15 @@
 - pkg:cargo/aioduct@0.1.7
 - pkg:cargo/aioduct@0.1.8
 - pkg:cargo/aioduct@0.1.9
+- pkg:cargo/aioduct@0.2.0
 - pkg:cargo/aioduct@0.2.0-alpha.1
+- pkg:cargo/aioduct@0.2.0-alpha.2
+- pkg:cargo/aioduct@0.2.0-alpha.4
+- pkg:cargo/aioduct@0.2.0-alpha.5
+- pkg:cargo/aioduct@0.2.0-alpha.6
+- pkg:cargo/aioduct@0.2.0-alpha.7
+- pkg:cargo/aioduct@0.2.1
+- pkg:cargo/aioduct@0.2.2
+- pkg:cargo/aioduct@0.2.3
+- pkg:cargo/aioduct@0.2.4
+- pkg:cargo/aioduct@0.2.5
