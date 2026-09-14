@@ -3,6 +3,7 @@
 - pkg:cargo/tuffcli@0.1.8
 - pkg:cargo/tuffcli@0.10.0
 - pkg:cargo/tuffcli@0.10.1
+- pkg:cargo/tuffcli@0.10.2
 - pkg:cargo/tuffcli@0.2.0
 - pkg:cargo/tuffcli@0.3.0
 - pkg:cargo/tuffcli@0.4.0
