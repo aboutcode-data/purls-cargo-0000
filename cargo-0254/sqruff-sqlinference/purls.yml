@@ -14,3 +14,5 @@
 - pkg:cargo/sqruff-sqlinference@0.37.2
 - pkg:cargo/sqruff-sqlinference@0.37.3
 - pkg:cargo/sqruff-sqlinference@0.38.0
+- pkg:cargo/sqruff-sqlinference@0.39.0
+- pkg:cargo/sqruff-sqlinference@0.40.0
