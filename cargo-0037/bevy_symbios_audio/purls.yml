@@ -16,3 +16,4 @@
 - pkg:cargo/bevy_symbios_audio@0.4.8
 - pkg:cargo/bevy_symbios_audio@0.4.9
 - pkg:cargo/bevy_symbios_audio@0.5.0
+- pkg:cargo/bevy_symbios_audio@0.5.1
