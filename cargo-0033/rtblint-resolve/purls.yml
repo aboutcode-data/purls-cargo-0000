@@ -7,4 +7,5 @@
 - pkg:cargo/rtblint-resolve@0.13.0
 - pkg:cargo/rtblint-resolve@0.13.1
 - pkg:cargo/rtblint-resolve@0.13.2
+- pkg:cargo/rtblint-resolve@0.13.3
 - pkg:cargo/rtblint-resolve@0.9.0
