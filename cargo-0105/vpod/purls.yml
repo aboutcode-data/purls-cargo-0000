@@ -25,3 +25,4 @@
 - pkg:cargo/vpod@0.8.2
 - pkg:cargo/vpod@0.8.3
 - pkg:cargo/vpod@0.8.3-rc1
+- pkg:cargo/vpod@0.8.4
