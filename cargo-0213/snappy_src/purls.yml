@@ -6,3 +6,4 @@
 - pkg:cargo/snappy_src@0.2.3%2Bsnappy.1.2.1
 - pkg:cargo/snappy_src@0.2.4%2Bsnappy.1.2.1
 - pkg:cargo/snappy_src@0.2.5%2Bsnappy.1.2.2
+- pkg:cargo/snappy_src@0.2.6%2Bsnappy.1.3.0
