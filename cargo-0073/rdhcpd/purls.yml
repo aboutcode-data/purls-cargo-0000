@@ -3,4 +3,5 @@
 - pkg:cargo/rdhcpd@0.15.1
 - pkg:cargo/rdhcpd@0.16.0
 - pkg:cargo/rdhcpd@0.16.1
+- pkg:cargo/rdhcpd@0.16.2
 - pkg:cargo/rdhcpd@0.8.0
