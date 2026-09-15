@@ -13,6 +13,7 @@
 - pkg:cargo/amont-agent@2.12.0
 - pkg:cargo/amont-agent@2.13.0
 - pkg:cargo/amont-agent@2.14.0
+- pkg:cargo/amont-agent@2.15.0
 - pkg:cargo/amont-agent@2.2.0
 - pkg:cargo/amont-agent@2.3.0
 - pkg:cargo/amont-agent@2.4.0
