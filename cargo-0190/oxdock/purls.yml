@@ -3,5 +3,7 @@
 - pkg:cargo/oxdock@0.11.0-alpha
 - pkg:cargo/oxdock@0.12.0-alpha
 - pkg:cargo/oxdock@0.13.0-alpha
+- pkg:cargo/oxdock@0.14.0-alpha
+- pkg:cargo/oxdock@0.14.1-alpha
 - pkg:cargo/oxdock@0.8.0-alpha
 - pkg:cargo/oxdock@0.9.0-alpha
