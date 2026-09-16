@@ -1,0 +1,15 @@
+- pkg:cargo/ironvault@5.0.0
+- pkg:cargo/ironvault@5.1.0
+- pkg:cargo/ironvault@5.1.1
+- pkg:cargo/ironvault@5.1.2
+- pkg:cargo/ironvault@6.0.0
+- pkg:cargo/ironvault@6.1.0
+- pkg:cargo/ironvault@6.1.1
+- pkg:cargo/ironvault@6.2.0
+- pkg:cargo/ironvault@6.2.1
+- pkg:cargo/ironvault@7.0.0
+- pkg:cargo/ironvault@7.1.0
+- pkg:cargo/ironvault@7.2.0
+- pkg:cargo/ironvault@7.2.1
+- pkg:cargo/ironvault@8.0.0
+- pkg:cargo/ironvault@8.0.1
