@@ -16,3 +16,8 @@
 - pkg:cargo/ironbeam@2.8.0
 - pkg:cargo/ironbeam@2.9.0
 - pkg:cargo/ironbeam@3.0.0
+- pkg:cargo/ironbeam@3.1.0
+- pkg:cargo/ironbeam@3.2.0
+- pkg:cargo/ironbeam@4.0.0
+- pkg:cargo/ironbeam@4.1.0
+- pkg:cargo/ironbeam@4.1.1
