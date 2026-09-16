@@ -36,3 +36,4 @@
 - pkg:cargo/rsenv@5.3.1
 - pkg:cargo/rsenv@5.4.0
 - pkg:cargo/rsenv@5.5.0
+- pkg:cargo/rsenv@6.0.0
