@@ -300,3 +300,6 @@
 - pkg:cargo/bestool@1.9.1
 - pkg:cargo/bestool@1.9.2
 - pkg:cargo/bestool@2.0.0
+- pkg:cargo/bestool@2.0.1
+- pkg:cargo/bestool@2.1.0
+- pkg:cargo/bestool@2.1.1
