@@ -1,2 +1,4 @@
 - pkg:cargo/neon3-sdk@0.1.0
 - pkg:cargo/neon3-sdk@0.1.6
+- pkg:cargo/neon3-sdk@0.1.8
+- pkg:cargo/neon3-sdk@0.1.9
