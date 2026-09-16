@@ -59,3 +59,4 @@
 - pkg:cargo/arrow-string@59.1.0
 - pkg:cargo/arrow-string@59.2.0
 - pkg:cargo/arrow-string@59.3.0
+- pkg:cargo/arrow-string@60.0.0
