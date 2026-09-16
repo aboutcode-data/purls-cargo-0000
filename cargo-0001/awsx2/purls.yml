@@ -20,3 +20,7 @@
 - pkg:cargo/awsx2@0.7.4
 - pkg:cargo/awsx2@0.7.5
 - pkg:cargo/awsx2@0.7.6
+- pkg:cargo/awsx2@0.8.0
+- pkg:cargo/awsx2@0.8.1
+- pkg:cargo/awsx2@0.8.2
+- pkg:cargo/awsx2@0.8.3
