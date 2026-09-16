@@ -1,1 +1,2 @@
 - pkg:cargo/nesql@0.0.1
+- pkg:cargo/nesql@8.0.0
