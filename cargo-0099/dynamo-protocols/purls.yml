@@ -22,3 +22,4 @@
 - pkg:cargo/dynamo-protocols@5.4.2
 - pkg:cargo/dynamo-protocols@5.4.3
 - pkg:cargo/dynamo-protocols@6.0.0
+- pkg:cargo/dynamo-protocols@6.0.1
