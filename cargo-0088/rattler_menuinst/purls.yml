@@ -78,3 +78,4 @@
 - pkg:cargo/rattler_menuinst@0.2.78
 - pkg:cargo/rattler_menuinst@0.2.8
 - pkg:cargo/rattler_menuinst@0.2.9
+- pkg:cargo/rattler_menuinst@0.3.0
