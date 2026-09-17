@@ -104,3 +104,5 @@
 - pkg:cargo/kglite-bolt-server@0.17.3
 - pkg:cargo/kglite-bolt-server@0.17.4
 - pkg:cargo/kglite-bolt-server@0.17.5
+- pkg:cargo/kglite-bolt-server@0.17.6
+- pkg:cargo/kglite-bolt-server@0.17.7
