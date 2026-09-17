@@ -13,6 +13,8 @@
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.112
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.113
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.114
+- pkg:cargo/rship-shared-schemas@4.0.0-canary.115
+- pkg:cargo/rship-shared-schemas@4.0.0-canary.116
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.49
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.50
 - pkg:cargo/rship-shared-schemas@4.0.0-canary.51
