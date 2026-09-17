@@ -80,6 +80,7 @@
 - pkg:cargo/aws-sdk-costexplorer@1.126.0
 - pkg:cargo/aws-sdk-costexplorer@1.127.0
 - pkg:cargo/aws-sdk-costexplorer@1.128.0
+- pkg:cargo/aws-sdk-costexplorer@1.129.0
 - pkg:cargo/aws-sdk-costexplorer@1.13.0
 - pkg:cargo/aws-sdk-costexplorer@1.14.0
 - pkg:cargo/aws-sdk-costexplorer@1.15.0
