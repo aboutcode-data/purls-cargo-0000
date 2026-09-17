@@ -30,6 +30,7 @@
 - pkg:cargo/waxpkg@0.20.24
 - pkg:cargo/waxpkg@0.20.25
 - pkg:cargo/waxpkg@0.20.27
+- pkg:cargo/waxpkg@0.20.28
 - pkg:cargo/waxpkg@0.20.3
 - pkg:cargo/waxpkg@0.20.4
 - pkg:cargo/waxpkg@0.20.5
