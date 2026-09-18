@@ -9,6 +9,7 @@
 - pkg:cargo/justerm-core@0.18.0
 - pkg:cargo/justerm-core@0.18.1
 - pkg:cargo/justerm-core@0.20.0
+- pkg:cargo/justerm-core@0.21.0
 - pkg:cargo/justerm-core@0.6.0
 - pkg:cargo/justerm-core@0.7.0
 - pkg:cargo/justerm-core@0.8.0
