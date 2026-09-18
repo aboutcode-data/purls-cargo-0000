@@ -1,3 +1,5 @@
 - pkg:cargo/ts_derp@0.0.0-alpha0
 - pkg:cargo/ts_derp@0.4.0
 - pkg:cargo/ts_derp@0.5.0
+- pkg:cargo/ts_derp@0.6.0
+- pkg:cargo/ts_derp@0.6.1
