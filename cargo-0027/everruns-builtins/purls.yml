@@ -2,6 +2,7 @@
 - pkg:cargo/everruns-builtins@0.18.1
 - pkg:cargo/everruns-builtins@0.18.10
 - pkg:cargo/everruns-builtins@0.18.11
+- pkg:cargo/everruns-builtins@0.18.12
 - pkg:cargo/everruns-builtins@0.18.2
 - pkg:cargo/everruns-builtins@0.18.3
 - pkg:cargo/everruns-builtins@0.18.4
@@ -10,3 +11,4 @@
 - pkg:cargo/everruns-builtins@0.18.7
 - pkg:cargo/everruns-builtins@0.18.8
 - pkg:cargo/everruns-builtins@0.18.9
+- pkg:cargo/everruns-builtins@0.28.0
