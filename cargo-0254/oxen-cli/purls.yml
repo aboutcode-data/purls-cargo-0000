@@ -24,3 +24,4 @@
 - pkg:cargo/oxen-cli@0.55.0
 - pkg:cargo/oxen-cli@0.56.0
 - pkg:cargo/oxen-cli@0.56.1
+- pkg:cargo/oxen-cli@0.57.0
