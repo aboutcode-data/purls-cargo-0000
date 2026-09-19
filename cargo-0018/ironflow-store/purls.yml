@@ -50,6 +50,8 @@
 - pkg:cargo/ironflow-store@2.31.2
 - pkg:cargo/ironflow-store@2.32.0
 - pkg:cargo/ironflow-store@2.32.1
+- pkg:cargo/ironflow-store@2.33.0
+- pkg:cargo/ironflow-store@2.33.1
 - pkg:cargo/ironflow-store@2.4.0
 - pkg:cargo/ironflow-store@2.4.1
 - pkg:cargo/ironflow-store@2.5.0
