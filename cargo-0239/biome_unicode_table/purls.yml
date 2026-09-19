@@ -4,3 +4,4 @@
 - pkg:cargo/biome_unicode_table@0.5.6
 - pkg:cargo/biome_unicode_table@0.5.7
 - pkg:cargo/biome_unicode_table@0.5.9
+- pkg:cargo/biome_unicode_table@0.7.0
