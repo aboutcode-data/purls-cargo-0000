@@ -1,2 +1,4 @@
 - pkg:cargo/oj_deno_runtime@0.2.0
+- pkg:cargo/oj_deno_runtime@0.2.1
+- pkg:cargo/oj_deno_runtime@0.2.2
 - pkg:cargo/oj_deno_runtime@0.267.0
