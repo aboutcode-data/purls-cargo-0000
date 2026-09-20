@@ -19,3 +19,5 @@
 - pkg:cargo/amiss-adoc@0.30.0
 - pkg:cargo/amiss-adoc@0.31.0
 - pkg:cargo/amiss-adoc@0.32.0
+- pkg:cargo/amiss-adoc@0.32.1
+- pkg:cargo/amiss-adoc@0.32.2
