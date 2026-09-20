@@ -105,3 +105,4 @@
 - pkg:cargo/xidl-build@0.90.0
 - pkg:cargo/xidl-build@0.91.0
 - pkg:cargo/xidl-build@0.91.1
+- pkg:cargo/xidl-build@0.92.0
