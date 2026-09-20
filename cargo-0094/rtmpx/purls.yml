@@ -2,3 +2,4 @@
 - pkg:cargo/rtmpx@2.0.0
 - pkg:cargo/rtmpx@3.0.0
 - pkg:cargo/rtmpx@3.0.1
+- pkg:cargo/rtmpx@3.1.0
