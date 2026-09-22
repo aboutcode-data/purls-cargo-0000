@@ -3,5 +3,6 @@
 - pkg:cargo/csusage-adapter-dsh@0.0.12
 - pkg:cargo/csusage-adapter-dsh@0.0.13
 - pkg:cargo/csusage-adapter-dsh@0.0.14
+- pkg:cargo/csusage-adapter-dsh@0.0.15
 - pkg:cargo/csusage-adapter-dsh@0.0.8
 - pkg:cargo/csusage-adapter-dsh@0.0.9
