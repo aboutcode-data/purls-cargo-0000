@@ -27,3 +27,4 @@
 - pkg:cargo/genegraph-storage@0.69.1
 - pkg:cargo/genegraph-storage@0.69.2
 - pkg:cargo/genegraph-storage@0.70.0
+- pkg:cargo/genegraph-storage@0.72.0
