@@ -1,4 +1,6 @@
 - pkg:cargo/transform-gizmo-egui@0.1.0
+- pkg:cargo/transform-gizmo-egui@0.10.0
+- pkg:cargo/transform-gizmo-egui@0.11.0
 - pkg:cargo/transform-gizmo-egui@0.2.0
 - pkg:cargo/transform-gizmo-egui@0.3.0
 - pkg:cargo/transform-gizmo-egui@0.4.0

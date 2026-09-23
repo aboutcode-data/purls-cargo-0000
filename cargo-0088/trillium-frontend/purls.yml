@@ -1,2 +1,7 @@
 - pkg:cargo/trillium-frontend@0.2.0
+- pkg:cargo/trillium-frontend@0.3.0
 - pkg:cargo/trillium-frontend@0.3.0-rc.1
+- pkg:cargo/trillium-frontend@0.4.0
+- pkg:cargo/trillium-frontend@0.4.1
+- pkg:cargo/trillium-frontend@0.4.2
+- pkg:cargo/trillium-frontend@0.4.3
