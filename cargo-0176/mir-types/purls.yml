@@ -85,6 +85,14 @@
 - pkg:cargo/mir-types@0.7.3
 - pkg:cargo/mir-types@0.70.0
 - pkg:cargo/mir-types@0.70.1
+- pkg:cargo/mir-types@0.71.0
+- pkg:cargo/mir-types@0.72.0
+- pkg:cargo/mir-types@0.72.1
+- pkg:cargo/mir-types@0.73.0
+- pkg:cargo/mir-types@0.74.0
+- pkg:cargo/mir-types@0.75.0
+- pkg:cargo/mir-types@0.76.0
+- pkg:cargo/mir-types@0.77.0
 - pkg:cargo/mir-types@0.8.0
 - pkg:cargo/mir-types@0.9.0
 - pkg:cargo/mir-types@0.9.1
