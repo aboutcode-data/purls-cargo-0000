@@ -2,3 +2,4 @@
 - pkg:cargo/treesitter-types-javascript@0.1.1
 - pkg:cargo/treesitter-types-javascript@0.1.2
 - pkg:cargo/treesitter-types-javascript@0.2.0
+- pkg:cargo/treesitter-types-javascript@1.0.0

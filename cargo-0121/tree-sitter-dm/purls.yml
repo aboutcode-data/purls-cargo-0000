@@ -1,1 +1,4 @@
 - pkg:cargo/tree-sitter-dm@0.25.0
+- pkg:cargo/tree-sitter-dm@0.25.1
+- pkg:cargo/tree-sitter-dm@0.25.3
+- pkg:cargo/tree-sitter-dm@0.25.4
