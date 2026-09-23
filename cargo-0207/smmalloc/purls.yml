@@ -5,6 +5,11 @@
 - pkg:cargo/smmalloc@7.5.7
 - pkg:cargo/smmalloc@7.6.0
 - pkg:cargo/smmalloc@7.6.1
+- pkg:cargo/smmalloc@7.6.10%2Bc55d2f585a638d795a1d2927baa982712eed93ab
+- pkg:cargo/smmalloc@7.6.11%2B8fc67fe88652eb2bf39221d024f6815d37d191b6
+- pkg:cargo/smmalloc@7.6.12%2B2e0a61f982d936e80bbdbc40b747df3ee65ebd83
+- pkg:cargo/smmalloc@7.6.13%2B59fa8012bfa1f62b849e83515f1be695230c3fd3
 - pkg:cargo/smmalloc@7.6.2
 - pkg:cargo/smmalloc@7.6.3
 - pkg:cargo/smmalloc@7.6.4
+- pkg:cargo/smmalloc@7.6.9%2Bb140dc6f0bfa37c175e5e7b315e8c59e1712808b
