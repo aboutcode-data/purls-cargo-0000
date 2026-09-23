@@ -1,0 +1,5 @@
+- pkg:cargo/tree-sitter-hujson@0.2.3
+- pkg:cargo/tree-sitter-hujson@1.0.0
+- pkg:cargo/tree-sitter-hujson@1.0.1
+- pkg:cargo/tree-sitter-hujson@1.1.0
+- pkg:cargo/tree-sitter-hujson@1.2.0
