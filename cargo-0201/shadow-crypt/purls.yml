@@ -11,3 +11,4 @@
 - pkg:cargo/shadow-crypt@1.0.9
 - pkg:cargo/shadow-crypt@1.1.0
 - pkg:cargo/shadow-crypt@2.0.0
+- pkg:cargo/shadow-crypt@3.0.0
