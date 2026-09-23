@@ -12,3 +12,10 @@
 - pkg:cargo/libaeron_archive_c_client-sys@1.49.1
 - pkg:cargo/libaeron_archive_c_client-sys@1.50.4
 - pkg:cargo/libaeron_archive_c_client-sys@1.51.0
+- pkg:cargo/libaeron_archive_c_client-sys@1.51.1
+- pkg:cargo/libaeron_archive_c_client-sys@1.52.0
+- pkg:cargo/libaeron_archive_c_client-sys@1.52.1
+- pkg:cargo/libaeron_archive_c_client-sys@1.52.2
+- pkg:cargo/libaeron_archive_c_client-sys@1.53.0
+- pkg:cargo/libaeron_archive_c_client-sys@1.53.1
+- pkg:cargo/libaeron_archive_c_client-sys@1.53.2

@@ -1,1 +1,3 @@
 - pkg:cargo/libafl_nyx@0.15.3
+- pkg:cargo/libafl_nyx@0.16.0
+- pkg:cargo/libafl_nyx@0.16.1
