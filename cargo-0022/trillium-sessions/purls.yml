@@ -8,3 +8,4 @@
 - pkg:cargo/trillium-sessions@0.4.4
 - pkg:cargo/trillium-sessions@0.5.0
 - pkg:cargo/trillium-sessions@0.5.0-rc.1
+- pkg:cargo/trillium-sessions@0.6.0
