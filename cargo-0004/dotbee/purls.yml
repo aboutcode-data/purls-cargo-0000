@@ -7,3 +7,4 @@
 - pkg:cargo/dotbee@0.7.0
 - pkg:cargo/dotbee@0.8.0
 - pkg:cargo/dotbee@0.9.0
+- pkg:cargo/dotbee@1.0.0
