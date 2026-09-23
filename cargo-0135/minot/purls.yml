@@ -1,3 +1,10 @@
+- pkg:cargo/minot@0.10.0
+- pkg:cargo/minot@0.10.1
+- pkg:cargo/minot@0.10.2
+- pkg:cargo/minot@0.11.0
+- pkg:cargo/minot@0.11.1
+- pkg:cargo/minot@0.11.2
+- pkg:cargo/minot@0.11.3
 - pkg:cargo/minot@0.2.0
 - pkg:cargo/minot@0.2.1
 - pkg:cargo/minot@0.3.0
@@ -12,3 +19,4 @@
 - pkg:cargo/minot@0.6.0
 - pkg:cargo/minot@0.7.0
 - pkg:cargo/minot@0.8.0
+- pkg:cargo/minot@0.9.0
