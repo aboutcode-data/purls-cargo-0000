@@ -22,3 +22,8 @@
 - pkg:cargo/qp-zk-circuits-common@2.0.1
 - pkg:cargo/qp-zk-circuits-common@3.0.0
 - pkg:cargo/qp-zk-circuits-common@3.1.0
+- pkg:cargo/qp-zk-circuits-common@4.0.0
+- pkg:cargo/qp-zk-circuits-common@4.1.0
+- pkg:cargo/qp-zk-circuits-common@4.2.0
+- pkg:cargo/qp-zk-circuits-common@4.3.0
+- pkg:cargo/qp-zk-circuits-common@4.4.0

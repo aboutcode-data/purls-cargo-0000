@@ -12,3 +12,6 @@
 - pkg:cargo/qp-rusty-crystals-hdwallet@2.4.0
 - pkg:cargo/qp-rusty-crystals-hdwallet@3.0.0
 - pkg:cargo/qp-rusty-crystals-hdwallet@3.0.1
+- pkg:cargo/qp-rusty-crystals-hdwallet@4.0.0
+- pkg:cargo/qp-rusty-crystals-hdwallet@4.1.0
+- pkg:cargo/qp-rusty-crystals-hdwallet@4.1.1
