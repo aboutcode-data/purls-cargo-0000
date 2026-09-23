@@ -1,4 +1,5 @@
 - pkg:cargo/libp2p-webrtc@0.1.0
+- pkg:cargo/libp2p-webrtc@0.10.0-alpha
 - pkg:cargo/libp2p-webrtc@0.2.0
 - pkg:cargo/libp2p-webrtc@0.2.1
 - pkg:cargo/libp2p-webrtc@0.3.0

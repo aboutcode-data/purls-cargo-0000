@@ -8,6 +8,7 @@
 - pkg:cargo/libp2p-identity@0.2.11
 - pkg:cargo/libp2p-identity@0.2.12
 - pkg:cargo/libp2p-identity@0.2.13
+- pkg:cargo/libp2p-identity@0.2.14
 - pkg:cargo/libp2p-identity@0.2.2
 - pkg:cargo/libp2p-identity@0.2.3
 - pkg:cargo/libp2p-identity@0.2.4
@@ -16,3 +17,4 @@
 - pkg:cargo/libp2p-identity@0.2.7
 - pkg:cargo/libp2p-identity@0.2.8
 - pkg:cargo/libp2p-identity@0.2.9
+- pkg:cargo/libp2p-identity@0.3.0
