@@ -1,1 +1,7 @@
 - pkg:cargo/smolmix@1.21.0
+- pkg:cargo/smolmix@1.21.1
+- pkg:cargo/smolmix@1.21.2
+- pkg:cargo/smolmix@1.21.4
+- pkg:cargo/smolmix@1.21.5
+- pkg:cargo/smolmix@1.21.5-rc.1
+- pkg:cargo/smolmix@1.21.5-rc.2
