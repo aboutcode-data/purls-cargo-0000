@@ -1,3 +1,7 @@
 - pkg:cargo/libubpf-sys@0.1.0
 - pkg:cargo/libubpf-sys@0.9.610%2B9fef7d5
 - pkg:cargo/libubpf-sys@0.9.611%2B2c7a276
+- pkg:cargo/libubpf-sys@0.9.681%2B890575a
+- pkg:cargo/libubpf-sys@1.0.681%2B890575a
+- pkg:cargo/libubpf-sys@1.0.692%2B508d5e4
+- pkg:cargo/libubpf-sys@1.0.693%2Be374cd2

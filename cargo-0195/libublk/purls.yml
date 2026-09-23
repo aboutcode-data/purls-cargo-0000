@@ -17,3 +17,5 @@
 - pkg:cargo/libublk@0.4.4
 - pkg:cargo/libublk@0.4.5
 - pkg:cargo/libublk@0.4.6
+- pkg:cargo/libublk@0.4.7
+- pkg:cargo/libublk@0.4.8
