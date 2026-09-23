@@ -16,4 +16,6 @@
 - pkg:cargo/affinidi-messaging-mediator-processors@0.12.4
 - pkg:cargo/affinidi-messaging-mediator-processors@0.13.0
 - pkg:cargo/affinidi-messaging-mediator-processors@0.13.1
+- pkg:cargo/affinidi-messaging-mediator-processors@0.14.0
+- pkg:cargo/affinidi-messaging-mediator-processors@0.14.1
 - pkg:cargo/affinidi-messaging-mediator-processors@0.9.7
