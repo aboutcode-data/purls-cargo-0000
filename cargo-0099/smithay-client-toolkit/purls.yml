@@ -28,6 +28,8 @@
 - pkg:cargo/smithay-client-toolkit@0.2.5
 - pkg:cargo/smithay-client-toolkit@0.2.6
 - pkg:cargo/smithay-client-toolkit@0.20.0
+- pkg:cargo/smithay-client-toolkit@0.21.0
+- pkg:cargo/smithay-client-toolkit@0.21.1
 - pkg:cargo/smithay-client-toolkit@0.3.0
 - pkg:cargo/smithay-client-toolkit@0.4.0
 - pkg:cargo/smithay-client-toolkit@0.4.1
