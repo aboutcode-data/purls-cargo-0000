@@ -10,3 +10,5 @@
 - pkg:cargo/fn-ptr@0.8.0
 - pkg:cargo/fn-ptr@0.9.0
 - pkg:cargo/fn-ptr@0.9.1
+- pkg:cargo/fn-ptr@0.9.2
+- pkg:cargo/fn-ptr@0.9.3
