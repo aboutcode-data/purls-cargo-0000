@@ -44,3 +44,6 @@
 - pkg:cargo/lightning-block-sync@0.2.0-beta1
 - pkg:cargo/lightning-block-sync@0.2.0-rc1
 - pkg:cargo/lightning-block-sync@0.2.0-rc2
+- pkg:cargo/lightning-block-sync@0.3.0-beta1
+- pkg:cargo/lightning-block-sync@0.3.0-rc1
+- pkg:cargo/lightning-block-sync@0.3.0-rc2
