@@ -126,3 +126,12 @@
 - pkg:cargo/lindera-cli@3.0.5
 - pkg:cargo/lindera-cli@3.0.6
 - pkg:cargo/lindera-cli@3.0.7
+- pkg:cargo/lindera-cli@4.0.0
+- pkg:cargo/lindera-cli@4.0.1
+- pkg:cargo/lindera-cli@5.0.0
+- pkg:cargo/lindera-cli@5.0.1
+- pkg:cargo/lindera-cli@5.0.2
+- pkg:cargo/lindera-cli@5.1.0
+- pkg:cargo/lindera-cli@5.2.0
+- pkg:cargo/lindera-cli@5.3.0
+- pkg:cargo/lindera-cli@6.0.0
