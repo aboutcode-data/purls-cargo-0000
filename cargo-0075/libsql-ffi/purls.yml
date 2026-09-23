@@ -1,4 +1,8 @@
 - pkg:cargo/libsql-ffi@0.1.0
+- pkg:cargo/libsql-ffi@0.10.0-pre.1
+- pkg:cargo/libsql-ffi@0.10.0-pre.2
+- pkg:cargo/libsql-ffi@0.10.0-pre.3
+- pkg:cargo/libsql-ffi@0.10.0-pre.4
 - pkg:cargo/libsql-ffi@0.2.0
 - pkg:cargo/libsql-ffi@0.2.1
 - pkg:cargo/libsql-ffi@0.3.0
