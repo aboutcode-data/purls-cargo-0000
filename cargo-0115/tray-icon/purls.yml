@@ -39,6 +39,10 @@
 - pkg:cargo/tray-icon@0.23.0
 - pkg:cargo/tray-icon@0.23.1
 - pkg:cargo/tray-icon@0.24.0
+- pkg:cargo/tray-icon@0.24.1
+- pkg:cargo/tray-icon@0.24.2
+- pkg:cargo/tray-icon@0.25.0
+- pkg:cargo/tray-icon@0.25.1
 - pkg:cargo/tray-icon@0.3.0
 - pkg:cargo/tray-icon@0.4.0
 - pkg:cargo/tray-icon@0.4.1
