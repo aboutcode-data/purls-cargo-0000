@@ -7,6 +7,7 @@
 - pkg:cargo/librocksdb-sys@0.16.0%2B8.10.0
 - pkg:cargo/librocksdb-sys@0.17.1%2B9.9.3
 - pkg:cargo/librocksdb-sys@0.17.3%2B10.4.2
+- pkg:cargo/librocksdb-sys@0.19.0%2B11.8.1
 - pkg:cargo/librocksdb-sys@0.4.0
 - pkg:cargo/librocksdb-sys@0.4.1
 - pkg:cargo/librocksdb-sys@0.5.0
