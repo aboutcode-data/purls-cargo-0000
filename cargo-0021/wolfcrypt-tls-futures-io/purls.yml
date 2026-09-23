@@ -1,3 +1,4 @@
 - pkg:cargo/wolfcrypt-tls-futures-io@0.1.0
 - pkg:cargo/wolfcrypt-tls-futures-io@0.1.1
 - pkg:cargo/wolfcrypt-tls-futures-io@0.2.0
+- pkg:cargo/wolfcrypt-tls-futures-io@0.2.1
