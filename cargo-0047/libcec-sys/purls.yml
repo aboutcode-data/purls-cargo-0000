@@ -31,3 +31,4 @@
 - pkg:cargo/libcec-sys@9.0.0
 - pkg:cargo/libcec-sys@9.0.2
 - pkg:cargo/libcec-sys@9.0.3
+- pkg:cargo/libcec-sys@9.0.4
