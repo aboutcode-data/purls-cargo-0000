@@ -23,3 +23,5 @@
 - pkg:cargo/libcnb-common@0.30.2
 - pkg:cargo/libcnb-common@0.30.3
 - pkg:cargo/libcnb-common@0.30.4
+- pkg:cargo/libcnb-common@0.31.0
+- pkg:cargo/libcnb-common@0.31.1
