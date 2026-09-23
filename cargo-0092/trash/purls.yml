@@ -45,3 +45,6 @@
 - pkg:cargo/trash@5.2.4
 - pkg:cargo/trash@5.2.5
 - pkg:cargo/trash@5.2.6
+- pkg:cargo/trash@5.2.7
+- pkg:cargo/trash@5.2.8
+- pkg:cargo/trash@5.2.9
