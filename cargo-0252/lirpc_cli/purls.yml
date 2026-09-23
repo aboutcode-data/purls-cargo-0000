@@ -1,0 +1,5 @@
+- pkg:cargo/lirpc_cli@0.1.0
+- pkg:cargo/lirpc_cli@0.2.0-rc0
+- pkg:cargo/lirpc_cli@0.2.0-rc1
+- pkg:cargo/lirpc_cli@0.2.0-rc3
+- pkg:cargo/lirpc_cli@0.2.0-rc4
