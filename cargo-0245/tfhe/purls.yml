@@ -99,4 +99,8 @@
 - pkg:cargo/tfhe@1.6.1
 - pkg:cargo/tfhe@1.6.2
 - pkg:cargo/tfhe@1.6.3
+- pkg:cargo/tfhe@1.6.4
 - pkg:cargo/tfhe@1.7.0
+- pkg:cargo/tfhe@1.7.1
+- pkg:cargo/tfhe@1.8.0
+- pkg:cargo/tfhe@1.8.1
