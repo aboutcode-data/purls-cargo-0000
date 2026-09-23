@@ -3,3 +3,5 @@
 - pkg:cargo/shaka@0.0.2
 - pkg:cargo/shaka@0.0.3
 - pkg:cargo/shaka@0.0.5
+- pkg:cargo/shaka@0.0.6
+- pkg:cargo/shaka@1.0.0
