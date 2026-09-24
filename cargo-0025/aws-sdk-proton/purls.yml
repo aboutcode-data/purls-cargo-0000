@@ -46,7 +46,20 @@
 - pkg:cargo/aws-sdk-proton@0.9.0
 - pkg:cargo/aws-sdk-proton@1.1.0
 - pkg:cargo/aws-sdk-proton@1.10.0
+- pkg:cargo/aws-sdk-proton@1.100.0
+- pkg:cargo/aws-sdk-proton@1.101.0
+- pkg:cargo/aws-sdk-proton@1.102.0
+- pkg:cargo/aws-sdk-proton@1.103.0
+- pkg:cargo/aws-sdk-proton@1.104.0
+- pkg:cargo/aws-sdk-proton@1.105.0
+- pkg:cargo/aws-sdk-proton@1.106.0
+- pkg:cargo/aws-sdk-proton@1.107.0
+- pkg:cargo/aws-sdk-proton@1.108.0
+- pkg:cargo/aws-sdk-proton@1.109.0
 - pkg:cargo/aws-sdk-proton@1.11.0
+- pkg:cargo/aws-sdk-proton@1.110.0
+- pkg:cargo/aws-sdk-proton@1.111.0
+- pkg:cargo/aws-sdk-proton@1.112.0
 - pkg:cargo/aws-sdk-proton@1.12.0
 - pkg:cargo/aws-sdk-proton@1.13.0
 - pkg:cargo/aws-sdk-proton@1.14.0
@@ -141,3 +154,5 @@
 - pkg:cargo/aws-sdk-proton@1.95.0
 - pkg:cargo/aws-sdk-proton@1.96.0
 - pkg:cargo/aws-sdk-proton@1.97.0
+- pkg:cargo/aws-sdk-proton@1.98.0
+- pkg:cargo/aws-sdk-proton@1.99.0
