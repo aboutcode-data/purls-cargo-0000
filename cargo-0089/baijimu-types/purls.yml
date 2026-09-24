@@ -20,3 +20,5 @@
 - pkg:cargo/baijimu-types@5.6.0
 - pkg:cargo/baijimu-types@5.7.0
 - pkg:cargo/baijimu-types@5.8.0
+- pkg:cargo/baijimu-types@6.0.0
+- pkg:cargo/baijimu-types@7.0.0
