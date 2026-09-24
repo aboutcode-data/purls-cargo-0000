@@ -1,7 +1,18 @@
 - pkg:cargo/aws-sdk-freetier@1.0.0
 - pkg:cargo/aws-sdk-freetier@1.1.0
 - pkg:cargo/aws-sdk-freetier@1.10.0
+- pkg:cargo/aws-sdk-freetier@1.100.0
+- pkg:cargo/aws-sdk-freetier@1.101.0
+- pkg:cargo/aws-sdk-freetier@1.102.0
+- pkg:cargo/aws-sdk-freetier@1.103.0
+- pkg:cargo/aws-sdk-freetier@1.104.0
+- pkg:cargo/aws-sdk-freetier@1.105.0
+- pkg:cargo/aws-sdk-freetier@1.106.0
+- pkg:cargo/aws-sdk-freetier@1.107.0
+- pkg:cargo/aws-sdk-freetier@1.108.0
+- pkg:cargo/aws-sdk-freetier@1.109.0
 - pkg:cargo/aws-sdk-freetier@1.11.0
+- pkg:cargo/aws-sdk-freetier@1.110.0
 - pkg:cargo/aws-sdk-freetier@1.12.0
 - pkg:cargo/aws-sdk-freetier@1.13.0
 - pkg:cargo/aws-sdk-freetier@1.14.0
@@ -95,3 +106,6 @@
 - pkg:cargo/aws-sdk-freetier@1.94.0
 - pkg:cargo/aws-sdk-freetier@1.95.0
 - pkg:cargo/aws-sdk-freetier@1.96.0
+- pkg:cargo/aws-sdk-freetier@1.97.0
+- pkg:cargo/aws-sdk-freetier@1.98.0
+- pkg:cargo/aws-sdk-freetier@1.99.0
