@@ -5,3 +5,4 @@
 - pkg:cargo/icu_provider_registry@2.1.1
 - pkg:cargo/icu_provider_registry@2.1.2
 - pkg:cargo/icu_provider_registry@2.2.0
+- pkg:cargo/icu_provider_registry@2.3.0
