@@ -7,6 +7,7 @@
 - pkg:cargo/oxdock-fs@0.15.0-alpha
 - pkg:cargo/oxdock-fs@0.16.0-alpha
 - pkg:cargo/oxdock-fs@0.17.0-alpha
+- pkg:cargo/oxdock-fs@0.18.0-alpha
 - pkg:cargo/oxdock-fs@0.2.0-alpha
 - pkg:cargo/oxdock-fs@0.3.0-alpha
 - pkg:cargo/oxdock-fs@0.4.0-alpha
