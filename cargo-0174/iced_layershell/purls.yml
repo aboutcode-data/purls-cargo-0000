@@ -32,6 +32,8 @@
 - pkg:cargo/iced_layershell@0.18.0-beta1
 - pkg:cargo/iced_layershell@0.18.0-beta4
 - pkg:cargo/iced_layershell@0.18.1
+- pkg:cargo/iced_layershell@0.19.0
+- pkg:cargo/iced_layershell@0.19.1
 - pkg:cargo/iced_layershell@0.2.0
 - pkg:cargo/iced_layershell@0.2.1
 - pkg:cargo/iced_layershell@0.2.2
