@@ -70,3 +70,4 @@
 - pkg:cargo/aws-smithy-protocol-test@0.63.7
 - pkg:cargo/aws-smithy-protocol-test@0.63.8
 - pkg:cargo/aws-smithy-protocol-test@0.63.9
+- pkg:cargo/aws-smithy-protocol-test@0.64.0
