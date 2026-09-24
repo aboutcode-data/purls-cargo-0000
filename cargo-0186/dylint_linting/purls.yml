@@ -90,3 +90,4 @@
 - pkg:cargo/dylint_linting@6.0.2
 - pkg:cargo/dylint_linting@6.0.3
 - pkg:cargo/dylint_linting@6.0.4
+- pkg:cargo/dylint_linting@6.1.0
