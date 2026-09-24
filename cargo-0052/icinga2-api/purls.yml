@@ -39,3 +39,5 @@
 - pkg:cargo/icinga2-api@0.2.7
 - pkg:cargo/icinga2-api@0.2.8
 - pkg:cargo/icinga2-api@0.2.9
+- pkg:cargo/icinga2-api@0.3.0
+- pkg:cargo/icinga2-api@0.3.1
