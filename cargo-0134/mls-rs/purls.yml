@@ -40,3 +40,8 @@
 - pkg:cargo/mls-rs@0.53.0
 - pkg:cargo/mls-rs@0.54.0
 - pkg:cargo/mls-rs@0.55.0
+- pkg:cargo/mls-rs@0.55.1
+- pkg:cargo/mls-rs@0.55.2
+- pkg:cargo/mls-rs@0.55.3
+- pkg:cargo/mls-rs@0.55.4
+- pkg:cargo/mls-rs@0.56.0
