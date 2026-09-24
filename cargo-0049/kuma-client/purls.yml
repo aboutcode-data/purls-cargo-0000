@@ -8,3 +8,5 @@
 - pkg:cargo/kuma-client@0.8.0
 - pkg:cargo/kuma-client@1.0.0
 - pkg:cargo/kuma-client@2.0.0
+- pkg:cargo/kuma-client@2.1.0-rc.1
+- pkg:cargo/kuma-client@2.1.0-rc.2

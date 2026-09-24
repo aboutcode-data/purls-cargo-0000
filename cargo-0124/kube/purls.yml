@@ -129,3 +129,5 @@
 - pkg:cargo/kube@3.0.0
 - pkg:cargo/kube@3.0.1
 - pkg:cargo/kube@3.1.0
+- pkg:cargo/kube@4.0.0
+- pkg:cargo/kube@4.2.0
