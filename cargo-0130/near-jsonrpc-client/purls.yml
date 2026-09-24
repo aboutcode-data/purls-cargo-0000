@@ -19,6 +19,8 @@
 - pkg:cargo/near-jsonrpc-client@0.21.1
 - pkg:cargo/near-jsonrpc-client@0.22.0
 - pkg:cargo/near-jsonrpc-client@0.22.0-rc.1
+- pkg:cargo/near-jsonrpc-client@0.23.0-rc.1
+- pkg:cargo/near-jsonrpc-client@0.23.0-rc.2
 - pkg:cargo/near-jsonrpc-client@0.3.0
 - pkg:cargo/near-jsonrpc-client@0.4.0
 - pkg:cargo/near-jsonrpc-client@0.4.0-beta.0
