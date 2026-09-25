@@ -6,3 +6,4 @@
 - pkg:cargo/vivacity-pcre2@0.15.0
 - pkg:cargo/vivacity-pcre2@0.16.0
 - pkg:cargo/vivacity-pcre2@0.17.0
+- pkg:cargo/vivacity-pcre2@0.18.0
