@@ -30,3 +30,6 @@
 - pkg:cargo/taudit@1.1.2
 - pkg:cargo/taudit@1.1.4
 - pkg:cargo/taudit@1.1.5
+- pkg:cargo/taudit@1.3.1
+- pkg:cargo/taudit@1.3.2
+- pkg:cargo/taudit@1.3.3

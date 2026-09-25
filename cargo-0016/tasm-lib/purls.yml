@@ -9,3 +9,8 @@
 - pkg:cargo/tasm-lib@1.0.0
 - pkg:cargo/tasm-lib@2.0.0
 - pkg:cargo/tasm-lib@3.0.0
+- pkg:cargo/tasm-lib@3.0.1
+- pkg:cargo/tasm-lib@4.0.0
+- pkg:cargo/tasm-lib@6.0.0
+- pkg:cargo/tasm-lib@7.0.0
+- pkg:cargo/tasm-lib@8.0.0
