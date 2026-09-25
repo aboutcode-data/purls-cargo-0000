@@ -4,3 +4,4 @@
 - pkg:cargo/blazegraph-io-core@0.1.2
 - pkg:cargo/blazegraph-io-core@0.2.0
 - pkg:cargo/blazegraph-io-core@0.2.2
+- pkg:cargo/blazegraph-io-core@0.3.0
