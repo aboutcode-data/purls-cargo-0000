@@ -6,3 +6,5 @@
 - pkg:cargo/hyphae-contracts@1.2.2
 - pkg:cargo/hyphae-contracts@2.0.1
 - pkg:cargo/hyphae-contracts@2.2.0
+- pkg:cargo/hyphae-contracts@3.0.0
+- pkg:cargo/hyphae-contracts@4.0.0
