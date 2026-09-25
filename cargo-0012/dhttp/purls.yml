@@ -15,3 +15,4 @@
 - pkg:cargo/dhttp@0.6.1-beta.1
 - pkg:cargo/dhttp@0.6.1-beta.2
 - pkg:cargo/dhttp@0.6.1-beta.3
+- pkg:cargo/dhttp@0.6.2

@@ -1,3 +1,5 @@
+- pkg:cargo/dhara_storage_core@0.10.0
+- pkg:cargo/dhara_storage_core@0.10.1
 - pkg:cargo/dhara_storage_core@0.9.22
 - pkg:cargo/dhara_storage_core@0.9.23
 - pkg:cargo/dhara_storage_core@0.9.6
