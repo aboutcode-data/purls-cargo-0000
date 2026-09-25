@@ -3,3 +3,4 @@
 - pkg:cargo/sz-orm-ai-migration@7.3.0
 - pkg:cargo/sz-orm-ai-migration@7.6.0
 - pkg:cargo/sz-orm-ai-migration@7.7.0
+- pkg:cargo/sz-orm-ai-migration@8.8.0

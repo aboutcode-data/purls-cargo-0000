@@ -14,3 +14,4 @@
 - pkg:cargo/sz-orm-mssql@7.3.0
 - pkg:cargo/sz-orm-mssql@7.6.0
 - pkg:cargo/sz-orm-mssql@7.7.0
+- pkg:cargo/sz-orm-mssql@8.8.0
