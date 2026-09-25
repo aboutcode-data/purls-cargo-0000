@@ -2,6 +2,7 @@
 - pkg:cargo/blasthttp@0.1.2
 - pkg:cargo/blasthttp@0.1.3
 - pkg:cargo/blasthttp@0.1.4
+- pkg:cargo/blasthttp@0.10.0
 - pkg:cargo/blasthttp@0.2.0
 - pkg:cargo/blasthttp@0.3.2
 - pkg:cargo/blasthttp@0.4.0
