@@ -5,3 +5,14 @@
 - pkg:cargo/sz-orm-observability@1.5.0
 - pkg:cargo/sz-orm-observability@2.0.0
 - pkg:cargo/sz-orm-observability@2.1.0
+- pkg:cargo/sz-orm-observability@2.3.0
+- pkg:cargo/sz-orm-observability@3.5.0
+- pkg:cargo/sz-orm-observability@4.7.0
+- pkg:cargo/sz-orm-observability@4.9.0
+- pkg:cargo/sz-orm-observability@5.0.0
+- pkg:cargo/sz-orm-observability@5.1.0
+- pkg:cargo/sz-orm-observability@6.0.0
+- pkg:cargo/sz-orm-observability@6.2.0
+- pkg:cargo/sz-orm-observability@7.3.0
+- pkg:cargo/sz-orm-observability@7.6.0
+- pkg:cargo/sz-orm-observability@7.7.0

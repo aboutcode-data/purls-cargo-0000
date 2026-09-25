@@ -4,3 +4,13 @@
 - pkg:cargo/sz-orm-mssql@1.5.0
 - pkg:cargo/sz-orm-mssql@2.0.0
 - pkg:cargo/sz-orm-mssql@2.1.0
+- pkg:cargo/sz-orm-mssql@2.3.0
+- pkg:cargo/sz-orm-mssql@3.5.0
+- pkg:cargo/sz-orm-mssql@4.7.0
+- pkg:cargo/sz-orm-mssql@4.9.0
+- pkg:cargo/sz-orm-mssql@5.0.0
+- pkg:cargo/sz-orm-mssql@5.1.0
+- pkg:cargo/sz-orm-mssql@6.0.0
+- pkg:cargo/sz-orm-mssql@7.3.0
+- pkg:cargo/sz-orm-mssql@7.6.0
+- pkg:cargo/sz-orm-mssql@7.7.0

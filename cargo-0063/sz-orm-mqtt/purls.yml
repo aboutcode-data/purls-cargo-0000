@@ -6,3 +6,14 @@
 - pkg:cargo/sz-orm-mqtt@1.5.0
 - pkg:cargo/sz-orm-mqtt@2.0.0
 - pkg:cargo/sz-orm-mqtt@2.1.0
+- pkg:cargo/sz-orm-mqtt@2.3.0
+- pkg:cargo/sz-orm-mqtt@3.5.0
+- pkg:cargo/sz-orm-mqtt@4.7.0
+- pkg:cargo/sz-orm-mqtt@4.9.0
+- pkg:cargo/sz-orm-mqtt@5.0.0
+- pkg:cargo/sz-orm-mqtt@5.1.0
+- pkg:cargo/sz-orm-mqtt@6.0.0
+- pkg:cargo/sz-orm-mqtt@6.2.0
+- pkg:cargo/sz-orm-mqtt@7.3.0
+- pkg:cargo/sz-orm-mqtt@7.6.0
+- pkg:cargo/sz-orm-mqtt@7.7.0
