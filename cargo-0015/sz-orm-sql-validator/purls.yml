@@ -21,3 +21,4 @@
 - pkg:cargo/sz-orm-sql-validator@7.6.0
 - pkg:cargo/sz-orm-sql-validator@7.7.0
 - pkg:cargo/sz-orm-sql-validator@8.7.0
+- pkg:cargo/sz-orm-sql-validator@8.8.0
