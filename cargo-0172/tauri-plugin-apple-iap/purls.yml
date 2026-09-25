@@ -1,1 +1,2 @@
 - pkg:cargo/tauri-plugin-apple-iap@1.0.0
+- pkg:cargo/tauri-plugin-apple-iap@1.0.1
