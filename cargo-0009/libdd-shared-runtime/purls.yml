@@ -2,3 +2,4 @@
 - pkg:cargo/libdd-shared-runtime@2.0.0
 - pkg:cargo/libdd-shared-runtime@3.0.0
 - pkg:cargo/libdd-shared-runtime@4.0.0
+- pkg:cargo/libdd-shared-runtime@5.0.0

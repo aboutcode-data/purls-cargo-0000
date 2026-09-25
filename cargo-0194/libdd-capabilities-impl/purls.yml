@@ -3,3 +3,4 @@
 - pkg:cargo/libdd-capabilities-impl@3.0.0
 - pkg:cargo/libdd-capabilities-impl@4.0.0
 - pkg:cargo/libdd-capabilities-impl@5.0.0
+- pkg:cargo/libdd-capabilities-impl@6.0.0

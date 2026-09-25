@@ -26,3 +26,4 @@
 - pkg:cargo/libdrmtap-sys@0.5.5
 - pkg:cargo/libdrmtap-sys@0.5.6
 - pkg:cargo/libdrmtap-sys@0.5.7
+- pkg:cargo/libdrmtap-sys@0.5.8
