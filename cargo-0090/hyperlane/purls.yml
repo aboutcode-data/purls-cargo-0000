@@ -275,6 +275,10 @@
 - pkg:cargo/hyperlane@21.3.4
 - pkg:cargo/hyperlane@21.3.5
 - pkg:cargo/hyperlane@21.3.6
+- pkg:cargo/hyperlane@21.5.0
+- pkg:cargo/hyperlane@21.5.1
+- pkg:cargo/hyperlane@21.5.2
+- pkg:cargo/hyperlane@21.5.3
 - pkg:cargo/hyperlane@3.0.0
 - pkg:cargo/hyperlane@3.0.1
 - pkg:cargo/hyperlane@3.0.2
