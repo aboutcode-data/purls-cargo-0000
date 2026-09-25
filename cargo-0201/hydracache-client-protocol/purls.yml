@@ -21,3 +21,5 @@
 - pkg:cargo/hydracache-client-protocol@0.68.0
 - pkg:cargo/hydracache-client-protocol@0.69.0
 - pkg:cargo/hydracache-client-protocol@0.70.0
+- pkg:cargo/hydracache-client-protocol@0.71.0
+- pkg:cargo/hydracache-client-protocol@0.72.0
