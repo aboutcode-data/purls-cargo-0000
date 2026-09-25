@@ -6,3 +6,4 @@
 - pkg:cargo/libdd-trace-normalization@3.0.0
 - pkg:cargo/libdd-trace-normalization@3.0.1
 - pkg:cargo/libdd-trace-normalization@4.0.0
+- pkg:cargo/libdd-trace-normalization@4.1.0
