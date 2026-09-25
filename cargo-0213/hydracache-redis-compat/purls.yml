@@ -6,3 +6,5 @@
 - pkg:cargo/hydracache-redis-compat@0.68.0
 - pkg:cargo/hydracache-redis-compat@0.69.0
 - pkg:cargo/hydracache-redis-compat@0.70.0
+- pkg:cargo/hydracache-redis-compat@0.71.0
+- pkg:cargo/hydracache-redis-compat@0.72.0
