@@ -7,6 +7,7 @@
 - pkg:cargo/google-cloud-bigquery@0.14.0
 - pkg:cargo/google-cloud-bigquery@0.15.0
 - pkg:cargo/google-cloud-bigquery@0.16.1-preview
+- pkg:cargo/google-cloud-bigquery@0.17.0-preview
 - pkg:cargo/google-cloud-bigquery@0.2.0
 - pkg:cargo/google-cloud-bigquery@0.3.0
 - pkg:cargo/google-cloud-bigquery@0.4.0
