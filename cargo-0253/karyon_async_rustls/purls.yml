@@ -19,6 +19,7 @@
 - pkg:cargo/karyon_async_rustls@0.6.1
 - pkg:cargo/karyon_async_rustls@0.6.2
 - pkg:cargo/karyon_async_rustls@0.6.3
+- pkg:cargo/karyon_async_rustls@1.0.0
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.1
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.2
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.5
@@ -26,3 +27,4 @@
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.7
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.8
 - pkg:cargo/karyon_async_rustls@1.0.0-alpha.9
+- pkg:cargo/karyon_async_rustls@1.0.1
