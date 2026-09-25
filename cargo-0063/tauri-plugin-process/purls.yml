@@ -24,3 +24,5 @@
 - pkg:cargo/tauri-plugin-process@2.2.2
 - pkg:cargo/tauri-plugin-process@2.3.0
 - pkg:cargo/tauri-plugin-process@2.3.1
+- pkg:cargo/tauri-plugin-process@3.0.0-alpha.0
+- pkg:cargo/tauri-plugin-process@3.0.0-alpha.1
