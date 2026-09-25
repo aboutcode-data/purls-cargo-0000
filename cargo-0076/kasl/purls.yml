@@ -33,7 +33,12 @@
 - pkg:cargo/kasl@0.2.34
 - pkg:cargo/kasl@0.2.35
 - pkg:cargo/kasl@0.2.36
+- pkg:cargo/kasl@0.2.37
+- pkg:cargo/kasl@0.2.38
+- pkg:cargo/kasl@0.2.39
 - pkg:cargo/kasl@0.2.4
+- pkg:cargo/kasl@0.2.40
+- pkg:cargo/kasl@0.2.41
 - pkg:cargo/kasl@0.2.5
 - pkg:cargo/kasl@0.2.6
 - pkg:cargo/kasl@0.2.7
