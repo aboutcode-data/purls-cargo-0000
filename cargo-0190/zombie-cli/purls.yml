@@ -36,3 +36,5 @@
 - pkg:cargo/zombie-cli@0.4.7
 - pkg:cargo/zombie-cli@0.4.8
 - pkg:cargo/zombie-cli@0.4.9
+- pkg:cargo/zombie-cli@0.5.0
+- pkg:cargo/zombie-cli@0.5.1
