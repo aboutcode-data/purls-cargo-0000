@@ -35,6 +35,7 @@
 - pkg:cargo/aws-sdk-internetmonitor@1.115.0
 - pkg:cargo/aws-sdk-internetmonitor@1.116.0
 - pkg:cargo/aws-sdk-internetmonitor@1.117.0
+- pkg:cargo/aws-sdk-internetmonitor@1.118.0
 - pkg:cargo/aws-sdk-internetmonitor@1.12.0
 - pkg:cargo/aws-sdk-internetmonitor@1.13.0
 - pkg:cargo/aws-sdk-internetmonitor@1.14.0
