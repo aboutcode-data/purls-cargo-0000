@@ -79,6 +79,7 @@
 - pkg:cargo/aws-sdk-cloudformation@1.126.0
 - pkg:cargo/aws-sdk-cloudformation@1.127.0
 - pkg:cargo/aws-sdk-cloudformation@1.128.0
+- pkg:cargo/aws-sdk-cloudformation@1.129.0
 - pkg:cargo/aws-sdk-cloudformation@1.13.0
 - pkg:cargo/aws-sdk-cloudformation@1.14.0
 - pkg:cargo/aws-sdk-cloudformation@1.15.0
