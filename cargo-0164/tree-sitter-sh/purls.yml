@@ -1,0 +1,2 @@
+- pkg:cargo/tree-sitter-sh@0.17.0
+- pkg:cargo/tree-sitter-sh@0.18.0
