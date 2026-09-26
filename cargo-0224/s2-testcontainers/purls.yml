@@ -26,3 +26,4 @@
 - pkg:cargo/s2-testcontainers@0.42.7
 - pkg:cargo/s2-testcontainers@0.42.8
 - pkg:cargo/s2-testcontainers@0.42.9
+- pkg:cargo/s2-testcontainers@0.43.0
