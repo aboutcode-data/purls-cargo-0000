@@ -3,6 +3,7 @@
 - pkg:cargo/vimlrs@0.2.1
 - pkg:cargo/vimlrs@0.2.14
 - pkg:cargo/vimlrs@0.2.15
+- pkg:cargo/vimlrs@0.2.16
 - pkg:cargo/vimlrs@0.2.3
 - pkg:cargo/vimlrs@0.2.4
 - pkg:cargo/vimlrs@0.2.5
