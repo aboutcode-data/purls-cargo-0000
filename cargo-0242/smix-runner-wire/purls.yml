@@ -32,6 +32,7 @@
 - pkg:cargo/smix-runner-wire@1.0.9
 - pkg:cargo/smix-runner-wire@10.0.0
 - pkg:cargo/smix-runner-wire@10.1.0
+- pkg:cargo/smix-runner-wire@11.0.0
 - pkg:cargo/smix-runner-wire@2.0.0
 - pkg:cargo/smix-runner-wire@2.1.0
 - pkg:cargo/smix-runner-wire@2.2.0

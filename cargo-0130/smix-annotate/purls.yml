@@ -28,6 +28,7 @@
 - pkg:cargo/smix-annotate@1.0.9
 - pkg:cargo/smix-annotate@10.0.0
 - pkg:cargo/smix-annotate@10.1.0
+- pkg:cargo/smix-annotate@11.0.0
 - pkg:cargo/smix-annotate@2.0.0
 - pkg:cargo/smix-annotate@2.1.0
 - pkg:cargo/smix-annotate@2.2.0
