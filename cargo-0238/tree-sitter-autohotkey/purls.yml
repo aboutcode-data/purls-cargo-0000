@@ -12,3 +12,4 @@
 - pkg:cargo/tree-sitter-autohotkey@0.5.7
 - pkg:cargo/tree-sitter-autohotkey@1.0.0
 - pkg:cargo/tree-sitter-autohotkey@1.0.1
+- pkg:cargo/tree-sitter-autohotkey@1.1.0
