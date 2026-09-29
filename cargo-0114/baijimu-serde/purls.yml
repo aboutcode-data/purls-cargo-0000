@@ -33,3 +33,5 @@
 - pkg:cargo/baijimu-serde@6.0.0
 - pkg:cargo/baijimu-serde@7.0.0
 - pkg:cargo/baijimu-serde@8.0.0
+- pkg:cargo/baijimu-serde@8.1.0
+- pkg:cargo/baijimu-serde@9.0.0
