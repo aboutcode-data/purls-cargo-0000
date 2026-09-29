@@ -1,3 +1,4 @@
 - pkg:cargo/mini-go@0.0.10
 - pkg:cargo/mini-go@0.0.13-git.gdbbdeda
 - pkg:cargo/mini-go@0.0.14-git.gae1bcd6
+- pkg:cargo/mini-go@0.0.19-git.gfc9366c
