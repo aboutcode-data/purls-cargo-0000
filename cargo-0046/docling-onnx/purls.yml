@@ -79,3 +79,11 @@
 - pkg:cargo/docling-onnx@1.69.0
 - pkg:cargo/docling-onnx@1.69.1
 - pkg:cargo/docling-onnx@1.69.2
+- pkg:cargo/docling-onnx@1.70.0
+- pkg:cargo/docling-onnx@1.70.1
+- pkg:cargo/docling-onnx@1.71.0
+- pkg:cargo/docling-onnx@1.71.1
+- pkg:cargo/docling-onnx@1.72.0
+- pkg:cargo/docling-onnx@1.73.0
+- pkg:cargo/docling-onnx@1.74.0
+- pkg:cargo/docling-onnx@1.74.1
