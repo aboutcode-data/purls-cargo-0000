@@ -50,4 +50,5 @@
 - pkg:cargo/lightvm@0.1.0-alpha.9-nightly.20260914.5350c81
 - pkg:cargo/lightvm@0.1.0-alpha.9-nightly.20260915.af3f560
 - pkg:cargo/lightvm@0.1.0-alpha.9-nightly.20260917.138448b
+- pkg:cargo/lightvm@0.1.0-alpha.9-nightly.20260928.bcfd4dc
 - pkg:cargo/lightvm@0.1.0-proto.29
