@@ -2,3 +2,5 @@
 - pkg:cargo/trustmark@0.2.0
 - pkg:cargo/trustmark@0.2.1
 - pkg:cargo/trustmark@0.2.2
+- pkg:cargo/trustmark@0.3.0
+- pkg:cargo/trustmark@0.4.0
