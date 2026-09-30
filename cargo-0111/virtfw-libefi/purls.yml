@@ -24,3 +24,4 @@
 - pkg:cargo/virtfw-libefi@0.6.4
 - pkg:cargo/virtfw-libefi@0.6.5
 - pkg:cargo/virtfw-libefi@0.7.0
+- pkg:cargo/virtfw-libefi@0.7.1
