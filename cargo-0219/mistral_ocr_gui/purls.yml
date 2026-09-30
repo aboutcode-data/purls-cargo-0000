@@ -1,2 +1,3 @@
 - pkg:cargo/mistral_ocr_gui@0.2.0
 - pkg:cargo/mistral_ocr_gui@0.3.0
+- pkg:cargo/mistral_ocr_gui@0.4.0
