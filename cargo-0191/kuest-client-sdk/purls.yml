@@ -12,6 +12,7 @@
 - pkg:cargo/kuest-client-sdk@2.0.15
 - pkg:cargo/kuest-client-sdk@2.0.16
 - pkg:cargo/kuest-client-sdk@2.0.17
+- pkg:cargo/kuest-client-sdk@2.0.18
 - pkg:cargo/kuest-client-sdk@2.0.2
 - pkg:cargo/kuest-client-sdk@2.0.3
 - pkg:cargo/kuest-client-sdk@2.0.4
