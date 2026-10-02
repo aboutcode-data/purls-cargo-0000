@@ -12,3 +12,4 @@
 - pkg:cargo/zstats@0.5.8
 - pkg:cargo/zstats@0.6.0
 - pkg:cargo/zstats@0.6.1
+- pkg:cargo/zstats@0.7.0
