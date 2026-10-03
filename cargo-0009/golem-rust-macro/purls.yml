@@ -48,3 +48,4 @@
 - pkg:cargo/golem-rust-macro@2.0.0-dev.8
 - pkg:cargo/golem-rust-macro@2.0.0-rc1
 - pkg:cargo/golem-rust-macro@2.1.0
+- pkg:cargo/golem-rust-macro@3.0.0-rc2
