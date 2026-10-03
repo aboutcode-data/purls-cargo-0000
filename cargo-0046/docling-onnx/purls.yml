@@ -106,3 +106,5 @@
 - pkg:cargo/docling-onnx@1.88.0
 - pkg:cargo/docling-onnx@1.89.0
 - pkg:cargo/docling-onnx@1.90.0
+- pkg:cargo/docling-onnx@1.90.1
+- pkg:cargo/docling-onnx@1.90.2
