@@ -4,3 +4,4 @@
 - pkg:cargo/worktable_dsl@1.0.0-beta.19
 - pkg:cargo/worktable_dsl@1.10.0-beta1
 - pkg:cargo/worktable_dsl@1.10.0-beta2
+- pkg:cargo/worktable_dsl@1.11.0
