@@ -34,6 +34,7 @@
 - pkg:cargo/smix-cli@10.1.0
 - pkg:cargo/smix-cli@11.0.0
 - pkg:cargo/smix-cli@12.0.0
+- pkg:cargo/smix-cli@12.1.0
 - pkg:cargo/smix-cli@2.0.0
 - pkg:cargo/smix-cli@2.1.0
 - pkg:cargo/smix-cli@2.2.0
