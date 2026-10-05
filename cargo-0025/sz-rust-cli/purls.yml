@@ -13,3 +13,4 @@
 - pkg:cargo/sz-rust-cli@0.7.0
 - pkg:cargo/sz-rust-cli@1.4.0
 - pkg:cargo/sz-rust-cli@1.6.0
+- pkg:cargo/sz-rust-cli@1.7.0
