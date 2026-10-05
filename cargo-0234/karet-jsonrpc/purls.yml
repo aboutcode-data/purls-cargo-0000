@@ -2,3 +2,4 @@
 - pkg:cargo/karet-jsonrpc@0.6.0
 - pkg:cargo/karet-jsonrpc@0.6.1
 - pkg:cargo/karet-jsonrpc@0.7.0
+- pkg:cargo/karet-jsonrpc@0.7.1
