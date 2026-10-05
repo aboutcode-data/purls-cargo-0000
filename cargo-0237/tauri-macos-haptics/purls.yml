@@ -6,3 +6,4 @@
 - pkg:cargo/tauri-macos-haptics@3.0.0
 - pkg:cargo/tauri-macos-haptics@3.1.0
 - pkg:cargo/tauri-macos-haptics@4.0.1
+- pkg:cargo/tauri-macos-haptics@4.0.2
