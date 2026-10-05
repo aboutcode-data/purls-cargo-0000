@@ -111,6 +111,8 @@
 - pkg:cargo/tauri-runtime-wry@2.11.2
 - pkg:cargo/tauri-runtime-wry@2.11.3
 - pkg:cargo/tauri-runtime-wry@2.11.4
+- pkg:cargo/tauri-runtime-wry@2.12.0
+- pkg:cargo/tauri-runtime-wry@2.12.1
 - pkg:cargo/tauri-runtime-wry@2.2.0
 - pkg:cargo/tauri-runtime-wry@2.3.0
 - pkg:cargo/tauri-runtime-wry@2.4.0
@@ -130,3 +132,5 @@
 - pkg:cargo/tauri-runtime-wry@3.0.0-alpha.0
 - pkg:cargo/tauri-runtime-wry@3.0.0-alpha.1
 - pkg:cargo/tauri-runtime-wry@3.0.0-alpha.2
+- pkg:cargo/tauri-runtime-wry@3.0.0-alpha.3
+- pkg:cargo/tauri-runtime-wry@3.0.0-alpha.4
