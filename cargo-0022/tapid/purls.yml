@@ -1,4 +1,5 @@
 - pkg:cargo/tapid@0.0.1
+- pkg:cargo/tapid@0.0.11
 - pkg:cargo/tapid@0.0.2
 - pkg:cargo/tapid@0.0.3
 - pkg:cargo/tapid@0.0.4
