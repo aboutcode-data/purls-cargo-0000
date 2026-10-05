@@ -81,6 +81,7 @@
 - pkg:cargo/videre-core@0.50.0
 - pkg:cargo/videre-core@0.51.0
 - pkg:cargo/videre-core@0.52.0
+- pkg:cargo/videre-core@0.53.0
 - pkg:cargo/videre-core@0.9.15
 - pkg:cargo/videre-core@0.9.16
 - pkg:cargo/videre-core@0.9.17
