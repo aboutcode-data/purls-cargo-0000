@@ -66,5 +66,6 @@
 - pkg:cargo/hydracache-db@0.70.0
 - pkg:cargo/hydracache-db@0.71.0
 - pkg:cargo/hydracache-db@0.72.0
+- pkg:cargo/hydracache-db@0.73.0
 - pkg:cargo/hydracache-db@0.8.0
 - pkg:cargo/hydracache-db@0.9.0
