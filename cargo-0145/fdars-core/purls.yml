@@ -32,6 +32,7 @@
 - pkg:cargo/fdars-core@0.40.0
 - pkg:cargo/fdars-core@0.42.0
 - pkg:cargo/fdars-core@0.44.0
+- pkg:cargo/fdars-core@0.47.0
 - pkg:cargo/fdars-core@0.5.0
 - pkg:cargo/fdars-core@0.6.0
 - pkg:cargo/fdars-core@0.6.1
