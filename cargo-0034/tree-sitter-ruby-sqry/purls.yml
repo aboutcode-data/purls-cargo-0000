@@ -1,1 +1,2 @@
 - pkg:cargo/tree-sitter-ruby-sqry@32.0.1
+- pkg:cargo/tree-sitter-ruby-sqry@33.0.0
