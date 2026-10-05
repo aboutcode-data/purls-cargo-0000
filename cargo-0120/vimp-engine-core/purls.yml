@@ -23,6 +23,7 @@
 - pkg:cargo/vimp-engine-core@0.22.6
 - pkg:cargo/vimp-engine-core@0.23.0
 - pkg:cargo/vimp-engine-core@0.23.1
+- pkg:cargo/vimp-engine-core@0.23.2
 - pkg:cargo/vimp-engine-core@0.3.0
 - pkg:cargo/vimp-engine-core@0.3.1
 - pkg:cargo/vimp-engine-core@0.3.2
