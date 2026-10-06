@@ -9,3 +9,4 @@
 - pkg:cargo/virtio-drivers-and-devices@0.2.7
 - pkg:cargo/virtio-drivers-and-devices@0.3.0
 - pkg:cargo/virtio-drivers-and-devices@0.4.0
+- pkg:cargo/virtio-drivers-and-devices@0.4.1
