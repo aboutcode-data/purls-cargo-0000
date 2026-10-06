@@ -143,3 +143,4 @@
 - pkg:cargo/rattler_virtual_packages@7.0.0
 - pkg:cargo/rattler_virtual_packages@7.1.0
 - pkg:cargo/rattler_virtual_packages@8.0.0
+- pkg:cargo/rattler_virtual_packages@8.0.1
