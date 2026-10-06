@@ -244,6 +244,7 @@
 - pkg:cargo/kanade-agent@0.61.1
 - pkg:cargo/kanade-agent@0.62.0
 - pkg:cargo/kanade-agent@0.62.1
+- pkg:cargo/kanade-agent@0.63.0
 - pkg:cargo/kanade-agent@0.7.0
 - pkg:cargo/kanade-agent@0.7.1
 - pkg:cargo/kanade-agent@0.8.0
