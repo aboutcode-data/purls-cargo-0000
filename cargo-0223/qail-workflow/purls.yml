@@ -4,3 +4,4 @@
 - pkg:cargo/qail-workflow@2.0.3
 - pkg:cargo/qail-workflow@2.0.4
 - pkg:cargo/qail-workflow@2.0.5
+- pkg:cargo/qail-workflow@3.0.0
