@@ -5,3 +5,4 @@
 - pkg:cargo/dotenvx-primitives@3.0.1
 - pkg:cargo/dotenvx-primitives@3.0.2
 - pkg:cargo/dotenvx-primitives@3.0.3
+- pkg:cargo/dotenvx-primitives@3.1.0
