@@ -23,3 +23,4 @@
 - pkg:cargo/kak-lsp@21.0.0
 - pkg:cargo/kak-lsp@21.0.1
 - pkg:cargo/kak-lsp@21.0.2
+- pkg:cargo/kak-lsp@22.0.0
