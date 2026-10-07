@@ -16,3 +16,4 @@
 - pkg:cargo/hyperdb-compile-check@1.0.0-rc.2
 - pkg:cargo/hyperdb-compile-check@1.0.0-rc.3
 - pkg:cargo/hyperdb-compile-check@1.0.0-rc.4
+- pkg:cargo/hyperdb-compile-check@1.0.0-rc.5
