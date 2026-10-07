@@ -4,3 +4,6 @@
 - pkg:cargo/vizij-arora-host@4.1.0
 - pkg:cargo/vizij-arora-host@5.0.0
 - pkg:cargo/vizij-arora-host@5.1.0
+- pkg:cargo/vizij-arora-host@5.2.0
+- pkg:cargo/vizij-arora-host@6.0.0
+- pkg:cargo/vizij-arora-host@6.1.0
