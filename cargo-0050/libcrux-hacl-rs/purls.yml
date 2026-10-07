@@ -8,4 +8,5 @@
 - pkg:cargo/libcrux-hacl-rs@0.0.4-pre.1
 - pkg:cargo/libcrux-hacl-rs@0.0.5
 - pkg:cargo/libcrux-hacl-rs@0.0.5-rc.1
+- pkg:cargo/libcrux-hacl-rs@0.0.6
 - pkg:cargo/libcrux-hacl-rs@0.0.6-pre.1
