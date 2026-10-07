@@ -11,3 +11,6 @@
 - pkg:cargo/vgi-protocol@0.36.2
 - pkg:cargo/vgi-protocol@0.37.0
 - pkg:cargo/vgi-protocol@0.37.1
+- pkg:cargo/vgi-protocol@0.38.0
+- pkg:cargo/vgi-protocol@0.39.0
+- pkg:cargo/vgi-protocol@0.40.0
