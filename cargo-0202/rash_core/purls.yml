@@ -76,3 +76,4 @@
 - pkg:cargo/rash_core@2.9.7
 - pkg:cargo/rash_core@2.9.8
 - pkg:cargo/rash_core@2.9.9
+- pkg:cargo/rash_core@3.0.0
