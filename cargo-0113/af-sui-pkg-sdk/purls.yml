@@ -13,6 +13,7 @@
 - pkg:cargo/af-sui-pkg-sdk@0.15.3
 - pkg:cargo/af-sui-pkg-sdk@0.15.4
 - pkg:cargo/af-sui-pkg-sdk@0.16.0
+- pkg:cargo/af-sui-pkg-sdk@0.16.1
 - pkg:cargo/af-sui-pkg-sdk@0.7.0
 - pkg:cargo/af-sui-pkg-sdk@0.7.1
 - pkg:cargo/af-sui-pkg-sdk@0.7.2
