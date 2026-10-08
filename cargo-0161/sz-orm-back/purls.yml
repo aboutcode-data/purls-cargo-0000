@@ -14,3 +14,4 @@
 - pkg:cargo/sz-orm-back@7.7.0
 - pkg:cargo/sz-orm-back@8.8.0
 - pkg:cargo/sz-orm-back@9.0.0
+- pkg:cargo/sz-orm-back@9.4.0
