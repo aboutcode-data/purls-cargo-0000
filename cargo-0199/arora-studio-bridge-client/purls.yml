@@ -6,3 +6,9 @@
 - pkg:cargo/arora-studio-bridge-client@5.0.0
 - pkg:cargo/arora-studio-bridge-client@6.0.0
 - pkg:cargo/arora-studio-bridge-client@6.1.0
+- pkg:cargo/arora-studio-bridge-client@7.0.0
+- pkg:cargo/arora-studio-bridge-client@8.0.0
+- pkg:cargo/arora-studio-bridge-client@8.1.0
+- pkg:cargo/arora-studio-bridge-client@8.1.1
+- pkg:cargo/arora-studio-bridge-client@9.0.0
+- pkg:cargo/arora-studio-bridge-client@9.1.0

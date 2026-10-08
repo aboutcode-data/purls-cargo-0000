@@ -5,3 +5,6 @@
 - pkg:cargo/arora-bridge@3.0.1
 - pkg:cargo/arora-bridge@4.0.0
 - pkg:cargo/arora-bridge@4.1.0
+- pkg:cargo/arora-bridge@5.0.0
+- pkg:cargo/arora-bridge@6.0.0
+- pkg:cargo/arora-bridge@6.1.0
