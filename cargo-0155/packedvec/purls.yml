@@ -6,3 +6,4 @@
 - pkg:cargo/packedvec@1.2.3
 - pkg:cargo/packedvec@1.2.4
 - pkg:cargo/packedvec@1.2.5
+- pkg:cargo/packedvec@2.0.0
