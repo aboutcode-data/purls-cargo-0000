@@ -6,6 +6,7 @@
 - pkg:cargo/elio@1.11.1
 - pkg:cargo/elio@1.11.2
 - pkg:cargo/elio@1.12.0
+- pkg:cargo/elio@1.13.0
 - pkg:cargo/elio@1.2.0
 - pkg:cargo/elio@1.3.0
 - pkg:cargo/elio@1.4.0
