@@ -18,3 +18,4 @@
 - pkg:cargo/sz-orm-observability@7.7.0
 - pkg:cargo/sz-orm-observability@8.8.0
 - pkg:cargo/sz-orm-observability@9.0.0
+- pkg:cargo/sz-orm-observability@9.4.0

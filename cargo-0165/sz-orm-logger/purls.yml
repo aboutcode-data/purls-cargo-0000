@@ -20,3 +20,4 @@
 - pkg:cargo/sz-orm-logger@8.7.0
 - pkg:cargo/sz-orm-logger@8.8.0
 - pkg:cargo/sz-orm-logger@9.0.0
+- pkg:cargo/sz-orm-logger@9.4.0

@@ -20,3 +20,4 @@
 - pkg:cargo/sz-orm-audit@8.7.0
 - pkg:cargo/sz-orm-audit@8.8.0
 - pkg:cargo/sz-orm-audit@9.0.0
+- pkg:cargo/sz-orm-audit@9.4.0
