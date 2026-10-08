@@ -11,6 +11,7 @@
 - pkg:cargo/patricia_tree@0.1.9
 - pkg:cargo/patricia_tree@0.10.0
 - pkg:cargo/patricia_tree@0.10.1
+- pkg:cargo/patricia_tree@0.10.2
 - pkg:cargo/patricia_tree@0.2.0
 - pkg:cargo/patricia_tree@0.3.0
 - pkg:cargo/patricia_tree@0.3.1
