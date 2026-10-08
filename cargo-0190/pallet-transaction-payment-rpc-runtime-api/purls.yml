@@ -57,7 +57,10 @@
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@45.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@46.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@47.0.0
+- pkg:cargo/pallet-transaction-payment-rpc-runtime-api@48.0.0
+- pkg:cargo/pallet-transaction-payment-rpc-runtime-api@49.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@5.0.0
+- pkg:cargo/pallet-transaction-payment-rpc-runtime-api@50.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@6.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@7.0.0
 - pkg:cargo/pallet-transaction-payment-rpc-runtime-api@8.0.0

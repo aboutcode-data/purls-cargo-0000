@@ -51,7 +51,10 @@
 - pkg:cargo/pallet-proxy@45.0.0
 - pkg:cargo/pallet-proxy@46.0.0
 - pkg:cargo/pallet-proxy@47.0.0
+- pkg:cargo/pallet-proxy@48.0.0
+- pkg:cargo/pallet-proxy@49.0.0
 - pkg:cargo/pallet-proxy@5.0.0
+- pkg:cargo/pallet-proxy@50.0.0
 - pkg:cargo/pallet-proxy@6.0.0
 - pkg:cargo/pallet-proxy@7.0.0
 - pkg:cargo/pallet-proxy@8.0.0

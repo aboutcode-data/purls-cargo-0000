@@ -6,3 +6,8 @@
 - pkg:cargo/pallas-validate@1.0.0-alpha.4
 - pkg:cargo/pallas-validate@1.0.0-alpha.5
 - pkg:cargo/pallas-validate@1.0.0-alpha.6
+- pkg:cargo/pallas-validate@1.1.0
+- pkg:cargo/pallas-validate@1.1.1
+- pkg:cargo/pallas-validate@1.2.0
+- pkg:cargo/pallas-validate@1.3.0
+- pkg:cargo/pallas-validate@1.4.0
