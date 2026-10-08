@@ -1,3 +1,5 @@
 - pkg:cargo/arch-satellite-syn@0.31.5
 - pkg:cargo/arch-satellite-syn@0.31.6
 - pkg:cargo/arch-satellite-syn@0.32.0
+- pkg:cargo/arch-satellite-syn@0.33.0
+- pkg:cargo/arch-satellite-syn@0.34.0
