@@ -15,6 +15,8 @@
 - pkg:cargo/arity@0.21.0
 - pkg:cargo/arity@0.22.0
 - pkg:cargo/arity@0.23.0
+- pkg:cargo/arity@0.24.0
+- pkg:cargo/arity@0.25.0
 - pkg:cargo/arity@0.3.0
 - pkg:cargo/arity@0.4.0
 - pkg:cargo/arity@0.5.0
