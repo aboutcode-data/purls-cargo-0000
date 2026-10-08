@@ -57,9 +57,11 @@
 - pkg:cargo/shiguredo_webrtc@0.153.0
 - pkg:cargo/shiguredo_webrtc@0.153.1
 - pkg:cargo/shiguredo_webrtc@0.154.0
+- pkg:cargo/shiguredo_webrtc@0.154.1
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.0
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.1
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.2
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.3
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.4
 - pkg:cargo/shiguredo_webrtc@0.154.1-canary.5
+- pkg:cargo/shiguredo_webrtc@0.155.0
