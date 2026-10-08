@@ -12,3 +12,5 @@
 - pkg:cargo/bevy_terminal@0.7.5
 - pkg:cargo/bevy_terminal@0.7.6
 - pkg:cargo/bevy_terminal@0.7.7
+- pkg:cargo/bevy_terminal@0.8.0
+- pkg:cargo/bevy_terminal@0.8.1
