@@ -1,4 +1,6 @@
 - pkg:cargo/pallet-example-view-functions@0.0.0
+- pkg:cargo/pallet-example-view-functions@0.10.0
+- pkg:cargo/pallet-example-view-functions@0.11.0
 - pkg:cargo/pallet-example-view-functions@0.2.0
 - pkg:cargo/pallet-example-view-functions@0.3.0
 - pkg:cargo/pallet-example-view-functions@0.3.1
