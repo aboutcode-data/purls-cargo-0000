@@ -22,3 +22,4 @@
 - pkg:cargo/tank-scylladb@0.39.0
 - pkg:cargo/tank-scylladb@0.41.0
 - pkg:cargo/tank-scylladb@0.42.0
+- pkg:cargo/tank-scylladb@0.44.0
