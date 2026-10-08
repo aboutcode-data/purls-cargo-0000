@@ -95,6 +95,7 @@
 - pkg:cargo/tauri-plugin-syncular@0.30.6
 - pkg:cargo/tauri-plugin-syncular@0.30.7
 - pkg:cargo/tauri-plugin-syncular@0.30.9
+- pkg:cargo/tauri-plugin-syncular@0.31.0
 - pkg:cargo/tauri-plugin-syncular@0.4.0
 - pkg:cargo/tauri-plugin-syncular@0.4.1
 - pkg:cargo/tauri-plugin-syncular@0.5.0
