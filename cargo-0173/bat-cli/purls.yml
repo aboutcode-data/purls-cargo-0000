@@ -116,6 +116,8 @@
 - pkg:cargo/bat-cli@0.26.4
 - pkg:cargo/bat-cli@0.26.40
 - pkg:cargo/bat-cli@0.26.41
+- pkg:cargo/bat-cli@0.26.42
+- pkg:cargo/bat-cli@0.26.43
 - pkg:cargo/bat-cli@0.26.5
 - pkg:cargo/bat-cli@0.26.6
 - pkg:cargo/bat-cli@0.26.7
