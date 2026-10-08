@@ -67,6 +67,12 @@
 - pkg:cargo/pact_ffi@0.4.9
 - pkg:cargo/pact_ffi@0.5.0
 - pkg:cargo/pact_ffi@0.5.1
+- pkg:cargo/pact_ffi@0.5.10
 - pkg:cargo/pact_ffi@0.5.2
 - pkg:cargo/pact_ffi@0.5.3
 - pkg:cargo/pact_ffi@0.5.4
+- pkg:cargo/pact_ffi@0.5.5
+- pkg:cargo/pact_ffi@0.5.6
+- pkg:cargo/pact_ffi@0.5.7
+- pkg:cargo/pact_ffi@0.5.8
+- pkg:cargo/pact_ffi@0.5.9
