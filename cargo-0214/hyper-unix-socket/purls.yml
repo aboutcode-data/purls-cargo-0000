@@ -3,3 +3,4 @@
 - pkg:cargo/hyper-unix-socket@0.3.0
 - pkg:cargo/hyper-unix-socket@0.6.0
 - pkg:cargo/hyper-unix-socket@0.6.1
+- pkg:cargo/hyper-unix-socket@0.7.0
