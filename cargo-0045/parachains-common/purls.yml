@@ -25,6 +25,16 @@
 - pkg:cargo/parachains-common@29.0.0
 - pkg:cargo/parachains-common@3.0.0
 - pkg:cargo/parachains-common@3.0.0-dev.1
+- pkg:cargo/parachains-common@30.0.0
+- pkg:cargo/parachains-common@31.0.0
+- pkg:cargo/parachains-common@32.0.0
+- pkg:cargo/parachains-common@32.1.0
+- pkg:cargo/parachains-common@33.0.0
+- pkg:cargo/parachains-common@34.0.0
+- pkg:cargo/parachains-common@35.0.0
+- pkg:cargo/parachains-common@36.0.0
+- pkg:cargo/parachains-common@37.0.0
+- pkg:cargo/parachains-common@38.0.0
 - pkg:cargo/parachains-common@4.0.0
 - pkg:cargo/parachains-common@5.0.0
 - pkg:cargo/parachains-common@6.0.0
