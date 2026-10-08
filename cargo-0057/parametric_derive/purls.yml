@@ -1,1 +1,2 @@
 - pkg:cargo/parametric_derive@0.1.0
+- pkg:cargo/parametric_derive@0.1.1
