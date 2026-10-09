@@ -1,3 +1,5 @@
 - pkg:cargo/backbone-approvals@0.4.31
 - pkg:cargo/backbone-approvals@0.4.32
 - pkg:cargo/backbone-approvals@0.5.0
+- pkg:cargo/backbone-approvals@0.5.1
+- pkg:cargo/backbone-approvals@0.5.2
