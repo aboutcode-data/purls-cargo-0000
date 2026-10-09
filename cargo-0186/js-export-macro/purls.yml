@@ -27,3 +27,4 @@
 - pkg:cargo/js-export-macro@0.17.0-rc.5
 - pkg:cargo/js-export-macro@0.17.1
 - pkg:cargo/js-export-macro@0.17.2
+- pkg:cargo/js-export-macro@0.17.3
