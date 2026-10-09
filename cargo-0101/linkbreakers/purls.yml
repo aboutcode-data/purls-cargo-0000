@@ -76,6 +76,7 @@
 - pkg:cargo/linkbreakers@1.138.2
 - pkg:cargo/linkbreakers@1.138.3
 - pkg:cargo/linkbreakers@1.138.4
+- pkg:cargo/linkbreakers@1.138.5
 - pkg:cargo/linkbreakers@1.43.5
 - pkg:cargo/linkbreakers@1.44.2
 - pkg:cargo/linkbreakers@1.45.0
