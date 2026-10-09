@@ -1,3 +1,8 @@
+- pkg:cargo/ic-auth-protocol-types@0.1.10
+- pkg:cargo/ic-auth-protocol-types@0.1.11
+- pkg:cargo/ic-auth-protocol-types@0.1.12
+- pkg:cargo/ic-auth-protocol-types@0.1.13
+- pkg:cargo/ic-auth-protocol-types@0.1.14
 - pkg:cargo/ic-auth-protocol-types@0.1.2
 - pkg:cargo/ic-auth-protocol-types@0.1.3
 - pkg:cargo/ic-auth-protocol-types@0.1.4
@@ -6,3 +11,5 @@
 - pkg:cargo/ic-auth-protocol-types@0.1.7
 - pkg:cargo/ic-auth-protocol-types@0.1.8
 - pkg:cargo/ic-auth-protocol-types@0.1.9
+- pkg:cargo/ic-auth-protocol-types@0.2.0
+- pkg:cargo/ic-auth-protocol-types@0.2.1
