@@ -40,6 +40,7 @@
 - pkg:cargo/raftcli@1.2.4
 - pkg:cargo/raftcli@1.20.1
 - pkg:cargo/raftcli@1.23.1
+- pkg:cargo/raftcli@1.24.1
 - pkg:cargo/raftcli@1.4.0
 - pkg:cargo/raftcli@1.4.1
 - pkg:cargo/raftcli@1.4.2
