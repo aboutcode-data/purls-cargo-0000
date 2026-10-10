@@ -247,6 +247,7 @@
 - pkg:cargo/docling-pdf@2.10.0
 - pkg:cargo/docling-pdf@2.11.0
 - pkg:cargo/docling-pdf@2.12.0
+- pkg:cargo/docling-pdf@2.13.0
 - pkg:cargo/docling-pdf@2.2.0
 - pkg:cargo/docling-pdf@2.2.1
 - pkg:cargo/docling-pdf@2.2.2
