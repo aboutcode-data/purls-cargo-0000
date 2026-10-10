@@ -37,6 +37,7 @@
 - pkg:cargo/smix-recorder@12.1.0
 - pkg:cargo/smix-recorder@13.0.0
 - pkg:cargo/smix-recorder@13.1.0
+- pkg:cargo/smix-recorder@14.0.0
 - pkg:cargo/smix-recorder@2.0.0
 - pkg:cargo/smix-recorder@2.1.0
 - pkg:cargo/smix-recorder@2.2.0
