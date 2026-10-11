@@ -1,1 +1,2 @@
 - pkg:cargo/basemind-tree-sitter-graph@0.12.0
+- pkg:cargo/basemind-tree-sitter-graph@0.12.1
