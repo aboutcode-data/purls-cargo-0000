@@ -7,6 +7,7 @@
 - pkg:cargo/aw-event-bridge@1.1.5
 - pkg:cargo/aw-event-bridge@1.1.6
 - pkg:cargo/aw-event-bridge@1.1.9
+- pkg:cargo/aw-event-bridge@1.2.0
 - pkg:cargo/aw-event-bridge@1.2.0-dev.32351477106
 - pkg:cargo/aw-event-bridge@1.2.0-dev.32357581675
 - pkg:cargo/aw-event-bridge@1.2.0-dev.32365776108
@@ -92,3 +93,9 @@
 - pkg:cargo/aw-event-bridge@1.2.0-dev.37756103331
 - pkg:cargo/aw-event-bridge@1.2.0-dev.37770593936
 - pkg:cargo/aw-event-bridge@1.2.0-dev.37908015134
+- pkg:cargo/aw-event-bridge@1.2.0-dev.37943364688
+- pkg:cargo/aw-event-bridge@1.2.0-dev.37973622649
+- pkg:cargo/aw-event-bridge@1.2.0-dev.37974055929
+- pkg:cargo/aw-event-bridge@1.2.0-dev.37982588982
+- pkg:cargo/aw-event-bridge@1.2.0-dev.37982835169
+- pkg:cargo/aw-event-bridge@1.2.0-dev.38028389461
