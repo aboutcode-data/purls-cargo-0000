@@ -89,6 +89,15 @@
 - pkg:cargo/linkbreakers@1.157.1
 - pkg:cargo/linkbreakers@1.158.0
 - pkg:cargo/linkbreakers@1.159.0
+- pkg:cargo/linkbreakers@1.162.0
+- pkg:cargo/linkbreakers@1.162.1
+- pkg:cargo/linkbreakers@1.163.0
+- pkg:cargo/linkbreakers@1.164.0
+- pkg:cargo/linkbreakers@1.164.1
+- pkg:cargo/linkbreakers@1.164.2
+- pkg:cargo/linkbreakers@1.165.0
+- pkg:cargo/linkbreakers@1.166.0
+- pkg:cargo/linkbreakers@1.170.0
 - pkg:cargo/linkbreakers@1.43.5
 - pkg:cargo/linkbreakers@1.44.2
 - pkg:cargo/linkbreakers@1.45.0
