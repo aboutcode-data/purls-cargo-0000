@@ -19,6 +19,14 @@
 - pkg:cargo/ic-backup@0.14.2
 - pkg:cargo/ic-backup@0.15.0
 - pkg:cargo/ic-backup@0.16.0
+- pkg:cargo/ic-backup@0.17.0
+- pkg:cargo/ic-backup@0.18.0
+- pkg:cargo/ic-backup@0.18.1
+- pkg:cargo/ic-backup@0.18.2
+- pkg:cargo/ic-backup@0.18.3
+- pkg:cargo/ic-backup@0.18.4
+- pkg:cargo/ic-backup@0.19.0
+- pkg:cargo/ic-backup@0.19.1
 - pkg:cargo/ic-backup@0.2.0
 - pkg:cargo/ic-backup@0.3.1
 - pkg:cargo/ic-backup@0.3.2
