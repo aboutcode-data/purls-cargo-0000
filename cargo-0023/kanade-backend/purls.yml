@@ -261,5 +261,8 @@
 - pkg:cargo/kanade-backend@0.70.0
 - pkg:cargo/kanade-backend@0.71.0
 - pkg:cargo/kanade-backend@0.71.1
+- pkg:cargo/kanade-backend@0.71.2
+- pkg:cargo/kanade-backend@0.71.3
+- pkg:cargo/kanade-backend@0.72.0
 - pkg:cargo/kanade-backend@0.8.0
 - pkg:cargo/kanade-backend@0.9.0
