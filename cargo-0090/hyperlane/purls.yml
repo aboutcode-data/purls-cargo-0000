@@ -260,6 +260,8 @@
 - pkg:cargo/hyperlane@21.1.1
 - pkg:cargo/hyperlane@21.10.0
 - pkg:cargo/hyperlane@21.11.0
+- pkg:cargo/hyperlane@21.12.0
+- pkg:cargo/hyperlane@21.12.1
 - pkg:cargo/hyperlane@21.2.0
 - pkg:cargo/hyperlane@21.2.1
 - pkg:cargo/hyperlane@21.2.10
