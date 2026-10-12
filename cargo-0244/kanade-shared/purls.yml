@@ -272,5 +272,9 @@
 - pkg:cargo/kanade-shared@0.71.2
 - pkg:cargo/kanade-shared@0.71.3
 - pkg:cargo/kanade-shared@0.72.0
+- pkg:cargo/kanade-shared@0.73.0
+- pkg:cargo/kanade-shared@0.74.0
+- pkg:cargo/kanade-shared@0.75.0
+- pkg:cargo/kanade-shared@0.75.1
 - pkg:cargo/kanade-shared@0.8.0
 - pkg:cargo/kanade-shared@0.9.0
