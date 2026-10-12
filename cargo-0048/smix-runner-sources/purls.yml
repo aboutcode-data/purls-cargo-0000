@@ -23,6 +23,7 @@
 - pkg:cargo/smix-runner-sources@13.1.0
 - pkg:cargo/smix-runner-sources@14.0.0
 - pkg:cargo/smix-runner-sources@14.1.0
+- pkg:cargo/smix-runner-sources@14.1.1
 - pkg:cargo/smix-runner-sources@2.0.0
 - pkg:cargo/smix-runner-sources@2.1.0
 - pkg:cargo/smix-runner-sources@2.2.0
