@@ -14,3 +14,4 @@
 - pkg:cargo/kache-store@0.28.0
 - pkg:cargo/kache-store@0.28.1
 - pkg:cargo/kache-store@1.0.0
+- pkg:cargo/kache-store@1.1.0

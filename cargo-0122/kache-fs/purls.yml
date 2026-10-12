@@ -15,3 +15,4 @@
 - pkg:cargo/kache-fs@0.28.0
 - pkg:cargo/kache-fs@0.28.1
 - pkg:cargo/kache-fs@1.0.0
+- pkg:cargo/kache-fs@1.1.0
