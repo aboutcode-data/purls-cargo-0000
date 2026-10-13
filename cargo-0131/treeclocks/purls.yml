@@ -1,4 +1,6 @@
 - pkg:cargo/treeclocks@0.1.0
+- pkg:cargo/treeclocks@0.10.0
+- pkg:cargo/treeclocks@0.10.1
 - pkg:cargo/treeclocks@0.2.0
 - pkg:cargo/treeclocks@0.3.0
 - pkg:cargo/treeclocks@0.4.0
@@ -20,3 +22,4 @@
 - pkg:cargo/treeclocks@0.8.3
 - pkg:cargo/treeclocks@0.8.4
 - pkg:cargo/treeclocks@0.9.0
+- pkg:cargo/treeclocks@0.9.1
