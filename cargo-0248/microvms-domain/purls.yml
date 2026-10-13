@@ -2,3 +2,4 @@
 - pkg:cargo/microvms-domain@0.11.0
 - pkg:cargo/microvms-domain@0.12.0
 - pkg:cargo/microvms-domain@1.0.0
+- pkg:cargo/microvms-domain@1.0.1
