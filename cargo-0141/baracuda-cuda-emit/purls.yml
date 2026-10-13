@@ -2,3 +2,4 @@
 - pkg:cargo/baracuda-cuda-emit@0.11.0
 - pkg:cargo/baracuda-cuda-emit@0.11.1
 - pkg:cargo/baracuda-cuda-emit@0.14.3
+- pkg:cargo/baracuda-cuda-emit@0.16.1
