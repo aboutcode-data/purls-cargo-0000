@@ -29,7 +29,12 @@
 - pkg:cargo/vole-document@0.1.0-alpha.35
 - pkg:cargo/vole-document@0.1.0-alpha.36
 - pkg:cargo/vole-document@0.1.0-alpha.37
+- pkg:cargo/vole-document@0.1.0-alpha.38
+- pkg:cargo/vole-document@0.1.0-alpha.39
 - pkg:cargo/vole-document@0.1.0-alpha.4
+- pkg:cargo/vole-document@0.1.0-alpha.40
+- pkg:cargo/vole-document@0.1.0-alpha.42
+- pkg:cargo/vole-document@0.1.0-alpha.43
 - pkg:cargo/vole-document@0.1.0-alpha.5
 - pkg:cargo/vole-document@0.1.0-alpha.6
 - pkg:cargo/vole-document@0.1.0-alpha.7
