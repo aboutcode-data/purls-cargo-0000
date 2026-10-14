@@ -1,5 +1,7 @@
 - pkg:cargo/backbone-catalog@0.10.0
 - pkg:cargo/backbone-catalog@0.11.0
+- pkg:cargo/backbone-catalog@0.12.0
+- pkg:cargo/backbone-catalog@0.13.0
 - pkg:cargo/backbone-catalog@0.6.23
 - pkg:cargo/backbone-catalog@0.7.0
 - pkg:cargo/backbone-catalog@0.7.1
