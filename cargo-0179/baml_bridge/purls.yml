@@ -81,3 +81,4 @@
 - pkg:cargo/baml_bridge@0.22.0
 - pkg:cargo/baml_bridge@0.22.1
 - pkg:cargo/baml_bridge@0.22.2
+- pkg:cargo/baml_bridge@0.22.3-nightly.20261013.a
