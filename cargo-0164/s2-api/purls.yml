@@ -69,4 +69,5 @@
 - pkg:cargo/s2-api@0.31.4
 - pkg:cargo/s2-api@0.31.5
 - pkg:cargo/s2-api@0.32.0
+- pkg:cargo/s2-api@0.32.1
 - pkg:cargo/s2-api@0.4.0
