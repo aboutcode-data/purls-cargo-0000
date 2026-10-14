@@ -166,6 +166,10 @@
 - pkg:cargo/docling-onnx@2.20.0
 - pkg:cargo/docling-onnx@2.21.0
 - pkg:cargo/docling-onnx@2.22.0
+- pkg:cargo/docling-onnx@2.23.0
+- pkg:cargo/docling-onnx@2.24.0
+- pkg:cargo/docling-onnx@2.25.0
+- pkg:cargo/docling-onnx@2.26.0
 - pkg:cargo/docling-onnx@2.3.0
 - pkg:cargo/docling-onnx@2.4.0
 - pkg:cargo/docling-onnx@2.5.0
