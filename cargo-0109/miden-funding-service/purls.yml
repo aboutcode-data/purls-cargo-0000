@@ -9,3 +9,4 @@
 - pkg:cargo/miden-funding-service@0.17.3
 - pkg:cargo/miden-funding-service@0.17.4
 - pkg:cargo/miden-funding-service@0.17.5
+- pkg:cargo/miden-funding-service@0.17.6
