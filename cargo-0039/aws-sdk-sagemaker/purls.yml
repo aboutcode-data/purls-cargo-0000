@@ -208,6 +208,7 @@
 - pkg:cargo/aws-sdk-sagemaker@1.24.0
 - pkg:cargo/aws-sdk-sagemaker@1.240.0
 - pkg:cargo/aws-sdk-sagemaker@1.241.0
+- pkg:cargo/aws-sdk-sagemaker@1.242.0
 - pkg:cargo/aws-sdk-sagemaker@1.25.0
 - pkg:cargo/aws-sdk-sagemaker@1.26.0
 - pkg:cargo/aws-sdk-sagemaker@1.27.0
