@@ -6,3 +6,5 @@
 - pkg:cargo/libhaybarn-sys@1.10503.1-rc.9
 - pkg:cargo/libhaybarn-sys@1.10504.1-rc.1
 - pkg:cargo/libhaybarn-sys@1.10505.0-rc.1
+- pkg:cargo/libhaybarn-sys@1.10506.0-rc.1
+- pkg:cargo/libhaybarn-sys@1.10506.0-rc.2
