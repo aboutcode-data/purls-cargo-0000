@@ -44,3 +44,6 @@
 - pkg:cargo/seed_chain@5.0.1
 - pkg:cargo/seed_chain@6.0.0
 - pkg:cargo/seed_chain@6.0.1
+- pkg:cargo/seed_chain@7.0.0
+- pkg:cargo/seed_chain@7.0.1
+- pkg:cargo/seed_chain@7.0.2

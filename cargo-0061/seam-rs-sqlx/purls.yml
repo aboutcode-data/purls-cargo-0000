@@ -1,0 +1,3 @@
+- pkg:cargo/seam-rs-sqlx@0.6.0
+- pkg:cargo/seam-rs-sqlx@0.7.0
+- pkg:cargo/seam-rs-sqlx@0.8.0
