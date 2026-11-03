@@ -37,6 +37,7 @@
 - pkg:cargo/klvm-utils@0.46.0
 - pkg:cargo/klvm-utils@0.47.0
 - pkg:cargo/klvm-utils@0.48.0
+- pkg:cargo/klvm-utils@0.48.1
 - pkg:cargo/klvm-utils@0.5.1
 - pkg:cargo/klvm-utils@0.6.0
 - pkg:cargo/klvm-utils@0.7.0
