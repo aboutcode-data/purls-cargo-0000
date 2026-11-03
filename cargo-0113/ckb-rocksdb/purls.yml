@@ -18,5 +18,6 @@
 - pkg:cargo/ckb-rocksdb@0.20.0
 - pkg:cargo/ckb-rocksdb@0.21.0
 - pkg:cargo/ckb-rocksdb@0.21.1
+- pkg:cargo/ckb-rocksdb@0.21.2
 - pkg:cargo/ckb-rocksdb@0.22.0
 - pkg:cargo/ckb-rocksdb@0.22.2
