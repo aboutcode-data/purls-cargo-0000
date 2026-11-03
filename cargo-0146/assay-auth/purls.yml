@@ -10,3 +10,6 @@
 - pkg:cargo/assay-auth@0.6.0
 - pkg:cargo/assay-auth@0.6.1
 - pkg:cargo/assay-auth@0.6.2
+- pkg:cargo/assay-auth@0.6.3
+- pkg:cargo/assay-auth@0.6.4
+- pkg:cargo/assay-auth@0.6.5
