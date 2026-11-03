@@ -8,3 +8,4 @@
 - pkg:cargo/timestamped-socket@0.2.6
 - pkg:cargo/timestamped-socket@0.2.7
 - pkg:cargo/timestamped-socket@0.2.8
+- pkg:cargo/timestamped-socket@0.3.0
