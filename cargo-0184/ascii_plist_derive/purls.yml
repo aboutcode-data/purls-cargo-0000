@@ -1,3 +1,4 @@
 - pkg:cargo/ascii_plist_derive@0.0.1
 - pkg:cargo/ascii_plist_derive@0.1.0
 - pkg:cargo/ascii_plist_derive@0.2.0
+- pkg:cargo/ascii_plist_derive@1.0.0
