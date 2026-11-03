@@ -50,3 +50,4 @@
 - pkg:cargo/ast_node@5.0.0
 - pkg:cargo/ast_node@6.0.0
 - pkg:cargo/ast_node@6.1.0
+- pkg:cargo/ast_node@7.0.0

@@ -6,3 +6,4 @@
 - pkg:cargo/askama_macros@0.15.5
 - pkg:cargo/askama_macros@0.15.6
 - pkg:cargo/askama_macros@0.16.0
+- pkg:cargo/askama_macros@0.16.1

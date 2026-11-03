@@ -1,3 +1,4 @@
+- pkg:cargo/asphyxia@0.10.0
 - pkg:cargo/asphyxia@0.2.2
 - pkg:cargo/asphyxia@0.3.0
 - pkg:cargo/asphyxia@0.4.0
@@ -5,3 +6,6 @@
 - pkg:cargo/asphyxia@0.6.0
 - pkg:cargo/asphyxia@0.7.0
 - pkg:cargo/asphyxia@0.7.1
+- pkg:cargo/asphyxia@0.8.0
+- pkg:cargo/asphyxia@0.9.0
+- pkg:cargo/asphyxia@0.9.1
