@@ -1,2 +1,9 @@
 - pkg:cargo/tiny-hnsw@1.0.0-alpha.1
 - pkg:cargo/tiny-hnsw@1.0.0-alpha.2
+- pkg:cargo/tiny-hnsw@1.0.0-alpha.3
+- pkg:cargo/tiny-hnsw@1.0.0-alpha.4
+- pkg:cargo/tiny-hnsw@1.0.0-alpha.5
+- pkg:cargo/tiny-hnsw@1.0.0-alpha.6
+- pkg:cargo/tiny-hnsw@1.0.0-alpha.7
+- pkg:cargo/tiny-hnsw@1.8.0
+- pkg:cargo/tiny-hnsw@1.8.1
