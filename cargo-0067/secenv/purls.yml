@@ -3,6 +3,13 @@
 - pkg:cargo/secenv@0.1.0-alpha.1
 - pkg:cargo/secenv@0.2.0
 - pkg:cargo/secenv@0.2.1
+- pkg:cargo/secenv@0.3.0
 - pkg:cargo/secenv@0.3.0-beta.1
 - pkg:cargo/secenv@0.3.0-beta.2
 - pkg:cargo/secenv@0.3.0-beta.3
+- pkg:cargo/secenv@0.3.0-beta.4
+- pkg:cargo/secenv@0.3.1
+- pkg:cargo/secenv@0.3.2
+- pkg:cargo/secenv@0.3.3
+- pkg:cargo/secenv@0.3.4
+- pkg:cargo/secenv@0.3.5
