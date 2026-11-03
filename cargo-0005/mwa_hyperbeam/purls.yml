@@ -4,6 +4,10 @@
 - pkg:cargo/mwa_hyperbeam@0.10.3
 - pkg:cargo/mwa_hyperbeam@0.10.4
 - pkg:cargo/mwa_hyperbeam@0.11.0
+- pkg:cargo/mwa_hyperbeam@0.11.1
+- pkg:cargo/mwa_hyperbeam@0.12.0
+- pkg:cargo/mwa_hyperbeam@0.13.0
+- pkg:cargo/mwa_hyperbeam@0.13.1
 - pkg:cargo/mwa_hyperbeam@0.3.0
 - pkg:cargo/mwa_hyperbeam@0.3.0-test1
 - pkg:cargo/mwa_hyperbeam@0.3.1
