@@ -3,3 +3,6 @@
 - pkg:cargo/epsh@0.0.3
 - pkg:cargo/epsh@0.0.5
 - pkg:cargo/epsh@0.0.6
+- pkg:cargo/epsh@0.0.7
+- pkg:cargo/epsh@0.0.8
+- pkg:cargo/epsh@0.0.9
