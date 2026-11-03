@@ -11,3 +11,4 @@
 - pkg:cargo/litcheck-lit@0.4.4
 - pkg:cargo/litcheck-lit@0.4.5
 - pkg:cargo/litcheck-lit@0.4.6
+- pkg:cargo/litcheck-lit@0.5.0
