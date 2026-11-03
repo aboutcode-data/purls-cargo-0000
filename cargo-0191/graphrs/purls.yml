@@ -18,6 +18,7 @@
 - pkg:cargo/graphrs@0.11.7
 - pkg:cargo/graphrs@0.11.8
 - pkg:cargo/graphrs@0.11.9
+- pkg:cargo/graphrs@0.12.0
 - pkg:cargo/graphrs@0.2.0
 - pkg:cargo/graphrs@0.3.0
 - pkg:cargo/graphrs@0.4.0
