@@ -12,3 +12,5 @@
 - pkg:cargo/grin_wallet_config@5.3.0
 - pkg:cargo/grin_wallet_config@5.3.1
 - pkg:cargo/grin_wallet_config@5.3.3
+- pkg:cargo/grin_wallet_config@5.4.1
+- pkg:cargo/grin_wallet_config@5.5.1
