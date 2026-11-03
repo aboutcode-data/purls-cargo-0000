@@ -2,3 +2,4 @@
 - pkg:cargo/pemba-store-postgres@0.1.0-alpha.3
 - pkg:cargo/pemba-store-postgres@0.1.0-alpha.4
 - pkg:cargo/pemba-store-postgres@0.2.0
+- pkg:cargo/pemba-store-postgres@0.3.0
