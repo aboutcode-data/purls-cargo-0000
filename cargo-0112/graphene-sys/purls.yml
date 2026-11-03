@@ -27,3 +27,5 @@
 - pkg:cargo/graphene-sys@0.22.0-alpha.1
 - pkg:cargo/graphene-sys@0.22.0-alpha.2
 - pkg:cargo/graphene-sys@0.22.0-alpha.3
+- pkg:cargo/graphene-sys@0.22.8
+- pkg:cargo/graphene-sys@0.22.9
