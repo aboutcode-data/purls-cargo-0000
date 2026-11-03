@@ -1,4 +1,5 @@
 - pkg:cargo/libdd-sampling@1.0.0
+- pkg:cargo/libdd-sampling@10.0.0
 - pkg:cargo/libdd-sampling@2.0.0
 - pkg:cargo/libdd-sampling@2.1.0
 - pkg:cargo/libdd-sampling@3.0.0
@@ -7,3 +8,4 @@
 - pkg:cargo/libdd-sampling@6.0.0
 - pkg:cargo/libdd-sampling@7.0.0
 - pkg:cargo/libdd-sampling@8.0.0
+- pkg:cargo/libdd-sampling@9.0.0
