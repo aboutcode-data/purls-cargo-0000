@@ -1,10 +1,16 @@
 - pkg:cargo/lz4rip-encode@0.10.0
 - pkg:cargo/lz4rip-encode@0.10.1
+- pkg:cargo/lz4rip-encode@0.10.10
+- pkg:cargo/lz4rip-encode@0.10.11
+- pkg:cargo/lz4rip-encode@0.10.12
 - pkg:cargo/lz4rip-encode@0.10.2
 - pkg:cargo/lz4rip-encode@0.10.3
 - pkg:cargo/lz4rip-encode@0.10.4
 - pkg:cargo/lz4rip-encode@0.10.5
 - pkg:cargo/lz4rip-encode@0.10.6
+- pkg:cargo/lz4rip-encode@0.10.7
+- pkg:cargo/lz4rip-encode@0.10.8
+- pkg:cargo/lz4rip-encode@0.10.9
 - pkg:cargo/lz4rip-encode@0.5.0
 - pkg:cargo/lz4rip-encode@0.5.1
 - pkg:cargo/lz4rip-encode@0.6.0

@@ -1,1 +1,5 @@
 - pkg:cargo/lz-copyback@1.0.0
+- pkg:cargo/lz-copyback@2.0.0
+- pkg:cargo/lz-copyback@3.0.1
+- pkg:cargo/lz-copyback@3.1.0
+- pkg:cargo/lz-copyback@3.2.0
