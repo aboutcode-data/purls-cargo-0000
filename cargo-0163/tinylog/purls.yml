@@ -9,3 +9,8 @@
 - pkg:cargo/tinylog@3.0.0
 - pkg:cargo/tinylog@4.0.0
 - pkg:cargo/tinylog@4.0.1
+- pkg:cargo/tinylog@4.0.2
+- pkg:cargo/tinylog@4.0.3
+- pkg:cargo/tinylog@4.0.4
+- pkg:cargo/tinylog@5.0.0
+- pkg:cargo/tinylog@5.0.1
