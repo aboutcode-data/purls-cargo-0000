@@ -1,4 +1,12 @@
 - pkg:cargo/qubit-lock@0.1.0
+- pkg:cargo/qubit-lock@0.12.0
+- pkg:cargo/qubit-lock@0.13.0
+- pkg:cargo/qubit-lock@0.13.1
+- pkg:cargo/qubit-lock@0.14.0
+- pkg:cargo/qubit-lock@0.14.1
+- pkg:cargo/qubit-lock@0.14.2
+- pkg:cargo/qubit-lock@0.14.3
+- pkg:cargo/qubit-lock@0.14.4
 - pkg:cargo/qubit-lock@0.2.0
 - pkg:cargo/qubit-lock@0.3.0
 - pkg:cargo/qubit-lock@0.3.1
