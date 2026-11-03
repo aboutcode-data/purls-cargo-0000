@@ -8,3 +8,6 @@
 - pkg:cargo/liven@0.0.8
 - pkg:cargo/liven@0.0.9
 - pkg:cargo/liven@0.1.0
+- pkg:cargo/liven@0.1.2
+- pkg:cargo/liven@0.1.3
+- pkg:cargo/liven@0.1.4
