@@ -22,3 +22,4 @@
 - pkg:cargo/lightyear_examples_common@0.29.0
 - pkg:cargo/lightyear_examples_common@0.30.0
 - pkg:cargo/lightyear_examples_common@0.30.1
+- pkg:cargo/lightyear_examples_common@0.31.0
