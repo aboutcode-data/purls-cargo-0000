@@ -14,3 +14,4 @@
 - pkg:cargo/ascent_base@0.7.0
 - pkg:cargo/ascent_base@0.7.0-alpha
 - pkg:cargo/ascent_base@0.8.0
+- pkg:cargo/ascent_base@0.8.1

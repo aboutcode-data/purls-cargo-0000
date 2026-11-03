@@ -1,0 +1,4 @@
+- pkg:cargo/asnkit-gen-rust-codec@2.0.0-rc1
+- pkg:cargo/asnkit-gen-rust-codec@2.0.0-rc2
+- pkg:cargo/asnkit-gen-rust-codec@2.0.0-rc3
+- pkg:cargo/asnkit-gen-rust-codec@2.0.0-rc4
