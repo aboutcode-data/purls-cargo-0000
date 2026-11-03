@@ -1,0 +1,2 @@
+- pkg:cargo/asgi-lifespan-protocol-rs@0.2.0
+- pkg:cargo/asgi-lifespan-protocol-rs@0.2.1
