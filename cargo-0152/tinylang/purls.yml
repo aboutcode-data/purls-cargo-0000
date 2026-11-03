@@ -3,3 +3,6 @@
 - pkg:cargo/tinylang@0.3.2
 - pkg:cargo/tinylang@0.3.3
 - pkg:cargo/tinylang@0.3.4
+- pkg:cargo/tinylang@0.5.4
+- pkg:cargo/tinylang@0.6.0
+- pkg:cargo/tinylang@0.6.1
