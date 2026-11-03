@@ -1,0 +1,5 @@
+- pkg:cargo/wrapper-ble-esp32c3mini@0.1.0
+- pkg:cargo/wrapper-ble-esp32c3mini@0.2.0
+- pkg:cargo/wrapper-ble-esp32c3mini@0.2.1
+- pkg:cargo/wrapper-ble-esp32c3mini@0.2.2
+- pkg:cargo/wrapper-ble-esp32c3mini@0.2.3
