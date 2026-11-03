@@ -17,3 +17,9 @@
 - pkg:cargo/libpcapng@0.18.8
 - pkg:cargo/libpcapng@0.18.9
 - pkg:cargo/libpcapng@0.19.0
+- pkg:cargo/libpcapng@0.19.2
+- pkg:cargo/libpcapng@0.19.3
+- pkg:cargo/libpcapng@0.19.4
+- pkg:cargo/libpcapng@0.19.5
+- pkg:cargo/libpcapng@0.19.6
+- pkg:cargo/libpcapng@0.19.7
