@@ -4,3 +4,6 @@
 - pkg:cargo/quinn-proto-jls@0.3.4
 - pkg:cargo/quinn-proto-jls@0.3.5
 - pkg:cargo/quinn-proto-jls@0.3.6
+- pkg:cargo/quinn-proto-jls@0.3.7
+- pkg:cargo/quinn-proto-jls@0.3.8
+- pkg:cargo/quinn-proto-jls@0.4.0
