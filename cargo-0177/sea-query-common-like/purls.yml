@@ -10,3 +10,5 @@
 - pkg:cargo/sea-query-common-like@1.1.0-rc.1
 - pkg:cargo/sea-query-common-like@1.1.0-rc.2
 - pkg:cargo/sea-query-common-like@1.1.1
+- pkg:cargo/sea-query-common-like@1.1.2
+- pkg:cargo/sea-query-common-like@2.0.0
