@@ -10,3 +10,5 @@
 - pkg:cargo/kucoin@0.7.4
 - pkg:cargo/kucoin@0.7.5
 - pkg:cargo/kucoin@0.7.6
+- pkg:cargo/kucoin@0.8.0
+- pkg:cargo/kucoin@0.8.1
