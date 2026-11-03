@@ -1,2 +1,6 @@
 - pkg:cargo/serde-llsd-benthic@0.0.1
 - pkg:cargo/serde-llsd-benthic@0.0.2
+- pkg:cargo/serde-llsd-benthic@0.2.1
+- pkg:cargo/serde-llsd-benthic@0.3.1
+- pkg:cargo/serde-llsd-benthic@0.3.2
+- pkg:cargo/serde-llsd-benthic@0.3.3
