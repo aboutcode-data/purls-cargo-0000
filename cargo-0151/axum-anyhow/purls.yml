@@ -12,6 +12,11 @@
 - pkg:cargo/axum-anyhow@0.10.9
 - pkg:cargo/axum-anyhow@0.11.0
 - pkg:cargo/axum-anyhow@0.11.1
+- pkg:cargo/axum-anyhow@0.11.10
+- pkg:cargo/axum-anyhow@0.11.11
+- pkg:cargo/axum-anyhow@0.11.12
+- pkg:cargo/axum-anyhow@0.11.13
+- pkg:cargo/axum-anyhow@0.11.14
 - pkg:cargo/axum-anyhow@0.11.2
 - pkg:cargo/axum-anyhow@0.11.3
 - pkg:cargo/axum-anyhow@0.11.4
@@ -19,6 +24,7 @@
 - pkg:cargo/axum-anyhow@0.11.6
 - pkg:cargo/axum-anyhow@0.11.7
 - pkg:cargo/axum-anyhow@0.11.8
+- pkg:cargo/axum-anyhow@0.11.9
 - pkg:cargo/axum-anyhow@0.2.0
 - pkg:cargo/axum-anyhow@0.2.1
 - pkg:cargo/axum-anyhow@0.3.0
