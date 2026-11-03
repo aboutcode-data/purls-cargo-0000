@@ -1,4 +1,5 @@
 - pkg:cargo/libwild@0.10.0
+- pkg:cargo/libwild@0.11.0
 - pkg:cargo/libwild@0.4.0
 - pkg:cargo/libwild@0.5.0
 - pkg:cargo/libwild@0.6.0
