@@ -39,3 +39,17 @@
 - pkg:cargo/branchdiff@0.71.0
 - pkg:cargo/branchdiff@0.73.4
 - pkg:cargo/branchdiff@0.74.0
+- pkg:cargo/branchdiff@0.74.1
+- pkg:cargo/branchdiff@0.74.2
+- pkg:cargo/branchdiff@0.74.3
+- pkg:cargo/branchdiff@0.74.4
+- pkg:cargo/branchdiff@0.75.0
+- pkg:cargo/branchdiff@0.76.0
+- pkg:cargo/branchdiff@0.77.0
+- pkg:cargo/branchdiff@0.77.1
+- pkg:cargo/branchdiff@0.77.2
+- pkg:cargo/branchdiff@0.77.3
+- pkg:cargo/branchdiff@0.77.4
+- pkg:cargo/branchdiff@0.77.5
+- pkg:cargo/branchdiff@0.78.0
+- pkg:cargo/branchdiff@0.78.1
