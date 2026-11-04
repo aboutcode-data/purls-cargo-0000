@@ -9,3 +9,4 @@
 - pkg:cargo/updatehub-cloud-sdk@2.1.4
 - pkg:cargo/updatehub-cloud-sdk@2.1.6
 - pkg:cargo/updatehub-cloud-sdk@2.2.0
+- pkg:cargo/updatehub-cloud-sdk@2.2.1
