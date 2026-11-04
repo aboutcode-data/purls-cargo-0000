@@ -16,3 +16,10 @@
 - pkg:cargo/vizij-arora-host@7.1.0
 - pkg:cargo/vizij-arora-host@7.2.0
 - pkg:cargo/vizij-arora-host@7.3.0
+- pkg:cargo/vizij-arora-host@7.4.0
+- pkg:cargo/vizij-arora-host@7.5.0
+- pkg:cargo/vizij-arora-host@7.6.0
+- pkg:cargo/vizij-arora-host@7.7.0
+- pkg:cargo/vizij-arora-host@7.7.1
+- pkg:cargo/vizij-arora-host@7.7.2
+- pkg:cargo/vizij-arora-host@8.0.0
