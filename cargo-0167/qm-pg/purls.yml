@@ -60,3 +60,7 @@
 - pkg:cargo/qm-pg@0.0.78
 - pkg:cargo/qm-pg@0.0.79
 - pkg:cargo/qm-pg@0.0.80
+- pkg:cargo/qm-pg@0.0.81
+- pkg:cargo/qm-pg@0.0.82
+- pkg:cargo/qm-pg@0.0.83
+- pkg:cargo/qm-pg@0.0.84

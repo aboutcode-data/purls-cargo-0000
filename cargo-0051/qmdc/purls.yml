@@ -1,3 +1,5 @@
 - pkg:cargo/qmdc@1.0.4
 - pkg:cargo/qmdc@1.0.6
 - pkg:cargo/qmdc@1.0.7
+- pkg:cargo/qmdc@2.0.0
+- pkg:cargo/qmdc@2.0.1
