@@ -13,6 +13,8 @@
 - pkg:cargo/depsec@0.20.0
 - pkg:cargo/depsec@0.20.1
 - pkg:cargo/depsec@0.20.2
+- pkg:cargo/depsec@0.21.0
+- pkg:cargo/depsec@0.21.1
 - pkg:cargo/depsec@0.3.0
 - pkg:cargo/depsec@0.3.1
 - pkg:cargo/depsec@0.4.0
