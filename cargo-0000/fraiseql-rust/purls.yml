@@ -1,0 +1,4 @@
+- pkg:cargo/fraiseql-rust@2.17.0
+- pkg:cargo/fraiseql-rust@2.17.1
+- pkg:cargo/fraiseql-rust@2.18.0
+- pkg:cargo/fraiseql-rust@2.19.0
