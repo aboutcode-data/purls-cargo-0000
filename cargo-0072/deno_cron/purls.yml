@@ -34,7 +34,17 @@
 - pkg:cargo/deno_cron@0.129.0
 - pkg:cargo/deno_cron@0.13.0
 - pkg:cargo/deno_cron@0.130.0
+- pkg:cargo/deno_cron@0.131.0
+- pkg:cargo/deno_cron@0.132.0
+- pkg:cargo/deno_cron@0.133.0
+- pkg:cargo/deno_cron@0.134.0
+- pkg:cargo/deno_cron@0.135.0
+- pkg:cargo/deno_cron@0.136.0
+- pkg:cargo/deno_cron@0.137.0
+- pkg:cargo/deno_cron@0.138.0
+- pkg:cargo/deno_cron@0.139.0
 - pkg:cargo/deno_cron@0.14.0
+- pkg:cargo/deno_cron@0.140.0
 - pkg:cargo/deno_cron@0.15.0
 - pkg:cargo/deno_cron@0.16.0
 - pkg:cargo/deno_cron@0.17.0

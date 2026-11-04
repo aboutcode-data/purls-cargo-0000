@@ -169,7 +169,17 @@
 - pkg:cargo/deno_webidl@0.249.0
 - pkg:cargo/deno_webidl@0.25.0
 - pkg:cargo/deno_webidl@0.250.0
+- pkg:cargo/deno_webidl@0.251.0
+- pkg:cargo/deno_webidl@0.252.0
+- pkg:cargo/deno_webidl@0.253.0
+- pkg:cargo/deno_webidl@0.254.0
+- pkg:cargo/deno_webidl@0.255.0
+- pkg:cargo/deno_webidl@0.256.0
+- pkg:cargo/deno_webidl@0.257.0
+- pkg:cargo/deno_webidl@0.258.0
+- pkg:cargo/deno_webidl@0.259.0
 - pkg:cargo/deno_webidl@0.26.0
+- pkg:cargo/deno_webidl@0.260.0
 - pkg:cargo/deno_webidl@0.27.0
 - pkg:cargo/deno_webidl@0.28.0
 - pkg:cargo/deno_webidl@0.29.0
