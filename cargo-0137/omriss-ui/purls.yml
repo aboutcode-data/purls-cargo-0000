@@ -8,3 +8,4 @@
 - pkg:cargo/omriss-ui@0.15.5
 - pkg:cargo/omriss-ui@0.15.6
 - pkg:cargo/omriss-ui@0.16.0
+- pkg:cargo/omriss-ui@0.17.0
