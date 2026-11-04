@@ -65,6 +65,12 @@
 - pkg:cargo/journal-forwarder@1.21.0
 - pkg:cargo/journal-forwarder@1.210.0
 - pkg:cargo/journal-forwarder@1.212.0
+- pkg:cargo/journal-forwarder@1.214.0
+- pkg:cargo/journal-forwarder@1.216.0
+- pkg:cargo/journal-forwarder@1.218.0
+- pkg:cargo/journal-forwarder@1.220.0
+- pkg:cargo/journal-forwarder@1.222.0
+- pkg:cargo/journal-forwarder@1.224.0
 - pkg:cargo/journal-forwarder@1.23.0
 - pkg:cargo/journal-forwarder@1.25.0
 - pkg:cargo/journal-forwarder@1.27.0
