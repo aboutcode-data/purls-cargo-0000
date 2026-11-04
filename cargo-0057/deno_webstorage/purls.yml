@@ -162,7 +162,17 @@
 - pkg:cargo/deno_webstorage@0.243.0
 - pkg:cargo/deno_webstorage@0.244.0
 - pkg:cargo/deno_webstorage@0.245.0
+- pkg:cargo/deno_webstorage@0.246.0
+- pkg:cargo/deno_webstorage@0.247.0
+- pkg:cargo/deno_webstorage@0.248.0
+- pkg:cargo/deno_webstorage@0.249.0
 - pkg:cargo/deno_webstorage@0.25.0
+- pkg:cargo/deno_webstorage@0.250.0
+- pkg:cargo/deno_webstorage@0.251.0
+- pkg:cargo/deno_webstorage@0.252.0
+- pkg:cargo/deno_webstorage@0.253.0
+- pkg:cargo/deno_webstorage@0.254.0
+- pkg:cargo/deno_webstorage@0.255.0
 - pkg:cargo/deno_webstorage@0.26.0
 - pkg:cargo/deno_webstorage@0.27.0
 - pkg:cargo/deno_webstorage@0.29.0

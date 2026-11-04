@@ -160,7 +160,17 @@
 - pkg:cargo/deno_bench_util@0.242.0
 - pkg:cargo/deno_bench_util@0.243.0
 - pkg:cargo/deno_bench_util@0.244.0
+- pkg:cargo/deno_bench_util@0.245.0
+- pkg:cargo/deno_bench_util@0.246.0
+- pkg:cargo/deno_bench_util@0.247.0
+- pkg:cargo/deno_bench_util@0.248.0
+- pkg:cargo/deno_bench_util@0.249.0
 - pkg:cargo/deno_bench_util@0.25.0
+- pkg:cargo/deno_bench_util@0.250.0
+- pkg:cargo/deno_bench_util@0.251.0
+- pkg:cargo/deno_bench_util@0.252.0
+- pkg:cargo/deno_bench_util@0.253.0
+- pkg:cargo/deno_bench_util@0.254.0
 - pkg:cargo/deno_bench_util@0.26.0
 - pkg:cargo/deno_bench_util@0.28.0
 - pkg:cargo/deno_bench_util@0.29.0
