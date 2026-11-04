@@ -14,7 +14,12 @@
 - pkg:cargo/derive_form@2.0.0
 - pkg:cargo/derive_form@2.0.1
 - pkg:cargo/derive_form@2.0.2
+- pkg:cargo/derive_form@2.1.10
+- pkg:cargo/derive_form@2.1.11
 - pkg:cargo/derive_form@2.1.2
 - pkg:cargo/derive_form@2.1.6
 - pkg:cargo/derive_form@2.1.7
 - pkg:cargo/derive_form@2.1.8
+- pkg:cargo/derive_form@2.1.9
+- pkg:cargo/derive_form@2.2.0
+- pkg:cargo/derive_form@3.0.0
