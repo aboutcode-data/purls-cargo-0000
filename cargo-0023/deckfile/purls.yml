@@ -1,0 +1,13 @@
+- pkg:cargo/deckfile@1.10.0
+- pkg:cargo/deckfile@1.2.1
+- pkg:cargo/deckfile@1.2.3
+- pkg:cargo/deckfile@1.2.4
+- pkg:cargo/deckfile@1.2.6
+- pkg:cargo/deckfile@1.3.0
+- pkg:cargo/deckfile@1.4.1
+- pkg:cargo/deckfile@1.5.1
+- pkg:cargo/deckfile@1.5.3
+- pkg:cargo/deckfile@1.6.1
+- pkg:cargo/deckfile@1.6.2
+- pkg:cargo/deckfile@1.8.0
+- pkg:cargo/deckfile@1.9.1
