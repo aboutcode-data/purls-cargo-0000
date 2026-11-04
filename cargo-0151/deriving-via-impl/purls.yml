@@ -3,3 +3,6 @@
 - pkg:cargo/deriving-via-impl@2.1.0
 - pkg:cargo/deriving-via-impl@2.1.0-pre.0
 - pkg:cargo/deriving-via-impl@2.2.0
+- pkg:cargo/deriving-via-impl@2.2.1
+- pkg:cargo/deriving-via-impl@2.3.0
+- pkg:cargo/deriving-via-impl@2.3.1
