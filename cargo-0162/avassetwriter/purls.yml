@@ -1,5 +1,16 @@
 - pkg:cargo/avassetwriter@0.10.0
 - pkg:cargo/avassetwriter@0.10.1
+- pkg:cargo/avassetwriter@0.10.2
+- pkg:cargo/avassetwriter@0.10.3
+- pkg:cargo/avassetwriter@0.10.4
+- pkg:cargo/avassetwriter@0.11.0
+- pkg:cargo/avassetwriter@0.11.1
+- pkg:cargo/avassetwriter@0.12.0
+- pkg:cargo/avassetwriter@0.13.0
+- pkg:cargo/avassetwriter@0.13.1
+- pkg:cargo/avassetwriter@0.13.2
+- pkg:cargo/avassetwriter@0.13.3
+- pkg:cargo/avassetwriter@0.14.0
 - pkg:cargo/avassetwriter@0.2.0
 - pkg:cargo/avassetwriter@0.3.0
 - pkg:cargo/avassetwriter@0.4.0
