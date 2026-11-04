@@ -70,6 +70,7 @@
 - pkg:cargo/frame-executive@46.0.0
 - pkg:cargo/frame-executive@47.0.0
 - pkg:cargo/frame-executive@48.0.0
+- pkg:cargo/frame-executive@49.0.0
 - pkg:cargo/frame-executive@5.0.0
 - pkg:cargo/frame-executive@6.0.0
 - pkg:cargo/frame-executive@7.0.0
