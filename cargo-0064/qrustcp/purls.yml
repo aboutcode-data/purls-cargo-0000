@@ -1,3 +1,4 @@
 - pkg:cargo/qrustcp@1.0.1
 - pkg:cargo/qrustcp@1.0.2
 - pkg:cargo/qrustcp@2.0.0
+- pkg:cargo/qrustcp@2.1.0

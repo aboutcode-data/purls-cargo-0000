@@ -4,6 +4,7 @@
 - pkg:cargo/f256@0.11.0
 - pkg:cargo/f256@0.11.1
 - pkg:cargo/f256@0.11.2
+- pkg:cargo/f256@0.11.3
 - pkg:cargo/f256@0.2.0
 - pkg:cargo/f256@0.3.0
 - pkg:cargo/f256@0.3.1
