@@ -1,6 +1,8 @@
 - pkg:cargo/dezoomify-rs@1.8.9
 - pkg:cargo/dezoomify-rs@2.0.0
 - pkg:cargo/dezoomify-rs@2.1.0
+- pkg:cargo/dezoomify-rs@2.18.0
+- pkg:cargo/dezoomify-rs@2.18.1
 - pkg:cargo/dezoomify-rs@2.2.0
 - pkg:cargo/dezoomify-rs@2.2.2
 - pkg:cargo/dezoomify-rs@2.3.0-beta
