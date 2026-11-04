@@ -1,2 +1,3 @@
 - pkg:cargo/qrcode-rust@0.0.1-alpha
 - pkg:cargo/qrcode-rust@0.1.3
+- pkg:cargo/qrcode-rust@0.3.0
