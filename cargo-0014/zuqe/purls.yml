@@ -1,3 +1,7 @@
+- pkg:cargo/zuqe@0.10.0
+- pkg:cargo/zuqe@0.11.0
+- pkg:cargo/zuqe@0.11.1
+- pkg:cargo/zuqe@0.11.2
 - pkg:cargo/zuqe@0.3.0
 - pkg:cargo/zuqe@0.3.1
 - pkg:cargo/zuqe@0.3.2
@@ -9,3 +13,5 @@
 - pkg:cargo/zuqe@0.5.0
 - pkg:cargo/zuqe@0.6.0
 - pkg:cargo/zuqe@0.8.0
+- pkg:cargo/zuqe@0.9.0
+- pkg:cargo/zuqe@0.9.1

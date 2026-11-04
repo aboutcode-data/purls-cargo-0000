@@ -47,6 +47,9 @@
 - pkg:cargo/zune-jpeg@0.5.13
 - pkg:cargo/zune-jpeg@0.5.14
 - pkg:cargo/zune-jpeg@0.5.15
+- pkg:cargo/zune-jpeg@0.5.16-rc1
+- pkg:cargo/zune-jpeg@0.5.16-rc2
+- pkg:cargo/zune-jpeg@0.5.16-rc3
 - pkg:cargo/zune-jpeg@0.5.2
 - pkg:cargo/zune-jpeg@0.5.3
 - pkg:cargo/zune-jpeg@0.5.4
