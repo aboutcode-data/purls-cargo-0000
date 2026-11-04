@@ -2,3 +2,5 @@
 - pkg:cargo/kernelspace@0.1.1
 - pkg:cargo/kernelspace@0.1.127
 - pkg:cargo/kernelspace@0.1.128
+- pkg:cargo/kernelspace@0.2.0
+- pkg:cargo/kernelspace@0.2.2
