@@ -2,3 +2,4 @@
 - pkg:cargo/jbig2enc-rust@0.5.1
 - pkg:cargo/jbig2enc-rust@0.5.3
 - pkg:cargo/jbig2enc-rust@0.5.4
+- pkg:cargo/jbig2enc-rust@0.6.0
