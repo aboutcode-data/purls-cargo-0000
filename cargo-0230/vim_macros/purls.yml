@@ -12,3 +12,5 @@
 - pkg:cargo/vim_macros@0.4.4
 - pkg:cargo/vim_macros@0.5.0
 - pkg:cargo/vim_macros@0.6.0
+- pkg:cargo/vim_macros@0.6.1
+- pkg:cargo/vim_macros@0.7.0
