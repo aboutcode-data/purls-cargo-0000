@@ -3,6 +3,7 @@
 - pkg:cargo/vivid_gateway@1.5.10
 - pkg:cargo/vivid_gateway@1.5.11
 - pkg:cargo/vivid_gateway@1.5.12
+- pkg:cargo/vivid_gateway@1.5.13
 - pkg:cargo/vivid_gateway@1.5.2
 - pkg:cargo/vivid_gateway@1.5.3
 - pkg:cargo/vivid_gateway@1.5.4
