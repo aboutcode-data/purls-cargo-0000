@@ -27,3 +27,6 @@
 - pkg:cargo/derse@0.1.7
 - pkg:cargo/derse@0.1.8
 - pkg:cargo/derse@0.1.9
+- pkg:cargo/derse@0.2.0
+- pkg:cargo/derse@0.2.0-alpha
+- pkg:cargo/derse@0.2.1

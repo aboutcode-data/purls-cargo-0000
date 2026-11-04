@@ -1,0 +1,3 @@
+- pkg:cargo/dex-parser-rust@1.1.0
+- pkg:cargo/dex-parser-rust@1.2.0
+- pkg:cargo/dex-parser-rust@1.3.0
