@@ -35,3 +35,8 @@
 - pkg:cargo/kelora@1.4.8
 - pkg:cargo/kelora@1.4.9
 - pkg:cargo/kelora@1.5.0
+- pkg:cargo/kelora@2.0.0
+- pkg:cargo/kelora@2.0.1
+- pkg:cargo/kelora@2.1.1
+- pkg:cargo/kelora@2.2.0
+- pkg:cargo/kelora@2.2.1

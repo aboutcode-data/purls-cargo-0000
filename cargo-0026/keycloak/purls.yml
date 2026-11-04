@@ -61,5 +61,9 @@
 - pkg:cargo/keycloak@26.5.200
 - pkg:cargo/keycloak@26.6.0
 - pkg:cargo/keycloak@26.6.1
+- pkg:cargo/keycloak@26.6.2
+- pkg:cargo/keycloak@26.7.200
+- pkg:cargo/keycloak@26.7.300
+- pkg:cargo/keycloak@26.8.100
 - pkg:cargo/keycloak@9.0.0
 - pkg:cargo/keycloak@9.0.1
