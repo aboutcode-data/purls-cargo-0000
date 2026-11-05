@@ -11,6 +11,7 @@
 - pkg:cargo/quipu-ai@0.16.2
 - pkg:cargo/quipu-ai@0.16.3
 - pkg:cargo/quipu-ai@0.16.6
+- pkg:cargo/quipu-ai@0.17.0
 - pkg:cargo/quipu-ai@0.3.17
 - pkg:cargo/quipu-ai@0.3.27
 - pkg:cargo/quipu-ai@0.8.1
