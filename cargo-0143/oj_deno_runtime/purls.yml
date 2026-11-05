@@ -39,3 +39,4 @@
 - pkg:cargo/oj_deno_runtime@0.267.0
 - pkg:cargo/oj_deno_runtime@0.3.3
 - pkg:cargo/oj_deno_runtime@0.4.0
+- pkg:cargo/oj_deno_runtime@0.4.1
