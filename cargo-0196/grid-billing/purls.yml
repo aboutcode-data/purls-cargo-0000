@@ -14,3 +14,5 @@
 - pkg:cargo/grid-billing@0.23.0
 - pkg:cargo/grid-billing@0.24.0
 - pkg:cargo/grid-billing@0.24.1
+- pkg:cargo/grid-billing@0.24.2
+- pkg:cargo/grid-billing@0.24.3
