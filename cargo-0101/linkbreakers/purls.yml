@@ -128,6 +128,7 @@
 - pkg:cargo/linkbreakers@1.191.0
 - pkg:cargo/linkbreakers@1.192.0
 - pkg:cargo/linkbreakers@1.192.1
+- pkg:cargo/linkbreakers@1.193.0
 - pkg:cargo/linkbreakers@1.43.5
 - pkg:cargo/linkbreakers@1.44.2
 - pkg:cargo/linkbreakers@1.45.0
