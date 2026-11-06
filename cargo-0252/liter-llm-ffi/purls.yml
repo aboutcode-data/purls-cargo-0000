@@ -116,3 +116,4 @@
 - pkg:cargo/liter-llm-ffi@2.4.4
 - pkg:cargo/liter-llm-ffi@2.5.0
 - pkg:cargo/liter-llm-ffi@2.6.0
+- pkg:cargo/liter-llm-ffi@2.6.1
