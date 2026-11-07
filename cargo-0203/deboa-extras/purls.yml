@@ -31,6 +31,7 @@
 - pkg:cargo/deboa-extras@0.0.9-beta.8
 - pkg:cargo/deboa-extras@0.0.9-beta.9
 - pkg:cargo/deboa-extras@0.1.0
+- pkg:cargo/deboa-extras@0.1.1
 - pkg:cargo/deboa-extras@0.1.1-beta.1
 - pkg:cargo/deboa-extras@0.1.1-beta.2
 - pkg:cargo/deboa-extras@0.1.1-beta.3
