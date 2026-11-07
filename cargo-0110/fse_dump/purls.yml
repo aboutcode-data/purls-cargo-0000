@@ -97,3 +97,4 @@
 - pkg:cargo/fse_dump@3.1.7
 - pkg:cargo/fse_dump@3.1.8
 - pkg:cargo/fse_dump@3.2.0
+- pkg:cargo/fse_dump@3.2.1
