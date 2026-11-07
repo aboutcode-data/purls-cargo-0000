@@ -112,6 +112,13 @@
 - pkg:cargo/decapod@0.124.3
 - pkg:cargo/decapod@0.125.0
 - pkg:cargo/decapod@0.126.0
+- pkg:cargo/decapod@0.126.1
+- pkg:cargo/decapod@0.126.2
+- pkg:cargo/decapod@0.126.3
+- pkg:cargo/decapod@0.126.4
+- pkg:cargo/decapod@0.126.5
+- pkg:cargo/decapod@0.127.0
+- pkg:cargo/decapod@0.127.1
 - pkg:cargo/decapod@0.13.0
 - pkg:cargo/decapod@0.14.0
 - pkg:cargo/decapod@0.14.1
