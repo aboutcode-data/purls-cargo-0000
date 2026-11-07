@@ -4,3 +4,4 @@
 - pkg:cargo/ractor_macros@0.16.3
 - pkg:cargo/ractor_macros@0.16.4
 - pkg:cargo/ractor_macros@0.16.5
+- pkg:cargo/ractor_macros@0.16.6
