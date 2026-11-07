@@ -8,3 +8,4 @@
 - pkg:cargo/qubit-measure@0.7.0
 - pkg:cargo/qubit-measure@0.8.0
 - pkg:cargo/qubit-measure@0.8.2
+- pkg:cargo/qubit-measure@0.8.3
