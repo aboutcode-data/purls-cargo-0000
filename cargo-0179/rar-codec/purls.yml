@@ -1,5 +1,6 @@
 - pkg:cargo/rar-codec@0.1.0
 - pkg:cargo/rar-codec@0.1.1
+- pkg:cargo/rar-codec@0.1.10
 - pkg:cargo/rar-codec@0.1.2
 - pkg:cargo/rar-codec@0.1.3
 - pkg:cargo/rar-codec@0.1.4
