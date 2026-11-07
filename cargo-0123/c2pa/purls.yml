@@ -244,6 +244,7 @@
 - pkg:cargo/c2pa@0.91.0
 - pkg:cargo/c2pa@0.91.1
 - pkg:cargo/c2pa@0.91.10
+- pkg:cargo/c2pa@0.91.11
 - pkg:cargo/c2pa@0.91.2
 - pkg:cargo/c2pa@0.91.3
 - pkg:cargo/c2pa@0.91.4
