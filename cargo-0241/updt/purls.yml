@@ -64,3 +64,4 @@
 - pkg:cargo/updt@3.0.0
 - pkg:cargo/updt@3.1.0
 - pkg:cargo/updt@3.2.0
+- pkg:cargo/updt@3.2.1
