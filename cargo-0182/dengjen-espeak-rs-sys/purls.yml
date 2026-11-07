@@ -8,3 +8,4 @@
 - pkg:cargo/dengjen-espeak-rs-sys@0.2.8
 - pkg:cargo/dengjen-espeak-rs-sys@0.2.9
 - pkg:cargo/dengjen-espeak-rs-sys@3.0.4
+- pkg:cargo/dengjen-espeak-rs-sys@3.1.0
