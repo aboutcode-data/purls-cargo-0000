@@ -27,3 +27,4 @@
 - pkg:cargo/quant1x@0.7.5
 - pkg:cargo/quant1x@0.8.0
 - pkg:cargo/quant1x@0.8.2
+- pkg:cargo/quant1x@0.8.3
