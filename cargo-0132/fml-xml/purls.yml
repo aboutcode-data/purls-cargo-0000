@@ -1,2 +1,4 @@
 - pkg:cargo/fml-xml@0.2.3
 - pkg:cargo/fml-xml@0.2.4
+- pkg:cargo/fml-xml@0.2.5
+- pkg:cargo/fml-xml@0.2.6
