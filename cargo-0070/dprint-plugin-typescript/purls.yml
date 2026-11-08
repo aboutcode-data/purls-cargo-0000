@@ -266,3 +266,5 @@
 - pkg:cargo/dprint-plugin-typescript@0.97.1
 - pkg:cargo/dprint-plugin-typescript@0.98.0
 - pkg:cargo/dprint-plugin-typescript@0.98.1
+- pkg:cargo/dprint-plugin-typescript@0.99.0
+- pkg:cargo/dprint-plugin-typescript@0.99.1
