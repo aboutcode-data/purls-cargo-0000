@@ -8,3 +8,4 @@
 - pkg:cargo/dedup-rs-gui@0.7.0
 - pkg:cargo/dedup-rs-gui@0.8.0
 - pkg:cargo/dedup-rs-gui@3.0.0
+- pkg:cargo/dedup-rs-gui@3.1.0
