@@ -24,3 +24,4 @@
 - pkg:cargo/libmimalloc-sys2@0.1.63
 - pkg:cargo/libmimalloc-sys2@0.1.64
 - pkg:cargo/libmimalloc-sys2@0.1.65
+- pkg:cargo/libmimalloc-sys2@0.1.66
