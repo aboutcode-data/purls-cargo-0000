@@ -36,3 +36,4 @@
 - pkg:cargo/quarb-tree-sitter@0.54.0
 - pkg:cargo/quarb-tree-sitter@0.55.0
 - pkg:cargo/quarb-tree-sitter@0.56.0
+- pkg:cargo/quarb-tree-sitter@0.57.0
