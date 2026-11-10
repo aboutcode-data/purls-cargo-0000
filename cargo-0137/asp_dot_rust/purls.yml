@@ -1,3 +1,4 @@
+- pkg:cargo/asp_dot_rust@0.2.10
 - pkg:cargo/asp_dot_rust@0.2.3
 - pkg:cargo/asp_dot_rust@0.2.4
 - pkg:cargo/asp_dot_rust@0.2.5
