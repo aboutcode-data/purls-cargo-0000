@@ -2,3 +2,4 @@
 - pkg:cargo/turbofox@0.0.11
 - pkg:cargo/turbofox@0.0.201
 - pkg:cargo/turbofox@0.0.300
+- pkg:cargo/turbofox@0.0.301
