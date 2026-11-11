@@ -1,1 +1,2 @@
 - pkg:cargo/axa-transactional-outbox@0.2.0
+- pkg:cargo/axa-transactional-outbox@0.3.0
