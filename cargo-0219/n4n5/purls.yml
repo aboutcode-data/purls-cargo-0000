@@ -43,6 +43,8 @@
 - pkg:cargo/n4n5@1.5.9
 - pkg:cargo/n4n5@1.6.0
 - pkg:cargo/n4n5@1.6.1
+- pkg:cargo/n4n5@1.6.10
+- pkg:cargo/n4n5@1.6.11
 - pkg:cargo/n4n5@1.6.2
 - pkg:cargo/n4n5@1.6.3
 - pkg:cargo/n4n5@1.6.4

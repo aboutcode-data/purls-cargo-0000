@@ -10,3 +10,4 @@
 - pkg:cargo/bf-tree@0.5.4
 - pkg:cargo/bf-tree@0.5.5
 - pkg:cargo/bf-tree@0.5.6
+- pkg:cargo/bf-tree@0.5.7
