@@ -6,3 +6,4 @@
 - pkg:cargo/tree-sitter-clojure-orchard@0.2.4
 - pkg:cargo/tree-sitter-clojure-orchard@0.2.5
 - pkg:cargo/tree-sitter-clojure-orchard@0.2.8
+- pkg:cargo/tree-sitter-clojure-orchard@0.2.9
