@@ -1,3 +1,4 @@
 - pkg:cargo/mauth-core@0.4.1
 - pkg:cargo/mauth-core@0.5.0
 - pkg:cargo/mauth-core@0.6.0
+- pkg:cargo/mauth-core@0.6.1
