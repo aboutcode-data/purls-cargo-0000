@@ -6,6 +6,11 @@
 - pkg:cargo/spoify@0.2.1
 - pkg:cargo/spoify@0.2.11
 - pkg:cargo/spoify@0.2.12
+- pkg:cargo/spoify@0.2.13
+- pkg:cargo/spoify@0.2.14
+- pkg:cargo/spoify@0.2.15
+- pkg:cargo/spoify@0.2.16
+- pkg:cargo/spoify@0.2.17
 - pkg:cargo/spoify@0.2.2
 - pkg:cargo/spoify@0.2.3
 - pkg:cargo/spoify@0.2.4

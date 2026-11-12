@@ -17,3 +17,8 @@
 - pkg:cargo/spacetimedb-durability@1.1.2
 - pkg:cargo/spacetimedb-durability@1.2.0
 - pkg:cargo/spacetimedb-durability@1.3.0
+- pkg:cargo/spacetimedb-durability@2.12.0
+- pkg:cargo/spacetimedb-durability@2.13.0
+- pkg:cargo/spacetimedb-durability@2.14.0
+- pkg:cargo/spacetimedb-durability@2.14.1
+- pkg:cargo/spacetimedb-durability@2.15.0
