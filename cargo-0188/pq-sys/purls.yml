@@ -31,3 +31,5 @@
 - pkg:cargo/pq-sys@0.7.3
 - pkg:cargo/pq-sys@0.7.4
 - pkg:cargo/pq-sys@0.7.5
+- pkg:cargo/pq-sys@0.7.6
+- pkg:cargo/pq-sys@0.7.8
