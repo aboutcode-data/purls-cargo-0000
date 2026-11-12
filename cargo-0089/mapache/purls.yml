@@ -1,0 +1,4 @@
+- pkg:cargo/mapache@0.6.0
+- pkg:cargo/mapache@0.7.0
+- pkg:cargo/mapache@0.7.1
+- pkg:cargo/mapache@0.8.0
