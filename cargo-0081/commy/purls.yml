@@ -1,7 +1,14 @@
 - pkg:cargo/commy@0.1.0
+- pkg:cargo/commy@0.19.0
+- pkg:cargo/commy@0.19.5
+- pkg:cargo/commy@0.19.8
 - pkg:cargo/commy@0.2.0
 - pkg:cargo/commy@0.2.1
 - pkg:cargo/commy@0.2.2
 - pkg:cargo/commy@0.2.3
+- pkg:cargo/commy@0.21.0
+- pkg:cargo/commy@0.27.3
+- pkg:cargo/commy@0.27.7
 - pkg:cargo/commy@0.3.0
 - pkg:cargo/commy@0.3.1
+- pkg:cargo/commy@0.4.1
