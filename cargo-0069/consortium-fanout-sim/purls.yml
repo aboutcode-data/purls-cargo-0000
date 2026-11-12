@@ -1,1 +1,3 @@
 - pkg:cargo/consortium-fanout-sim@0.2.0
+- pkg:cargo/consortium-fanout-sim@0.3.1
+- pkg:cargo/consortium-fanout-sim@0.3.2
