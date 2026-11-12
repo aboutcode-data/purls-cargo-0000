@@ -1,2 +1,4 @@
 - pkg:cargo/spin_loop@0.1.0
 - pkg:cargo/spin_loop@0.1.1
+- pkg:cargo/spin_loop@0.2.4
+- pkg:cargo/spin_loop@0.2.5
