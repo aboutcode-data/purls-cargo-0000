@@ -16,6 +16,8 @@
 - pkg:cargo/trade_aggregation@12.0.3
 - pkg:cargo/trade_aggregation@13.0.0
 - pkg:cargo/trade_aggregation@13.0.1
+- pkg:cargo/trade_aggregation@13.1.0
+- pkg:cargo/trade_aggregation@14.0.0
 - pkg:cargo/trade_aggregation@2.0.0
 - pkg:cargo/trade_aggregation@3.3.1
 - pkg:cargo/trade_aggregation@4.0.0
