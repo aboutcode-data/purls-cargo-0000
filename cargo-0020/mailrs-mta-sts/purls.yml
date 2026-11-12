@@ -1,0 +1,4 @@
+- pkg:cargo/mailrs-mta-sts@1.0.0
+- pkg:cargo/mailrs-mta-sts@2.0.0
+- pkg:cargo/mailrs-mta-sts@2.0.1
+- pkg:cargo/mailrs-mta-sts@2.0.2
