@@ -10,6 +10,11 @@
 - pkg:cargo/manyhow-macros@0.11.2
 - pkg:cargo/manyhow-macros@0.11.3
 - pkg:cargo/manyhow-macros@0.11.4
+- pkg:cargo/manyhow-macros@0.12.0
+- pkg:cargo/manyhow-macros@0.13.0
+- pkg:cargo/manyhow-macros@0.13.1
+- pkg:cargo/manyhow-macros@0.14.0
+- pkg:cargo/manyhow-macros@0.14.1
 - pkg:cargo/manyhow-macros@0.4.1
 - pkg:cargo/manyhow-macros@0.4.2
 - pkg:cargo/manyhow-macros@0.5.0
