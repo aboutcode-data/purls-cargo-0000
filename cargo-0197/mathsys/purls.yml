@@ -1,3 +1,13 @@
+- pkg:cargo/mathsys@0.0.0
+- pkg:cargo/mathsys@0.0.1
+- pkg:cargo/mathsys@0.0.2
+- pkg:cargo/mathsys@0.0.3
+- pkg:cargo/mathsys@0.1.0
+- pkg:cargo/mathsys@0.2.0
+- pkg:cargo/mathsys@1.0.0
+- pkg:cargo/mathsys@2.0.0
+- pkg:cargo/mathsys@2.0.1
+- pkg:cargo/mathsys@2.1.0
 - pkg:cargo/mathsys@7.0.0
 - pkg:cargo/mathsys@8.0.0
 - pkg:cargo/mathsys@9.0.0
