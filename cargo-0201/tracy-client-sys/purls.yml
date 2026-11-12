@@ -29,6 +29,7 @@
 - pkg:cargo/tracy-client-sys@0.28.0
 - pkg:cargo/tracy-client-sys@0.29.0
 - pkg:cargo/tracy-client-sys@0.30.0
+- pkg:cargo/tracy-client-sys@0.30.1
 - pkg:cargo/tracy-client-sys@0.7.0
 - pkg:cargo/tracy-client-sys@0.7.1
 - pkg:cargo/tracy-client-sys@0.7.2
