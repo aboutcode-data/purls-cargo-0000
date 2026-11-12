@@ -2,3 +2,4 @@
 - pkg:cargo/mc-oblivious-ram@2.0.0
 - pkg:cargo/mc-oblivious-ram@2.2.0
 - pkg:cargo/mc-oblivious-ram@2.3.0
+- pkg:cargo/mc-oblivious-ram@3.0.0
