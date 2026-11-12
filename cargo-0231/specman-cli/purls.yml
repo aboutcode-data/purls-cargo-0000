@@ -5,3 +5,4 @@
 - pkg:cargo/specman-cli@2.1.2
 - pkg:cargo/specman-cli@2.2.0
 - pkg:cargo/specman-cli@2.3.0
+- pkg:cargo/specman-cli@3.0.0
