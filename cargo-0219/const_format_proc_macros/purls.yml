@@ -10,6 +10,7 @@
 - pkg:cargo/const_format_proc_macros@0.2.32
 - pkg:cargo/const_format_proc_macros@0.2.33
 - pkg:cargo/const_format_proc_macros@0.2.34
+- pkg:cargo/const_format_proc_macros@0.2.37
 - pkg:cargo/const_format_proc_macros@0.2.5
 - pkg:cargo/const_format_proc_macros@0.2.6
 - pkg:cargo/const_format_proc_macros@0.2.7
