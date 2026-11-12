@@ -19,6 +19,7 @@
 - pkg:cargo/magic@0.16.5
 - pkg:cargo/magic@0.16.6
 - pkg:cargo/magic@0.16.7
+- pkg:cargo/magic@0.17.0
 - pkg:cargo/magic@0.2.0
 - pkg:cargo/magic@0.3.0
 - pkg:cargo/magic@0.4.0
