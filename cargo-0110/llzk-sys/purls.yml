@@ -3,3 +3,6 @@
 - pkg:cargo/llzk-sys@10.0.0
 - pkg:cargo/llzk-sys@10.0.1
 - pkg:cargo/llzk-sys@20.0.0
+- pkg:cargo/llzk-sys@30.0.0
+- pkg:cargo/llzk-sys@30.1.0
+- pkg:cargo/llzk-sys@30.1.1
