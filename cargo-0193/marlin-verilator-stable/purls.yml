@@ -1,0 +1,4 @@
+- pkg:cargo/marlin-verilator-stable@1.0.0
+- pkg:cargo/marlin-verilator-stable@2.0.0
+- pkg:cargo/marlin-verilator-stable@3.0.0
+- pkg:cargo/marlin-verilator-stable@4.0.0
