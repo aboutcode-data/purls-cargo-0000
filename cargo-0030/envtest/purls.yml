@@ -4,3 +4,4 @@
 - pkg:cargo/envtest@0.1.2
 - pkg:cargo/envtest@0.2.0
 - pkg:cargo/envtest@0.3.0
+- pkg:cargo/envtest@0.4.0
