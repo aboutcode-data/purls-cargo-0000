@@ -1,3 +1,4 @@
 - pkg:cargo/spl-memo-interface@0.0.0
 - pkg:cargo/spl-memo-interface@1.0.0
 - pkg:cargo/spl-memo-interface@2.0.0
+- pkg:cargo/spl-memo-interface@2.1.0
