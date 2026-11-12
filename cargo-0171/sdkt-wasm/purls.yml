@@ -1,3 +1,4 @@
 - pkg:cargo/sdkt-wasm@2.0.0
 - pkg:cargo/sdkt-wasm@2.4.0
 - pkg:cargo/sdkt-wasm@2.5.0
+- pkg:cargo/sdkt-wasm@2.7.0
