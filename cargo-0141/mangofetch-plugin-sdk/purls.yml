@@ -4,3 +4,11 @@
 - pkg:cargo/mangofetch-plugin-sdk@0.5.1
 - pkg:cargo/mangofetch-plugin-sdk@0.5.3
 - pkg:cargo/mangofetch-plugin-sdk@0.5.5
+- pkg:cargo/mangofetch-plugin-sdk@0.7.3
+- pkg:cargo/mangofetch-plugin-sdk@0.7.4
+- pkg:cargo/mangofetch-plugin-sdk@0.7.6
+- pkg:cargo/mangofetch-plugin-sdk@0.7.7
+- pkg:cargo/mangofetch-plugin-sdk@0.7.8
+- pkg:cargo/mangofetch-plugin-sdk@0.7.9
+- pkg:cargo/mangofetch-plugin-sdk@0.8.0
+- pkg:cargo/mangofetch-plugin-sdk@0.8.1
