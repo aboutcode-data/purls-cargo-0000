@@ -48,3 +48,4 @@
 - pkg:cargo/trash@5.2.7
 - pkg:cargo/trash@5.2.8
 - pkg:cargo/trash@5.2.9
+- pkg:cargo/trash@5.3.0
