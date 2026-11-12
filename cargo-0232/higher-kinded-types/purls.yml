@@ -12,3 +12,6 @@
 - pkg:cargo/higher-kinded-types@0.3.0
 - pkg:cargo/higher-kinded-types@0.3.0-rc1
 - pkg:cargo/higher-kinded-types@0.3.0-rc2
+- pkg:cargo/higher-kinded-types@0.3.1
+- pkg:cargo/higher-kinded-types@0.3.2
+- pkg:cargo/higher-kinded-types@0.3.2-rc1
