@@ -2,6 +2,7 @@
 - pkg:cargo/dprint-plugin-typescript@0.1.0
 - pkg:cargo/dprint-plugin-typescript@0.10.0
 - pkg:cargo/dprint-plugin-typescript@0.10.1
+- pkg:cargo/dprint-plugin-typescript@0.100.0
 - pkg:cargo/dprint-plugin-typescript@0.11.0
 - pkg:cargo/dprint-plugin-typescript@0.11.1
 - pkg:cargo/dprint-plugin-typescript@0.12.0
