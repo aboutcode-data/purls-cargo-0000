@@ -17,3 +17,4 @@
 - pkg:cargo/sdl3-main@0.6.2
 - pkg:cargo/sdl3-main@0.6.3
 - pkg:cargo/sdl3-main@0.6.4
+- pkg:cargo/sdl3-main@0.7.0

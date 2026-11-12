@@ -6,3 +6,5 @@
 - pkg:cargo/sdl3-ttf-sys@0.2.1%2BSDL3-ttf-3.2.2
 - pkg:cargo/sdl3-ttf-sys@0.6.0%2BSDL-ttf-3.2.2
 - pkg:cargo/sdl3-ttf-sys@0.6.1%2BSDL-ttf-3.2.2
+- pkg:cargo/sdl3-ttf-sys@0.7.0%2BSDL-ttf-3.2.2
+- pkg:cargo/sdl3-ttf-sys@0.7.1%2BSDL-ttf-3.2.2
