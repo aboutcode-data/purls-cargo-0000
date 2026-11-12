@@ -79,4 +79,8 @@
 - pkg:cargo/macro_tools@0.83.0
 - pkg:cargo/macro_tools@0.84.0
 - pkg:cargo/macro_tools@0.85.0
+- pkg:cargo/macro_tools@0.86.0
+- pkg:cargo/macro_tools@0.87.0
+- pkg:cargo/macro_tools@0.88.1
+- pkg:cargo/macro_tools@0.89.1
 - pkg:cargo/macro_tools@0.9.0
