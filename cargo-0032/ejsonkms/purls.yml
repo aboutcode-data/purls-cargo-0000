@@ -1,1 +1,4 @@
 - pkg:cargo/ejsonkms@1.0.6
+- pkg:cargo/ejsonkms@2.0.0
+- pkg:cargo/ejsonkms@3.0.0
+- pkg:cargo/ejsonkms@3.1.0
