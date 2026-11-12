@@ -1,2 +1,5 @@
 - pkg:cargo/zavora-cli@1.1.3
 - pkg:cargo/zavora-cli@1.1.4
+- pkg:cargo/zavora-cli@2.0.0
+- pkg:cargo/zavora-cli@2.1.0
+- pkg:cargo/zavora-cli@2.1.1
