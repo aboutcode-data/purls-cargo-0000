@@ -11,3 +11,4 @@
 - pkg:cargo/tree-sitter-powershell@0.26.2
 - pkg:cargo/tree-sitter-powershell@0.26.3
 - pkg:cargo/tree-sitter-powershell@0.26.4
+- pkg:cargo/tree-sitter-powershell@0.26.6
