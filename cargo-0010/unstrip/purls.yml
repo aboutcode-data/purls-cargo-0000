@@ -1,3 +1,4 @@
 - pkg:cargo/unstrip@1.0.0
 - pkg:cargo/unstrip@1.1.0
 - pkg:cargo/unstrip@1.2.0
+- pkg:cargo/unstrip@2.0.0
