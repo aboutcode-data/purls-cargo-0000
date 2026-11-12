@@ -37,3 +37,5 @@
 - pkg:cargo/spargebra@0.4.4
 - pkg:cargo/spargebra@0.4.5
 - pkg:cargo/spargebra@0.4.6
+- pkg:cargo/spargebra@0.4.7
+- pkg:cargo/spargebra@0.4.8
