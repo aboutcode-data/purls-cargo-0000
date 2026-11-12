@@ -17,3 +17,5 @@
 - pkg:cargo/mac_address@1.1.6
 - pkg:cargo/mac_address@1.1.7
 - pkg:cargo/mac_address@1.1.8
+- pkg:cargo/mac_address@1.2.0
+- pkg:cargo/mac_address@1.2.1
