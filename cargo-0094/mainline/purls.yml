@@ -38,3 +38,7 @@
 - pkg:cargo/mainline@6.1.0
 - pkg:cargo/mainline@6.1.1
 - pkg:cargo/mainline@6.1.2
+- pkg:cargo/mainline@6.2.0
+- pkg:cargo/mainline@7.0.0
+- pkg:cargo/mainline@8.0.0
+- pkg:cargo/mainline@8.0.1
