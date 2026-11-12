@@ -78,3 +78,7 @@
 - pkg:cargo/spitfire-draw@0.36.7
 - pkg:cargo/spitfire-draw@0.36.8
 - pkg:cargo/spitfire-draw@0.36.9
+- pkg:cargo/spitfire-draw@0.37.0
+- pkg:cargo/spitfire-draw@0.37.1
+- pkg:cargo/spitfire-draw@0.38.0
+- pkg:cargo/spitfire-draw@0.38.1
