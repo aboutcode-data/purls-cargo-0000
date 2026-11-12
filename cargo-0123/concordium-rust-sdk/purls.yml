@@ -1,3 +1,4 @@
+- pkg:cargo/concordium-rust-sdk@10.0.0
 - pkg:cargo/concordium-rust-sdk@2.3.0
 - pkg:cargo/concordium-rust-sdk@2.4.0
 - pkg:cargo/concordium-rust-sdk@3.0.0
