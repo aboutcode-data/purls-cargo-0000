@@ -2,3 +2,13 @@
 - pkg:cargo/tree-sitter-sed@0.18.0
 - pkg:cargo/tree-sitter-sed@0.19.0
 - pkg:cargo/tree-sitter-sed@0.20.0
+- pkg:cargo/tree-sitter-sed@0.20.1
+- pkg:cargo/tree-sitter-sed@0.21.0
+- pkg:cargo/tree-sitter-sed@0.22.0
+- pkg:cargo/tree-sitter-sed@0.22.1
+- pkg:cargo/tree-sitter-sed@0.22.2
+- pkg:cargo/tree-sitter-sed@0.23.0
+- pkg:cargo/tree-sitter-sed@0.24.0
+- pkg:cargo/tree-sitter-sed@0.25.0
+- pkg:cargo/tree-sitter-sed@0.25.1
+- pkg:cargo/tree-sitter-sed@0.26.0
