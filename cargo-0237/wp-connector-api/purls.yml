@@ -1,5 +1,11 @@
 - pkg:cargo/wp-connector-api@0.10.0
 - pkg:cargo/wp-connector-api@0.10.1
+- pkg:cargo/wp-connector-api@0.11.0
+- pkg:cargo/wp-connector-api@0.11.1
+- pkg:cargo/wp-connector-api@0.11.2
+- pkg:cargo/wp-connector-api@0.12.0
+- pkg:cargo/wp-connector-api@0.13.0
+- pkg:cargo/wp-connector-api@0.14.0
 - pkg:cargo/wp-connector-api@0.7.0
 - pkg:cargo/wp-connector-api@0.7.1
 - pkg:cargo/wp-connector-api@0.7.2
