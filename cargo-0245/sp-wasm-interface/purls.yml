@@ -37,6 +37,8 @@
 - pkg:cargo/sp-wasm-interface@23.0.0
 - pkg:cargo/sp-wasm-interface@24.0.0
 - pkg:cargo/sp-wasm-interface@25.0.0
+- pkg:cargo/sp-wasm-interface@26.0.0
+- pkg:cargo/sp-wasm-interface@27.0.0
 - pkg:cargo/sp-wasm-interface@3.0.0
 - pkg:cargo/sp-wasm-interface@4.0.0
 - pkg:cargo/sp-wasm-interface@5.0.0
