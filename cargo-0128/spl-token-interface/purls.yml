@@ -1,3 +1,4 @@
 - pkg:cargo/spl-token-interface@0.0.0
 - pkg:cargo/spl-token-interface@1.0.0
 - pkg:cargo/spl-token-interface@2.0.0
+- pkg:cargo/spl-token-interface@3.0.0
