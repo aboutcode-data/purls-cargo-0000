@@ -13,6 +13,8 @@
 - pkg:cargo/rgrc@0.6.20
 - pkg:cargo/rgrc@0.6.3
 - pkg:cargo/rgrc@0.6.30
+- pkg:cargo/rgrc@0.6.34
+- pkg:cargo/rgrc@0.6.35
 - pkg:cargo/rgrc@0.6.4
 - pkg:cargo/rgrc@0.6.5
 - pkg:cargo/rgrc@0.6.6
