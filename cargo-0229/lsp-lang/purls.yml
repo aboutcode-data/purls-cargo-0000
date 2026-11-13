@@ -1,3 +1,4 @@
 - pkg:cargo/lsp-lang@1.0.0
 - pkg:cargo/lsp-lang@1.0.1
 - pkg:cargo/lsp-lang@2.0.0
+- pkg:cargo/lsp-lang@2.1.0
