@@ -1,3 +1,4 @@
 - pkg:cargo/encoders@1.0.0
 - pkg:cargo/encoders@2.0.0
 - pkg:cargo/encoders@3.0.0
+- pkg:cargo/encoders@3.0.1
