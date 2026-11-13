@@ -1,3 +1,6 @@
 - pkg:cargo/composer-install@0.1.0
 - pkg:cargo/composer-install@0.1.1
 - pkg:cargo/composer-install@0.2.0
+- pkg:cargo/composer-install@0.3.0
+- pkg:cargo/composer-install@0.4.0
+- pkg:cargo/composer-install@0.5.0
