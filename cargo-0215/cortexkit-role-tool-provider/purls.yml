@@ -25,6 +25,8 @@
 - pkg:cargo/cortexkit-role-tool-provider@0.15.3
 - pkg:cargo/cortexkit-role-tool-provider@0.15.4
 - pkg:cargo/cortexkit-role-tool-provider@0.15.5
+- pkg:cargo/cortexkit-role-tool-provider@0.15.6
+- pkg:cargo/cortexkit-role-tool-provider@0.15.7
 - pkg:cargo/cortexkit-role-tool-provider@0.2.0
 - pkg:cargo/cortexkit-role-tool-provider@0.3.0
 - pkg:cargo/cortexkit-role-tool-provider@0.4.0
