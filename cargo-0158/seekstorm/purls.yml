@@ -111,3 +111,4 @@
 - pkg:cargo/seekstorm@3.4.5
 - pkg:cargo/seekstorm@4.0.0
 - pkg:cargo/seekstorm@4.0.1
+- pkg:cargo/seekstorm@5.0.0
