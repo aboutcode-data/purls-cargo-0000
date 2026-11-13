@@ -24,7 +24,14 @@
 - pkg:cargo/cortexkit-role-routing@0.7.13
 - pkg:cargo/cortexkit-role-routing@0.7.14
 - pkg:cargo/cortexkit-role-routing@0.7.15
+- pkg:cargo/cortexkit-role-routing@0.7.16
+- pkg:cargo/cortexkit-role-routing@0.7.17
+- pkg:cargo/cortexkit-role-routing@0.7.18
+- pkg:cargo/cortexkit-role-routing@0.7.19
 - pkg:cargo/cortexkit-role-routing@0.7.2
+- pkg:cargo/cortexkit-role-routing@0.7.20
+- pkg:cargo/cortexkit-role-routing@0.7.21
+- pkg:cargo/cortexkit-role-routing@0.7.22
 - pkg:cargo/cortexkit-role-routing@0.7.3
 - pkg:cargo/cortexkit-role-routing@0.7.4
 - pkg:cargo/cortexkit-role-routing@0.7.5
