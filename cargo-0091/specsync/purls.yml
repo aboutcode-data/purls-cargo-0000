@@ -50,3 +50,4 @@
 - pkg:cargo/specsync@6.1.1
 - pkg:cargo/specsync@6.1.2
 - pkg:cargo/specsync@6.2.0
+- pkg:cargo/specsync@6.3.0
