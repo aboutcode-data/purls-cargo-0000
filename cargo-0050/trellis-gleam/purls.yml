@@ -27,3 +27,4 @@
 - pkg:cargo/trellis-gleam@1.2.3
 - pkg:cargo/trellis-gleam@1.3.0
 - pkg:cargo/trellis-gleam@1.4.0
+- pkg:cargo/trellis-gleam@1.5.0
