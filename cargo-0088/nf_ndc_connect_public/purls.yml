@@ -7,6 +7,8 @@
 - pkg:cargo/nf_ndc_connect_public@0.15.0
 - pkg:cargo/nf_ndc_connect_public@0.16.0
 - pkg:cargo/nf_ndc_connect_public@0.17.0
+- pkg:cargo/nf_ndc_connect_public@0.18.0
+- pkg:cargo/nf_ndc_connect_public@0.18.1
 - pkg:cargo/nf_ndc_connect_public@0.2.2
 - pkg:cargo/nf_ndc_connect_public@0.3.0
 - pkg:cargo/nf_ndc_connect_public@0.3.1
