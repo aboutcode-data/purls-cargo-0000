@@ -28,6 +28,7 @@
 - pkg:cargo/color-output@10.2.8
 - pkg:cargo/color-output@10.3.0
 - pkg:cargo/color-output@10.3.1
+- pkg:cargo/color-output@10.4.0
 - pkg:cargo/color-output@3.0.0
 - pkg:cargo/color-output@3.0.1
 - pkg:cargo/color-output@4.0.0
