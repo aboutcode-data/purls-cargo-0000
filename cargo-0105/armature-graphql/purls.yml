@@ -6,3 +6,5 @@
 - pkg:cargo/armature-graphql@0.4.2
 - pkg:cargo/armature-graphql@0.5.0
 - pkg:cargo/armature-graphql@0.6.0
+- pkg:cargo/armature-graphql@0.7.0
+- pkg:cargo/armature-graphql@0.8.0
