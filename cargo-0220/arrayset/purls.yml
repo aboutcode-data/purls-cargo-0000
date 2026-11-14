@@ -24,3 +24,4 @@
 - pkg:cargo/arrayset@4.3.0
 - pkg:cargo/arrayset@4.4.0
 - pkg:cargo/arrayset@4.4.1
+- pkg:cargo/arrayset@5.0.0
