@@ -30,6 +30,11 @@
 - pkg:cargo/kiss-ai@0.3.9
 - pkg:cargo/kiss-ai@0.4.0
 - pkg:cargo/kiss-ai@0.4.1
+- pkg:cargo/kiss-ai@0.4.10
+- pkg:cargo/kiss-ai@0.4.11
+- pkg:cargo/kiss-ai@0.4.12
+- pkg:cargo/kiss-ai@0.4.13
+- pkg:cargo/kiss-ai@0.4.14
 - pkg:cargo/kiss-ai@0.4.2
 - pkg:cargo/kiss-ai@0.4.3
 - pkg:cargo/kiss-ai@0.4.4
