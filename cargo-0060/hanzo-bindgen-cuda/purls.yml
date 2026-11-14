@@ -1,1 +1,3 @@
 - pkg:cargo/hanzo-bindgen-cuda@0.1.7
+- pkg:cargo/hanzo-bindgen-cuda@0.1.8
+- pkg:cargo/hanzo-bindgen-cuda@0.1.9
