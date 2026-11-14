@@ -11,10 +11,13 @@
 - pkg:cargo/hello-world-test-rust@0.21.8-g0b7472068fe94e93
 - pkg:cargo/hello-world-test-rust@0.21.8-g0e0a8fdbe7d841a0
 - pkg:cargo/hello-world-test-rust@0.21.8-g1d1bafd5f4d14bc4
+- pkg:cargo/hello-world-test-rust@0.21.8-g204e1849b4bc43a7
 - pkg:cargo/hello-world-test-rust@0.21.8-g215f2efcd7fe478f
+- pkg:cargo/hello-world-test-rust@0.21.8-g4353c5c5dc0d4e7d
 - pkg:cargo/hello-world-test-rust@0.21.8-g4e61dd1207c744bb
 - pkg:cargo/hello-world-test-rust@0.21.8-g503e0466b77842c1
 - pkg:cargo/hello-world-test-rust@0.21.8-g581c7f945f7743c2
+- pkg:cargo/hello-world-test-rust@0.21.8-g59d7c983ddd04fbf
 - pkg:cargo/hello-world-test-rust@0.21.8-g67096690de3f4542
 - pkg:cargo/hello-world-test-rust@0.21.8-g86685fd212034486
 - pkg:cargo/hello-world-test-rust@0.21.8-g8b6403ebb32048b9
