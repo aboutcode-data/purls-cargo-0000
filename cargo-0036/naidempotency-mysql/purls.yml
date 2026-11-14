@@ -1,2 +1,4 @@
 - pkg:cargo/naidempotency-mysql@1.0.0
 - pkg:cargo/naidempotency-mysql@1.0.1
+- pkg:cargo/naidempotency-mysql@2.0.0
+- pkg:cargo/naidempotency-mysql@2.0.1

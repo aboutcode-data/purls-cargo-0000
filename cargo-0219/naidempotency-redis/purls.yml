@@ -1,2 +1,4 @@
 - pkg:cargo/naidempotency-redis@1.0.0
 - pkg:cargo/naidempotency-redis@1.0.1
+- pkg:cargo/naidempotency-redis@2.0.0
+- pkg:cargo/naidempotency-redis@2.0.1
