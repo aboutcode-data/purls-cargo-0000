@@ -27,6 +27,15 @@
 - pkg:cargo/pg_ripple_http@0.126.0
 - pkg:cargo/pg_ripple_http@0.127.0
 - pkg:cargo/pg_ripple_http@0.128.0
+- pkg:cargo/pg_ripple_http@0.128.1
+- pkg:cargo/pg_ripple_http@0.129.0
+- pkg:cargo/pg_ripple_http@0.130.0
+- pkg:cargo/pg_ripple_http@0.131.0
+- pkg:cargo/pg_ripple_http@0.132.0
+- pkg:cargo/pg_ripple_http@0.133.0
+- pkg:cargo/pg_ripple_http@0.134.0
+- pkg:cargo/pg_ripple_http@0.135.0
+- pkg:cargo/pg_ripple_http@0.136.0
 - pkg:cargo/pg_ripple_http@0.93.0
 - pkg:cargo/pg_ripple_http@0.94.0
 - pkg:cargo/pg_ripple_http@0.96.0
