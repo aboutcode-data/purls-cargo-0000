@@ -1,3 +1,5 @@
+- pkg:cargo/cfgd-operator@0.10.0
+- pkg:cargo/cfgd-operator@0.11.0
 - pkg:cargo/cfgd-operator@0.3.3
 - pkg:cargo/cfgd-operator@0.3.4
 - pkg:cargo/cfgd-operator@0.3.5
@@ -5,3 +7,6 @@
 - pkg:cargo/cfgd-operator@0.4.0
 - pkg:cargo/cfgd-operator@0.5.0
 - pkg:cargo/cfgd-operator@0.5.1
+- pkg:cargo/cfgd-operator@0.7.0
+- pkg:cargo/cfgd-operator@0.8.0
+- pkg:cargo/cfgd-operator@0.9.0
