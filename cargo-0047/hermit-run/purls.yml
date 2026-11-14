@@ -1,1 +1,4 @@
 - pkg:cargo/hermit-run@0.0.1
+- pkg:cargo/hermit-run@0.4.0
+- pkg:cargo/hermit-run@0.4.1
+- pkg:cargo/hermit-run@0.5.0
