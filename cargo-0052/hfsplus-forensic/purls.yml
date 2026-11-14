@@ -10,3 +10,4 @@
 - pkg:cargo/hfsplus-forensic@0.2.7
 - pkg:cargo/hfsplus-forensic@0.2.8
 - pkg:cargo/hfsplus-forensic@0.3.0
+- pkg:cargo/hfsplus-forensic@0.4.0
