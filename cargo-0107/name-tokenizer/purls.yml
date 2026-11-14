@@ -1,3 +1,5 @@
 - pkg:cargo/name-tokenizer@1.0.0
 - pkg:cargo/name-tokenizer@2.0.0
 - pkg:cargo/name-tokenizer@2.1.0
+- pkg:cargo/name-tokenizer@3.0.0
+- pkg:cargo/name-tokenizer@3.0.0-beta.0
