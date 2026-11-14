@@ -16,3 +16,4 @@
 - pkg:cargo/authbox@3.0.0
 - pkg:cargo/authbox@3.0.0-rc.1
 - pkg:cargo/authbox@3.0.0-rc.2
+- pkg:cargo/authbox@3.1.0
