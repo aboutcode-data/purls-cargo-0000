@@ -1,2 +1,4 @@
 - pkg:cargo/azure_storage_common@0.0.1
 - pkg:cargo/azure_storage_common@0.1.0
+- pkg:cargo/azure_storage_common@1.0.0
+- pkg:cargo/azure_storage_common@1.1.0-beta.1
