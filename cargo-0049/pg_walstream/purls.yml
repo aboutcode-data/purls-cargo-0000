@@ -1,5 +1,6 @@
 - pkg:cargo/pg_walstream@0.0.1
 - pkg:cargo/pg_walstream@0.1.0
+- pkg:cargo/pg_walstream@0.10.0
 - pkg:cargo/pg_walstream@0.2.0
 - pkg:cargo/pg_walstream@0.2.1
 - pkg:cargo/pg_walstream@0.3.0
@@ -13,3 +14,5 @@
 - pkg:cargo/pg_walstream@0.6.3
 - pkg:cargo/pg_walstream@0.7.0
 - pkg:cargo/pg_walstream@0.8.0
+- pkg:cargo/pg_walstream@0.8.1
+- pkg:cargo/pg_walstream@0.9.0
