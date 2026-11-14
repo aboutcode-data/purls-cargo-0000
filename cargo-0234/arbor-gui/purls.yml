@@ -12,3 +12,6 @@
 - pkg:cargo/arbor-gui@2.6.0
 - pkg:cargo/arbor-gui@3.0.3
 - pkg:cargo/arbor-gui@3.0.4
+- pkg:cargo/arbor-gui@3.0.5
+- pkg:cargo/arbor-gui@3.1.0
+- pkg:cargo/arbor-gui@3.1.1
