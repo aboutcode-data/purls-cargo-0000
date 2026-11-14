@@ -21,3 +21,4 @@
 - pkg:cargo/hannoy@0.1.6-nested-rtxns
 - pkg:cargo/hannoy@0.1.7-nested-rtxns
 - pkg:cargo/hannoy@0.2.0
+- pkg:cargo/hannoy@0.3.0
