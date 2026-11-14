@@ -16,3 +16,5 @@
 - pkg:cargo/ocpp_rs@0.2.5
 - pkg:cargo/ocpp_rs@0.3.0
 - pkg:cargo/ocpp_rs@0.4.0
+- pkg:cargo/ocpp_rs@0.4.1
+- pkg:cargo/ocpp_rs@0.4.2
