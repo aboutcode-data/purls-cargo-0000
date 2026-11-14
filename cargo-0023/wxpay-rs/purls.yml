@@ -3,3 +3,4 @@
 - pkg:cargo/wxpay-rs@2.0.0
 - pkg:cargo/wxpay-rs@2.0.1
 - pkg:cargo/wxpay-rs@2.0.2
+- pkg:cargo/wxpay-rs@2.1.0
