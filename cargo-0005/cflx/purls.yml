@@ -14,6 +14,8 @@
 - pkg:cargo/cflx@0.6.189
 - pkg:cargo/cflx@0.6.191
 - pkg:cargo/cflx@0.6.20
+- pkg:cargo/cflx@0.6.322
+- pkg:cargo/cflx@0.6.327
 - pkg:cargo/cflx@0.6.45
 - pkg:cargo/cflx@0.6.64
 - pkg:cargo/cflx@0.6.82
