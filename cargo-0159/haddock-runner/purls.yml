@@ -4,3 +4,4 @@
 - pkg:cargo/haddock-runner@3.2.0
 - pkg:cargo/haddock-runner@4.0.0
 - pkg:cargo/haddock-runner@4.1.0
+- pkg:cargo/haddock-runner@4.2.0
