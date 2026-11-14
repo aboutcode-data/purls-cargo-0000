@@ -1,3 +1,5 @@
+- pkg:cargo/ffai-argus@0.10.0
+- pkg:cargo/ffai-argus@0.10.1
 - pkg:cargo/ffai-argus@0.2.0
 - pkg:cargo/ffai-argus@0.3.0
 - pkg:cargo/ffai-argus@0.4.0
@@ -14,3 +16,4 @@
 - pkg:cargo/ffai-argus@0.7.4
 - pkg:cargo/ffai-argus@0.7.5
 - pkg:cargo/ffai-argus@0.8.0
+- pkg:cargo/ffai-argus@0.9.0
