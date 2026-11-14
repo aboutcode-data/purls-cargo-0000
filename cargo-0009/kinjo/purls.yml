@@ -4,6 +4,9 @@
 - pkg:cargo/kinjo@0.1.5
 - pkg:cargo/kinjo@0.1.6
 - pkg:cargo/kinjo@0.2.0
+- pkg:cargo/kinjo@0.3.12
+- pkg:cargo/kinjo@0.3.13
 - pkg:cargo/kinjo@0.3.6
 - pkg:cargo/kinjo@0.3.7
 - pkg:cargo/kinjo@0.3.8
+- pkg:cargo/kinjo@0.3.9
