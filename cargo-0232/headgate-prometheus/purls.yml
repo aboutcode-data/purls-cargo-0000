@@ -1,0 +1,3 @@
+- pkg:cargo/headgate-prometheus@0.1.10
+- pkg:cargo/headgate-prometheus@0.1.8
+- pkg:cargo/headgate-prometheus@0.1.9
