@@ -5,3 +5,4 @@
 - pkg:cargo/pulsehive-runtime@2.0.1
 - pkg:cargo/pulsehive-runtime@2.0.2
 - pkg:cargo/pulsehive-runtime@3.0.0
+- pkg:cargo/pulsehive-runtime@3.1.0
