@@ -11,3 +11,6 @@
 - pkg:cargo/ocr-rs@2.3.1
 - pkg:cargo/ocr-rs@2.3.2
 - pkg:cargo/ocr-rs@2.3.3
+- pkg:cargo/ocr-rs@2.3.4
+- pkg:cargo/ocr-rs@2.4.0
+- pkg:cargo/ocr-rs@2.4.1
