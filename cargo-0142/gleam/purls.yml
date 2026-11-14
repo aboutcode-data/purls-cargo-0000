@@ -27,6 +27,7 @@
 - pkg:cargo/gleam@0.14.0
 - pkg:cargo/gleam@0.15.0
 - pkg:cargo/gleam@0.15.1
+- pkg:cargo/gleam@0.16.0
 - pkg:cargo/gleam@0.2.0
 - pkg:cargo/gleam@0.2.10
 - pkg:cargo/gleam@0.2.11
