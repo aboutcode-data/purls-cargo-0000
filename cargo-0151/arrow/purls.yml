@@ -98,15 +98,19 @@
 - pkg:cargo/arrow@57.2.0
 - pkg:cargo/arrow@57.3.0
 - pkg:cargo/arrow@57.3.1
+- pkg:cargo/arrow@57.3.2
 - pkg:cargo/arrow@58.0.0
 - pkg:cargo/arrow@58.1.0
 - pkg:cargo/arrow@58.2.0
 - pkg:cargo/arrow@58.3.0
 - pkg:cargo/arrow@58.4.0
+- pkg:cargo/arrow@58.4.1
 - pkg:cargo/arrow@59.0.0
 - pkg:cargo/arrow@59.1.0
 - pkg:cargo/arrow@59.2.0
 - pkg:cargo/arrow@59.3.0
+- pkg:cargo/arrow@59.3.1
+- pkg:cargo/arrow@59.3.2
 - pkg:cargo/arrow@6.0.0
 - pkg:cargo/arrow@6.1.0
 - pkg:cargo/arrow@6.2.0
@@ -114,6 +118,7 @@
 - pkg:cargo/arrow@6.4.0
 - pkg:cargo/arrow@6.5.0
 - pkg:cargo/arrow@60.0.0
+- pkg:cargo/arrow@60.1.0
 - pkg:cargo/arrow@7.0.0
 - pkg:cargo/arrow@8.0.0
 - pkg:cargo/arrow@9.0.2
