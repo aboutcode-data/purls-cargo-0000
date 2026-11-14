@@ -4,3 +4,7 @@
 - pkg:cargo/arora-hal@2.0.1
 - pkg:cargo/arora-hal@3.0.0
 - pkg:cargo/arora-hal@4.0.0
+- pkg:cargo/arora-hal@4.1.0
+- pkg:cargo/arora-hal@4.2.0
+- pkg:cargo/arora-hal@4.3.0
+- pkg:cargo/arora-hal@4.3.1
