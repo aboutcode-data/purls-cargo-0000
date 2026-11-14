@@ -1,1 +1,2 @@
 - pkg:cargo/dynlink-win32@0.1.0
+- pkg:cargo/dynlink-win32@1.0.0
