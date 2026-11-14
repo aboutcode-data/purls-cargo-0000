@@ -11,3 +11,8 @@
 - pkg:cargo/vmexec@0.5.1
 - pkg:cargo/vmexec@0.5.2
 - pkg:cargo/vmexec@0.5.3
+- pkg:cargo/vmexec@0.6.0
+- pkg:cargo/vmexec@0.7.0
+- pkg:cargo/vmexec@0.7.1
+- pkg:cargo/vmexec@0.8.0
+- pkg:cargo/vmexec@0.8.1

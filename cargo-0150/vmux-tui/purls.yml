@@ -5,3 +5,6 @@
 - pkg:cargo/vmux-tui@0.4.1
 - pkg:cargo/vmux-tui@0.5.0
 - pkg:cargo/vmux-tui@0.6.0
+- pkg:cargo/vmux-tui@0.7.0
+- pkg:cargo/vmux-tui@0.7.1
+- pkg:cargo/vmux-tui@0.7.2
