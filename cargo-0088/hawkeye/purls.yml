@@ -38,3 +38,6 @@
 - pkg:cargo/hawkeye@7.0.0
 - pkg:cargo/hawkeye@7.0.0-alpha.1
 - pkg:cargo/hawkeye@7.0.1
+- pkg:cargo/hawkeye@7.1.0
+- pkg:cargo/hawkeye@7.2.0
+- pkg:cargo/hawkeye@7.3.0
