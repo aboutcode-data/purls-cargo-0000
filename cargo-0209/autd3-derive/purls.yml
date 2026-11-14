@@ -164,3 +164,4 @@
 - pkg:cargo/autd3-derive@37.0.1
 - pkg:cargo/autd3-derive@38.0.0
 - pkg:cargo/autd3-derive@38.0.1
+- pkg:cargo/autd3-derive@38.1.0
