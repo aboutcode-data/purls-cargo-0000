@@ -6,3 +6,9 @@
 - pkg:cargo/gufo-xmp@0.4.0
 - pkg:cargo/gufo-xmp@0.4.0-alpha
 - pkg:cargo/gufo-xmp@0.4.0-alpha.1
+- pkg:cargo/gufo-xmp@0.5.0
+- pkg:cargo/gufo-xmp@0.5.0-alpha
+- pkg:cargo/gufo-xmp@0.5.0-alpha.2
+- pkg:cargo/gufo-xmp@0.5.0-alpha.3
+- pkg:cargo/gufo-xmp@0.5.0-beta
+- pkg:cargo/gufo-xmp@0.5.0-beta.1

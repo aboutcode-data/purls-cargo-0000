@@ -14,3 +14,8 @@
 - pkg:cargo/gufo-common@1.1.0
 - pkg:cargo/gufo-common@1.1.0-alpha
 - pkg:cargo/gufo-common@1.1.0-alpha.1
+- pkg:cargo/gufo-common@2.0.0
+- pkg:cargo/gufo-common@2.0.0-alpha
+- pkg:cargo/gufo-common@2.0.0-alpha.2
+- pkg:cargo/gufo-common@2.0.0-beta
+- pkg:cargo/gufo-common@2.0.0-beta.1
