@@ -37,6 +37,9 @@
 - pkg:cargo/sc-telemetry@30.0.0
 - pkg:cargo/sc-telemetry@30.0.1
 - pkg:cargo/sc-telemetry@31.0.0
+- pkg:cargo/sc-telemetry@32.0.0
+- pkg:cargo/sc-telemetry@33.0.0
+- pkg:cargo/sc-telemetry@34.0.0
 - pkg:cargo/sc-telemetry@4.0.0
 - pkg:cargo/sc-telemetry@5.0.0
 - pkg:cargo/sc-telemetry@6.0.0
