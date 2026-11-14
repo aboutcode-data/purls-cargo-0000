@@ -12,3 +12,8 @@
 - pkg:cargo/currust@1.4.0
 - pkg:cargo/currust@1.4.1
 - pkg:cargo/currust@1.4.2
+- pkg:cargo/currust@2.0.0
+- pkg:cargo/currust@2.0.1
+- pkg:cargo/currust@2.0.2
+- pkg:cargo/currust@2.0.3
+- pkg:cargo/currust@2.0.4
