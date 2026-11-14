@@ -1,1 +1,2 @@
 - pkg:cargo/rc-new-cyclic-fallible@1.0.0
+- pkg:cargo/rc-new-cyclic-fallible@1.1.0
