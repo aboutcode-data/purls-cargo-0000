@@ -8,3 +8,4 @@
 - pkg:cargo/matterctl@1.36.0
 - pkg:cargo/matterctl@1.37.0
 - pkg:cargo/matterctl@1.38.0
+- pkg:cargo/matterctl@1.40.0
