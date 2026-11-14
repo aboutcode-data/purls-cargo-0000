@@ -35,6 +35,10 @@
 - pkg:cargo/pulldown-cmark-to-cmark@21.1.0
 - pkg:cargo/pulldown-cmark-to-cmark@22.0.0
 - pkg:cargo/pulldown-cmark-to-cmark@22.0.1
+- pkg:cargo/pulldown-cmark-to-cmark@22.0.2
+- pkg:cargo/pulldown-cmark-to-cmark@22.0.3
+- pkg:cargo/pulldown-cmark-to-cmark@23.0.0
+- pkg:cargo/pulldown-cmark-to-cmark@23.0.1
 - pkg:cargo/pulldown-cmark-to-cmark@3.0.0
 - pkg:cargo/pulldown-cmark-to-cmark@3.0.1
 - pkg:cargo/pulldown-cmark-to-cmark@4.0.0

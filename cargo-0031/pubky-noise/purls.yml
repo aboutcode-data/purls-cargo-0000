@@ -1,4 +1,9 @@
+- pkg:cargo/pubky-noise@0.1.0
 - pkg:cargo/pubky-noise@0.1.0-rc1
+- pkg:cargo/pubky-noise@0.1.0-rc10
+- pkg:cargo/pubky-noise@0.1.0-rc11
+- pkg:cargo/pubky-noise@0.1.0-rc12
+- pkg:cargo/pubky-noise@0.1.0-rc13
 - pkg:cargo/pubky-noise@0.1.0-rc2
 - pkg:cargo/pubky-noise@0.1.0-rc3
 - pkg:cargo/pubky-noise@0.1.0-rc4
