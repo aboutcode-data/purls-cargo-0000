@@ -54,6 +54,7 @@
 - pkg:cargo/manabrew-server@0.42.1
 - pkg:cargo/manabrew-server@0.42.2
 - pkg:cargo/manabrew-server@0.43.0
+- pkg:cargo/manabrew-server@0.44.0
 - pkg:cargo/manabrew-server@0.5.1
 - pkg:cargo/manabrew-server@0.6.0
 - pkg:cargo/manabrew-server@0.6.1

@@ -43,3 +43,4 @@
 - pkg:cargo/manabrew-relay-protocol@6.3.0
 - pkg:cargo/manabrew-relay-protocol@6.3.1
 - pkg:cargo/manabrew-relay-protocol@6.4.0
+- pkg:cargo/manabrew-relay-protocol@6.4.1
