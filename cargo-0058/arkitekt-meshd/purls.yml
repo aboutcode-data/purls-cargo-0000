@@ -1,3 +1,16 @@
+- pkg:cargo/arkitekt-meshd@0.10.0
+- pkg:cargo/arkitekt-meshd@0.10.1
+- pkg:cargo/arkitekt-meshd@0.10.2
+- pkg:cargo/arkitekt-meshd@0.11.0
+- pkg:cargo/arkitekt-meshd@0.12.0
+- pkg:cargo/arkitekt-meshd@0.12.1
+- pkg:cargo/arkitekt-meshd@0.12.2
 - pkg:cargo/arkitekt-meshd@0.2.0
 - pkg:cargo/arkitekt-meshd@0.3.0
 - pkg:cargo/arkitekt-meshd@0.3.1
+- pkg:cargo/arkitekt-meshd@0.4.0
+- pkg:cargo/arkitekt-meshd@0.5.1
+- pkg:cargo/arkitekt-meshd@0.6.0
+- pkg:cargo/arkitekt-meshd@0.7.0
+- pkg:cargo/arkitekt-meshd@0.8.0
+- pkg:cargo/arkitekt-meshd@0.9.0
