@@ -1,2 +1,3 @@
 - pkg:cargo/schemerz-postgres@0.190.0
 - pkg:cargo/schemerz-postgres@0.191.0
+- pkg:cargo/schemerz-postgres@0.192.0
