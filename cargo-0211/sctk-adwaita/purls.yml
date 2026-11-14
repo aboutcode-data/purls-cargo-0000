@@ -4,6 +4,8 @@
 - pkg:cargo/sctk-adwaita@0.10.0
 - pkg:cargo/sctk-adwaita@0.10.1
 - pkg:cargo/sctk-adwaita@0.11.0
+- pkg:cargo/sctk-adwaita@0.11.1
+- pkg:cargo/sctk-adwaita@0.12.0
 - pkg:cargo/sctk-adwaita@0.2.0
 - pkg:cargo/sctk-adwaita@0.2.1
 - pkg:cargo/sctk-adwaita@0.3.0
