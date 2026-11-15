@@ -1,0 +1,4 @@
+- pkg:cargo/with-secret@0.14.0
+- pkg:cargo/with-secret@0.15.3
+- pkg:cargo/with-secret@0.15.4
+- pkg:cargo/with-secret@0.16.0
