@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-java@30.0.0
 - pkg:cargo/sqry-lang-java@30.0.1
 - pkg:cargo/sqry-lang-java@31.0.0
+- pkg:cargo/sqry-lang-java@32.0.1
+- pkg:cargo/sqry-lang-java@33.0.0
+- pkg:cargo/sqry-lang-java@33.0.1
 - pkg:cargo/sqry-lang-java@4.10.0
 - pkg:cargo/sqry-lang-java@4.10.1
 - pkg:cargo/sqry-lang-java@4.10.13
