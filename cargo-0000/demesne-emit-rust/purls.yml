@@ -2,3 +2,5 @@
 - pkg:cargo/demesne-emit-rust@1.1.0
 - pkg:cargo/demesne-emit-rust@1.2.1
 - pkg:cargo/demesne-emit-rust@2.0.0
+- pkg:cargo/demesne-emit-rust@3.0.0
+- pkg:cargo/demesne-emit-rust@4.0.0
