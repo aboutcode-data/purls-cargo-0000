@@ -39,6 +39,7 @@
 - pkg:cargo/autocxx-macro@0.29.0
 - pkg:cargo/autocxx-macro@0.29.1
 - pkg:cargo/autocxx-macro@0.30.0
+- pkg:cargo/autocxx-macro@0.31.0
 - pkg:cargo/autocxx-macro@0.4.0
 - pkg:cargo/autocxx-macro@0.4.1
 - pkg:cargo/autocxx-macro@0.5.0
