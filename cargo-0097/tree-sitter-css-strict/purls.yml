@@ -2,3 +2,4 @@
 - pkg:cargo/tree-sitter-css-strict@0.1.1
 - pkg:cargo/tree-sitter-css-strict@0.1.2
 - pkg:cargo/tree-sitter-css-strict@0.1.3
+- pkg:cargo/tree-sitter-css-strict@1.0.0
