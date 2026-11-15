@@ -39,6 +39,7 @@
 - pkg:cargo/wild-doc-script@0.30.2
 - pkg:cargo/wild-doc-script@0.30.3
 - pkg:cargo/wild-doc-script@0.31.0
+- pkg:cargo/wild-doc-script@0.32.0
 - pkg:cargo/wild-doc-script@0.4.0
 - pkg:cargo/wild-doc-script@0.4.1
 - pkg:cargo/wild-doc-script@0.5.0
