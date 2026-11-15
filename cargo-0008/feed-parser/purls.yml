@@ -12,3 +12,5 @@
 - pkg:cargo/feed-parser@1.0.7
 - pkg:cargo/feed-parser@1.0.8
 - pkg:cargo/feed-parser@1.0.9
+- pkg:cargo/feed-parser@2.0.0
+- pkg:cargo/feed-parser@2.0.1
