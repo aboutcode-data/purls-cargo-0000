@@ -1,4 +1,9 @@
 - pkg:cargo/git-internal@0.1.0
+- pkg:cargo/git-internal@0.10.0
+- pkg:cargo/git-internal@0.10.1
+- pkg:cargo/git-internal@0.10.2
+- pkg:cargo/git-internal@0.10.3
+- pkg:cargo/git-internal@0.10.4
 - pkg:cargo/git-internal@0.2.0
 - pkg:cargo/git-internal@0.2.1
 - pkg:cargo/git-internal@0.2.2
@@ -21,3 +26,5 @@
 - pkg:cargo/git-internal@0.8.4
 - pkg:cargo/git-internal@0.8.5
 - pkg:cargo/git-internal@0.8.6
+- pkg:cargo/git-internal@0.8.7
+- pkg:cargo/git-internal@0.9.0

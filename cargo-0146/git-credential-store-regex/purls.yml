@@ -5,3 +5,5 @@
 - pkg:cargo/git-credential-store-regex@0.4.0
 - pkg:cargo/git-credential-store-regex@0.4.1
 - pkg:cargo/git-credential-store-regex@0.4.2
+- pkg:cargo/git-credential-store-regex@1.0.0
+- pkg:cargo/git-credential-store-regex@1.0.1
