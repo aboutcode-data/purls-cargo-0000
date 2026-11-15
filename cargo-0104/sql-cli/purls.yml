@@ -91,6 +91,12 @@
 - pkg:cargo/sql-cli@1.85.0
 - pkg:cargo/sql-cli@1.85.1
 - pkg:cargo/sql-cli@1.85.10
+- pkg:cargo/sql-cli@1.85.11
+- pkg:cargo/sql-cli@1.85.12
+- pkg:cargo/sql-cli@1.85.13
+- pkg:cargo/sql-cli@1.85.14
+- pkg:cargo/sql-cli@1.85.15
+- pkg:cargo/sql-cli@1.85.16
 - pkg:cargo/sql-cli@1.85.2
 - pkg:cargo/sql-cli@1.85.3
 - pkg:cargo/sql-cli@1.85.4
