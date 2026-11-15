@@ -5,3 +5,6 @@
 - pkg:cargo/fusillade-core@2.1.0
 - pkg:cargo/fusillade-core@3.0.0
 - pkg:cargo/fusillade-core@4.0.0
+- pkg:cargo/fusillade-core@4.1.0
+- pkg:cargo/fusillade-core@5.0.0
+- pkg:cargo/fusillade-core@6.0.0
