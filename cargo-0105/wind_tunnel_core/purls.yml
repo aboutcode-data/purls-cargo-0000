@@ -6,3 +6,5 @@
 - pkg:cargo/wind_tunnel_core@0.5.0
 - pkg:cargo/wind_tunnel_core@0.5.0-dev.0
 - pkg:cargo/wind_tunnel_core@0.6.0
+- pkg:cargo/wind_tunnel_core@0.7.0
+- pkg:cargo/wind_tunnel_core@0.7.1
