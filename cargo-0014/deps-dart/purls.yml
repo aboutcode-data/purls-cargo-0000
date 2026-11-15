@@ -22,3 +22,4 @@
 - pkg:cargo/deps-dart@2.0.0
 - pkg:cargo/deps-dart@3.0.0
 - pkg:cargo/deps-dart@4.0.0
+- pkg:cargo/deps-dart@5.0.0

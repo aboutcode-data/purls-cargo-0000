@@ -4,3 +4,4 @@
 - pkg:cargo/deps-engine@2.0.0
 - pkg:cargo/deps-engine@3.0.0
 - pkg:cargo/deps-engine@4.0.0
+- pkg:cargo/deps-engine@5.0.0
