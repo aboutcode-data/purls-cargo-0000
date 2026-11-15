@@ -44,3 +44,7 @@
 - pkg:cargo/FerriteChatter@8.0.0
 - pkg:cargo/FerriteChatter@8.1.0
 - pkg:cargo/FerriteChatter@9.1.0
+- pkg:cargo/FerriteChatter@9.3.0
+- pkg:cargo/FerriteChatter@9.3.1
+- pkg:cargo/FerriteChatter@9.4.0
+- pkg:cargo/FerriteChatter@9.5.1
