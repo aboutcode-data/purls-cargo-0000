@@ -1,2 +1,13 @@
 - pkg:cargo/wingfoil-derive@4.0.0
 - pkg:cargo/wingfoil-derive@4.0.1
+- pkg:cargo/wingfoil-derive@5.0.2
+- pkg:cargo/wingfoil-derive@6.0.0
+- pkg:cargo/wingfoil-derive@6.0.1
+- pkg:cargo/wingfoil-derive@6.0.2
+- pkg:cargo/wingfoil-derive@6.0.3
+- pkg:cargo/wingfoil-derive@6.0.4
+- pkg:cargo/wingfoil-derive@6.0.5
+- pkg:cargo/wingfoil-derive@7.0.0
+- pkg:cargo/wingfoil-derive@7.0.1
+- pkg:cargo/wingfoil-derive@8.0.0
+- pkg:cargo/wingfoil-derive@9.0.0
