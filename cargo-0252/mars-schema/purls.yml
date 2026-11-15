@@ -34,3 +34,10 @@
 - pkg:cargo/mars-schema@0.32.0
 - pkg:cargo/mars-schema@0.32.1
 - pkg:cargo/mars-schema@0.33.0
+- pkg:cargo/mars-schema@0.33.1
+- pkg:cargo/mars-schema@0.33.2
+- pkg:cargo/mars-schema@0.33.3
+- pkg:cargo/mars-schema@0.33.4
+- pkg:cargo/mars-schema@0.33.5
+- pkg:cargo/mars-schema@0.33.6
+- pkg:cargo/mars-schema@0.33.7
