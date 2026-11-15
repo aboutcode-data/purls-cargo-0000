@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-classpath@30.0.0
 - pkg:cargo/sqry-classpath@30.0.1
 - pkg:cargo/sqry-classpath@31.0.0
+- pkg:cargo/sqry-classpath@32.0.1
+- pkg:cargo/sqry-classpath@33.0.0
+- pkg:cargo/sqry-classpath@33.0.1
 - pkg:cargo/sqry-classpath@7.1.4
 - pkg:cargo/sqry-classpath@7.1.5
 - pkg:cargo/sqry-classpath@7.2.0

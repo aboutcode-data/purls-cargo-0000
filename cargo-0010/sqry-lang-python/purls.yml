@@ -63,6 +63,9 @@
 - pkg:cargo/sqry-lang-python@30.0.0
 - pkg:cargo/sqry-lang-python@30.0.1
 - pkg:cargo/sqry-lang-python@31.0.0
+- pkg:cargo/sqry-lang-python@32.0.1
+- pkg:cargo/sqry-lang-python@33.0.0
+- pkg:cargo/sqry-lang-python@33.0.1
 - pkg:cargo/sqry-lang-python@4.10.0
 - pkg:cargo/sqry-lang-python@4.10.1
 - pkg:cargo/sqry-lang-python@4.10.13
