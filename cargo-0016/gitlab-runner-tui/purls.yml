@@ -7,6 +7,9 @@
 - pkg:cargo/gitlab-runner-tui@0.1.16
 - pkg:cargo/gitlab-runner-tui@0.1.17
 - pkg:cargo/gitlab-runner-tui@0.1.18
+- pkg:cargo/gitlab-runner-tui@0.1.19
+- pkg:cargo/gitlab-runner-tui@0.1.20
+- pkg:cargo/gitlab-runner-tui@0.1.22
 - pkg:cargo/gitlab-runner-tui@0.1.5
 - pkg:cargo/gitlab-runner-tui@0.1.7
 - pkg:cargo/gitlab-runner-tui@0.1.8
