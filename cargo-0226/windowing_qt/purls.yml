@@ -9,3 +9,4 @@
 - pkg:cargo/windowing_qt@0.17.3
 - pkg:cargo/windowing_qt@0.17.4
 - pkg:cargo/windowing_qt@0.17.5
+- pkg:cargo/windowing_qt@0.17.6
