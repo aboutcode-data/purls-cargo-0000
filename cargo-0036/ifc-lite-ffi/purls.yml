@@ -19,6 +19,7 @@
 - pkg:cargo/ifc-lite-ffi@27.0.0
 - pkg:cargo/ifc-lite-ffi@27.1.0
 - pkg:cargo/ifc-lite-ffi@28.2.0
+- pkg:cargo/ifc-lite-ffi@28.3.0
 - pkg:cargo/ifc-lite-ffi@4.1.0
 - pkg:cargo/ifc-lite-ffi@4.1.1
 - pkg:cargo/ifc-lite-ffi@4.1.2
