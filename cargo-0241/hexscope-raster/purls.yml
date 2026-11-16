@@ -8,6 +8,7 @@
 - pkg:cargo/hexscope-raster@0.17.0
 - pkg:cargo/hexscope-raster@0.18.0
 - pkg:cargo/hexscope-raster@0.19.0
+- pkg:cargo/hexscope-raster@0.20.0
 - pkg:cargo/hexscope-raster@0.4.0
 - pkg:cargo/hexscope-raster@0.6.0
 - pkg:cargo/hexscope-raster@0.7.1
