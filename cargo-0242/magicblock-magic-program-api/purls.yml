@@ -46,3 +46,4 @@
 - pkg:cargo/magicblock-magic-program-api@0.8.7
 - pkg:cargo/magicblock-magic-program-api@0.8.8
 - pkg:cargo/magicblock-magic-program-api@1.1.1
+- pkg:cargo/magicblock-magic-program-api@2.0.0
