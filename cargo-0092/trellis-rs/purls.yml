@@ -60,6 +60,8 @@
 - pkg:cargo/trellis-rs@0.100.0-rc.39
 - pkg:cargo/trellis-rs@0.100.0-rc.4
 - pkg:cargo/trellis-rs@0.100.0-rc.40
+- pkg:cargo/trellis-rs@0.100.0-rc.41
+- pkg:cargo/trellis-rs@0.100.0-rc.42
 - pkg:cargo/trellis-rs@0.100.0-rc.5
 - pkg:cargo/trellis-rs@0.100.0-rc.6
 - pkg:cargo/trellis-rs@0.100.0-rc.7
