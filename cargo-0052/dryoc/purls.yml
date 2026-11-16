@@ -35,3 +35,4 @@
 - pkg:cargo/dryoc@0.9.0
 - pkg:cargo/dryoc@1.0.0
 - pkg:cargo/dryoc@2.0.0
+- pkg:cargo/dryoc@2.0.1
