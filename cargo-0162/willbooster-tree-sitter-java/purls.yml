@@ -42,6 +42,7 @@
 - pkg:cargo/willbooster-tree-sitter-java@32.0.2
 - pkg:cargo/willbooster-tree-sitter-java@33.0.0
 - pkg:cargo/willbooster-tree-sitter-java@34.0.0
+- pkg:cargo/willbooster-tree-sitter-java@35.0.0
 - pkg:cargo/willbooster-tree-sitter-java@4.0.0
 - pkg:cargo/willbooster-tree-sitter-java@5.0.0
 - pkg:cargo/willbooster-tree-sitter-java@6.0.0

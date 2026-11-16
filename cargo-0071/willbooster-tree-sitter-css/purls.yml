@@ -24,6 +24,7 @@
 - pkg:cargo/willbooster-tree-sitter-css@19.0.0
 - pkg:cargo/willbooster-tree-sitter-css@2.0.0
 - pkg:cargo/willbooster-tree-sitter-css@20.0.0
+- pkg:cargo/willbooster-tree-sitter-css@21.0.0
 - pkg:cargo/willbooster-tree-sitter-css@3.0.0
 - pkg:cargo/willbooster-tree-sitter-css@3.1.0
 - pkg:cargo/willbooster-tree-sitter-css@3.2.0
