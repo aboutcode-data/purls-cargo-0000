@@ -1,1 +1,2 @@
 - pkg:cargo/envbind@0.1.0
+- pkg:cargo/envbind@0.2.0
