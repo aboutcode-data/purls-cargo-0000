@@ -51,6 +51,7 @@
 - pkg:cargo/m68k@0.15.1
 - pkg:cargo/m68k@0.16.0
 - pkg:cargo/m68k@0.16.1
+- pkg:cargo/m68k@0.17.0
 - pkg:cargo/m68k@0.2.0
 - pkg:cargo/m68k@0.2.1
 - pkg:cargo/m68k@0.2.2
