@@ -50,3 +50,4 @@
 - pkg:cargo/mars-schema@0.34.6-rc.1
 - pkg:cargo/mars-schema@0.35.0
 - pkg:cargo/mars-schema@0.35.1
+- pkg:cargo/mars-schema@0.36.0
