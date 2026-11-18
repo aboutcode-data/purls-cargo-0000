@@ -9,4 +9,14 @@
 - pkg:cargo/ousia_derive@1.2.3
 - pkg:cargo/ousia_derive@1.2.4
 - pkg:cargo/ousia_derive@1.2.5
+- pkg:cargo/ousia_derive@1.2.6
+- pkg:cargo/ousia_derive@1.2.7
+- pkg:cargo/ousia_derive@1.2.8
 - pkg:cargo/ousia_derive@2.0.0
+- pkg:cargo/ousia_derive@2.0.1
+- pkg:cargo/ousia_derive@2.0.2
+- pkg:cargo/ousia_derive@2.1.0
+- pkg:cargo/ousia_derive@2.2.0
+- pkg:cargo/ousia_derive@2.2.1
+- pkg:cargo/ousia_derive@2.3.0
+- pkg:cargo/ousia_derive@2.3.1
