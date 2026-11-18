@@ -3,3 +3,4 @@
 - pkg:cargo/llm-relay@0.2.2
 - pkg:cargo/llm-relay@1.0.0
 - pkg:cargo/llm-relay@1.0.1
+- pkg:cargo/llm-relay@1.1.0
