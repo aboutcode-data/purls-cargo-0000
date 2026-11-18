@@ -60,6 +60,7 @@
 - pkg:cargo/archival@0.27.1
 - pkg:cargo/archival@0.27.2
 - pkg:cargo/archival@0.27.3
+- pkg:cargo/archival@0.28.0
 - pkg:cargo/archival@0.3.0
 - pkg:cargo/archival@0.3.3
 - pkg:cargo/archival@0.4.0
