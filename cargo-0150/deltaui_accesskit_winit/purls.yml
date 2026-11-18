@@ -1,1 +1,2 @@
 - pkg:cargo/deltaui_accesskit_winit@0.32.2
+- pkg:cargo/deltaui_accesskit_winit@0.34.2
