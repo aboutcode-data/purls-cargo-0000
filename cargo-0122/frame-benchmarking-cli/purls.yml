@@ -82,6 +82,7 @@
 - pkg:cargo/frame-benchmarking-cli@62.0.0
 - pkg:cargo/frame-benchmarking-cli@63.0.0
 - pkg:cargo/frame-benchmarking-cli@64.0.0
+- pkg:cargo/frame-benchmarking-cli@64.0.1
 - pkg:cargo/frame-benchmarking-cli@7.0.0
 - pkg:cargo/frame-benchmarking-cli@8.0.0
 - pkg:cargo/frame-benchmarking-cli@9.0.0
