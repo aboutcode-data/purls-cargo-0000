@@ -66,3 +66,6 @@
 - pkg:cargo/thesa@4.5.1
 - pkg:cargo/thesa@4.6.0
 - pkg:cargo/thesa@4.7.0
+- pkg:cargo/thesa@4.7.1
+- pkg:cargo/thesa@4.8.0
+- pkg:cargo/thesa@4.8.2
