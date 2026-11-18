@@ -32,3 +32,4 @@
 - pkg:cargo/turbovault-vault@3.2.0
 - pkg:cargo/turbovault-vault@4.0.0
 - pkg:cargo/turbovault-vault@4.0.1
+- pkg:cargo/turbovault-vault@4.1.0
