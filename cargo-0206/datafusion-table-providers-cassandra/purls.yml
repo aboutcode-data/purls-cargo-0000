@@ -1,0 +1,2 @@
+- pkg:cargo/datafusion-table-providers-cassandra@0.15.0
+- pkg:cargo/datafusion-table-providers-cassandra@0.15.1
