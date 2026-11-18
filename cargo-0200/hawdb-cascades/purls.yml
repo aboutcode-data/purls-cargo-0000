@@ -22,6 +22,9 @@
 - pkg:cargo/hawdb-cascades@0.3.0
 - pkg:cargo/hawdb-cascades@0.30.0
 - pkg:cargo/hawdb-cascades@0.31.0
+- pkg:cargo/hawdb-cascades@0.33.0
+- pkg:cargo/hawdb-cascades@0.34.0
+- pkg:cargo/hawdb-cascades@0.35.0
 - pkg:cargo/hawdb-cascades@0.4.0
 - pkg:cargo/hawdb-cascades@0.5.0
 - pkg:cargo/hawdb-cascades@0.6.0
