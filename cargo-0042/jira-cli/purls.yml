@@ -24,7 +24,15 @@
 - pkg:cargo/jira-cli@0.4.11
 - pkg:cargo/jira-cli@0.4.12
 - pkg:cargo/jira-cli@0.4.13
+- pkg:cargo/jira-cli@0.4.14
+- pkg:cargo/jira-cli@0.4.15
+- pkg:cargo/jira-cli@0.4.16
+- pkg:cargo/jira-cli@0.4.17
+- pkg:cargo/jira-cli@0.4.18
+- pkg:cargo/jira-cli@0.4.19
 - pkg:cargo/jira-cli@0.4.2
+- pkg:cargo/jira-cli@0.4.20
+- pkg:cargo/jira-cli@0.4.21
 - pkg:cargo/jira-cli@0.4.6
 - pkg:cargo/jira-cli@0.4.7
 - pkg:cargo/jira-cli@0.4.8
