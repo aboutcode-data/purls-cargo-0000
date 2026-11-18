@@ -17,3 +17,9 @@
 - pkg:cargo/daemonize-me@2.0.1
 - pkg:cargo/daemonize-me@2.0.1-alpha
 - pkg:cargo/daemonize-me@2.0.2
+- pkg:cargo/daemonize-me@2.0.3
+- pkg:cargo/daemonize-me@2.0.4
+- pkg:cargo/daemonize-me@3.0.0-alpha1
+- pkg:cargo/daemonize-me@3.0.0-alpha2
+- pkg:cargo/daemonize-me@3.0.0-alpha3
+- pkg:cargo/daemonize-me@3.0.0-alpha4
