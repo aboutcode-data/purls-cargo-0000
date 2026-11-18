@@ -3,3 +3,6 @@
 - pkg:cargo/rdns-server@1.17.21
 - pkg:cargo/rdns-server@1.17.22
 - pkg:cargo/rdns-server@1.17.23
+- pkg:cargo/rdns-server@1.17.24
+- pkg:cargo/rdns-server@1.17.25
+- pkg:cargo/rdns-server@1.18.0
