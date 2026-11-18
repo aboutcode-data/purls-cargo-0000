@@ -1,2 +1,3 @@
 - pkg:cargo/iroh-mainline-endpoint-discovery@0.1.1
 - pkg:cargo/iroh-mainline-endpoint-discovery@0.1.6
+- pkg:cargo/iroh-mainline-endpoint-discovery@0.2.0
