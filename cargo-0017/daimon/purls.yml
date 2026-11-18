@@ -5,4 +5,17 @@
 - pkg:cargo/daimon@0.14.0
 - pkg:cargo/daimon@0.15.0
 - pkg:cargo/daimon@0.16.0
+- pkg:cargo/daimon@0.17.0
+- pkg:cargo/daimon@0.18.0
+- pkg:cargo/daimon@0.18.1
+- pkg:cargo/daimon@0.19.0
 - pkg:cargo/daimon@0.2.0
+- pkg:cargo/daimon@0.20.0
+- pkg:cargo/daimon@0.21.0
+- pkg:cargo/daimon@0.22.0
+- pkg:cargo/daimon@0.22.1
+- pkg:cargo/daimon@0.22.2
+- pkg:cargo/daimon@0.22.3
+- pkg:cargo/daimon@0.23.0
+- pkg:cargo/daimon@0.24.0
+- pkg:cargo/daimon@0.25.0
