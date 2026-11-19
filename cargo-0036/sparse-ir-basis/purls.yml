@@ -3,3 +3,4 @@
 - pkg:cargo/sparse-ir-basis@0.13.0
 - pkg:cargo/sparse-ir-basis@0.14.0
 - pkg:cargo/sparse-ir-basis@0.15.0
+- pkg:cargo/sparse-ir-basis@0.16.0
