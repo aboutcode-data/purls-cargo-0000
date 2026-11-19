@@ -183,6 +183,7 @@
 - pkg:cargo/decapod@0.148.11
 - pkg:cargo/decapod@0.148.12
 - pkg:cargo/decapod@0.148.13
+- pkg:cargo/decapod@0.148.14
 - pkg:cargo/decapod@0.148.2
 - pkg:cargo/decapod@0.148.3
 - pkg:cargo/decapod@0.148.4
@@ -191,9 +192,15 @@
 - pkg:cargo/decapod@0.148.7
 - pkg:cargo/decapod@0.148.8
 - pkg:cargo/decapod@0.148.9
+- pkg:cargo/decapod@0.149.0
+- pkg:cargo/decapod@0.149.1
+- pkg:cargo/decapod@0.149.2
+- pkg:cargo/decapod@0.149.3
 - pkg:cargo/decapod@0.15.0
 - pkg:cargo/decapod@0.15.1
 - pkg:cargo/decapod@0.15.2
+- pkg:cargo/decapod@0.150.0
+- pkg:cargo/decapod@0.150.1
 - pkg:cargo/decapod@0.16.0
 - pkg:cargo/decapod@0.16.1
 - pkg:cargo/decapod@0.17.0
