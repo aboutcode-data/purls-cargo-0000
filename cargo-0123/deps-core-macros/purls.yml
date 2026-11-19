@@ -2,3 +2,4 @@
 - pkg:cargo/deps-core-macros@3.0.0
 - pkg:cargo/deps-core-macros@4.0.0
 - pkg:cargo/deps-core-macros@5.0.0
+- pkg:cargo/deps-core-macros@6.0.0
