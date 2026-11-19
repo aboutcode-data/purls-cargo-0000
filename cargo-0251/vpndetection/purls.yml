@@ -48,3 +48,4 @@
 - pkg:cargo/vpndetection@5.9.6
 - pkg:cargo/vpndetection@6.0.0
 - pkg:cargo/vpndetection@6.1.0
+- pkg:cargo/vpndetection@6.1.1
