@@ -13,6 +13,8 @@
 - pkg:cargo/snarkvm-ledger-puzzle@4.10.0
 - pkg:cargo/snarkvm-ledger-puzzle@4.11.0
 - pkg:cargo/snarkvm-ledger-puzzle@4.12.0
+- pkg:cargo/snarkvm-ledger-puzzle@4.13.0
+- pkg:cargo/snarkvm-ledger-puzzle@4.13.1
 - pkg:cargo/snarkvm-ledger-puzzle@4.2.0
 - pkg:cargo/snarkvm-ledger-puzzle@4.2.1
 - pkg:cargo/snarkvm-ledger-puzzle@4.3.0
