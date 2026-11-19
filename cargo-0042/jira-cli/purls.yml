@@ -33,6 +33,8 @@
 - pkg:cargo/jira-cli@0.4.2
 - pkg:cargo/jira-cli@0.4.20
 - pkg:cargo/jira-cli@0.4.21
+- pkg:cargo/jira-cli@0.4.22
+- pkg:cargo/jira-cli@0.4.23
 - pkg:cargo/jira-cli@0.4.6
 - pkg:cargo/jira-cli@0.4.7
 - pkg:cargo/jira-cli@0.4.8
