@@ -12,3 +12,4 @@
 - pkg:cargo/cua-daemon-core@0.28.0
 - pkg:cargo/cua-daemon-core@0.28.1
 - pkg:cargo/cua-daemon-core@0.28.2
+- pkg:cargo/cua-daemon-core@0.28.3
