@@ -66,6 +66,8 @@
 - pkg:cargo/pulse-platform@4.0.0-canary.165
 - pkg:cargo/pulse-platform@4.0.0-canary.166
 - pkg:cargo/pulse-platform@4.0.0-canary.167
+- pkg:cargo/pulse-platform@4.0.0-canary.168
+- pkg:cargo/pulse-platform@4.0.0-canary.169
 - pkg:cargo/pulse-platform@4.0.0-canary.29
 - pkg:cargo/pulse-platform@4.0.0-canary.30
 - pkg:cargo/pulse-platform@4.0.0-canary.31
