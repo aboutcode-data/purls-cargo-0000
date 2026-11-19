@@ -86,3 +86,4 @@
 - pkg:cargo/thru-cli@0.4.3
 - pkg:cargo/thru-cli@0.4.4
 - pkg:cargo/thru-cli@0.5.1
+- pkg:cargo/thru-cli@0.5.2
