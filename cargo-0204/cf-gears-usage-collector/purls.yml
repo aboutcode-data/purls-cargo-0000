@@ -22,3 +22,4 @@
 - pkg:cargo/cf-gears-usage-collector@0.5.3
 - pkg:cargo/cf-gears-usage-collector@0.5.4
 - pkg:cargo/cf-gears-usage-collector@0.5.5
+- pkg:cargo/cf-gears-usage-collector@0.6.0
