@@ -7,3 +7,4 @@
 - pkg:cargo/iso20022-rs@0.1.8
 - pkg:cargo/iso20022-rs@0.1.9
 - pkg:cargo/iso20022-rs@0.2.0
+- pkg:cargo/iso20022-rs@0.3.0
