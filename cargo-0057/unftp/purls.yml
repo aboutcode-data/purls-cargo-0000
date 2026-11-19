@@ -28,3 +28,4 @@
 - pkg:cargo/unftp@0.15.1
 - pkg:cargo/unftp@0.15.2
 - pkg:cargo/unftp@0.16.0
+- pkg:cargo/unftp@0.17.0
