@@ -11,3 +11,5 @@
 - pkg:cargo/arkitekt-embassy@0.20.1
 - pkg:cargo/arkitekt-embassy@0.21.0
 - pkg:cargo/arkitekt-embassy@0.22.0
+- pkg:cargo/arkitekt-embassy@0.23.0
+- pkg:cargo/arkitekt-embassy@0.24.0
