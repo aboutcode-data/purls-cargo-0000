@@ -141,6 +141,7 @@
 - pkg:cargo/wiggle-macro@36.0.19
 - pkg:cargo/wiggle-macro@36.0.2
 - pkg:cargo/wiggle-macro@36.0.20
+- pkg:cargo/wiggle-macro@36.0.21
 - pkg:cargo/wiggle-macro@36.0.3
 - pkg:cargo/wiggle-macro@36.0.4
 - pkg:cargo/wiggle-macro@36.0.5
@@ -204,6 +205,7 @@
 - pkg:cargo/wiggle-macro@48.0.6
 - pkg:cargo/wiggle-macro@48.0.7
 - pkg:cargo/wiggle-macro@48.0.8
+- pkg:cargo/wiggle-macro@48.0.9
 - pkg:cargo/wiggle-macro@49.0.0
 - pkg:cargo/wiggle-macro@49.0.0-rc.1
 - pkg:cargo/wiggle-macro@49.0.1
@@ -211,11 +213,13 @@
 - pkg:cargo/wiggle-macro@49.0.3
 - pkg:cargo/wiggle-macro@49.0.4
 - pkg:cargo/wiggle-macro@49.0.5
+- pkg:cargo/wiggle-macro@49.0.6
 - pkg:cargo/wiggle-macro@5.0.0
 - pkg:cargo/wiggle-macro@5.0.1
 - pkg:cargo/wiggle-macro@50.0.0
 - pkg:cargo/wiggle-macro@50.0.0-rc.1
 - pkg:cargo/wiggle-macro@50.0.1
+- pkg:cargo/wiggle-macro@50.0.2
 - pkg:cargo/wiggle-macro@51.0.0-rc.1
 - pkg:cargo/wiggle-macro@6.0.0
 - pkg:cargo/wiggle-macro@6.0.1
