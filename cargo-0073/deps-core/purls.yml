@@ -39,3 +39,4 @@
 - pkg:cargo/deps-core@3.0.0
 - pkg:cargo/deps-core@4.0.0
 - pkg:cargo/deps-core@5.0.0
+- pkg:cargo/deps-core@6.0.0
