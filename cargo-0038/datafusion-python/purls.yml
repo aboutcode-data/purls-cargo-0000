@@ -30,3 +30,6 @@
 - pkg:cargo/datafusion-python@52.0.0
 - pkg:cargo/datafusion-python@52.3.0
 - pkg:cargo/datafusion-python@53.0.0
+- pkg:cargo/datafusion-python@54.0.0
+- pkg:cargo/datafusion-python@54.1.0
+- pkg:cargo/datafusion-python@55.0.0
