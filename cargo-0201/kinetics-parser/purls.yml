@@ -97,6 +97,8 @@
 - pkg:cargo/kinetics-parser@0.2.5
 - pkg:cargo/kinetics-parser@0.2.6
 - pkg:cargo/kinetics-parser@0.2.7
+- pkg:cargo/kinetics-parser@0.20.0
+- pkg:cargo/kinetics-parser@0.20.1
 - pkg:cargo/kinetics-parser@0.3.0
 - pkg:cargo/kinetics-parser@0.3.1
 - pkg:cargo/kinetics-parser@0.3.2
