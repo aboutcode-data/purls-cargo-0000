@@ -70,6 +70,7 @@
 - pkg:cargo/many_cpus@2.4.25
 - pkg:cargo/many_cpus@2.4.26
 - pkg:cargo/many_cpus@2.4.27
+- pkg:cargo/many_cpus@2.4.28
 - pkg:cargo/many_cpus@2.4.3
 - pkg:cargo/many_cpus@2.4.4
 - pkg:cargo/many_cpus@2.4.5
