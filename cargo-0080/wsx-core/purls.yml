@@ -27,3 +27,4 @@
 - pkg:cargo/wsx-core@0.40.3
 - pkg:cargo/wsx-core@0.40.4
 - pkg:cargo/wsx-core@0.41.0
+- pkg:cargo/wsx-core@0.43.0
