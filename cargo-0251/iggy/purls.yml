@@ -93,6 +93,7 @@
 - pkg:cargo/iggy@0.11.1-edge.8
 - pkg:cargo/iggy@0.11.1-edge.9
 - pkg:cargo/iggy@0.12.0
+- pkg:cargo/iggy@0.12.1-edge.1
 - pkg:cargo/iggy@0.2.0
 - pkg:cargo/iggy@0.2.10
 - pkg:cargo/iggy@0.2.11
