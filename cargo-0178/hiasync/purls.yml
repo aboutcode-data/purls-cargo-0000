@@ -15,3 +15,5 @@
 - pkg:cargo/hiasync@0.5.2
 - pkg:cargo/hiasync@0.5.3
 - pkg:cargo/hiasync@0.5.4
+- pkg:cargo/hiasync@0.6.0
+- pkg:cargo/hiasync@0.6.1
