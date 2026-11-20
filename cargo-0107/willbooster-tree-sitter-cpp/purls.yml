@@ -83,6 +83,11 @@
 - pkg:cargo/willbooster-tree-sitter-cpp@3.0.5
 - pkg:cargo/willbooster-tree-sitter-cpp@30.0.0
 - pkg:cargo/willbooster-tree-sitter-cpp@31.0.0
+- pkg:cargo/willbooster-tree-sitter-cpp@31.0.1
+- pkg:cargo/willbooster-tree-sitter-cpp@32.0.0
+- pkg:cargo/willbooster-tree-sitter-cpp@33.0.0
+- pkg:cargo/willbooster-tree-sitter-cpp@34.0.0
+- pkg:cargo/willbooster-tree-sitter-cpp@34.0.1
 - pkg:cargo/willbooster-tree-sitter-cpp@4.0.0
 - pkg:cargo/willbooster-tree-sitter-cpp@5.0.0
 - pkg:cargo/willbooster-tree-sitter-cpp@5.0.1

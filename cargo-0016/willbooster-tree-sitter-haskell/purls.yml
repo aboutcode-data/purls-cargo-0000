@@ -35,6 +35,8 @@
 - pkg:cargo/willbooster-tree-sitter-haskell@24.0.0
 - pkg:cargo/willbooster-tree-sitter-haskell@25.0.0
 - pkg:cargo/willbooster-tree-sitter-haskell@26.0.0
+- pkg:cargo/willbooster-tree-sitter-haskell@26.0.1
+- pkg:cargo/willbooster-tree-sitter-haskell@26.0.2
 - pkg:cargo/willbooster-tree-sitter-haskell@3.0.0
 - pkg:cargo/willbooster-tree-sitter-haskell@4.0.0
 - pkg:cargo/willbooster-tree-sitter-haskell@4.1.0
