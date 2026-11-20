@@ -131,6 +131,7 @@
 - pkg:cargo/github-copilot-sdk@1.0.29-preview.9
 - pkg:cargo/github-copilot-sdk@1.0.29-unstable.43360710077.gff3c476
 - pkg:cargo/github-copilot-sdk@1.0.29-unstable.43566476370.g869eef3
+- pkg:cargo/github-copilot-sdk@1.0.29-unstable.44433403584.gde47801
 - pkg:cargo/github-copilot-sdk@1.0.3
 - pkg:cargo/github-copilot-sdk@1.0.30
 - pkg:cargo/github-copilot-sdk@1.0.30-preview.0
@@ -147,6 +148,8 @@
 - pkg:cargo/github-copilot-sdk@1.0.33-preview.0
 - pkg:cargo/github-copilot-sdk@1.0.34
 - pkg:cargo/github-copilot-sdk@1.0.34-preview.0
+- pkg:cargo/github-copilot-sdk@1.0.34-unstable.44588354783.g40dd772
+- pkg:cargo/github-copilot-sdk@1.0.35
 - pkg:cargo/github-copilot-sdk@1.0.4
 - pkg:cargo/github-copilot-sdk@1.0.5
 - pkg:cargo/github-copilot-sdk@1.0.5-preview.0
