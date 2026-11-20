@@ -29,3 +29,5 @@
 - pkg:cargo/cortexkit-bus-naming@0.5.3
 - pkg:cargo/cortexkit-bus-naming@0.5.4
 - pkg:cargo/cortexkit-bus-naming@0.5.5
+- pkg:cargo/cortexkit-bus-naming@0.5.6
+- pkg:cargo/cortexkit-bus-naming@0.5.7
