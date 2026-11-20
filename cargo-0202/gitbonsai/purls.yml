@@ -1,3 +1,7 @@
 - pkg:cargo/gitbonsai@0.1.0
 - pkg:cargo/gitbonsai@0.1.1
 - pkg:cargo/gitbonsai@0.1.2
+- pkg:cargo/gitbonsai@0.2.3
+- pkg:cargo/gitbonsai@0.3.0
+- pkg:cargo/gitbonsai@0.3.2
+- pkg:cargo/gitbonsai@0.4.0
