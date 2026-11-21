@@ -11,6 +11,7 @@
 - pkg:cargo/cutver@0.18.2
 - pkg:cargo/cutver@0.19.0
 - pkg:cargo/cutver@0.2.0
+- pkg:cargo/cutver@0.20.0
 - pkg:cargo/cutver@0.3.0
 - pkg:cargo/cutver@0.3.1
 - pkg:cargo/cutver@0.4.0
