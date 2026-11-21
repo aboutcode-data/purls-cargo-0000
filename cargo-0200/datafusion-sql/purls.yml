@@ -60,5 +60,12 @@
 - pkg:cargo/datafusion-sql@52.5.0
 - pkg:cargo/datafusion-sql@53.0.0
 - pkg:cargo/datafusion-sql@53.1.0
+- pkg:cargo/datafusion-sql@54.0.0
+- pkg:cargo/datafusion-sql@54.1.0
+- pkg:cargo/datafusion-sql@54.2.0
+- pkg:cargo/datafusion-sql@55.0.0
+- pkg:cargo/datafusion-sql@55.1.0
+- pkg:cargo/datafusion-sql@55.2.0
+- pkg:cargo/datafusion-sql@55.3.0
 - pkg:cargo/datafusion-sql@9.0.0
 - pkg:cargo/datafusion-sql@9.0.0-placeholder
