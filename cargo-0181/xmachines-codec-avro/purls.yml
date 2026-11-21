@@ -1,0 +1,5 @@
+- pkg:cargo/xmachines-codec-avro@0.0.0
+- pkg:cargo/xmachines-codec-avro@1.0.0
+- pkg:cargo/xmachines-codec-avro@1.1.0
+- pkg:cargo/xmachines-codec-avro@2.0.0
+- pkg:cargo/xmachines-codec-avro@2.0.1

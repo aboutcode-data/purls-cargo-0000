@@ -1,0 +1,5 @@
+- pkg:cargo/xmachines-kafka@0.0.0
+- pkg:cargo/xmachines-kafka@1.0.0
+- pkg:cargo/xmachines-kafka@1.1.0
+- pkg:cargo/xmachines-kafka@2.0.0
+- pkg:cargo/xmachines-kafka@2.0.1

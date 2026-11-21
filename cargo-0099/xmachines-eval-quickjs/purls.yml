@@ -1,0 +1,5 @@
+- pkg:cargo/xmachines-eval-quickjs@0.0.0
+- pkg:cargo/xmachines-eval-quickjs@1.0.0
+- pkg:cargo/xmachines-eval-quickjs@1.1.0
+- pkg:cargo/xmachines-eval-quickjs@2.0.0
+- pkg:cargo/xmachines-eval-quickjs@3.0.0
