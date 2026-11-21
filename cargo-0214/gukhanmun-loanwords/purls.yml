@@ -2,6 +2,7 @@
 - pkg:cargo/gukhanmun-loanwords@0.3.0-dev.0
 - pkg:cargo/gukhanmun-loanwords@0.3.0-dev.218%2B93636e6
 - pkg:cargo/gukhanmun-loanwords@0.3.1
+- pkg:cargo/gukhanmun-loanwords@0.3.2
 - pkg:cargo/gukhanmun-loanwords@0.3.2-dev.329%2Be69ce82
 - pkg:cargo/gukhanmun-loanwords@0.3.2-dev.340%2Bda07846
 - pkg:cargo/gukhanmun-loanwords@0.3.2-dev.349%2B6ef02c0
@@ -22,3 +23,7 @@
 - pkg:cargo/gukhanmun-loanwords@0.4.0-dev.348%2Bfb912b9
 - pkg:cargo/gukhanmun-loanwords@0.4.0-dev.362%2B7d3d1b0
 - pkg:cargo/gukhanmun-loanwords@0.4.0-dev.365%2B4eeb2eb
+- pkg:cargo/gukhanmun-loanwords@0.4.0-dev.368%2Bbffd90e
+- pkg:cargo/gukhanmun-loanwords@0.4.0-dev.369%2B46f63c0
+- pkg:cargo/gukhanmun-loanwords@0.4.0-dev.375%2B9605d8f
+- pkg:cargo/gukhanmun-loanwords@0.4.0-dev.384%2Ba1e2050
