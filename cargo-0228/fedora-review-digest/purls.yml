@@ -28,3 +28,5 @@
 - pkg:cargo/fedora-review-digest@0.27.1
 - pkg:cargo/fedora-review-digest@0.28.0
 - pkg:cargo/fedora-review-digest@0.28.1
+- pkg:cargo/fedora-review-digest@0.28.2
+- pkg:cargo/fedora-review-digest@0.29.0
