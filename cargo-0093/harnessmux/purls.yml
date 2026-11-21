@@ -8,3 +8,4 @@
 - pkg:cargo/harnessmux@0.1.7
 - pkg:cargo/harnessmux@0.1.8
 - pkg:cargo/harnessmux@0.1.9
+- pkg:cargo/harnessmux@0.2.0
