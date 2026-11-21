@@ -4,3 +4,6 @@
 - pkg:cargo/datalayer-driver@1.0.1
 - pkg:cargo/datalayer-driver@2.0.0
 - pkg:cargo/datalayer-driver@3.0.0
+- pkg:cargo/datalayer-driver@4.0.0
+- pkg:cargo/datalayer-driver@5.0.0
+- pkg:cargo/datalayer-driver@6.0.0
