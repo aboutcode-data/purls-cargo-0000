@@ -1,1 +1,4 @@
 - pkg:cargo/v5gdb@0.1.0-alpha.2
+- pkg:cargo/v5gdb@0.1.0-alpha.3
+- pkg:cargo/v5gdb@0.1.0-beta.1
+- pkg:cargo/v5gdb@0.1.0-beta.2
