@@ -19,3 +19,4 @@
 - pkg:cargo/yellowstone-fumarole-cli@0.6.0%2Bsolana.3
 - pkg:cargo/yellowstone-fumarole-cli@0.7.0
 - pkg:cargo/yellowstone-fumarole-cli@0.8.0
+- pkg:cargo/yellowstone-fumarole-cli@0.8.1
