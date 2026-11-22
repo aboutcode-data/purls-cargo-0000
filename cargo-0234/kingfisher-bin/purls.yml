@@ -8,5 +8,6 @@
 - pkg:cargo/kingfisher-bin@2.17.0
 - pkg:cargo/kingfisher-bin@2.18.1
 - pkg:cargo/kingfisher-bin@2.19.1
+- pkg:cargo/kingfisher-bin@2.20.0
 - pkg:cargo/kingfisher-bin@2.8.0
 - pkg:cargo/kingfisher-bin@2.9.1
