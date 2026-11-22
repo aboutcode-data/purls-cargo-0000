@@ -15,6 +15,16 @@
 - pkg:cargo/ferrohealth-session@0.2.1
 - pkg:cargo/ferrohealth-session@0.2.2
 - pkg:cargo/ferrohealth-session@0.2.3
+- pkg:cargo/ferrohealth-session@0.20.0
+- pkg:cargo/ferrohealth-session@0.21.0
+- pkg:cargo/ferrohealth-session@0.22.0
+- pkg:cargo/ferrohealth-session@0.23.0
+- pkg:cargo/ferrohealth-session@0.24.0
+- pkg:cargo/ferrohealth-session@0.25.0
+- pkg:cargo/ferrohealth-session@0.25.1
+- pkg:cargo/ferrohealth-session@0.26.0
+- pkg:cargo/ferrohealth-session@0.27.0
+- pkg:cargo/ferrohealth-session@0.28.0
 - pkg:cargo/ferrohealth-session@0.3.0
 - pkg:cargo/ferrohealth-session@0.3.1
 - pkg:cargo/ferrohealth-session@0.4.0
