@@ -53,3 +53,6 @@
 - pkg:cargo/ferroid@1.0.1
 - pkg:cargo/ferroid@1.0.2
 - pkg:cargo/ferroid@2.0.0
+- pkg:cargo/ferroid@3.0.0
+- pkg:cargo/ferroid@3.1.0
+- pkg:cargo/ferroid@3.1.1
