@@ -29,3 +29,5 @@
 - pkg:cargo/mozangle@0.5.4
 - pkg:cargo/mozangle@0.5.5
 - pkg:cargo/mozangle@0.6.0
+- pkg:cargo/mozangle@0.7.0
+- pkg:cargo/mozangle@0.7.1
