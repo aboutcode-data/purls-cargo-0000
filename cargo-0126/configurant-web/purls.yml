@@ -2,3 +2,4 @@
 - pkg:cargo/configurant-web@0.5.46
 - pkg:cargo/configurant-web@0.6.3
 - pkg:cargo/configurant-web@0.7.2
+- pkg:cargo/configurant-web@0.8.6
