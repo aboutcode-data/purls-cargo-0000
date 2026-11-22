@@ -4,3 +4,4 @@
 - pkg:cargo/modio-logger-db@0.5.1
 - pkg:cargo/modio-logger-db@0.5.2
 - pkg:cargo/modio-logger-db@0.7.0
+- pkg:cargo/modio-logger-db@1.0.0
