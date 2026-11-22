@@ -1,1 +1,2 @@
 - pkg:cargo/uniform-array-derive@0.1.0
+- pkg:cargo/uniform-array-derive@1.0.0
