@@ -6,3 +6,4 @@
 - pkg:cargo/movavg@2.3.0
 - pkg:cargo/movavg@2.4.0
 - pkg:cargo/movavg@2.5.0
+- pkg:cargo/movavg@3.0.0
