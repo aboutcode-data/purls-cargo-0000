@@ -49,6 +49,7 @@
 - pkg:cargo/manabrew-agent-interface@0.19.5
 - pkg:cargo/manabrew-agent-interface@0.19.6
 - pkg:cargo/manabrew-agent-interface@0.19.8
+- pkg:cargo/manabrew-agent-interface@0.19.9
 - pkg:cargo/manabrew-agent-interface@0.2.6
 - pkg:cargo/manabrew-agent-interface@0.3.0
 - pkg:cargo/manabrew-agent-interface@0.3.1
