@@ -64,7 +64,10 @@
 - pkg:cargo/mongreldb-kit-core@0.64.14
 - pkg:cargo/mongreldb-kit-core@0.64.15
 - pkg:cargo/mongreldb-kit-core@0.64.16
+- pkg:cargo/mongreldb-kit-core@0.64.17
+- pkg:cargo/mongreldb-kit-core@0.64.19
 - pkg:cargo/mongreldb-kit-core@0.64.2
+- pkg:cargo/mongreldb-kit-core@0.64.20
 - pkg:cargo/mongreldb-kit-core@0.64.3
 - pkg:cargo/mongreldb-kit-core@0.64.4
 - pkg:cargo/mongreldb-kit-core@0.64.5
@@ -72,6 +75,10 @@
 - pkg:cargo/mongreldb-kit-core@0.64.7
 - pkg:cargo/mongreldb-kit-core@0.64.8
 - pkg:cargo/mongreldb-kit-core@0.64.9
+- pkg:cargo/mongreldb-kit-core@0.65.0
+- pkg:cargo/mongreldb-kit-core@0.65.1
+- pkg:cargo/mongreldb-kit-core@0.66.0
+- pkg:cargo/mongreldb-kit-core@0.66.1
 - pkg:cargo/mongreldb-kit-core@0.7.2
 - pkg:cargo/mongreldb-kit-core@0.7.3
 - pkg:cargo/mongreldb-kit-core@0.8.0
