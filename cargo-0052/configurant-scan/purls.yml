@@ -11,3 +11,4 @@
 - pkg:cargo/configurant-scan@0.5.43
 - pkg:cargo/configurant-scan@0.6.3
 - pkg:cargo/configurant-scan@0.7.2
+- pkg:cargo/configurant-scan@0.8.6
