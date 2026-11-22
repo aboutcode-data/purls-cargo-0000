@@ -2,3 +2,4 @@
 - pkg:cargo/corundum-framework-pdf@0.11.0
 - pkg:cargo/corundum-framework-pdf@0.12.0
 - pkg:cargo/corundum-framework-pdf@0.13.0
+- pkg:cargo/corundum-framework-pdf@0.13.1
