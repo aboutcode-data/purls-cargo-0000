@@ -97,6 +97,8 @@
 - pkg:cargo/smolfile@1.35.3
 - pkg:cargo/smolfile@1.35.4
 - pkg:cargo/smolfile@1.35.5
+- pkg:cargo/smolfile@1.36.0
+- pkg:cargo/smolfile@1.36.1
 - pkg:cargo/smolfile@1.4.3
 - pkg:cargo/smolfile@1.4.4
 - pkg:cargo/smolfile@1.4.5
