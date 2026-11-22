@@ -2,6 +2,8 @@
 - pkg:cargo/modern-icp@0.10.0
 - pkg:cargo/modern-icp@0.11.0
 - pkg:cargo/modern-icp@0.12.0
+- pkg:cargo/modern-icp@0.13.0
+- pkg:cargo/modern-icp@0.13.0-rerun040
 - pkg:cargo/modern-icp@0.2.0
 - pkg:cargo/modern-icp@0.3.0
 - pkg:cargo/modern-icp@0.4.0
