@@ -48,3 +48,4 @@
 - pkg:cargo/mairie360_api_lib@4.4.0
 - pkg:cargo/mairie360_api_lib@4.5.0
 - pkg:cargo/mairie360_api_lib@5.0.0
+- pkg:cargo/mairie360_api_lib@5.0.1
