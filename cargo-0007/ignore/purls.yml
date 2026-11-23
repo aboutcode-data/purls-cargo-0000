@@ -42,6 +42,7 @@
 - pkg:cargo/ignore@0.4.32
 - pkg:cargo/ignore@0.4.33
 - pkg:cargo/ignore@0.4.34
+- pkg:cargo/ignore@0.4.35
 - pkg:cargo/ignore@0.4.4
 - pkg:cargo/ignore@0.4.5
 - pkg:cargo/ignore@0.4.6
