@@ -1,1 +1,2 @@
 - pkg:cargo/deep-diff-forge-daemon@0.2.0
+- pkg:cargo/deep-diff-forge-daemon@0.9.0
