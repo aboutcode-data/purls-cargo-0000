@@ -32,3 +32,5 @@
 - pkg:cargo/github-actions-expressions@1.32.0
 - pkg:cargo/github-actions-expressions@1.32.0-rc1
 - pkg:cargo/github-actions-expressions@1.32.0-rc2
+- pkg:cargo/github-actions-expressions@1.33.0
+- pkg:cargo/github-actions-expressions@1.33.1
