@@ -1,1 +1,2 @@
 - pkg:cargo/triplets-parquet-source@0.31.0-alpha
+- pkg:cargo/triplets-parquet-source@0.32.0-alpha
