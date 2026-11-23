@@ -65,3 +65,4 @@
 - pkg:cargo/mars-schema@0.39.2
 - pkg:cargo/mars-schema@0.39.3
 - pkg:cargo/mars-schema@0.39.4
+- pkg:cargo/mars-schema@0.40.0
