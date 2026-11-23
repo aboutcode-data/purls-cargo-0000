@@ -136,6 +136,9 @@
 - pkg:cargo/mars-agents@0.38.1
 - pkg:cargo/mars-agents@0.39.0
 - pkg:cargo/mars-agents@0.39.1
+- pkg:cargo/mars-agents@0.39.2
+- pkg:cargo/mars-agents@0.39.3
+- pkg:cargo/mars-agents@0.39.4
 - pkg:cargo/mars-agents@0.4.0
 - pkg:cargo/mars-agents@0.4.1
 - pkg:cargo/mars-agents@0.4.2
