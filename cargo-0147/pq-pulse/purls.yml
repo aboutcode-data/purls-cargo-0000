@@ -10,3 +10,5 @@
 - pkg:cargo/pq-pulse@0.7.4
 - pkg:cargo/pq-pulse@0.7.5
 - pkg:cargo/pq-pulse@0.7.6
+- pkg:cargo/pq-pulse@0.8.1
+- pkg:cargo/pq-pulse@0.8.2
