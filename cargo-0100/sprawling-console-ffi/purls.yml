@@ -4,3 +4,5 @@
 - pkg:cargo/sprawling-console-ffi@0.0.15
 - pkg:cargo/sprawling-console-ffi@0.0.16
 - pkg:cargo/sprawling-console-ffi@0.0.17
+- pkg:cargo/sprawling-console-ffi@0.17.0
+- pkg:cargo/sprawling-console-ffi@0.17.1
