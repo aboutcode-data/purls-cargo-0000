@@ -22,6 +22,7 @@
 - pkg:cargo/dear-imgui-winit@0.20.0
 - pkg:cargo/dear-imgui-winit@0.21.0
 - pkg:cargo/dear-imgui-winit@0.22.0
+- pkg:cargo/dear-imgui-winit@0.23.0
 - pkg:cargo/dear-imgui-winit@0.3.0
 - pkg:cargo/dear-imgui-winit@0.4.0
 - pkg:cargo/dear-imgui-winit@0.4.1
