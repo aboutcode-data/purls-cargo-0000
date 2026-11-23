@@ -20,6 +20,7 @@
 - pkg:cargo/mnestic@0.19.2
 - pkg:cargo/mnestic@0.19.3
 - pkg:cargo/mnestic@0.19.4
+- pkg:cargo/mnestic@0.20.0
 - pkg:cargo/mnestic@0.7.6
 - pkg:cargo/mnestic@0.8.0
 - pkg:cargo/mnestic@0.8.1
