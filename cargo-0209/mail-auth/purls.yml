@@ -14,6 +14,7 @@
 - pkg:cargo/mail-auth@0.14.1
 - pkg:cargo/mail-auth@0.15.0
 - pkg:cargo/mail-auth@0.15.1
+- pkg:cargo/mail-auth@0.16.0
 - pkg:cargo/mail-auth@0.3.0
 - pkg:cargo/mail-auth@0.3.10
 - pkg:cargo/mail-auth@0.3.11
