@@ -167,6 +167,7 @@
 - pkg:cargo/willbooster-tree-sitter@23.0.2
 - pkg:cargo/willbooster-tree-sitter@23.0.3
 - pkg:cargo/willbooster-tree-sitter@23.0.4
+- pkg:cargo/willbooster-tree-sitter@23.1.0
 - pkg:cargo/willbooster-tree-sitter@3.0.0
 - pkg:cargo/willbooster-tree-sitter@4.0.0
 - pkg:cargo/willbooster-tree-sitter@4.0.1
