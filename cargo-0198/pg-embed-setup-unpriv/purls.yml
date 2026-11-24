@@ -10,3 +10,5 @@
 - pkg:cargo/pg-embed-setup-unpriv@0.6.2
 - pkg:cargo/pg-embed-setup-unpriv@0.6.3
 - pkg:cargo/pg-embed-setup-unpriv@0.7.0
+- pkg:cargo/pg-embed-setup-unpriv@0.8.0
+- pkg:cargo/pg-embed-setup-unpriv@0.8.0-beta1
