@@ -1,1 +1,2 @@
 - pkg:cargo/arqlet-query-model@0.8.0
+- pkg:cargo/arqlet-query-model@0.9.0
