@@ -18,3 +18,4 @@
 - pkg:cargo/magnetar-runtime-tokio@1.7.4
 - pkg:cargo/magnetar-runtime-tokio@1.8.0
 - pkg:cargo/magnetar-runtime-tokio@2.0.0
+- pkg:cargo/magnetar-runtime-tokio@2.1.0
