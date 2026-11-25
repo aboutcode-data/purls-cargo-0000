@@ -1,1 +1,2 @@
 - pkg:cargo/codewhale-app-server-protocol@0.10.3
+- pkg:cargo/codewhale-app-server-protocol@0.10.4
