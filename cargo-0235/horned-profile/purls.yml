@@ -1,3 +1,4 @@
 - pkg:cargo/horned-profile@3.0.0
 - pkg:cargo/horned-profile@4.0.0
 - pkg:cargo/horned-profile@5.0.0
+- pkg:cargo/horned-profile@6.0.0

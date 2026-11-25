@@ -1,3 +1,4 @@
 - pkg:cargo/horned-macro@3.0.0
 - pkg:cargo/horned-macro@4.0.0
 - pkg:cargo/horned-macro@5.0.0
+- pkg:cargo/horned-macro@6.0.0
