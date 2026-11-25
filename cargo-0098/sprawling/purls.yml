@@ -9,3 +9,5 @@
 - pkg:cargo/sprawling@0.0.8
 - pkg:cargo/sprawling@0.0.9
 - pkg:cargo/sprawling@0.17.1
+- pkg:cargo/sprawling@0.17.2
+- pkg:cargo/sprawling@0.18.1
