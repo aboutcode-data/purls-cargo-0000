@@ -2,3 +2,5 @@
 - pkg:cargo/gitbucket-cli@0.6.1
 - pkg:cargo/gitbucket-cli@0.8.0
 - pkg:cargo/gitbucket-cli@0.8.1
+- pkg:cargo/gitbucket-cli@0.9.0
+- pkg:cargo/gitbucket-cli@0.9.1
