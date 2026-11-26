@@ -29,6 +29,11 @@
 - pkg:cargo/triple_s@0.4.31
 - pkg:cargo/triple_s@0.5.0
 - pkg:cargo/triple_s@0.5.10
+- pkg:cargo/triple_s@0.5.11
+- pkg:cargo/triple_s@0.5.12
+- pkg:cargo/triple_s@0.5.13
+- pkg:cargo/triple_s@0.5.14
+- pkg:cargo/triple_s@0.5.15
 - pkg:cargo/triple_s@0.5.2
 - pkg:cargo/triple_s@0.5.4
 - pkg:cargo/triple_s@0.5.5
