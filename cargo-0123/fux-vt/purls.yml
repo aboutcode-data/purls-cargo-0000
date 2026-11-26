@@ -13,7 +13,10 @@
 - pkg:cargo/fux-vt@0.16.0
 - pkg:cargo/fux-vt@0.17.0
 - pkg:cargo/fux-vt@0.18.0
+- pkg:cargo/fux-vt@0.19.0
 - pkg:cargo/fux-vt@0.2.0
+- pkg:cargo/fux-vt@0.20.0
+- pkg:cargo/fux-vt@0.20.1
 - pkg:cargo/fux-vt@0.3.0
 - pkg:cargo/fux-vt@0.3.1
 - pkg:cargo/fux-vt@0.3.2
