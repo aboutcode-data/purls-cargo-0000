@@ -4,3 +4,4 @@
 - pkg:cargo/cscript-ffi@0.5.0
 - pkg:cargo/cscript-ffi@0.5.1
 - pkg:cargo/cscript-ffi@0.6.0
+- pkg:cargo/cscript-ffi@0.8.0
