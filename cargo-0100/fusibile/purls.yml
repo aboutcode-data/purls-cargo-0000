@@ -3,3 +3,5 @@
 - pkg:cargo/fusibile@0.3.0
 - pkg:cargo/fusibile@1.0.0
 - pkg:cargo/fusibile@1.0.1
+- pkg:cargo/fusibile@1.2.0
+- pkg:cargo/fusibile@1.2.1
