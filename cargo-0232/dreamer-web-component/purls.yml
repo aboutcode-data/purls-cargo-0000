@@ -1,2 +1,4 @@
 - pkg:cargo/dreamer-web-component@0.10.0
 - pkg:cargo/dreamer-web-component@0.11.0
+- pkg:cargo/dreamer-web-component@0.12.0
+- pkg:cargo/dreamer-web-component@0.12.1
