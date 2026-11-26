@@ -2,6 +2,7 @@
 - pkg:cargo/dreamcast-vmu@0.10.2
 - pkg:cargo/dreamcast-vmu@0.10.3
 - pkg:cargo/dreamcast-vmu@0.10.4
+- pkg:cargo/dreamcast-vmu@0.10.5
 - pkg:cargo/dreamcast-vmu@0.2.0
 - pkg:cargo/dreamcast-vmu@0.2.1
 - pkg:cargo/dreamcast-vmu@0.2.2
