@@ -1,2 +1,4 @@
+- pkg:cargo/kolmo@0.0.1
+- pkg:cargo/kolmo@0.0.2
 - pkg:cargo/kolmo@1.0.0
 - pkg:cargo/kolmo@1.0.1
