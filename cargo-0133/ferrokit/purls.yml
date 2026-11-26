@@ -1,5 +1,12 @@
 - pkg:cargo/ferrokit@0.10.0
 - pkg:cargo/ferrokit@0.10.1
+- pkg:cargo/ferrokit@0.11.0
+- pkg:cargo/ferrokit@0.11.1
+- pkg:cargo/ferrokit@0.12.0
+- pkg:cargo/ferrokit@0.13.0
+- pkg:cargo/ferrokit@0.14.0
+- pkg:cargo/ferrokit@0.14.1
+- pkg:cargo/ferrokit@0.15.0
 - pkg:cargo/ferrokit@0.4.0
 - pkg:cargo/ferrokit@0.4.1
 - pkg:cargo/ferrokit@0.4.2
