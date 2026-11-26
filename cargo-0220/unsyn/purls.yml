@@ -1,2 +1,5 @@
 - pkg:cargo/unsyn@0.10.11
 - pkg:cargo/unsyn@0.13.1
+- pkg:cargo/unsyn@0.14.0
+- pkg:cargo/unsyn@0.14.1
+- pkg:cargo/unsyn@0.14.2
