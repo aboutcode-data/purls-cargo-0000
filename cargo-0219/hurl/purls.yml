@@ -24,3 +24,4 @@
 - pkg:cargo/hurl@7.1.0
 - pkg:cargo/hurl@8.0.0
 - pkg:cargo/hurl@8.0.1
+- pkg:cargo/hurl@8.1.0
