@@ -1,4 +1,11 @@
+- pkg:cargo/rings-transport@0.10.0
+- pkg:cargo/rings-transport@0.12.0
+- pkg:cargo/rings-transport@0.20.0
 - pkg:cargo/rings-transport@0.3.0
+- pkg:cargo/rings-transport@0.39.0
 - pkg:cargo/rings-transport@0.5.1
 - pkg:cargo/rings-transport@0.6.0
 - pkg:cargo/rings-transport@0.7.0
+- pkg:cargo/rings-transport@1.0.0-pre.5
+- pkg:cargo/rings-transport@1.0.0-pre.6
+- pkg:cargo/rings-transport@1.0.0-pre.8
