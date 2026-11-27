@@ -13,3 +13,6 @@
 - pkg:cargo/kcr_actions_github_com@2.20251002.171806
 - pkg:cargo/kcr_actions_github_com@2.20251023.172107
 - pkg:cargo/kcr_actions_github_com@3.20260115.173740
+- pkg:cargo/kcr_actions_github_com@3.20260604.192458
+- pkg:cargo/kcr_actions_github_com@3.20260611.193701
+- pkg:cargo/kcr_actions_github_com@3.20260618.193243
