@@ -12,3 +12,5 @@
 - pkg:cargo/piopulse@1.0.3
 - pkg:cargo/piopulse@1.0.4
 - pkg:cargo/piopulse@1.0.5
+- pkg:cargo/piopulse@2.0.0
+- pkg:cargo/piopulse@2.0.1
