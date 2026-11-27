@@ -135,5 +135,8 @@
 - pkg:cargo/riven@2.76.0
 - pkg:cargo/riven@2.77.0
 - pkg:cargo/riven@2.78.0
+- pkg:cargo/riven@2.79.0
 - pkg:cargo/riven@2.8.0
+- pkg:cargo/riven@2.80.0
+- pkg:cargo/riven@2.81.0
 - pkg:cargo/riven@2.9.0
