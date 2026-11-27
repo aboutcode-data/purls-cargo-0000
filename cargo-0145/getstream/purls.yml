@@ -1,2 +1,7 @@
+- pkg:cargo/getstream@0.1.0
 - pkg:cargo/getstream@0.1.0-preview.1
 - pkg:cargo/getstream@0.1.0-preview.2
+- pkg:cargo/getstream@0.1.0-preview.3
+- pkg:cargo/getstream@0.2.0
+- pkg:cargo/getstream@0.2.0-preview.1
+- pkg:cargo/getstream@0.2.1
