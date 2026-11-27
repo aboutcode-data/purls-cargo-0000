@@ -9,3 +9,4 @@
 - pkg:cargo/kcr_app_k8s_io@2.20250926.104011
 - pkg:cargo/kcr_app_k8s_io@2.20251003.103858
 - pkg:cargo/kcr_app_k8s_io@3.20260116.104645
+- pkg:cargo/kcr_app_k8s_io@3.20260529.134013

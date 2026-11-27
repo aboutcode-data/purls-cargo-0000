@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_trace_kubeblocks_io@2.20250922.212309
 - pkg:cargo/kcr_trace_kubeblocks_io@2.20250929.212336
 - pkg:cargo/kcr_trace_kubeblocks_io@3.20260112.213106
+- pkg:cargo/kcr_trace_kubeblocks_io@3.20260601.230657

@@ -8,3 +8,4 @@
 - pkg:cargo/kcr_install_istio_io@2.20250913.53708
 - pkg:cargo/kcr_install_istio_io@2.20250927.53725
 - pkg:cargo/kcr_install_istio_io@3.20260117.54302
+- pkg:cargo/kcr_install_istio_io@3.20260530.80153
