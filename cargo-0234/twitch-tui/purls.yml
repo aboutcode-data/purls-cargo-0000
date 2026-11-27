@@ -48,6 +48,9 @@
 - pkg:cargo/twitch-tui@2.6.7
 - pkg:cargo/twitch-tui@2.6.8
 - pkg:cargo/twitch-tui@2.6.9
+- pkg:cargo/twitch-tui@3.0.0
 - pkg:cargo/twitch-tui@3.0.0-alpha.1
 - pkg:cargo/twitch-tui@3.0.0-alpha.2
 - pkg:cargo/twitch-tui@3.0.0-alpha.3
+- pkg:cargo/twitch-tui@3.0.0-alpha.4
+- pkg:cargo/twitch-tui@3.0.1
