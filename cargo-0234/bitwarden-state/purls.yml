@@ -1,2 +1,3 @@
 - pkg:cargo/bitwarden-state@2.0.0
 - pkg:cargo/bitwarden-state@3.0.0
+- pkg:cargo/bitwarden-state@4.0.0
