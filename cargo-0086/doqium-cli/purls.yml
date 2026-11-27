@@ -3,3 +3,4 @@
 - pkg:cargo/doqium-cli@3.2.1
 - pkg:cargo/doqium-cli@3.22.3
 - pkg:cargo/doqium-cli@3.3.0
+- pkg:cargo/doqium-cli@4.0.7-snapshot
