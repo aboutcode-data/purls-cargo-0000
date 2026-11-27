@@ -44,3 +44,7 @@
 - pkg:cargo/biscuit-auth@6.0.0-beta.1
 - pkg:cargo/biscuit-auth@6.0.0-beta.2
 - pkg:cargo/biscuit-auth@6.0.0-beta.3
+- pkg:cargo/biscuit-auth@7.0.0-alpha.1
+- pkg:cargo/biscuit-auth@7.0.0-alpha.2
+- pkg:cargo/biscuit-auth@7.0.0-alpha.3
+- pkg:cargo/biscuit-auth@7.0.0-alpha.4
