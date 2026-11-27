@@ -6,3 +6,10 @@
 - pkg:cargo/flightrelay@0.1.5
 - pkg:cargo/flightrelay@0.1.6
 - pkg:cargo/flightrelay@0.1.7
+- pkg:cargo/flightrelay@0.2.1
+- pkg:cargo/flightrelay@0.3.1
+- pkg:cargo/flightrelay@0.4.0
+- pkg:cargo/flightrelay@0.5.0
+- pkg:cargo/flightrelay@0.5.1
+- pkg:cargo/flightrelay@0.6.0
+- pkg:cargo/flightrelay@0.7.0
