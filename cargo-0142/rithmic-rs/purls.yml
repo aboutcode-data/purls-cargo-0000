@@ -16,3 +16,9 @@
 - pkg:cargo/rithmic-rs@0.7.2
 - pkg:cargo/rithmic-rs@1.0.0
 - pkg:cargo/rithmic-rs@2.0.0
+- pkg:cargo/rithmic-rs@3.0.0
+- pkg:cargo/rithmic-rs@3.1.0
+- pkg:cargo/rithmic-rs@3.2.0
+- pkg:cargo/rithmic-rs@3.3.0
+- pkg:cargo/rithmic-rs@4.0.0
+- pkg:cargo/rithmic-rs@4.0.0-rc.1
