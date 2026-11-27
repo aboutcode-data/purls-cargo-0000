@@ -11,3 +11,6 @@
 - pkg:cargo/kcr_parameters_kubeblocks_io@2.20251121.34117
 - pkg:cargo/kcr_parameters_kubeblocks_io@3.20260116.40030
 - pkg:cargo/kcr_parameters_kubeblocks_io@3.20260130.42738
+- pkg:cargo/kcr_parameters_kubeblocks_io@3.20260605.70452
+- pkg:cargo/kcr_parameters_kubeblocks_io@3.20260612.71910
+- pkg:cargo/kcr_parameters_kubeblocks_io@3.20260619.82811

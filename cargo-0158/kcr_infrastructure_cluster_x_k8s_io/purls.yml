@@ -22,3 +22,6 @@
 - pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@2.20260111.93405
 - pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@3.20260118.93401
 - pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@3.20260125.93527
+- pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@3.20260531.110752
+- pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@3.20260607.111641
+- pkg:cargo/kcr_infrastructure_cluster_x_k8s_io@3.20260614.113651

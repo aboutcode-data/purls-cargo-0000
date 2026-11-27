@@ -11,3 +11,6 @@
 - pkg:cargo/kcr_networking_istio_io@2.20251019.30658
 - pkg:cargo/kcr_networking_istio_io@2.20260111.32906
 - pkg:cargo/kcr_networking_istio_io@3.20260118.32604
+- pkg:cargo/kcr_networking_istio_io@3.20260531.60249
+- pkg:cargo/kcr_networking_istio_io@3.20260607.60755
+- pkg:cargo/kcr_networking_istio_io@3.20260614.62107

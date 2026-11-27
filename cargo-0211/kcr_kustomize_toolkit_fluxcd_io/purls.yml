@@ -12,3 +12,5 @@
 - pkg:cargo/kcr_kustomize_toolkit_fluxcd_io@2.20250915.45059
 - pkg:cargo/kcr_kustomize_toolkit_fluxcd_io@2.20250929.45048
 - pkg:cargo/kcr_kustomize_toolkit_fluxcd_io@3.20260119.51949
+- pkg:cargo/kcr_kustomize_toolkit_fluxcd_io@3.20260601.100637
+- pkg:cargo/kcr_kustomize_toolkit_fluxcd_io@3.20260608.91348
