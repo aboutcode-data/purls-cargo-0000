@@ -1,2 +1,4 @@
 - pkg:cargo/pi_config@0.6.8
 - pkg:cargo/pi_config@0.6.9
+- pkg:cargo/pi_config@0.7.0
+- pkg:cargo/pi_config@0.7.2
