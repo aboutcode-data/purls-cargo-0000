@@ -25,3 +25,6 @@
 - pkg:cargo/pi_share@0.5.1
 - pkg:cargo/pi_share@0.5.2
 - pkg:cargo/pi_share@0.6.0
+- pkg:cargo/pi_share@1.0.0
+- pkg:cargo/pi_share@2.0.0
+- pkg:cargo/pi_share@2.1.0
