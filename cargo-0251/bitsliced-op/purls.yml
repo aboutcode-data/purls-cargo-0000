@@ -4,3 +4,5 @@
 - pkg:cargo/bitsliced-op@0.6.1
 - pkg:cargo/bitsliced-op@0.8.0
 - pkg:cargo/bitsliced-op@0.8.1
+- pkg:cargo/bitsliced-op@1.0.0
+- pkg:cargo/bitsliced-op@1.0.1
