@@ -48,3 +48,7 @@
 - pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20251121
 - pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20251205
 - pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20260109
+- pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20260811
+- pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20260812
+- pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20260918
+- pkg:cargo/huawei-cloud-api-definitions-AS@0.1.20261016
