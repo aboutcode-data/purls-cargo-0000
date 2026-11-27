@@ -50,6 +50,11 @@
 - pkg:cargo/bitwright@0.32.22
 - pkg:cargo/bitwright@0.32.23
 - pkg:cargo/bitwright@0.32.24
+- pkg:cargo/bitwright@0.32.25
+- pkg:cargo/bitwright@0.32.26
+- pkg:cargo/bitwright@0.32.27
+- pkg:cargo/bitwright@0.32.28
+- pkg:cargo/bitwright@0.32.29
 - pkg:cargo/bitwright@0.32.3
 - pkg:cargo/bitwright@0.32.4
 - pkg:cargo/bitwright@0.32.5
