@@ -15,3 +15,4 @@
 - pkg:cargo/tsoracle-core@2.1.1
 - pkg:cargo/tsoracle-core@2.2.0
 - pkg:cargo/tsoracle-core@2.3.0
+- pkg:cargo/tsoracle-core@2.3.1
