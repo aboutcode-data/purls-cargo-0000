@@ -64,3 +64,4 @@
 - pkg:cargo/dope-test@0.72.0
 - pkg:cargo/dope-test@0.73.0
 - pkg:cargo/dope-test@0.74.0
+- pkg:cargo/dope-test@0.75.0

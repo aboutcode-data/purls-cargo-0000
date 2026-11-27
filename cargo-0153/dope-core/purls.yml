@@ -72,6 +72,7 @@
 - pkg:cargo/dope-core@0.72.0
 - pkg:cargo/dope-core@0.73.0
 - pkg:cargo/dope-core@0.74.0
+- pkg:cargo/dope-core@0.75.0
 - pkg:cargo/dope-core@0.8.0
 - pkg:cargo/dope-core@0.8.1
 - pkg:cargo/dope-core@0.9.0
