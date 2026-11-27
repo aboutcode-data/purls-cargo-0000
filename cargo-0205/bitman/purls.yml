@@ -1,3 +1,7 @@
 - pkg:cargo/bitman@1.0.0
 - pkg:cargo/bitman@2.0.0
 - pkg:cargo/bitman@2.0.1
+- pkg:cargo/bitman@3.0.0
+- pkg:cargo/bitman@3.0.2
+- pkg:cargo/bitman@3.0.3
+- pkg:cargo/bitman@3.1.0
