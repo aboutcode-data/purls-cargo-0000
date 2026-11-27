@@ -46,3 +46,4 @@
 - pkg:cargo/vantage-mongodb@4.1.0
 - pkg:cargo/vantage-mongodb@4.2.0
 - pkg:cargo/vantage-mongodb@5.0.0
+- pkg:cargo/vantage-mongodb@5.0.1
