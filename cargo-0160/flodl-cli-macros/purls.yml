@@ -2,3 +2,6 @@
 - pkg:cargo/flodl-cli-macros@0.5.1
 - pkg:cargo/flodl-cli-macros@0.5.2
 - pkg:cargo/flodl-cli-macros@0.5.3
+- pkg:cargo/flodl-cli-macros@0.6.0
+- pkg:cargo/flodl-cli-macros@0.7.0
+- pkg:cargo/flodl-cli-macros@0.8.0
