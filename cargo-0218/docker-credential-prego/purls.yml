@@ -1,0 +1,8 @@
+- pkg:cargo/docker-credential-prego@0.10.0
+- pkg:cargo/docker-credential-prego@0.11.0
+- pkg:cargo/docker-credential-prego@0.3.0
+- pkg:cargo/docker-credential-prego@0.8.0
+- pkg:cargo/docker-credential-prego@0.9.0
+- pkg:cargo/docker-credential-prego@1.0.0
+- pkg:cargo/docker-credential-prego@1.1.0
+- pkg:cargo/docker-credential-prego@1.3.0
