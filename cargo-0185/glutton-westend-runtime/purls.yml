@@ -28,6 +28,7 @@
 - pkg:cargo/glutton-westend-runtime@33.0.0
 - pkg:cargo/glutton-westend-runtime@34.0.0
 - pkg:cargo/glutton-westend-runtime@35.0.0
+- pkg:cargo/glutton-westend-runtime@36.0.0
 - pkg:cargo/glutton-westend-runtime@4.0.0
 - pkg:cargo/glutton-westend-runtime@5.0.0
 - pkg:cargo/glutton-westend-runtime@6.0.0
