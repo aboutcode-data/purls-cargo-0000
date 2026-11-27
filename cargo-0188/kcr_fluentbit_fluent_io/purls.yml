@@ -22,3 +22,4 @@
 - pkg:cargo/kcr_fluentbit_fluent_io@2.20260109.114440
 - pkg:cargo/kcr_fluentbit_fluent_io@3.20260116.114521
 - pkg:cargo/kcr_fluentbit_fluent_io@3.20260123.114602
+- pkg:cargo/kcr_fluentbit_fluent_io@3.20260529.141921

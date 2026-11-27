@@ -11,3 +11,4 @@
 - pkg:cargo/kcr_lambda_services_k8s_aws@2.20250923.204422
 - pkg:cargo/kcr_lambda_services_k8s_aws@2.20250930.204410
 - pkg:cargo/kcr_lambda_services_k8s_aws@3.20260113.205101
+- pkg:cargo/kcr_lambda_services_k8s_aws@3.20260602.223721

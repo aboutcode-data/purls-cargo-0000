@@ -10,3 +10,4 @@
 - pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20251001.44216
 - pkg:cargo/kcr_groupsnapshot_storage_k8s_io@2.20251029.44621
 - pkg:cargo/kcr_groupsnapshot_storage_k8s_io@3.20260114.45929
+- pkg:cargo/kcr_groupsnapshot_storage_k8s_io@3.20260603.91218
