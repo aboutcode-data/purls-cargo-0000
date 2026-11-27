@@ -12,3 +12,6 @@
 - pkg:cargo/geoserde@0.5.1
 - pkg:cargo/geoserde@0.5.2
 - pkg:cargo/geoserde@0.5.3-beta.1
+- pkg:cargo/geoserde@0.5.3-beta.2
+- pkg:cargo/geoserde@0.5.3-beta.3
+- pkg:cargo/geoserde@0.6.0
