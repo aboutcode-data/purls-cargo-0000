@@ -1,3 +1,5 @@
 - pkg:cargo/pibtool@0.25.0
 - pkg:cargo/pibtool@0.26.0
 - pkg:cargo/pibtool@0.27.0
+- pkg:cargo/pibtool@0.28.0
+- pkg:cargo/pibtool@0.29.0
