@@ -1,1 +1,4 @@
 - pkg:cargo/dogwood-local-engine@1.0.0
+- pkg:cargo/dogwood-local-engine@1.1.0
+- pkg:cargo/dogwood-local-engine@1.1.1
+- pkg:cargo/dogwood-local-engine@1.1.2
