@@ -1,4 +1,5 @@
 - pkg:cargo/kimun_core@0.1.0
+- pkg:cargo/kimun_core@0.10.0
 - pkg:cargo/kimun_core@0.2.0
 - pkg:cargo/kimun_core@0.2.1
 - pkg:cargo/kimun_core@0.2.10
@@ -43,3 +44,4 @@
 - pkg:cargo/kimun_core@0.7.1
 - pkg:cargo/kimun_core@0.8.0
 - pkg:cargo/kimun_core@0.9.0
+- pkg:cargo/kimun_core@0.9.1
