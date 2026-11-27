@@ -7,3 +7,4 @@
 - pkg:cargo/biome_deserialize@0.5.6
 - pkg:cargo/biome_deserialize@0.5.7
 - pkg:cargo/biome_deserialize@0.6.0
+- pkg:cargo/biome_deserialize@0.7.3
