@@ -17,3 +17,7 @@
 - pkg:cargo/bindy-macro@0.34.0
 - pkg:cargo/bindy-macro@0.35.0
 - pkg:cargo/bindy-macro@0.36.0
+- pkg:cargo/bindy-macro@0.37.0
+- pkg:cargo/bindy-macro@0.37.1
+- pkg:cargo/bindy-macro@0.38.0
+- pkg:cargo/bindy-macro@0.39.0
