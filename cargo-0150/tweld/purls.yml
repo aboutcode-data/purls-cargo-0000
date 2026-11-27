@@ -9,3 +9,5 @@
 - pkg:cargo/tweld@0.3.4-alpha.rc.3
 - pkg:cargo/tweld@0.3.5-alpha.rc.3
 - pkg:cargo/tweld@1.0.0
+- pkg:cargo/tweld@1.0.1
+- pkg:cargo/tweld@1.0.1-beta.1

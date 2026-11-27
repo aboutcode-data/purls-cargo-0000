@@ -31,3 +31,4 @@
 - pkg:cargo/twincatads-rs@0.5.9
 - pkg:cargo/twincatads-rs@1.0.0
 - pkg:cargo/twincatads-rs@1.0.1
+- pkg:cargo/twincatads-rs@1.0.2
