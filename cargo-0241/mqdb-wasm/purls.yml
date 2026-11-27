@@ -1,1 +1,5 @@
 - pkg:cargo/mqdb-wasm@0.3.3
+- pkg:cargo/mqdb-wasm@0.3.6
+- pkg:cargo/mqdb-wasm@0.4.0
+- pkg:cargo/mqdb-wasm@0.5.0
+- pkg:cargo/mqdb-wasm@0.6.0
