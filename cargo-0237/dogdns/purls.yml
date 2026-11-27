@@ -1,1 +1,9 @@
 - pkg:cargo/dogdns@0.7.12
+- pkg:cargo/dogdns@0.7.16
+- pkg:cargo/dogdns@0.8.0
+- pkg:cargo/dogdns@0.8.2
+- pkg:cargo/dogdns@0.8.6
+- pkg:cargo/dogdns@0.8.8
+- pkg:cargo/dogdns@0.9.0
+- pkg:cargo/dogdns@0.9.1
+- pkg:cargo/dogdns@0.9.3
