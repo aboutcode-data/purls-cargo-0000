@@ -39,3 +39,4 @@
 - pkg:cargo/jsonrpsee-server@0.25.1
 - pkg:cargo/jsonrpsee-server@0.26.0
 - pkg:cargo/jsonrpsee-server@0.26.1
+- pkg:cargo/jsonrpsee-server@0.26.2
