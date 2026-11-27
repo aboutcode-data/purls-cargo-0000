@@ -5,3 +5,4 @@
 - pkg:cargo/js-semver@0.4.1
 - pkg:cargo/js-semver@1.0.0
 - pkg:cargo/js-semver@1.0.1
+- pkg:cargo/js-semver@1.0.2

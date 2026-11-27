@@ -2,3 +2,5 @@
 - pkg:cargo/jstrict@0.14.0
 - pkg:cargo/jstrict@0.15.0
 - pkg:cargo/jstrict@0.16.0
+- pkg:cargo/jstrict@0.16.1
+- pkg:cargo/jstrict@0.16.2
