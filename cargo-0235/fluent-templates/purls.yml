@@ -8,6 +8,8 @@
 - pkg:cargo/fluent-templates@0.13.2
 - pkg:cargo/fluent-templates@0.13.3
 - pkg:cargo/fluent-templates@0.14.0
+- pkg:cargo/fluent-templates@0.15.0
+- pkg:cargo/fluent-templates@0.15.1
 - pkg:cargo/fluent-templates@0.4.5
 - pkg:cargo/fluent-templates@0.4.6
 - pkg:cargo/fluent-templates@0.4.7
