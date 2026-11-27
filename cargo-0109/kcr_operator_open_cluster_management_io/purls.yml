@@ -18,3 +18,4 @@
 - pkg:cargo/kcr_operator_open_cluster_management_io@2.20260112.105007
 - pkg:cargo/kcr_operator_open_cluster_management_io@3.20260119.105358
 - pkg:cargo/kcr_operator_open_cluster_management_io@3.20260126.105146
+- pkg:cargo/kcr_operator_open_cluster_management_io@3.20260601.161959

@@ -17,3 +17,5 @@
 - pkg:cargo/kcr_opentelemetry_io@2.20251023.153030
 - pkg:cargo/kcr_opentelemetry_io@2.20251225.153101
 - pkg:cargo/kcr_opentelemetry_io@3.20260115.153834
+- pkg:cargo/kcr_opentelemetry_io@3.20260604.174904
+- pkg:cargo/kcr_opentelemetry_io@3.20260611.182648
