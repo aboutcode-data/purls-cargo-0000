@@ -43,3 +43,6 @@
 - pkg:cargo/zeroize@1.8.0
 - pkg:cargo/zeroize@1.8.1
 - pkg:cargo/zeroize@1.8.2
+- pkg:cargo/zeroize@1.9.0
+- pkg:cargo/zeroize@1.9.1
+- pkg:cargo/zeroize@1.9.2
