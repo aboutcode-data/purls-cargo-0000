@@ -49,6 +49,7 @@
 - pkg:cargo/pipetest@2026.11.25
 - pkg:cargo/pipetest@2026.11.26
 - pkg:cargo/pipetest@2026.11.27
+- pkg:cargo/pipetest@2026.11.28
 - pkg:cargo/pipetest@2026.11.3
 - pkg:cargo/pipetest@2026.11.4
 - pkg:cargo/pipetest@2026.11.5
