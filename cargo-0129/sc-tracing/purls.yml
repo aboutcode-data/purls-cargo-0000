@@ -63,6 +63,7 @@
 - pkg:cargo/sc-tracing@48.0.0
 - pkg:cargo/sc-tracing@49.0.0
 - pkg:cargo/sc-tracing@5.0.0
+- pkg:cargo/sc-tracing@50.0.0
 - pkg:cargo/sc-tracing@6.0.0
 - pkg:cargo/sc-tracing@7.0.0
 - pkg:cargo/sc-tracing@8.0.0
