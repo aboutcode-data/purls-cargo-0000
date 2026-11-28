@@ -43,3 +43,4 @@
 - pkg:cargo/sema-eval@1.8.0
 - pkg:cargo/sema-eval@1.9.0
 - pkg:cargo/sema-eval@2.0.0
+- pkg:cargo/sema-eval@2.0.1
