@@ -1,2 +1,4 @@
 - pkg:cargo/gzippy@0.7.1
 - pkg:cargo/gzippy@0.8.0
+- pkg:cargo/gzippy@1.0.0
+- pkg:cargo/gzippy@1.0.1
