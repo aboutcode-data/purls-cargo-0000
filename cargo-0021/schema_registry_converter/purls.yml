@@ -26,3 +26,4 @@
 - pkg:cargo/schema_registry_converter@5.0.0
 - pkg:cargo/schema_registry_converter@5.1.0
 - pkg:cargo/schema_registry_converter@6.0.0
+- pkg:cargo/schema_registry_converter@6.1.0
