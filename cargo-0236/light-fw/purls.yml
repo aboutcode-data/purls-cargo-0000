@@ -6,3 +6,8 @@
 - pkg:cargo/light-fw@0.17.5
 - pkg:cargo/light-fw@0.17.6
 - pkg:cargo/light-fw@0.17.7
+- pkg:cargo/light-fw@0.18.0
+- pkg:cargo/light-fw@0.19.0
+- pkg:cargo/light-fw@0.20.0
+- pkg:cargo/light-fw@0.20.2
+- pkg:cargo/light-fw@0.21.0-alpha.1
