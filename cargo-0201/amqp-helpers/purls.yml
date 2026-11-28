@@ -1,0 +1,6 @@
+- pkg:cargo/amqp-helpers@3.2.3
+- pkg:cargo/amqp-helpers@3.2.4
+- pkg:cargo/amqp-helpers@4.0.0
+- pkg:cargo/amqp-helpers@4.1.0
+- pkg:cargo/amqp-helpers@4.2.0
+- pkg:cargo/amqp-helpers@4.2.1
