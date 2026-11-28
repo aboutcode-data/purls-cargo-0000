@@ -2,5 +2,11 @@
 - pkg:cargo/gm-crypto@0.2.0
 - pkg:cargo/gm-crypto@0.3.0
 - pkg:cargo/gm-crypto@0.3.1
+- pkg:cargo/gm-crypto@0.3.10
+- pkg:cargo/gm-crypto@0.3.11
+- pkg:cargo/gm-crypto@0.3.12
+- pkg:cargo/gm-crypto@0.3.13
 - pkg:cargo/gm-crypto@0.3.2
 - pkg:cargo/gm-crypto@0.3.3
+- pkg:cargo/gm-crypto@0.3.8
+- pkg:cargo/gm-crypto@0.3.9
