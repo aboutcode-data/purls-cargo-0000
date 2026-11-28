@@ -55,6 +55,11 @@
 - pkg:cargo/zeros@18.0.3
 - pkg:cargo/zeros@19.0.0
 - pkg:cargo/zeros@19.0.1
+- pkg:cargo/zeros@19.1.0
+- pkg:cargo/zeros@19.1.1
+- pkg:cargo/zeros@19.1.2
+- pkg:cargo/zeros@19.2.0
+- pkg:cargo/zeros@19.2.1
 - pkg:cargo/zeros@2.0.0
 - pkg:cargo/zeros@2.1.0
 - pkg:cargo/zeros@2.2.0
@@ -62,6 +67,12 @@
 - pkg:cargo/zeros@2.4.0
 - pkg:cargo/zeros@2.5.0
 - pkg:cargo/zeros@2.6.0
+- pkg:cargo/zeros@20.0.0
+- pkg:cargo/zeros@21.0.0
+- pkg:cargo/zeros@22.0.0
+- pkg:cargo/zeros@22.0.1
+- pkg:cargo/zeros@22.0.2
+- pkg:cargo/zeros@22.1.0
 - pkg:cargo/zeros@3.0.0
 - pkg:cargo/zeros@4.0.0
 - pkg:cargo/zeros@5.0.0
