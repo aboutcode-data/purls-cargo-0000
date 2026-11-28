@@ -6,6 +6,8 @@
 - pkg:cargo/ambits@0.16.0
 - pkg:cargo/ambits@0.17.0
 - pkg:cargo/ambits@0.20.0
+- pkg:cargo/ambits@0.25.0
+- pkg:cargo/ambits@0.26.0
 - pkg:cargo/ambits@0.3.0
 - pkg:cargo/ambits@0.4.0
 - pkg:cargo/ambits@0.5.0
