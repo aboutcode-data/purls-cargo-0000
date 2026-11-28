@@ -8,3 +8,4 @@
 - pkg:cargo/metrs_stubs@0.5.3
 - pkg:cargo/metrs_stubs@0.5.5
 - pkg:cargo/metrs_stubs@0.5.8
+- pkg:cargo/metrs_stubs@0.6.0
