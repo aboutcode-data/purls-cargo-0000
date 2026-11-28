@@ -16,6 +16,9 @@
 - pkg:cargo/squarkdown@4.1.3
 - pkg:cargo/squarkdown@4.1.4
 - pkg:cargo/squarkdown@4.1.5
+- pkg:cargo/squarkdown@4.10.0
+- pkg:cargo/squarkdown@4.10.1
+- pkg:cargo/squarkdown@4.10.2
 - pkg:cargo/squarkdown@4.2.0
 - pkg:cargo/squarkdown@4.2.1
 - pkg:cargo/squarkdown@4.2.2
