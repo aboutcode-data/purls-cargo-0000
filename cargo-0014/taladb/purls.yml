@@ -1,1 +1,6 @@
 - pkg:cargo/taladb@0.12.0
+- pkg:cargo/taladb@0.12.1
+- pkg:cargo/taladb@0.13.0
+- pkg:cargo/taladb@0.13.1
+- pkg:cargo/taladb@0.13.2
+- pkg:cargo/taladb@0.13.3

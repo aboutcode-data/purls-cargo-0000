@@ -1,0 +1,4 @@
+- pkg:cargo/talahon-mcp-mysql@2.3.0
+- pkg:cargo/talahon-mcp-mysql@3.0.0
+- pkg:cargo/talahon-mcp-mysql@3.1.0
+- pkg:cargo/talahon-mcp-mysql@3.2.0
