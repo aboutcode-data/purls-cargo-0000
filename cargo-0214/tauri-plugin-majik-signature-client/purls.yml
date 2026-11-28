@@ -6,3 +6,4 @@
 - pkg:cargo/tauri-plugin-majik-signature-client@1.4.0
 - pkg:cargo/tauri-plugin-majik-signature-client@1.5.0
 - pkg:cargo/tauri-plugin-majik-signature-client@1.5.1
+- pkg:cargo/tauri-plugin-majik-signature-client@1.6.0
