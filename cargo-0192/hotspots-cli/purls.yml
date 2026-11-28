@@ -89,3 +89,5 @@
 - pkg:cargo/hotspots-cli@3.8.4
 - pkg:cargo/hotspots-cli@4.0.0
 - pkg:cargo/hotspots-cli@5.0.0
+- pkg:cargo/hotspots-cli@5.0.1
+- pkg:cargo/hotspots-cli@5.0.2
