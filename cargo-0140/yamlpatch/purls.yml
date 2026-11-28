@@ -30,3 +30,5 @@
 - pkg:cargo/yamlpatch@1.32.0
 - pkg:cargo/yamlpatch@1.32.0-rc1
 - pkg:cargo/yamlpatch@1.32.0-rc2
+- pkg:cargo/yamlpatch@1.33.0
+- pkg:cargo/yamlpatch@1.33.1
