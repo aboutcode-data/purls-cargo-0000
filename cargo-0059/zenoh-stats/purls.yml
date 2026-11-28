@@ -1,3 +1,6 @@
+- pkg:cargo/zenoh-stats@1.10.0
+- pkg:cargo/zenoh-stats@1.10.1
+- pkg:cargo/zenoh-stats@1.10.2
 - pkg:cargo/zenoh-stats@1.7.0
 - pkg:cargo/zenoh-stats@1.7.1
 - pkg:cargo/zenoh-stats@1.7.2
