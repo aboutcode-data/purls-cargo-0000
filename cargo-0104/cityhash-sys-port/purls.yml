@@ -1,0 +1,2 @@
+- pkg:cargo/cityhash-sys-port@1.0.6
+- pkg:cargo/cityhash-sys-port@1.0.7-port

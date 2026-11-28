@@ -1,4 +1,6 @@
 - pkg:cargo/cityjson-lib-ffi-core@0.1.0
+- pkg:cargo/cityjson-lib-ffi-core@0.10.0
+- pkg:cargo/cityjson-lib-ffi-core@0.11.0
 - pkg:cargo/cityjson-lib-ffi-core@0.2.0
 - pkg:cargo/cityjson-lib-ffi-core@0.5.1
 - pkg:cargo/cityjson-lib-ffi-core@0.5.3
