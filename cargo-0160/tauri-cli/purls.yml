@@ -147,6 +147,11 @@
 - pkg:cargo/tauri-cli@2.11.5
 - pkg:cargo/tauri-cli@2.12.0
 - pkg:cargo/tauri-cli@2.12.1
+- pkg:cargo/tauri-cli@2.12.2
+- pkg:cargo/tauri-cli@2.12.3
+- pkg:cargo/tauri-cli@2.12.4
+- pkg:cargo/tauri-cli@2.12.5
+- pkg:cargo/tauri-cli@2.12.6
 - pkg:cargo/tauri-cli@2.2.0
 - pkg:cargo/tauri-cli@2.2.1
 - pkg:cargo/tauri-cli@2.2.2
@@ -182,3 +187,5 @@
 - pkg:cargo/tauri-cli@3.0.0-alpha.2
 - pkg:cargo/tauri-cli@3.0.0-alpha.3
 - pkg:cargo/tauri-cli@3.0.0-alpha.4
+- pkg:cargo/tauri-cli@3.0.0-alpha.5
+- pkg:cargo/tauri-cli@3.0.0-alpha.6
