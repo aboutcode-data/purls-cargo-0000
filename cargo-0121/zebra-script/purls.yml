@@ -18,6 +18,15 @@
 - pkg:cargo/zebra-script@1.0.0-beta.43
 - pkg:cargo/zebra-script@1.0.0-beta.45
 - pkg:cargo/zebra-script@1.0.0-beta.46
+- pkg:cargo/zebra-script@10.0.0
+- pkg:cargo/zebra-script@10.1.0
+- pkg:cargo/zebra-script@10.1.1
+- pkg:cargo/zebra-script@10.1.2
+- pkg:cargo/zebra-script@11.0.0
+- pkg:cargo/zebra-script@12.0.0
+- pkg:cargo/zebra-script@13.0.0
+- pkg:cargo/zebra-script@14.0.0
+- pkg:cargo/zebra-script@15.0.0
 - pkg:cargo/zebra-script@2.0.0
 - pkg:cargo/zebra-script@3.0.0
 - pkg:cargo/zebra-script@3.0.1
@@ -27,3 +36,7 @@
 - pkg:cargo/zebra-script@5.0.1
 - pkg:cargo/zebra-script@6.0.0
 - pkg:cargo/zebra-script@6.0.1
+- pkg:cargo/zebra-script@7.0.0
+- pkg:cargo/zebra-script@7.0.1
+- pkg:cargo/zebra-script@8.0.0
+- pkg:cargo/zebra-script@9.0.0
