@@ -24,6 +24,13 @@
 - pkg:cargo/svgrtypes@0.44.2
 - pkg:cargo/svgrtypes@0.45.0
 - pkg:cargo/svgrtypes@0.45.1
+- pkg:cargo/svgrtypes@0.46.0
+- pkg:cargo/svgrtypes@0.46.1
+- pkg:cargo/svgrtypes@0.50.0
+- pkg:cargo/svgrtypes@0.50.0-rc.1
+- pkg:cargo/svgrtypes@0.50.1
+- pkg:cargo/svgrtypes@0.50.2
+- pkg:cargo/svgrtypes@0.50.3
 - pkg:cargo/svgrtypes@0.8.2
 - pkg:cargo/svgrtypes@0.8.3
 - pkg:cargo/svgrtypes@1.1.1
