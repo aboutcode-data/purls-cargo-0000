@@ -8,6 +8,7 @@
 - pkg:cargo/fleetix-sidecar@0.14.0
 - pkg:cargo/fleetix-sidecar@0.15.0
 - pkg:cargo/fleetix-sidecar@0.16.0
+- pkg:cargo/fleetix-sidecar@0.17.0
 - pkg:cargo/fleetix-sidecar@0.6.0
 - pkg:cargo/fleetix-sidecar@0.7.0
 - pkg:cargo/fleetix-sidecar@0.8.0
