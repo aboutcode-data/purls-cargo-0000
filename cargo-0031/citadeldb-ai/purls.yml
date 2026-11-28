@@ -23,3 +23,4 @@
 - pkg:cargo/citadeldb-ai@2.6.0
 - pkg:cargo/citadeldb-ai@2.6.1
 - pkg:cargo/citadeldb-ai@2.7.0
+- pkg:cargo/citadeldb-ai@3.0.0
