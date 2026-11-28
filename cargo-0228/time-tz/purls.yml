@@ -17,3 +17,4 @@
 - pkg:cargo/time-tz@3.0.0-rc.5.0.0
 - pkg:cargo/time-tz@3.0.0-rc.5.1.0
 - pkg:cargo/time-tz@3.0.0-rc.6.0.0
+- pkg:cargo/time-tz@3.0.0-rc.6.0.1
