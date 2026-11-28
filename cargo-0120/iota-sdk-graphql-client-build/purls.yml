@@ -1,1 +1,4 @@
 - pkg:cargo/iota-sdk-graphql-client-build@0.0.1-alpha.1
+- pkg:cargo/iota-sdk-graphql-client-build@1.0.0
+- pkg:cargo/iota-sdk-graphql-client-build@1.0.0-beta.1
+- pkg:cargo/iota-sdk-graphql-client-build@1.0.0-rc.1
