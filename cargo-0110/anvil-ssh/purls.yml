@@ -11,3 +11,4 @@
 - pkg:cargo/anvil-ssh@1.0.0
 - pkg:cargo/anvil-ssh@1.0.1
 - pkg:cargo/anvil-ssh@1.1.0
+- pkg:cargo/anvil-ssh@1.2.0
