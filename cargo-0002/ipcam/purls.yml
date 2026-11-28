@@ -1,6 +1,12 @@
 - pkg:cargo/ipcam@0.0.1
+- pkg:cargo/ipcam@0.0.10
+- pkg:cargo/ipcam@0.0.11
+- pkg:cargo/ipcam@0.0.12
 - pkg:cargo/ipcam@0.0.2
 - pkg:cargo/ipcam@0.0.3
 - pkg:cargo/ipcam@0.0.4
 - pkg:cargo/ipcam@0.0.5
 - pkg:cargo/ipcam@0.0.6
+- pkg:cargo/ipcam@0.0.7
+- pkg:cargo/ipcam@0.0.8
+- pkg:cargo/ipcam@0.0.9
